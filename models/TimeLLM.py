@@ -48,8 +48,8 @@ class Model(nn.Module):
             self.llama_config.output_hidden_states = True
             try:
                 self.llm_model = LlamaModel.from_pretrained(
-                    # "/mnt/alps/modelhub/pretrained_model/LLaMA/7B_hf/",
-                    'huggyllama/llama-7b',
+                    "~/.cache/huggingface/hub/models--huggyllama--llama-7b/snapshots/4782ad278652c7c71b72204d462d6d01eaaf7549/",
+                    # 'huggyllama/llama-7b',
                     trust_remote_code=True,
                     local_files_only=True,
                     config=self.llama_config,
@@ -58,7 +58,7 @@ class Model(nn.Module):
             except EnvironmentError:  # downloads model from HF is not already done
                 print("Local model files not found. Attempting to download...")
                 self.llm_model = LlamaModel.from_pretrained(
-                    # "/mnt/alps/modelhub/pretrained_model/LLaMA/7B_hf/",
+                    # "~/.cache/huggingface/hub/models--huggyllama--llama-7b/",
                     'huggyllama/llama-7b',
                     trust_remote_code=True,
                     local_files_only=False,
@@ -67,8 +67,8 @@ class Model(nn.Module):
                 )
             try:
                 self.tokenizer = LlamaTokenizer.from_pretrained(
-                    # "/mnt/alps/modelhub/pretrained_model/LLaMA/7B_hf/tokenizer.model",
-                    'huggyllama/llama-7b',
+                    "~/.cache/huggingface/hub/models--huggyllama--llama-7b/snapshots/4782ad278652c7c71b72204d462d6d01eaaf7549/tokenizer.model",
+                    # 'huggyllama/llama-7b',
                     trust_remote_code=True,
                     local_files_only=True
                 )
