@@ -13,7 +13,6 @@ import time
 import random
 import numpy as np
 import os
-import csv
 
 os.environ['CURL_CA_BUNDLE'] = ''
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:64"
@@ -100,20 +99,6 @@ parser.add_argument('--llm_layers', type=int, default=6)
 parser.add_argument('--percent', type=int, default=100)
 
 args = parser.parse_args()
-
-# 动态生成日志和结果文件路径
-log_dir = './log'
-results_dir = './results'
-os.makedirs(log_dir, exist_ok=True)
-os.makedirs(results_dir, exist_ok=True)
-log_file_path = os.path.join(log_dir, f'{args.model_comment}.txt')
-csv_file_path = os.path.join(results_dir, f'{args.model_comment}.csv')
-
-# 初始化 CSV 文件
-with open(csv_file_path, 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Epoch', 'Train Loss', 'Vali Loss', 'Test Loss', 'MAE Loss'])  # 写入表头
-
 ddp_kwargs = DistributedDataParallelKwargs(find_unused_parameters=True)
 deepspeed_plugin = DeepSpeedPlugin(hf_ds_config='./ds_config_zero2.json')
 accelerator = Accelerator(kwargs_handlers=[ddp_kwargs], deepspeed_plugin=deepspeed_plugin)
@@ -256,15 +241,9 @@ for ii in range(args.itr):
         train_loss = np.average(train_loss)
         vali_loss, vali_mae_loss = vali(args, accelerator, model, vali_data, vali_loader, criterion, mae_metric)
         test_loss, test_mae_loss = vali(args, accelerator, model, test_data, test_loader, criterion, mae_metric)
-        message = "Epoch: {0} | Train Loss: {1:.7f} Vali Loss: {2:.7f} Test Loss: {3:.7f} MAE Loss: {4:.7f}".format(
-                epoch + 1, train_loss, vali_loss, test_loss, test_mae_loss)
-        accelerator.print(message)
-        with open(log_file_path, 'a') as log_file:
-            log_file.write(message + '\n')
-        
-        with open(csv_file_path, 'a', newline='') as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerow([epoch + 1, train_loss, vali_loss, test_loss, test_mae_loss])
+        accelerator.print(
+            "Epoch: {0} | Train Loss: {1:.7f} Vali Loss: {2:.7f} Test Loss: {3:.7f} MAE Loss: {4:.7f}".format(
+                epoch + 1, train_loss, vali_loss, test_loss, test_mae_loss))
 
         early_stopping(vali_loss, model, path)
         if early_stopping.early_stop:
@@ -287,5 +266,5 @@ for ii in range(args.itr):
 accelerator.wait_for_everyone()
 if accelerator.is_local_main_process:
     path = './checkpoints'  # unique checkpoint saving path
-    # del_files(path)  # delete checkpoint files
-    # accelerator.print('success delete checkpoints')
+    del_files(path)  # delete checkpoint files
+    accelerator.print('success delete checkpoints')
