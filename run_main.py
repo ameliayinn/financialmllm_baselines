@@ -107,7 +107,7 @@ results_dir = './results'
 os.makedirs(log_dir, exist_ok=True)
 os.makedirs(results_dir, exist_ok=True)
 log_file_path = os.path.join(log_dir, f'{args.model_comment}.txt')
-csv_file_path = os.path.join(results_dir, f'{args.model_comment}.csv')
+csv_file_path = os.path.join(results_dir, f'{args.model_comment}_pl{args.pred_len}.csv')
 
 # 初始化 CSV 文件
 with open(csv_file_path, 'w', newline='') as csvfile:
