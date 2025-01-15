@@ -15,7 +15,7 @@ if [ ${#models[@]} -eq 0 ]; then
   exit 1
 fi
 
-download_dir="~/data/data1/pretrained_model/"
+download_dir="/hpc2hdd/home/aliu789/models/"
 
 hf_token="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"
 
@@ -24,7 +24,7 @@ for model in "${models[@]}"; do
   save_path="$download_dir/$model_name"
 
   echo "Downloading $model..."
-  until huggingface-cli download --token $hf_token --local-dir-use-symlinks "False" --resume-download $model --repo-type "model" --local-dir $save_path; do 
+  until huggingface-cli download --token $hf_token --local-dir-use-symlinks "False" --resume-download $model --repo-type "model" --local-dir $save_path --exclude "*.bin"; do 
     echo "Download failed, retrying..."
   done
   echo "$model downloaded and saved."

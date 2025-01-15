@@ -43,13 +43,14 @@ class Model(nn.Module):
         if configs.llm_model == 'LLAMA':
             # self.llama_config = LlamaConfig.from_pretrained('/mnt/alps/modelhub/pretrained_model/LLaMA/7B_hf/')
             # self.llama_config = LlamaConfig.from_pretrained('huggyllama/llama-7b')
-            self.llama_config = LlamaConfig.from_pretrained('/home/bld/data/data1/pretrained_model/llama-7b')
+            # self.llama_config = LlamaConfig.from_pretrained('/home/bld/data/data1/pretrained_model/llama-7b')
+            self.llama_config = LlamaConfig.from_pretrained('/hpc2hdd/home/aliu789/models/llama-7b')
             self.llama_config.num_hidden_layers = configs.llm_layers
             self.llama_config.output_attentions = True
             self.llama_config.output_hidden_states = True
             try:
                 self.llm_model = LlamaModel.from_pretrained(
-                    "/home/bld/data/data1/pretrained_model/llama-7b",
+                    "/hpc2hdd/home/aliu789/models/llama-7b",
                     # 'huggyllama/llama-7b',
                     trust_remote_code=True,
                     local_files_only=True,
@@ -68,7 +69,7 @@ class Model(nn.Module):
                 )
             try:
                 self.tokenizer = LlamaTokenizer.from_pretrained(
-                    "/home/bld/data/data1/pretrained_model/llama-7b",
+                    "/hpc2hdd/home/aliu789/models/llama-7b",
                     # 'huggyllama/llama-7b',
                     trust_remote_code=True,
                     local_files_only=True
