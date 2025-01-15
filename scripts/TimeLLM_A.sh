@@ -1,12 +1,12 @@
 model_name=TimeLLM
 train_epochs=10
-learning_rate=0.1
+learning_rate=0.01
 llama_layers=32
 
 #master_port=00097
 master_port=8080
 num_process=1
-batch_size=24
+batch_size=12
 d_model=16
 d_ff=32
 
@@ -17,13 +17,13 @@ accelerate launch --num_machines 1 --dynamo_backend 'no' --mixed_precision bf16 
   --is_training 1 \
   --root_path dataset/ticker_pricedata_2017/ \
   --data_path A_2017.csv \
-  --model_id A_512_96 \
+  --model_id A_10_2 \
   --model $model_name \
   --data A \
   --features M \
   --target DlyNumTrd \
-  --seq_len 150 \
-  --label_len 16 \
+  --seq_len 10 \
+  --label_len 5 \
   --pred_len 2 \
   --e_layers 2 \
   --d_layers 1 \

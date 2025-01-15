@@ -112,11 +112,84 @@ csv_file_path = os.path.join(results_dir, f'{args.model_comment}_pl{args.pred_le
 # 初始化 CSV 文件
 with open(csv_file_path, 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(['Epoch', 'Train Loss', 'Vali Loss', 'Test Loss', 'MAE Loss'])  # 写入表头
+    writer.writerow(['seq_len', 'label_len', 'pred_len', 'Epoch', 'Train Loss', 'Vali Loss', 'Test Loss', 'MAE Loss', 'SMAPE', 'MASE'])  # 写入表头
 
 ddp_kwargs = DistributedDataParallelKwargs(find_unused_parameters=True)
 deepspeed_plugin = DeepSpeedPlugin(hf_ds_config='./ds_config_zero2.json')
 accelerator = Accelerator(kwargs_handlers=[ddp_kwargs], deepspeed_plugin=deepspeed_plugin)
+
+# SMAPE 计算方法
+def calculate_smape(preds, labels):
+    """
+    Calculate SMAPE (Symmetric Mean Absolute Percentage Error).
+    Args:
+        preds: Predicted values (Tensor of shape [batch_size, pred_len, feature_dim]).
+        labels: Actual values (Tensor of shape [batch_size, seq_len, feature_dim]).
+    Returns:
+        SMAPE value (float).
+    """
+    # Ensure the labels have the same length as preds
+    labels = labels[:, -preds.shape[1]:, :]
+
+    numerator = torch.abs(preds - labels)
+    denominator = (torch.abs(preds) + torch.abs(labels)) / 2
+    smape = torch.mean(numerator / (denominator + 1e-8)) * 100
+    return smape
+
+'''
+def calculate_smape(preds, labels):
+    """Calculate Symmetric Mean Absolute Percentage Error (SMAPE)."""
+    numerator = torch.abs(preds - labels)
+    denominator = (torch.abs(preds) + torch.abs(labels)) / 2
+    smape = torch.mean(numerator / denominator) * 100
+    return smape.item()
+'''
+
+# MASE 计算方法
+def calculate_mase(preds, labels, naive_forecast):
+    """
+    Calculate MASE (Mean Absolute Scaled Error).
+    Args:
+        preds: Predicted values (Tensor of shape [batch_size, pred_len, feature_dim]).
+        labels: Actual values (Tensor of shape [batch_size, seq_len, feature_dim]).
+        naive_forecast: Naive forecast values (Tensor of shape [batch_size, seq_len-1, feature_dim]).
+    Returns:
+        MASE value (float).
+    """
+    labels = labels[:, -preds.shape[1]:, :]
+    naive_forecast = naive_forecast[:, -preds.shape[1]:, :]
+
+    mae_model = torch.mean(torch.abs(preds - labels))
+    mae_naive = torch.mean(torch.abs(labels - naive_forecast))
+
+    mase = mae_model / (mae_naive + 1e-8)
+    return mase
+
+'''
+def calculate_mase(preds, labels, naive_forecast=None):
+    """Calculate Mean Absolute Scaled Error (MASE)."""
+    if naive_forecast is None:
+        naive_forecast = labels[:, -args.label_len:, :]
+
+    # 确保维度匹配
+    preds, labels = preds[:, -naive_forecast.shape[1]:, :], labels[:, -naive_forecast.shape[1]:, :]
+
+    mae_pred = torch.mean(torch.abs(preds - labels))
+    mae_naive = torch.mean(torch.abs(labels - naive_forecast))
+
+    mase = mae_pred / mae_naive
+    return mase.item()
+
+def calculate_mase(preds, labels, naive_forecast):
+    # MAE of forecast
+    mae_forecast = torch.mean(torch.abs(preds - labels))
+
+    # MAE of naive forecast (e.g., previous season's value)
+    mae_naive = torch.mean(torch.abs(labels - naive_forecast))
+
+    mase = mae_forecast / mae_naive
+    return mase.item()
+'''
 
 for ii in range(args.itr):
     # setting record of experiments
@@ -192,6 +265,12 @@ for ii in range(args.itr):
         model.train()
         epoch_time = time.time()
         for i, (batch_x, batch_y, batch_x_mark, batch_y_mark) in tqdm(enumerate(train_loader)):
+            # check
+            if torch.isnan(batch_x).any() or torch.isnan(batch_y).any():
+                print(f"NaN found in batch {i}")
+            if torch.isinf(batch_x).any() or torch.isinf(batch_y).any():
+                print(f"Inf found in batch {i}")
+            
             iter_count += 1
             model_optim.zero_grad()
 
@@ -256,15 +335,32 @@ for ii in range(args.itr):
         train_loss = np.average(train_loss)
         vali_loss, vali_mae_loss = vali(args, accelerator, model, vali_data, vali_loader, criterion, mae_metric)
         test_loss, test_mae_loss = vali(args, accelerator, model, test_data, test_loader, criterion, mae_metric)
+        '''
         message = "Epoch: {0} | Train Loss: {1:.7f} Vali Loss: {2:.7f} Test Loss: {3:.7f} MAE Loss: {4:.7f}".format(
                 epoch + 1, train_loss, vali_loss, test_loss, test_mae_loss)
         accelerator.print(message)
+        '''
+        
+        # 计算 SMAPE 和 MASE
+        with torch.no_grad():
+            for batch_x, batch_y, batch_x_mark, batch_y_mark in vali_loader:
+                batch_x = batch_x.float().to(accelerator.device)
+                batch_y = batch_y.float().to(accelerator.device)
+                outputs = model(batch_x, batch_x_mark, batch_x, batch_y_mark)
+                outputs = outputs[:, -args.pred_len:, :]
+                smape = calculate_smape(outputs, batch_y)
+                mase = calculate_mase(outputs, batch_y, batch_y[:, :-1, :])  # 使用前一时间步作为naive forecast
+
+        # 打印并保存指标
+        message = f"seq_len: {args.seq_len} | label_len: {args.label_len} | pred_len: {args.pred_len} | Epoch: {epoch + 1} | Train Loss: {train_loss:.7f} | Vali Loss: {vali_loss:.7f} | Test Loss: {test_loss:.7f} | Mae Loss: {vali_mae_loss:.7f} | SMAPE: {smape:.7f} | MASE: {mase:.7f}"
+        accelerator.print(message)
+
         with open(log_file_path, 'a') as log_file:
             log_file.write(message + '\n')
-        
+
         with open(csv_file_path, 'a', newline='') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow([epoch + 1, train_loss, vali_loss, test_loss, test_mae_loss])
+            writer.writerow([args.seq_len, args.label_len, args.pred_len, epoch + 1, train_loss, vali_loss, test_loss, vali_mae_loss, smape, mase])
 
         early_stopping(vali_loss, model, path)
         if early_stopping.early_stop:

@@ -54,7 +54,8 @@ class Dataset_Ticker(Dataset):
         cols = list(df_raw.columns)
         cols.remove(self.target)
         cols.remove('YYYYMMDD')
-        df_raw = df_raw[['YYYYMMDD'] + cols + [self.target]]
+        # df_raw = df_raw[['YYYYMMDD'] + cols + [self.target]]
+        df_raw = df_raw[['YYYYMMDD'] + cols]
         num_train = int(len(df_raw) * 0.7)
         num_test = int(len(df_raw) * 0.2)
         num_vali = len(df_raw) - num_train - num_test
