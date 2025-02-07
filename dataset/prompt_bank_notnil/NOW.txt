@@ -1,0 +1,85 @@
+STAMFORD, Conn., Nov. 13, 2020 (GLOBE NEWSWIRE) -- Information Services Group (ISG) ( Nasdaq: III), a leading global technology research and advisory firm, has launched a research study examining providers of enterprise-wide service management solutions that help enterprises manage their suppliers.
+
+The study results will be published in a comprehensive ISG Provider Lens(TM) report, called Enterprise Service Management -- Tools and Services, scheduled to be released in February. The report will cover a range of consulting services and tools for enterprise-wide service management, and evaluate partners of ServiceNow , one of the leading workflow-enabled service management software solutions. The study also will examine providers of managed application services focusing on operational support for enterprise service management applications.
+
+Enterprise buyers will be able to use information from the report to evaluate their current vendor relationships, potential new engagements and available offerings, while ISG advisors use the information to recommend providers to the firm's buy-side clients.
+
+The new report will help enterprise customers understand the complex ESM landscape, said Jan Erik Aase , director and global leader, ISG Provider Lens Research. "Enterprise service management providers help customers improve their service strategies and roll out tools that enhance efficiency, performance and service delivery," he said. "This study will help customers find the provider that's the best match for their ESM needs."
+
+ISG has distributed surveys to more than 190 technology and service providers. Working in collaboration with ISG 's global advisors, the research team will produce seven quadrants representing the services and products the typical enterprise client is buying in the enterprise service management space, based on ISG 's experience working with its clients. The seven quadrants that will be covered are: 
+
+
+   -- ESM Consulting & Transformation Services, addressing providers of 
+      consulting services to change the business. The providers in this 
+      quadrant help enterprises improve their service philosophies and 
+      strategies. They also help customers expand their existing IT services 
+      into enterprise services by extending processes across organizational 
+      boundaries. 
+   -- ESM Implementation and Integration Services, covering providers highly 
+      specialized in integrating ESM tools into customers' existing application 
+      landscape. The services include configuration and implementation, 
+      integration within the customer's system landscape, data migration and 
+      go-live support. 
+   -- ESM Tools Providers, including providers that offer software that 
+      delivers capabilities to create defined services for enterprise-wide use. 
+      While offering customer-specific workflow design capabilities for 
+      different business functions, the tools also ensure data integrity across 
+      different organizations, access control, and provide escalation 
+      procedures and other automated service functions. 
+   -- ESM Managed Services Providers, covering providers that offer managed 
+      services for maintenance and support functions, including monitoring, 
+      remote support, centralized management of ESM applications, data quality 
+      management, data security and compliance. The capability to provide these 
+      services for large enterprise customers, in the context of global reach 
+      and complex application landscapes, is part of the assessment. 
+   -- ServiceNow Consulting Services, addressing providers of consulting 
+      services that help customers prepare for the use of workflow-driven 
+      service management and transform their operations to make the most of 
+      their ServiceNow  investment. Providers must demonstrate the ability to 
+      use reference models and assessments to understand customer maturity and 
+      challenges, as well as a broad understanding of present and future 
+      technical capabilities. 
+   -- ServiceNow  Implementation and Integration Services, covering providers 
+      highly specialized in implementing ServiceNow , including integration with 
+      other software tools and platforms, as well as ongoing maintenance of the 
+      installed solution. 
+   -- ServiceNow  Managed Services Providers, covering the capability of 
+      providers to offer managed services for maintenance and support functions, 
+      including monitoring, remote support and centralized management of the 
+      Now Platform, including the workflows and applications that run on this 
+      platform. Maintenance, data quality management, data security and 
+      compliance are considered when evaluating providers in this quadrant. 
+
+The report will cover the global enterprise service management market and examine products and services available in the U.S., Germany and Brazil. ISG analysts Lutz Peichert, Florian Scheibmayr and Arjun Das will serve as authors.
+
+A list of identified providers and vendors and further details on the study are available in these digital brochures: Enterprise Service Management -- Tools and Services and ServiceNow Ecosystem Partners. Companies not listed as enterprise service management providers can contact ISG and ask to be included in the study.
+
+About ISG Provider Lens(TM) Research
+
+The ISG Provider Lens(TM) Quadrant research series is the only service provider evaluation of its kind to combine empirical, data-driven research and market analysis with the real-world experience and observations of ISG 's global advisory team. Enterprises will find a wealth of detailed data and market analysis to help guide their selection of appropriate sourcing partners, while ISG advisors use the reports to validate their own market knowledge and make recommendations to ISG 's enterprise clients. The research currently covers providers offering their services globally, across Europe and Latin America, as well as in the U.S., Germany, Switzerland, the U.K., France, the Nordics, Brazil and Australia/New Zealand, with additional markets to be added in the future. For more information about ISG Provider Lens research, please visit this webpage.
+
+A companion research series, the ISG Provider Lens Archetype reports, offer a first-of-its-kind evaluation of providers from the perspective of specific buyer types.
+
+Starting this year, each ISG Provider Lens(TM) study will include a Global Summary to help enterprise subscribers better understand provider capabilities across all geographic markets covered by that study. All ISG Provider Lens(TM) reports also will now include an Enterprise Context feature to help executives quickly identify key insights related to their roles and responsibilities.
+
+About ISG
+
+ISG (Information Services Group ) (Nasdaq: III) is a leading global technology research and advisory firm. A trusted business partner to more than 700 clients, including more than 75 of the world's top 100 enterprises, ISG is committed to helping corporations, public sector organizations, and service and technology providers achieve operational excellence and faster growth. The firm specializes in digital transformation services, including automation, cloud and data analytics; sourcing advisory; managed governance and risk services; network carrier services; strategy and operations design; change management; market intelligence and technology research and analysis. Founded in 2006, and based in Stamford, Conn., ISG employs more than 1,300 digital-ready professionals operating in more than 20 countries--a global team known for its innovative thinking, market influence, deep industry and technology expertise, and world-class research and analytical capabilities based on the industry's most comprehensive marketplace data. For more information, visit www.isg-one.com.
+
+# # # 
+
+
+Will Thoretz 
+Information Services Group, Inc. 
++1 203 517 3119 
+Will.Thoretz@isg-one.com 
+ 
+Jim Baptiste 
+Matter Communications  for ISG 
++1 978 518 4527 
+jbaptiste@matternow.com 
+ 
+
+(END) Dow Jones Newswires
+
+November 13, 2020 09:00 ET (14:00 GMT)

@@ -16,15 +16,15 @@ accelerate launch --num_machines 1 --dynamo_backend 'no' --mixed_precision bf16 
   --task_name long_term_forecast \
   --is_training 1 \
   --root_path dataset/ticker_pricedata_2017/ \
-  --data_path A_2017.csv \
-  --model_id A_10_2 \
+  --data_path A.csv \
+  --model_id A_50_10 \
   --model $model_name \
   --data A \
-  --features M \
-  --target DlyNumTrd \
-  --seq_len 10 \
-  --label_len 5 \
-  --pred_len 2 \
+  --features S \
+  --target DlyPrc \
+  --seq_len 50 \
+  --label_len 25 \
+  --pred_len 10 \
   --e_layers 2 \
   --d_layers 1 \
   --factor 3 \

@@ -1,0 +1,49 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: Raytheon Technologies Corp 
+SYMBOL: RTX 
+ 
+FILER: Ortberg Robert Kelly 
+TITLE: Officer and Director 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+11/13/20           Vesting                  17,056       $0.00             N/A 
+11/13/20           Surrender*                6,660      $66.15        $440,559 
+                       NET ACQUIRED         10,396 
+ 
+OWNERSHIP: 119,134 (Direct)  6,391 (Indirect) 
+ 
+  * - Insiders can surrender shares back to the company to pay taxes or cover 
+      the cost of an option exercise or vesting. 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Jimenez Frank R          VP              10/29/20    Buy         1,000           52.57      61,113 
+Kennedy Thomas A         Chmn            10/29/20    Buy        19,059           52.47     362,541 
+Paliwal Dinesh C         Dir             10/29/20    Buy         9,532           52.41      20,288 
+Hayes Gregory J          CEO             10/28/20    Buy        55,000           54.88     270,558 
+Winnefeld James A Jr     Dir             10/28/20    Buy           500           55.20       7,860 
+Winnefeld James A Jr     Dir             07/31/20    Buy           407           56.55       7,360 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+November 17, 2020 17:07 ET (22:07 GMT)

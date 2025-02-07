@@ -1,0 +1,169 @@
+Five Prime Therapeutics, Inc . (NASDAQ: FPRX), a clinical-stage biotechnology company focused on developing immune modulators and precision therapies for solid tumor cancers, today announced results for the third quarter of 2020 in addition to providing an update on the company's recent activities.
+
+"We look forward to achieving three milestones before the end of the year that will inform future development of our pipeline," said Tom Civik , Chief Executive Officer of Five Prime Therapeutics . "Before year end, we expect to report top-line data from the FIGHT Phase 2 trial in front-line gastric cancer. We also expect to have enough FPT155 monotherapy data to inform next steps for the program, and we will present the first data set from our anti-CCR8 program at the upcoming SITC annual meeting. The Five Prime team has done an excellent job advancing our clinical and research programs despite the many challenges we have all confronted this year."
+
+Third Quarter 2020 Milestones
+
+Clinical Pipeline:
+
+Bemarituzumab (anti-FGFR2b) is a first-in-class isoform-selective antibody with enhanced antibody-dependent cell-mediated cytotoxicity (ADCC) being studied in the FIGHT trial as a targeted therapy for front-line FGFR2b+/HER2- gastric and gastroesophageal junction (GEJ) cancer. 
+
+
+   -- The company expects to report top-line data before year end from the 
+      double-blind Phase 2 FIGHT study where all 155 patients receive standard 
+      mFOLFOX6 chemotherapy and are randomized to receive bemarituzumab or 
+      placebo. 
+ 
+   -- The primary endpoint of the Phase 2 FIGHT trial is progression-free 
+      survival (PFS), and a secondary endpoint is overall survival (OS). 
+
+FPT155 (CD80-Fc) is a first-in-class CD80-Fc fusion protein that directly engages CD28 and binds to CTLA-4, promoting CD8 T cell activation in the tumor microenvironment. 
+
+
+   -- Patients with warm/hot tumor types continue to be enrolled at the 560mg 
+      dose in the ongoing Phase 1a/1b trial, with the aim of generating early 
+      clinical data at a potentially active dose to determine next steps for 
+      this program. 
+ 
+   -- The first cohort has been cleared and the second cohort is open for 
+      enrollment in a dose escalation of FPT155 and pembrolizumab in patients 
+      with non-small cell lung cancer. 
+
+FPA157 (anti-CCR8) is a novel antibody directed to CCR8, a promising immuno-oncology target that is expressed by a highly immunosuppressive population of T regulatory cells within tumors. Eliminating CCR8-expressing T regulatory cells is anticipated to reduce immunosuppression in the tumor microenvironment and promote development of anti-tumor responses. 
+
+
+   -- The company's FPA157 late-breaking abstract has been accepted for a 
+      poster presentation at the 2020 Society of Immunotherapy of Cancer (SITC) 
+       Annual Meeting. 
+ 
+   -- The company expects to submit an IND application for this program in the 
+      first half of 2022. 
+
+Summary of Third Quarter 2020 Financial Results and Cash Guidance:
+
+Cash Position: Cash, cash equivalents and marketable securities totaled $112.9 million as of September 30, 2020 compared to $157.9 million as of December 31, 2019. This decrease was primarily attributed to quarterly operating expenses that exceeded quarterly revenues.
+
+Revenue: Collaboration and license revenue for the third quarter of 2020 decreased by $0.9 million, or 31%, to $2.0 million from $2.9 million for the third quarter of 2019. The decrease was primarily the result of a reduction in revenue pursuant to progress achieved toward satisfying performance obligations under the company's November 2014 cabiralizumab collaboration agreement with BMS. The decrease was partially offset by higher collaboration revenue from Zai Lab that resulted from the company's decision to amend the FIGHT trial to a Phase 2 design.
+
+R&D Expenses: Research and development expenses for the third quarter of 2020 decreased by $5.5 million, or 20%, to $21.4 million from $26.9 million for the third quarter of 2019. The decrease was primarily due to lower compensation costs resulting from the October 2019 restructuring, lower clinical trial expense and manufacturing costs, along with lower allocated costs, bioanalytics and central lab costs, and a decrease in costs related to preclinical programs. These reductions were partially offset by an impairment charge on right-of-use assets and other fixed assets related to the sublease of a portion of the company's facility, as well as an increase in companion diagnostics costs related to bemarituzumab.
+
+G&A Expenses: General and administrative expenses for the third quarter of 2020 increased by $0.5 million, or 4%, to $13.7 million from $13.2 million for the third quarter of 2019. The increase was primarily due to an impairment charge taken in the third quarter on the right-of-use asset and other fixed assets related to the sublease of a portion of the company's facility, as well as higher allocated costs that were offset by lower compensation, depreciation, and other miscellaneous general and administrative costs.
+
+Net Loss: Net loss for the third quarter of 2020 was $26.4 million, or $0.74 per basic and diluted share, compared to a net loss of $36.1 million, or $1.03 per basic and diluted share, for the third quarter of 2019.
+
+Shares Outstanding: Total shares outstanding were 35,620,167 as of September 30, 2020.
+
+Cash Guidance: Five Prime expects full-year 2020 net cash used in operating activities to be between $70 and $75 million and has raised guidance to end 2020 with cash, cash equivalents and marketable securities between $100 and $105 million.
+
+Conference Call Information
+
+Five Prime will host a conference call and live audio webcast today at 4:30 p.m. (ET) / 1:30 p.m. (PT) to discuss its financial results and provide a corporate update. To participate in the conference call, please dial (877) 878-2269 (domestic) or (253) 237-1188 (international) and refer to conference ID 7757227. To access the live webcast please visit the "Events & Presentations" page under the "Investors" tab on Five Prime's website at www.fiveprime.com. An archived copy of the webcast will be available on Five Prime's website beginning approximately two hours after the conference call. Five Prime will maintain an archived replay of the webcast on its website for at least 30 days after the conference call.
+
+About Five Prime Therapeutics
+
+Five Prime Therapeutics, Inc . discovers and develops innovative protein therapeutics to improve the lives of patients with serious diseases. Five Prime's product candidates have innovative mechanisms of action and address patient populations in need of better therapies. The company focuses on researching and developing immuno-oncology and targeted cancer therapies paired with companion diagnostics to identify patients who are most likely to benefit from treatment with Five Prime's product candidates. Five Prime has entered into strategic collaborations with leading global pharmaceutical companies and has promising product candidates in clinical and preclinical development. For more information, please visit www.fiveprime.com.
+
+Cautionary Note on Forward-looking Statements
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as "may," "will," "expect," "plan," "anticipate," "estimate," "intend" and similar expressions (as well as other words or expressions referencing future events, conditions or circumstances) are intended to identify forward-looking statements. These forward-looking statements are based on Five Prime's expectations and assumptions as of the date of this press release. Each of these forward-looking statements involves risks and uncertainties. Forward-looking statements contained in this press release include statements regarding (i) the timing of progress and scope of clinical trials for Five Prime's product candidates; (ii) the potential use of Five Prime's product candidates, including in combination with other products, to treat certain patients; (iii) the timing of the presentation of data for Five Prime's product candidates; (iv) the timing of the IND submission for Five Prime's FPA157 program; (v) Five Prime's estimated full-year 2020 net cash used in operating activities; and (vi) Five Prime's estimated cash, cash equivalents and marketable securities at the end of 2020. Actual results may differ materially from these forward-looking statements. Many factors may cause differences between current expectations and actual results, including unexpected safety or efficacy data observed during research, preclinical or clinical studies, changes in expected or existing competition, changes in the regulatory, pricing or reimbursement environment, and unexpected litigation or other disputes. In addition, while the company expects the COVID-19 pandemic to adversely affect its business operations and financial results, the extent of the impact on the company's ability to advance its manufacturing, clinical development and regulatory efforts and business and corporate development and other objectives and the value of and market for its common stock will depend on future developments that are highly uncertain, and the company cannot predict with confidence the ultimate duration of the pandemic, travel restrictions, quarantines, social distancing and business
+
+3 Nov 2020 16:05 ET 
+Press Release: Five Prime Therapeutics  Reports -2-
+
+closure requirements in the U.S. and in other countries and the effectiveness of actions taken globally to contain and treat COVID-19. Other factors that may cause actual results to differ from those expressed or implied in the forward-looking statements in this press release are discussed in Five Prime's filings with the U.S. Securities and Exchange Commission , including the "Risk Factors" contained therein. Except as required by law, Five Prime assumes no obligation to update any forward-looking statements contained herein to reflect any change in expectations, even as new information becomes available.
+
+Source: Five Prime Therapeutics, Inc . 
+
+
+ 
+                      Five Prime Therapeutics, Inc . 
+                       Selected Balance Sheets Data 
+                              (In Thousands) 
+ 
+ 
+Balance Sheet Data:                             September 30,  December 31 
+                                                -------------  ----------- 
+                                                    2020          2019 
+                                                -------------  ----------- 
+Cash, cash equivalents and marketable 
+ securities                                         $ 112,912    $ 157,923 
+Total assets                                          160,381      224,142 
+Total current liabilities (excluding deferred 
+ revenue)                                              21,796       21,728 
+Deferred revenue (in total, including short 
+ term portion)                                          1,251        6,409 
+Total stockholders' equity                             95,231      150,473 
+ 
+ 
+                  Five Prime Therapeutics, Inc . 
+              Consolidated Statements of Operations 
+            ( (In Thousands Except Per Share Amounts) 
+ 
+                      Three Months Ended      Nine Months Ended 
+                        September 30,           September 30, 
+                     --------------------  ----------------------- 
+                       2020       2019       2020         2019 
+                     ---------  ---------  ---------  ------------ 
+License revenue      $     --   $     --   $  5,000   $      -- 
+Collaboration 
+ revenue                2,048      2,984      8,886      11,663 
+                      -------    -------    -------    -------- 
+Total revenues          2,048      2,984     13,886      11,663 
+                      -------    -------    -------    -------- 
+Operating expenses: 
+   Research and 
+    development        21,446     26,948     52,575      88,126 
+   General and 
+    administrative     13,712     13,206     32,198      33,377 
+                      -------    -------    -------    -------- 
+Total operating 
+ expenses              35,158     40,154     84,773     121,503 
+                      -------    -------    -------    -------- 
+Loss from 
+ operations           (33,110)   (37,170)   (70,887)   (109,840) 
+Interest income            59      1,100        783       3,996 
+Other loss, net            (2)         1         (2)         (2) 
+                      -------    -------    -------    -------- 
+Loss before income 
+ tax                  (33,053)   (36,069)   (70,106)   (105,846) 
+Income tax 
+ (provision) 
+ benefit                6,630         --      6,630          -- 
+                      -------    -------    -------    -------- 
+Net loss             $(26,423)  $(36,069)  $(63,476)  $(105,846) 
+                      =======    =======    =======    ======== 
+Basic and diluted 
+ net loss per 
+ common share        $  (0.74)  $  (1.03)  $  (1.79)  $   (3.03) 
+                      =======    =======    =======    ======== 
+Weighted average 
+ shares used to 
+ compute basic and 
+ diluted net loss 
+ per common share      35,521     34,996     35,404      34,901 
+                      =======    =======    =======    ======== 
+ 
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20201103005674/en/  
+
+
+ 
+    CONTACT:    Media and Investor Contact 
+
+Martin Forrest
+
+VP, Investor Relations & Corporate Communications
+
+Five Prime Therapeutics, Inc .
+
+415-365-5625
+
+martin.forrest@fiveprime.com
+
+3 Nov 2020 16:05 ET *Five Prime Therapeutics  3Q Loss/Shr 74c >FPRX
+
+3 Nov 2020 16:14 ET *Five Prime Therapeutics : Top-Line Phase 2 FIGHT Data on Track to Be Announced in 2020 >FPRX
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 03, 2020 16:14 ET (21:14 GMT)

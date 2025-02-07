@@ -1,0 +1,49 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: L3Harris Technologies Inc 
+SYMBOL: LHX 
+ 
+FILER: Mehnert Dana A 
+TITLE: Officer 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+11/16/20           Sale                      2,471     $200.00        $494,200 
+(10b5-1 Plan Indicated)* 
+ 
+OWNERSHIP: 93,677 (Direct) 
+ 
+  * - A 10b5-1 plan enables an insider to establish a program to make trans- 
+      actions according to an advance plan.  Such a program allows an insider 
+      to continue with planned transactions even if he or she comes into 
+      possession of material non-public information. 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Mehnert Dana A           Officer         11/16/20    Sell        2,471 b        200.00      93,677 
+Mikuen Scott T           VP              11/16/20    Sell       28,860 b        200.00      64,803 
+Mikuen Scott T           VP              11/05/20    Sell       20,000 bo       184.65      64,803 
+Corcoran Thomas A        Dir             06/10/20    Sell        1,500          206.17      20,167 
+Kramer Lewis             Dir             05/29/20    Sell        6,000          195.00      13,278 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+November 18, 2020 17:14 ET (22:14 GMT)

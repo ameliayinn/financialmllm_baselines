@@ -1,0 +1,47 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: Masco Corp 
+SYMBOL: MAS 
+ 
+FILER: Parfet Donald R 
+TITLE: Director 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+11/2/20            Sale                      3,783      $54.44        $205,934 
+ 
+OWNERSHIP: 31,494 (Direct)  80 (Indirect) 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+McDowell Scott E         VP              11/02/20    Sell        3,000           54.58      16,309 
+Parfet Donald R          Dir             11/02/20    Sell        3,783           54.44      31,574 
+Allman Keith J           CEO          08/06-08/07/20 Sell      136,633  o        57.39     353,691 
+Cole Kenneth G           VP           08/06-08/07/20 Sell       38,538  o        57.58      59,283 
+Straber Renee            VP              08/05/20    Sell       49,447  o        57.25      28,853 
+O'Reagan Richard A       Officer         08/04/20    Sell       46,247  o        57.08      36,053 
+Lindow John P            VP              06/23/20    Sell        1,246 b         50.00      22,712 
+Lindow John P            VP              06/05/20    Sell        5,674           49.00      23,958 
+Lindow John P            VP              06/03/20    Sell       34,907  o        48.00      29,632 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+November 03, 2020 12:46 ET (17:46 GMT)

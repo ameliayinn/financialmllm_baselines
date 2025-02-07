@@ -1,0 +1,106 @@
+
+SANTA CLARA, Calif.--(BUSINESS WIRE)--June 23, 2015-- 
+
+Arista Networks, Inc. (NYSE: ANET) today announced CloudVision(R) , a network-wide approach for workload orchestration and workflow automation delivering a turnkey solution for cloud networking.
+
+Arista has pioneered the SDN approach in the networking industry with its software defined cloud networking, built on top of Arista EOS with programmable interfaces, publish-subscribe state separation, resilient fault containment and self-healing attributes. CloudVision extends the same architectural approach across the network for state, topology, monitoring and visibility. This enables enterprises to move to cloud-class automation without needing any significant internal development.
+
+"Today more than ever, customers are empowered with software-defined technologies from leaders such as VMware and Arista Networks to gain the agility they need to respond to market opportunities and a rapidly changing business environment," said Hatem Naguib, Vice President, Networking and Security at VMware. "Through interoperability between our portfolio of software-defined data center offerings and the new Arista CloudVision solution, our mutual customers can move forward with confidence to achieve their IT goals of a more automated, secure, and highly available data center that drives business value."
+
+Controller Integration with Key Partners
+
+A fundamental piece of cloud automation is the customers' ability to orchestrate workloads across their physical and virtual infrastructure. CloudVision is the platform for deeper integration with SDN controllers from Arista's ecosystem partner community.
+
+"Microsoft and Arista have a long history of partnering on industry-leading data center solutions, and we are committed to helping customers leverage software defined technologies to be more agile and efficient in today's cloud-first world," said Mike Schutz, General Manager, Cloud Platform, Microsoft. "CloudVision's open and programmable underlay make it an ideal complement to Microsoft Cloud Platform solutions, which will enable us to jointly help even more customers transform their data center for the cloud era."
+
+CloudVision's abstraction of the physical network to this broader, network-wide perspective allows for a more efficient approach for several operational use-cases, including the following highlights: 
+
+
+   -- Centralized representation of distributed network state, allowing for a 
+      single point of integration and network-wide visibility and analytics 
+ 
+   -- Controller agnostic support for physical and virtual workload 
+      orchestration through open APIs such as OVSDB, JSON and OpenStack 
+      plugins. 
+ 
+   -- Turn-key workflow automation for zero touch provisioning, configuration 
+      management and network-wide upgrades and rollback. 
+ 
+   -- Compliance dashboard for security, audit and patch management 
+ 
+   -- Real-time Streaming for telemetry and network analytics, a modern 
+      approach to replace legacy polling per device. 
+ 
+   -- Provides visibility and troubleshooting for underlay and overlay networks 
+
+Availability
+
+Arista CloudVision is available now as a software subscription, expanding Arista's existing software subscription offerings. Pricing starts at $295/device per month.
+
+Register here for a CloudVision Webinar on Thursday, July 16, 10:00 a.m. PDT
+
+CloudVision Supporting Quotes:
+
+Dell
+
+"Dell's enterprise customers are demanding faster, open, cost effective and software-defined data center class solutions," said Jim Ganthier vice president & general manager of Engineered Solutions and Cloud, Dell. "This new development partnership with Arista and our initial software-defined joint solutions deliver the speed, simplicity and TCO required by customers today. Dell's world-class infrastructure offerings and Active System Manager coupled with Arista's CloudVision and Extensible Operating System delivers the future-ready agility our customers require so they can focus on business results both today and tomorrow."
+
+F5
+
+"Arista's CloudVision platform provides network visualization for VMware NSX and our F5 BIG-IP(R) virtual and physical appliances," said Indrajit Roy Vice President of Product Management, F5 Networks. "This will simplify operations and boost IT efficiency by enabling application catalog self-service."
+
+HP
+
+"HP is committed to providing customers open, proven, flexible and efficient integrated solutions that can respond to the demands of today's dynamic data center requirements," said Paul Miller, vice president of marketing, HP Converged Data Center Infrastructure. "The combination of Arista's CloudVision platform aligned with HP Composable API initiative and HP OneView delivers the business agility our joint customers require to quickly adapt to evolving markets and technologies."
+
+Infinera
+
+"Arista's CloudVision and the Infinera Intelligent Transport Network combine to unleash the power of programmable optical networks and enable the next-generation of high-performance, low-latency cloud network infrastructure," said Stu Elby, SVP, Cloud network strategy and technology at Infinera. "Bringing programmable hyper-scale optical transport capacity into a data center automation framework enables operators to accelerate service delivery and optimize resource utilization."
+
+Palo Alto Networks
+
+"Arista's CloudVision delivers essential operational and scalability benefits by extending automation of network and security policies; it enables our joint customers to realize network agility and easily extend next-generation security throughout their software defined infrastructures," said Chad Kinzelberg, Senior Vice President of Business and Corporate Development at Palo Alto Networks.
+
+Rackspace
+
+"At Rackspace, we are building out OpenStack, VMware and Microsoft-based public, private and hybrid cloud solutions for our customers," said John Engates, CTO of Rackspace. "The tools needed to manage these cloud solutions at scale are becoming increasingly important as a result. Arista's EOS CloudVision platform delivers the network scale, devops toolset and visibility required to meet these dynamic cloud solution requirements."
+
+Supermicro
+
+"Supermicro's extensive range of server, storage and total rack solutions enable industry with infrastructure building blocks highly optimized for cloud scale computing," said Wally Liaw, Sr. Vice President of Sales at Supermicro. "Combining our advanced, energy-efficient Green Computing solutions and server management software with Arista's CloudVision platform for cloud class automation, organizations have scalable end-to-end visibility and control over their complete IT infrastructure. Together we are increasing performance and efficiency in the data center to lower overall TCO and future-proof customer investments in hyper-converged infrastructure deployments for SDDC, IaaS and Public/Private Cloud service environments."
+
+About Arista Networks
+
+Arista Networks was founded to deliver software-driven cloud networking solutions for large data center and computing environments. Arista's award-winning 10/40/100 GbE switches redefine scalability, robustness, and price-performance, with over 3,000 customers and more than three million cloud networking ports deployed worldwide. At the core of Arista's platform is EOS, an advanced network operating system. Arista Networks products are available worldwide through distribution partners, systems integrators and resellers.
+
+ARISTA, CloudVision, EOS and Spline are among the registered and unregistered trademarks of Arista Networks, Inc. in jurisdictions around the world. Other company names or product names may be trademarks of their respective owners.
+
+Additional information and resources can be found at: http://www.arista.com.
+
+This press release contains forward-looking statements including, but not limited to, statements regarding the benefits of the features and functionality of CloudVision(R) including the improvement in IT efficiency and resource utilization and the ability to achieve IT goals, simplify operations and respond to market opportunities and a rapidly changing business environment. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Forward looking statements are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in the forward looking statements including: our limited operating history and experience with developing and releasing new products; product, support or service quality problems; rapidly evolving changes in technology, customer requirements and industry standards as well as other risks stated in our filings with the SEC available on Arista's website at www.arista.com and the SEC's website at www.sec.gov. Arista disclaims any obligation to publicly update or revise any forward-looking statement to reflect events that occur or circumstances that exist after the date on which they were made.
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20150623005442/en/ 
+
+
+ 
+    CONTACT:    Arista Networks, Inc. 
+
+Media Contact:
+
+Amanda Jaramillo, 408-547-5798
+
+Corporate Communications
+
+amanda@arista.com
+
+Investor Contact:
+
+Chuck Elliott, 408-547-5549
+
+Product and Investor Advocacy
+
+chuck@arista.com
+
+(END) Dow Jones Newswires
+
+June 23, 2015 05:00 ET (09:00 GMT)

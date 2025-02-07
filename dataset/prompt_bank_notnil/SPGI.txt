@@ -1,0 +1,224 @@
+
+ 
+ 
+The following is a press release from S&P Global Ratings: 
+ 
+HONG KONG (S&P Global Ratings) Nov. 17, 2020--Proposed rule changes on 
+internet lending cited in the recent abrupt suspension of Ant Group Co. Ltd .'s 
+IPO are in line with Chinese regulatory trends, given technological 
+disruptions in finance are insufficiently captured by the existing regulatory 
+framework. S&P Global Ratings expects the Chinese government will continue to 
+update its regulations and guidelines to manage the growth and risks brought 
+by the fast evolving fintech industry. 
+ 
+"The withdrawal of Ant Group's IPO underlines the uncertainties facing fintech 
+companies as Chinese regulators seek to reduce uncontrolled technological 
+disruption in banking and protect consumers from excessive borrowing," said 
+S&P Global Ratings credit analyst Fern Wang. 
+ 
+The China Banking and Insurance Regulatory Commission (CBIRC) and the People's 
+Bank Of China (PBOC ) jointly announced the "Draft Interim Internet 
+Micro-lending Governance Rules" on Nov.2, 2020, to be followed by a one-month 
+consultation period. If implemented, the regulation could severely weaken Ant 
+Group's consumer and small and micro finance business. This segment 
+contributed as much as 39% to its first half 2020 revenue and is the major 
+growth engine of the group. 
+ 
+The rule change would likely slow lending growth for the more than 200 
+licensed internet lenders in China. These online lenders typically offer 
+small, unsecured loans and are not permitted to take deposits. Their licenses 
+were initially granted by local financial bureaus under relatively lax 
+regulations compared with those for banks. The new regulations aim at 
+constraining leverage for such lenders, and preventing excessive consumer 
+borrowing. 
+ 
+The proposed regulations are also designed to create a more level playing 
+field and reduce regulatory arbitrage, in our view. Banks for example, are 
+subject to tight regulatory oversight and are expected to provide a reasonable 
+level of capital contribution to their unsecured consumer lending business. 
+ 
+In comparison Ant Group, for example, does not need much capital commitment to 
+run its consumer lending business. It only retains on its balance sheet 2% of 
+the total outstanding credit balance on loans it originated; 98% of the loans 
+originated were off-loaded to investors via structured finance products or to 
+commercial banks that were keen in expanding their exposures to consumer 
+credits. Some 80% of Ant Group's originated loans are to individual retail 
+customers. The total as the end of the first half of 2020 amounted to about 
+Chinese renminbi 2.1 trillion (US$325 billion). 
+ 
+In contrast to the emphasis on innovation and risk-taking that fintech 
+companies wanted, China's proposed rules on internet financing would constrain 
+cross-provincial lending; limit maximum loan amounts; require a minimum 30% 
+capital contribution to joint borrowing, restrict leverage including use of 
+asset-backed securities instruments; and impose minimal capital requirements 
+on the internet small loans companies. 
+ 
+"While pro-innovation, Chinese regulators' top priority is financial 
+stability," said Ms. Wang. "They have a particularly strong incentive to 
+manage fast-growing consumer lending to lower-income borrowers." 
+ 
+Our analysis shows that China's banking system is more exposed to 
+technological disruption than those of other major countries'. To analyze the 
+impact of fintech on retail banking, S&P Global has developed a four-factor 
+gauge of banking systems sensitivity to technology, regulation, industry, and 
+client preferences (TRIP). Of the 22 markets/countries to which we've applied 
+TRIP analysis, China is the only one assessed as having a very high disruption 
+risk from technology. This is due to the significant inroads made by China's 
+Big Tech firms in fintech through their platform and heavy investment in 
+technologies like Big Data, AI analytics, and loud computing (see "Tech 
+Disruption In Retail Banking: China's Banks Are Playing Catch-Up To Big Tech, 
+published on RatingsDirect on May 14, 2019). 
+ 
+In China, fintech is dominated by large firms such as Alibaba Group Holding 
+Ltd .'s Ant Group and Tencent Holdings Ltd . Such firms have turned China's 
+consumer market into one of the world's most digitalized, as measured for 
+example by the percentage of online sales to total retail spending. These 
+companies are driving disruption in retail banking with e-payments, 
+deposit-like funds, and Big Data-assisted consumer lending. 
+ 
+Since 2017, China implemented a series of regulations to manage disruptions 
+caused by fast-growing fintech activities. New rules were rolled out after a 
+money market fund under Ant Group, Yu'ebao, grew to become the world's 
+largest--raising the specter of liquidity shocks in the event of mass 
+withdrawals. The subsequent regulations on money market funds constrained 
+growth. 
+ 
+Regulators have also implemented a centralized payment clearing system 
+(NetUnion) to prevent settlement risk of payment companies. Third-party 
+payment services such as Alipay and WeChat  Pay now have to deposit 100% of 
+clients' funds with the PBOC , no longer enjoying the advantage of earning 
+interest on those deposits. 
+ 
+In 2017, regulators reined in the unfettered growth in the peer to peer (P2P) 
+consumer fintech industry driving most of these players out of the industry. 
+CBIRC indicated in November 2020 that only a handful P2P internet lenders are 
+left from a peak of over 7,000 just before the new rules took hold. 
+Authorities cited predatory lending as the main impetus for tightening 
+licensing and oversight in the P2P market. 
+ 
+"We expect the Chinese government will further update its regulations and 
+guidelines to manage the growth and risks brought by the fast evolving fintech 
+industry," said S&P Global Ratings credit analyst Ryan Tsang. "The challenge 
+for regulators is to find a fine balance in encouraging innovation and keeping 
+associated risks in check to make sure financial system stability is not 
+jeopardized. We also believe they will seek to reduce opportunities for 
+regulatory arbitrage to level the playing field in terms of regulatory 
+supervision for fintech players and traditional financial services providers. 
+ 
+RELATED RESEARCH 
+     -- Tech Disruption In Retail Banking: China's Banks Are Playing Catch-Up 
+To Big Tech, May 14, 2019 
+     -- The Future Of Banking: Will Retail Banks Trip Over Tech Disruption? 
+May. 14, 2019 
+     -- The Future Of Banking: As China's Internet Firms Grow The Financial 
+Services Pie, Banks Angle For A Larger Slice, Oct. 30, 2018 
+ 
+This report does not constitute a rating action. 
+ 
+S&P Global Ratings, part of S&P Global Inc . (NYSE: SPGI), is the world's 
+leading provider of independent credit risk research. We publish more than a 
+million credit ratings on debt issued by sovereign, municipal, corporate and 
+financial sector entities. With over 1,400 credit analysts in 26 countries, 
+and more than 150 years' experience of assessing credit risk, we offer a 
+unique combination of global coverage and local insight. Our research and 
+opinions about relative credit risk provide market participants with 
+information that helps to support the growth of transparent, liquid debt 
+markets worldwide. 
+ 
+Primary Credit Analyst: Fern Wang, CFA, Hong Kong (852) 2533-3536; 
+                        fern.wang@spglobal.com 
+Secondary Contact: Ryan Tsang, CFA, Hong Kong +  852 2533 3532; 
+                   ryan.tsang@spglobal.com 
+Media Contacts: Michelle Lei , Beijing +  86 10 6569 2961; 
+                michelle.lei@spglobal.com 
+                Ning Ma, Hong Kong (852) 2912-3029; 
+                ning.ma@spglobal.com 
+ 
+ 
+No content (including ratings, credit-related analyses and data, valuations, 
+model, software, or other application or output therefrom) or any part thereof 
+(Content) may be modified, reverse engineered, reproduced, or distributed in 
+any form by any means, or stored in a database or retrieval system, without 
+the prior written permission of Standard & Poor's Financial Services LLC  or 
+its affiliates (collectively, S&P). The Content shall not be used for any 
+unlawful or unauthorized purposes. S&P and any third-party providers, as well 
+as their directors, officers, shareholders, employees, or agents (collectively 
+S&P Parties) do not guarantee the accuracy, completeness, timeliness, or 
+availability of the Content. S&P Parties are not responsible for any errors 
+or omissions (negligent or otherwise), regardless of the cause, for the 
+results obtained from the use of the Content, or for the security or 
+maintenance of any data input by the user. The Content is provided on an "as 
+is" basis. S&P PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, 
+INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS 
+FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR 
+DEFECTS, THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED, OR THAT THE 
+CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event 
+shall S&P Parties be liable to any party for any direct, indirect, incidental, 
+exemplary, compensatory, punitive, special or consequential damages, costs, 
+expenses, legal fees, or losses (including, without limitation, lost income or 
+lost profits and opportunity costs or losses caused by negligence) in 
+connection with any use of the Content even if advised of the possibility of 
+such damages. 
+ 
+Credit-related and other analyses, including ratings, and statements in the 
+Content are statements of opinion as of the date they are expressed and not 
+statements of fact. S&P's opinions, analyses, and rating acknowledgment 
+decisions (described below) are not recommendations to purchase, hold, or sell 
+any securities or to make any investment decisions, and do not address the 
+suitability of any security. S&P assumes no obligation to update the Content 
+following publication in any form or format.  The Content should not be relied 
+
+16 Nov 2020 21:24 ET *S&PGR: China's Ant IPO Suspension A Sign Of Tightening Regs
+
+16 Nov 2020 21:24 ET 
+Press Release: S&PGR: China's Ant IPO Suspension -2-
+
+
+on and is not a substitute for the skill, judgment, and experience of the 
+user, its management, employees, advisors, and/or clients when making 
+investment and other business decisions. S&P does not act as a fiduciary or 
+an investment advisor except where registered as such. While S&P has obtained 
+information from sources it believes to be reliable, S&P does not perform an 
+audit and undertakes no duty of due diligence or independent verification of 
+any information it receives. 
+ 
+To the extent that regulatory authorities allow a rating agency to acknowledge 
+in one jurisdiction a rating issued in another jurisdiction for certain 
+regulatory purposes, S&P reserves the right to assign, withdraw, or suspend 
+such acknowledgement at any time and in its sole discretion. S&P Parties 
+disclaim any duty whatsoever arising out of the assignment, withdrawal, or 
+suspension of an acknowledgment as well as any liability for any damage 
+alleged to have been suffered on account thereof. 
+ 
+S&P keeps certain activities of its business units separate from each other in 
+order to preserve the independence and objectivity of their respective 
+activities. As a result, certain business units of S&P may have information 
+that is not available to other S&P business units. S&P has established 
+policies and procedures to maintain the confidentiality of certain nonpublic 
+information received in connection with each analytical process. 
+ 
+S&P may receive compensation for its ratings and certain analyses, normally 
+from issuers or underwriters of securities or from obligors. S&P reserves the 
+right to disseminate its opinions and analyses. S&P's public ratings and 
+analyses are made available on its Web sites, www.standardandpoors.com (free 
+of charge), and www.ratingsdirect.com and www.globalcreditportal.com 
+(subscription), and may be distributed through other means, including via S&P 
+publications and third-party redistributors. Additional information about our 
+ratings fees is available at www.standardandpoors.com/usratingsfees. 
+ 
+Any Passwords/user IDs issued by S&P to users are single user-dedicated and 
+may ONLY be used by the individual to whom they have been assigned. 
+No sharing of passwords/user IDs and no simultaneous access via the same 
+password/user ID is permitted. To reprint, translate, or use the data or 
+information other than as provided herein, contact Client Services, 
+55 Water Street, New York, NY 10041; (1) 212-438-7280 or by e-mail to: 
+research_request@spglobal.com. 
+ 
+Copyright (c) 2020 by Standard & Poor's Financial Services LLC . 
+All rights reserved. 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+November 16, 2020 21:24 ET (02:24 GMT)

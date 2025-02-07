@@ -1,0 +1,247 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Thursday and early Friday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+ACCESS NATIONAL CORP (ANCX) 
+ Friedman Martin S (D)      6/9/15-6/10/15       13,785   $22.01      51,536 
+ 
+ADOBE SYSTEMS INC (ADBE) 
+ Lewnes Ann (VP)               6/10/15            4,000   $78.18      45,983 
+ 
+ALBANY MOLECULAR RESEARCH (AMRI) 
+ D'Ambra Constance M (SH)      6/10/15           20,000   $19.77   2,790,818 
+ D'Ambra Thomas E (CB)         6/10/15           20,000   $19.77   2,561,019 
+ 
+AUTONATION INC (AN) 
+ Lampert Edward S (SH)      6/9/15-6/11/15      687,972   $64.22  20,107,089 
+ 
+AVALANCHE BIOTECHNOLOGIES INC (AAVL) 
+ Blumenkranz Mark S (CB)    6/9/15-6/10/15       23,100   $35.86     556,482 
+ Chalberg Thomas W Jr (CEO     6/10/15           25,000   $38.05   1,099,401 
+ 
+BLUEBIRD BIO INC (BLUE) 
+ Cole Jason F (VP)              6/9/15            2,000  $186.09           0 
+ 
+CALLIDUS SOFTWARE INC (CALD) 
+ Stretch Leslie (CEO)       6/9/15-6/10/15       31,810   $14.81     508,593 
+ 
+CANCER GENETICS INC (CGIX) 
+ Chaganti Raju S K (D)      6/9/15-6/11/15       46,454   $12.03     137,523 
+ 
+CATALENT INC (CTLT) 
+ Blackstone Managemen (SH)     6/11/15        1,844,963   $28.13  25,886,244 
+ 
+CHEMOCENTRYX INC (CCXI) 
+ Bvf Partners LP (SH)       6/9/15-6/10/15      955,700    $9.00   6,208,872 
+ 
+COMMERCE BANCSHARES INC (CBSH) 
+ Kemper Jonathan M (OD)         6/5/15           25,000   $45.70   1,939,573 
+ 
+CONSOLIDATED TOMOKA LAND CO (CTO) 
+ Albright John P (CEO)         6/10/15            4,632   $56.20     244,630 
+ 
+CONTINENTAL RESOURCES INC (CLR) 
+ Mccain Ellis L (D)             6/9/15            6,666   $46.51      32,778 
+ 
+COOPER COMPANIES INC (COO) 
+ Matz Gregory W (CFO)          6/11/15           10,000  $175.93      12,975 
+ 
+DAILY JOURNAL CORP/SC (DJCO) 
+ Guerin John Patrick (OD)  5/27/15-6/10/15        1,905  $206.00     200,000 
+ 
+DEMANDWARE INC (DWRE) 
+ Barnett Jeffrey G (COO)       6/10/15            8,875   $68.00      56,860 
+ 
+DEXCOM INC (DXCM) 
+ Balo Andrew Kenneth (VP)       6/9/15            7,500   $70.62      82,241 
+ 
+ELLIE MAE INC (ELLI) 
+ Anderman Sigmund (CB)         6/10/15            7,500   $65.82     559,212 
+ 
+FLEXTRONICS INTERNATIONAL LTD (FLEX) 
+ Barbier Francois (O)           6/9/15           83,850   $12.00      99,745 
+ Humphries Paul (O)             6/9/15           58,050   $12.00     109,388 
+ Mcnamara Michael M (CEO)       6/9/15          258,000   $12.00     963,114 
+ 
+GRAHAM HOLDINGS COMPANY (GHC) CL B 
+ Graham Donald Edward (CB)  6/9/15-6/10/15       12,100 1,070.12      64,969 
+ 
+HAEMONETICS CORPORATION (HAE) 
+ Hanlon Susan M (VP)           6/10/15            6,000   $43.00      19,104 
+ 
+HERITAGE INSURANCE HOLDINGS INC (HRTG) 
+ Lucas Bruce (CB)           6/9/15-6/10/15       98,695   $22.09   1,032,810 
+ 
+HOMESTREET INC (HMST) 
+ Greenwald Susan C (VP)        6/10/15           13,000   $24.14      17,638 
+ 
+ICU MEDICAL INC (ICUI) 
+ Lopez George A (D)            6/11/15           16,601   $96.11   1,387,559 
+ 
+ILLUMINA INC (ILMN) 
+ Epstein Robert S (D)          6/10/15            2,000  $214.24       9,460 
+ Henry Christian O (VP)        6/10/15           10,000  $214.94      35,557 
+ Walt David R (OD)              6/9/15           12,000  $213.51     789,297 
+ 
+IXIA (XXIA) 
+ Buckly Ronald W (VP)       6/9/15-6/11/15       42,645   $12.79     543,095 
+ 
+JAZZ PHARMACEUTICALS PLC (JAZZ) 
+ Cozadd Bruce C (CB)            6/9/15            5,000  $173.16     547,224 
+ Hooper Suzanne Sawoc (VP)      6/9/15            4,000  $173.16      46,420 
+ 
+JIVE SOFTWARE INC (JIVE) 
+ Zingale Anthony (CB)       6/9/15-6/10/15       83,589    $5.74   1,548,797 
+ 
+JOHNSON CONTROLS INC (JCI) 
+ Metcalf-Kupres Kimbe (VP)     6/11/15           11,700   $53.43      23,400 
+ 
+KANSAS CITY SOUTHERN (KSU) 
+ Naatz Michael J (VP)          6/10/15            3,380   $93.06       6,703 
+ 
+LENDINGCLUB CORP (LC) 
+ Lynn Rebecca (D)               6/9/15          450,000   $16.91  28,041,504 
+ 
+LIGAND PHARMACEUTICALS INC (LGND) CL B 
+ Herman Melanie J (CFO)        6/10/15            4,125   $93.50       2,986 
+ Higgins John L (CEO)           6/9/15           10,000   $92.88     126,044 
+ 
+LIVE NATION ENTERTAINMENT INC (LYV) 
+ Kahan James S (D)             6/11/15           25,000   $29.00      60,905 
+ 
+MARINEMAX INC (HZO) 
+ Cashman Charles A (VP)        6/10/15           10,000   $25.02       7,889 
+ 
+MARKETO INC (MKTO) 
+ Fernandez Phillip M (CB)  6/10/15-6/11/15       12,000   $29.23     453,704 
+ 
+MAXIM INTEGRATED PRODUCTS (MXIM) 
+ Sangalli Walter (VP)          6/10/15           11,818   $34.20      91,243 
+ 
+MICRON TECHNOLOGY INC (MU) 
+ Deboer Scott J (VP)            6/9/15           39,087   $25.01     148,141 
+ 
+MICROSEMI CORP (MSCC) 
+ Peterson James J (CB)      6/9/15-6/10/15       17,776   $35.41     248,329 
+ 
+NATIONAL GENERAL HOLDINGS CORP (NGHC) 
+ Storms Byron W (O)            6/11/15           16,500   $19.03         100 
+ 
+NETFLIX INC (NFLX) 
+ Kilgore Leslie J (D)       6/9/15-6/10/15        3,832  $645.91       6,028 
+ Peters Gregory K (O)          6/10/15            2,092  $664.13       1,870 
+ 
+NIMBLE STORAGE INC (NMBL) 
+ Mehta Varun (OD)           6/9/15-6/10/15      423,078   $29.00   6,980,531 
+ 
+NORTHERN TRUST CORP (NTRS) 
+ St Clair Joyce M (VP)         6/10/15            5,838   $77.00      42,368 
+ Waddell Frederick H (CB)  6/10/15-6/11/15       35,105   $77.53     439,456 
+ 
+OCULAR THERAPEUTIX INC (OCUL) 
+ Svlsf IV LLC (SH)             6/10/15          373,000   $22.00   2,212,607 
+ Versant Venture Capi (SH)     6/10/15          427,000   $22.00   2,535,384 
+ 
+PACWEST BANCORP (PACW) 
+ Blake Christopher D (VP)      6/11/15           15,000   $47.18      58,225 
+ 
+PARSLEY ENERGY INC (PE) CL A 
+ Hinson Mike (VP)               6/9/15           21,667   $18.56   1,172,729 
+ Sheffield Bryan (CB)          6/10/15           43,333   $18.80  14,459,386 
+ Treadwell Paul (VP)           6/10/15           17,499   $18.96     738,407 
+ 
+PHIBRO ANIMAL HEALTH CORP (PAHC) CL A 
+ Bendheim Jack C (CB)       6/9/15-6/11/15       12,000   $32.38      54,000 
+ Bfi Co LLC (SH)            6/9/15-6/11/15       12,000   $32.38      54,000 
+ 
+PIONEER NATURAL RESOURCES CO (PXD) 
+ Kleinman Mark H (VP)          6/10/15            2,747  $150.34      15,086 
+ 
+RAPTOR PHARMACEUTICALS CORP (RPTP) 
+ Bruhn Suzanne Louise (D)      6/10/15           30,000   $13.45       1,674 
+ 
+REALPAGE INC (RP) 
+ Seren Capital Ltd (SH)     6/9/15-6/10/15       50,000   $19.03  19,965,246 
+ Winn Stephen T (CB)        6/9/15-6/10/15      100,000   $19.03  25,805,618 
+ 
+RESTORATION HARDWARE HOLDINGS INC (RH) 
+ Dunaj Kenneth J (COO)      6/9/15-6/10/15       30,000   $94.67           0 
+ 
+RINGCENTRAL INC (RNG) CL A 
+ Khosla Vinod (SH)          6/9/15-6/11/15      201,567   $17.93   1,892,562 
+ Shah Praful (VP)           6/9/15-6/10/15       31,000   $17.97     467,416 
+ Shmunis Vladimir (CB)         6/10/15           50,000   $18.00     296,634 
+ 
+RSP PERMIAN INC (RSPP) 
+ Daugbjerg Erik B (VP)          6/9/15           25,000   $28.59     245,603 
+ 
+SNAP-ON INC (SNA) 
+ Johnsen Constance (VP)        6/10/15            2,500  $157.96       1,937 
+ 
+SPLUNK INC (SPLK) 
+ Conte David F (CFO)            6/9/15           21,000   $67.44     130,939 
+ Schroeder Guido (VP)          6/10/15           10,000   $69.12     111,622 
+ 
+ 
+
+12 Jun 2015 08:44 ET 
+Substantial Insider Sales: Morning Report -2-
+
+
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+STATE STREET CORP (STT) 
+ Quirk Alison A (VP)           6/10/15            5,332   $80.00     101,782 
+ 
+TELETECH HOLDINGS INC (TTEC) 
+ Deghetto Martin F (COO)       6/10/15           10,000   $26.00     102,437 
+ 
+TORO CO (TTC) 
+ Brown William E Jr (O)        6/10/15            5,600   $69.44     108,249 
+ Dordell Timothy P (VP)        6/10/15            6,200   $69.73         433 
+ 
+TWITTER INC (TWTR) 
+ Williams Evan Clark (D)    6/9/15-6/10/15      372,000   $35.91  48,048,501 
+ 
+UNITED THERAPEUTICS CORP (UTHR) 
+ Rothblatt Martine A (CB)      6/11/15            9,662  $183.76     625,437 
+ 
+VIACOM INC (VIA) CL B 
+ Redstone Sumner M (CB)         6/9/15           65,560   $66.59           0 
+ 
+WESTERN GAS EQUITY PARTNERS LP (WGP) 
+ Anadarko Petroleum C (SH)     6/10/15        2,300,000   $56.45 191,087,365 
+ 
+ZIOPHARM ONCOLOGY INC (ZIOP) 
+ Lebel Francois (VP)            6/9/15           50,000   $10.12           0 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+June 12, 2015 08:44 ET (12:44 GMT)

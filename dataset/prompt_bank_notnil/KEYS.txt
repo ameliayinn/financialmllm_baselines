@@ -1,0 +1,71 @@
+
+CALABASAS, Calif.--(BUSINESS WIRE)--November 14, 2017-- 
+
+Ixia , a Keysight Business and leading provider of network test, visibility, and security solutions, today announced TradeVision, the first market data monitoring platform to deliver a unique combination of market feed health monitoring and advanced network visibility with preprogrammed support for hundreds of trading venues. TradeVision directly supports companies that assimilate real-time direct exchange market data including stock exchanges, investment banks, market data consolidators, and quantitative trading companies.
+
+Rapid detection of degradation in data feed quality is a considerable issue for market participants who use or transport real-time market feeds. The need for high accuracy gap detection and robust feed channel health continues to increase as capital market networks intensify in speed and complexity.
+
+TradeVision is a new platform that combines market feed data technology from Ixia 's TradeView products with the company's turnkey Vision ONE network packet broker to deliver gap detection, feed and channel health and statistics, high-precision timestamping, microburst detection, as well as tap aggregation and filtering from a single, easy to manage platform. Leveraging the Vision ONE platform allows multiple Ixia Vision network packet brokers to be managed from a single pane of glass to support large scale deployments.
+
+"Trading volumes keep growing around the world, forcing IT teams to continually expand their data capacity. When it comes to market data, every single packet counts," stated Scott Register, Vice President of Product Management at Ixia. "TradeVision enables IT teams to consolidate their market feed monitoring infrastructure with network visibility management, consequently simplifying their network design while lowering costs."
+
+TradeVision is a two-in-one platform that serves as a market feed health monitoring and advanced network visibility solution, offering a wide range of customer benefits, including: 
+
+
+   -- Consolidation of market feed health monitoring and aggregation, filtering, 
+      and network visibility simplifies network design and lowers cost 
+ 
+   -- Native 40G port capacity allows easy migration to higher network speeds 
+      without the need to re-cable 
+ 
+   -- Broad support for third-party analysis tools with advanced features such 
+      as microsecond packet time stamping, helping to ensure that third-party 
+      trade analytics tools are highly aligned 
+ 
+   -- Channel feed health data which can dramatically reduce fault isolation 
+      and fix times from hours to minutes 
+ 
+   -- Simple set-up and configuration with pre-programmed exchange feeds 
+ 
+   -- Proactive planning features to help prevent market feed data outages due 
+      to lack of capacity 
+ 
+   -- Rapid detection of network congestion issues and automatic alerts 
+
+Cary Wright, Vice President of Product Management at Endace, stated, "By combining TradeVision's powerful detection with the accurate trade data recording and playback of EndaceProbe Network recorders, operators have a uniquely powerful solution for monitoring market feeds and responding to issues before they impact business."
+
+About Ixia
+
+Ixia , a Keysight Business (NYSE:KEYS), provides testing, visibility, and security solutions to strengthen networks and cloud environments for enterprises, service providers, and network equipment manufacturers. Ixia offers organizations trusted environments in which to develop, deploy, and operate. Customers worldwide rely on Ixia to verify their designs, optimize their performance, and ensure protection of their networks and cloud environments. Learn more at www.ixiacom.com.
+
+About Keysight Technologies
+
+Keysight Technologies, Inc . (NYSE:KEYS) is a leading technology company that helps its engineering, enterprise and service provider customers optimize networks and bring electronic products to market faster and at a lower cost. Keysight's solutions go where the electronic signal goes, from design simulation, to prototype validation, to manufacturing test, to optimization in networks and cloud environments. Customers span the worldwide communications ecosystem, aerospace and defense, automotive, energy, semiconductor and general electronics end markets. Keysight generated revenues of $2.9B in fiscal year 2016. In April 2017, Keysight acquired Ixia , a leader in network test, visibility, and security. More information is available at www.keysight.com.
+
+Connect with Ixia :
+
+LinkedIn
+
+Twitter
+
+YouTube
+
+Ixia Blog
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20171114005689/en/  
+
+
+ 
+    CONTACT:    Ixia Media Contact: 
+
+Denise Idone , Director of Corporate Communications
+
+Office: (631) 849-3500
+
+Phone: (516) 659-7049
+
+Email: didone@ixiacom.com
+
+(END) Dow Jones Newswires
+
+November 14, 2017 09:00 ET (14:00 GMT)

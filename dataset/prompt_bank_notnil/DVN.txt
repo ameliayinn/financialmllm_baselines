@@ -1,0 +1,143 @@
+Fitch Ratings-Chicago-11 June 2015: Fitch Ratings expects to rate Devon Energy Corporation's (NYSE: DVN; Devon) proposed senior unsecured notes issuance 'BBB+'. The company intends to use the net proceeds to repay the outstanding $500 million floating-rate notes due December 2015 with any remaining proceeds for general corporate purposes. The proposed issuance addresses Devon's near-term maturity and helps to support its liquidity profile.
+
+KEY RATING DRIVERS
+
+Devon's ratings reflect its large North American onshore reserve and production base, increasing exposure to liquids, and credit conscious financial policy. Offsetting factors include the company's execution risk associated with the development of its U.S. onshore reserve base and possibility that management accelerates drilling activity ahead of supportive pricing signals. Fitch recognizes, however, that Devon reported favorable first-quarter E&P cost improvement, production, and capex (reduced guidance an additional $250 million) results that help alleviate Fitch's near-term operating and cost concerns.
+
+The company reported year-end 2014 net proved reserves of nearly 2.8 billion barrels of oil equivalent (boe) and production of 674 thousand boe per day (mboepd; 53% liquids). This results in a year-end reserve life of over 11 years. First-quarter 2015 (1Q15) production was 685 mboepd (60% liquids) with full-year production guidance flat-to-down (649-684 mboepd; about 60% liquids). The Fitch-calculated three-year all-in reserve replacement rate was about 120% with an associated finding, development, and acquisition (FD&A) cost of approximately $28.93/boe. Fitch-calculated unhedged cash netbacks ($20.68/boe in 2014) have generally exhibited positive trends over the past several years mainly due to increased liquids production. However, materially lower realized prices during 1Q15 have had a considerable negative impact resulting in Fitch-calculated unhedged cash netbacks of approximately $5.58/boe. Notably, the company's solid hedge position provides about $10.68/boe of netback uplift (Fitch-calculated hedged cash netback of $16.28/boe).
+
+Consolidated debt/EBITDA metrics strengthened year-over-year to 1.6x at year-end 2014 from over 2.0x at year-end 2013 as the result of a combination of increased liquids production and lower debt levels. Latest 12-month (LTM) metrics, however, demonstrate the early effects of lower price realizations with consolidated debt/LTM EBITDA of nearly 1.8x. The Fitch-calculated debt/1p reserves and debt/flowing barrel have remained relatively steady quarter-over-quarter and were approximately $4.25/boe, and $17,150, respectively, as of March 31, 2015.
+
+HEIGHTENED RETURNS, FREE CASH FLOW FOCUS IN DOWNCYCLE
+
+Devon, consistent with other North American independent E&P peers, is focused on optimizing returns and aligning capital spending with cash flows via cost reductions, capital efficiency, and production improvements. The company has budgeted about $4 billion (revised guidance mid-point), a roughly 25% year-over-year reduction, in E&P capital spending. However, management expects total production to remain relatively stable, while oil production is anticipated to grow 25%-35% (revised up from 20%-25% initially) benefiting from strong Eagle Ford well results and the continued ramp-up of the Jackfish 3 facility.
+
+ADEQUATE LIQUIDITY POSITION; ENLINK PROVIDES ADDED FLEXIBILITY
+
+Fitch estimates pro forma cash & equivalents, excluding EnLink, to be around $1.9 billion as of March 31, 2015. This considers post-first quarter proceeds from the Victoria Express Pipeline dropdown and exercised underwriters' option to purchase additional EnLink partnership units. Additional liquidity is provided by the company's $3 billion syndicated, senior unsecured credit facility principally due October 2019 and commercial paper (CP) program sized to the credit facility. The outstanding CP balance was $948 million at quarter-end, but the company's filings noted that some of the proceeds from the EnLink transactions were used to pay down CP balances.
+
+The main financial covenant, as defined under the credit agreement, is a maximum debt-to-capital ratio of 65% (21.6% as of March 31, 2015). Other customary covenants consist of additional lien limitations, transaction restrictions, and change in control provisions. Maturities on outstanding debt over the next five years are considered to be manageable.
+
+KEY ASSUMPTIONS
+
+Fitch's key assumptions within the rating case for the issuer include:
+
+--WTI oil price that trends up from $50/barrel in 2015 to $60/barrel in 2016 and a long-term price of $70/barrel;
+
+--Henry Hub gas that trends up from $3/mcf in 2015 to $3.25/mcf in 2016 and a long-term price of $3.75/mcf;
+
+--Production generally consistent with guidance in 2015 followed by modestly higher growth in the production profile thereafter given supportive pricing signals;
+
+--Liquids mix generally consistent with guidance followed by a continued focus on liquids thereafter;
+
+--Standalone capital spending is forecast to be $4 billion in 2015, consistent with guidance. Fitch assumes management continues to manage capex until market prices are supportive of longer term production growth and a material cash flow outspend.
+
+RATING SENSITIVITIES
+
+Positive: Future developments that may, individually or collectively, lead to a positive rating action include:
+
+--E&P debt/PD below $4.50 and debt/production below $12,000 boe/d on a sustained basis;
+
+--Consistent strong reserve replacement with competitive finding and development costs;
+
+--Demonstrating positive or neutral free cash flow (FCF) after capex and dividends on a sustained basis.
+
+Negative: Future developments that may, individually or collectively, lead to a negative rating action include:
+
+--Leveraging acquisition;
+
+--Material and sustained negative FCF that results in higher leverage;
+
+--Levered share repurchases or major dividend increases;
+
+--Material disappointments in reserve replacement or production levels.
+
+FULL LIST OF RATINGS
+
+Fitch's ratings for Devon are as follows:
+
+Devon Energy Corporation
+
+--Long-term IDR 'BBB+';
+
+--Senior unsecured notes 'BBB+';
+
+--Senior unsecured credit facility 'BBB+';
+
+--Short-term IDR at 'F2';
+
+--Commercial paper at 'F2'.
+
+Devon Financing Corporation U.L.C.
+
+--Senior unsecured notes to 'BBB+'.
+
+Ocean Energy
+
+--Long-term IDR 'BBB';
+
+--Senior unsecured notes 'BBB'.
+
+The Rating Outlook is Stable.
+
+Contact:
+
+Primary Analyst
+
+Dino Kritikos
+
+Director
+
++1-312-368-3150
+
+Fitch Ratings, Inc.
+
+70 W. Madison Street
+
+Chicago, IL 60602
+
+Secondary Analyst
+
+Mark C. Sadeghian, CFA
+
+Senior Director
+
++1-312-368-2090
+
+Committee Chairperson
+
+Michael Simonton
+
+Managing Director
+
++1-312-368-3138
+
+Date of Relevant Rating Committee: 22 October 2015
+
+Media Relations: Alyssa Castelli, New York, Tel: +1 (212) 908 0540, Email: alyssa.castelli@fitchratings.com.
+
+Additional information is available at 'www.fitchratings.com'.
+
+Applicable Criteria
+
+Corporate Rating Methodology - Including Short-Term Ratings and Parent and Subsidiary Linkage (pub. 28 May 2014)
+
+https://www.fitchratings.com/creditdesk/reports/report_frame.cfm?rpt_id=749393
+
+Additional Disclosures
+
+Solicitation Status
+
+https://www.fitchratings.com/gws/en/disclosure/solicitation?pr_id=986217
+
+<a href="https://www.fitchratings.com/jsp/creditdesk/PolicyRegulation.faces?context=2&detail=31">Endorsement Policy</a><br></br>
+
+ALL FITCH CREDIT RATINGS ARE SUBJECT TO CERTAIN LIMITATIONS AND DISCLAIMERS. PLEASE READ THESE LIMITATIONS AND DISCLAIMERS BY FOLLOWING THIS LINK: HTTP://FITCHRATINGS.COM/UNDERSTANDINGCREDITRATINGS. IN ADDITION, RATING DEFINITIONS AND THE TERMS OF USE OF SUCH RATINGS ARE AVAILABLE ON THE AGENCY'S PUBLIC WEBSITE 'WWW.FITCHRATINGS.COM'. PUBLISHED RATINGS, CRITERIA AND METHODOLOGIES ARE AVAILABLE FROM THIS SITE AT ALL TIMES. FITCH'S CODE OF CONDUCT, CONFIDENTIALITY, CONFLICTS OF INTEREST, AFFILIATE FIREWALL, COMPLIANCE AND OTHER RELEVANT POLICIES AND PROCEDURES ARE ALSO AVAILABLE FROM THE 'CODE OF CONDUCT' SECTION OF THIS SITE. FITCH MAY HAVE PROVIDED ANOTHER PERMISSIBLE SERVICE TO THE RATED ENTITY OR ITS RELATED THIRD PARTIES. DETAILS OF THIS SERVICE FOR RATINGS FOR WHICH THE LEAD ANALYST IS BASED IN AN EU-REGISTERED ENTITY CAN BE FOUND ON THE ENTITY SUMMARY PAGE FOR THIS ISSUER ON THE FITCH WEBSITE. 
+
+
+   
+ 
+
+(END) Dow Jones Newswires
+
+June 11, 2015 10:28 ET (14:28 GMT)

@@ -15,7 +15,7 @@ if [ ${#models[@]} -eq 0 ]; then
   exit 1
 fi
 
-download_dir="/hpc2hdd/home/aliu789/models/"
+download_dir="/hpc2hdd/home/jliu043/models/"
 
 hf_token="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"
 

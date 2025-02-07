@@ -1,0 +1,952 @@
+
+Company                           Symbol      Quarter       Mean     Report Time 
+Albemarle Corp.                   (ALB)          3Q          .55        AMC 
+Alberto-Culver Co.                (ACV)          4Q          .32 
+America Movil S.A.B. de C.V.      (AMOV)         3Q          .86         AMC 
+America Movil S.A.B. de C.V.      (AMX)          3Q          .86         AMC 
+American Dental Partners Inc.     (ADPI)         3Q          .17 
+Arch Capital Grp Ltd.             (ACGL)         3Q         2.32         AMC 
+Arris Grp Inc.                    (ARRS)         3Q          .24         AMC 
+Atlas Air Worldwide Hldgs         (AAWW)         3Q          .59         BMO 
+Baidu Inc.                        (BIDU)         3Q         1.87         AMC 
+Bank of Hawaii Corp.              (BOH)          3Q          .68 
+Barrett Business Svcs Inc.        (BBSI)         3Q          .18         AMC 
+Boardwalk Pipeline Partners L.P.  (BWP)          3Q          .19 
+Cabot Oil & Gas Corp.             (COG)          3Q          .36 
+Ceragon Networks Ltd.             (CRNT)         3Q          .03         BMO 
+CF Indus Hldgs Inc.               (CF)           3Q         1.09         AMC 
+Changyou.com Ltd.                 (CYOU)         3Q          .72         BMO 
+Chemical Fincl Corp.              (CHFC)         3Q          .12 
+Corning Inc.                      (GLW)          3Q          .38         BMO 
+Covenant Transportation Grp Inc.  (CVTI)         3Q         (.09)        AMC 
+Crane Co.                         (CR)           3Q          .48         AMC 
+DryShips Inc.                     (DRYS)         3Q          .20         AMC 
+Electrolux AB                     (ELUXY)        3Q          .74 
+Enterprise Products Partners L.P. (EPD)          3Q          .42 
+Entropic Commun Inc.              (ENTR)         3Q          .01         AMC 
+EPIQ Syss Inc.                    (EPIQ)         3Q          .18         AMC 
+Ethan Allen Interiors Inc.        (ETH)          1Q         (.07) 
+Extreme Networks Inc.             (EXTR)         1Q          .00         AMC 
+Flextronics Intl Ltd.             (FLEX)         2Q          .09 
+Franklin Electric Co. Inc.        (FELE)         3Q          .52      4:05PM 
+General Cable Corp.               (BGC)          3Q          .52         BMO 
+Hanger Orthopedic Grp Inc.        (HGR)          3Q          .27         AMC 
+Health Mgmt Associates Inc.       (HMA)          3Q          .09         AMC 
+Heartland Fincl USA Inc.          (HTLF)         3Q          .16 
+Hexcel Corp.                      (HXL)          3Q          .12 
+Independent Bank Corp. (Michigan) (IBCP)         3Q         (.14)     4:30PM 
+Insulet Corp.                     (PODD)         3Q         (.67)        AMC 
+Integra Bank Corp.                (IBNK)         3Q         (.80) 
+Interactive Intelligence Inc.     (ININ)         3Q          .23      4:00PM 
+j2 Global Commun Inc.             (JCOM)         3Q          .45 
+Ladish Co. Inc.                   (LDSH)         3Q          .03 
+Lakeland Fincl Corp.              (LKFN)         3Q          .34 
+Liberty Ppty Trust                (LRY)          3Q          .32         AMC 
+Lorillard Inc.                    (LO)           3Q         1.53 
+Masco Corp.                       (MAS)          3Q          .08         AMC 
+McGraw-Hill Cos.                  (MHP)          3Q         1.06         BMO 
+Merck KGaA                        (MKGAY)        3Q          .58 
+Meritage Homes Corp.              (MTH)          3Q         (.66)        AMC 
+Mindspeed Tech Inc.               (MSPD)         4Q         (.02) 
+Monro Muffler Brake Inc.          (MNRO)         2Q          .48 
+Morgans Hotel Grp Co.             (MHGC)         3Q         (.38)        AMC 
+Natl Oilwell Varco Inc.           (NOV)          3Q          .79         BMO 
+Nidec Corp.                       (NJ)           2Q          .19      2:20AM 
+NV Energy Inc.                    (NVE)          3Q          .73 
+Old Natl Bancorp                  (ONB)          3Q          .11         BMO 
+Olin Corp.                        (OLN)          3Q         (.02)        AMC 
+Owens & Minor Inc.                (OMI)          3Q          .72         AMC 
+PartnerRe Ltd.                    (PRE)          3Q         2.99         AMC 
+Pitney Bowes Inc.                 (PBI)          3Q          .57 
+Plum Creek Timber Company Inc.    (PCL)          3Q          .08         AMC 
+Potlatch Corp.                    (PCH)          3Q         1.10 
+PrivateBancorp Inc.               (PVTB)         3Q          .07         BMO 
+RadioShack Corp.                  (RSH)          3Q          .30         BMO 
+ReInsur Grp of America Class B    (RGA.B)        3Q         1.54      5:00PM 
+ReInsur Grp of America Inc.       (RGA)          3Q         1.54      5:00PM 
+Rent-A-Center Inc.                (RCII)         3Q          .50         AMC 
+Rockwood Hldgs Inc.               (ROC)          3Q          .15 
+Roper Indus Inc.                  (ROP)          3Q          .65         BMO 
+Scientific Games Corp.            (SGMS)         3Q          .18         AMC 
+Seaspan Corp.                     (SSW)          3Q          .27 
+Sohu.com Inc.                     (SOHU)         3Q          .90         BMO 
+Solutia                           (SOLUQ)        3Q          .27         AMC 
+Solutia Inc.                      (SOA)          3Q          .27         AMC 
+Sunoco Logistics Partners L.P.    (SXL)          3Q         1.44         BMO 
+Superior Bancorp                  (SUPR)         3Q         (.22) 
+Telecomunicacoes de Sao Paulo S/A (TSP)          3Q          .62 
+Tellabs Inc.                      (TLAB)         3Q          .06      7:00AM 
+The Bancorp Bank                  (TBBK)         3Q         (.01)        BMO 
+Triumph Grp Inc.                  (TGI)          2Q         1.19         AMC 
+Tv Azteca S A De C V Sponsored Adr (TZA)          3Q          .39 
+Veeco Instruments Inc.            (VECO)         3Q         (.09)        AMC 
+Verizon Commun Inc.               (VZ)           3Q          .60      7:30AM 
+Vertex Pharms Inc.                (VRTX)         3Q         (.82)        AMC 
+VF Corp.                          (VFC)          3Q         1.95 
+Virtual Radiologic Corp.          (VRAD)         3Q          .14         AMC 
+W.R. Berkley Corp.                (WRB)          3Q          .65         AMC 
+Waste Connections Inc.            (WCN)          3Q          .42         AMC 
+Western Alliance Bancorp.         (WAL)          3Q         (.19)        BMO 
+Willis Grp Hldgs Ltd.             (WSH)          3Q          .38         AMC 
+Winn-Dixie Stores Inc.            (WINN)         1Q         (.03) 
+Winn-Dixie Stores Inc.            (WNDXQ)        1Q         (.03) 
+WMS Indus Inc.                    (WMS)          1Q          .35         AMC 
+Zoran Corp.                       (ZRAN)         3Q       0.040000     After Market 
+ 
+Tuesday 
+A.M. Castle & Co.                 (CAS)          3Q         (.17) 
+Abaxis Inc.                       (ABAX)         2Q          .16 
+Acadia Realty Trust               (AKR)          3Q          .11         AMC 
+ACE Ltd.                          (ACE)          3Q         1.92 
+Advent Software Inc.              (ADVS)         3Q          .25         AMC 
+AGCO Corp.                        (AGCO)         3Q          .04 
+AK Steel Hldg Corp.               (AKS)          3Q         (.02)     8:30AM 
+Akzo Nobel N.V.                   (AKZOY)        3Q         1.05      2:00AM 
+Alcon Inc.                        (ACL)          3Q         1.44         AMC 
+Amedisys Inc.                     (AMED)         3Q         1.27         BMO 
+American Ecology Corp.            (ECOL)         3Q          .24         BMO 
+Ametek Inc.                       (AME)          3Q          .42         BMO 
+Amkor Tech Inc.                   (AMKR)         3Q          .19         AMC 
+ANADIGICS Inc.                    (ANAD)         3Q         (.16)        AMC 
+Angang Steel Co. Ltd.             (ANGGY)        3Q         1.46 
+Anixter Intl Inc.                 (AXE)          3Q          .56 
+Apollo Grp Inc.                   (APOL)         4Q         1.04         AMC 
+ARM Hldgs PLC                     (ARMH)         3Q          .06      3:00AM 
+Armstrong World Indus Inc.        (AWI)          3Q          .46         AMC 
+Arthur J. Gallagher & Co.         (AJG)          3Q          .42         AMC 
+ATC Tech Corp                     (ATAC)         3Q          .54         AMC 
+Atmel Corp.                       (ATML)         3Q         (.02) 
+Avery Dennison Corp.              (AVY)          3Q          .57      8:30AM 
+B&G Foods Inc.                    (BGF.U)        3Q          .14         AMC 
+B&G Foods Inc.                    (BGS)          3Q          .14         AMC 
+Banco Bilbao Vizcaya Argentaria   (BBV)          3Q          .52      4:30AM 
+Banco de Chile                    (BCH)          3Q         1.06 
+Bayer AG                          (BAYRY)        3Q         1.06      2:30AM 
+BE Aerospace Inc.                 (BEAV)         3Q          .33         BMO 
+Bemis Co. Inc.                    (BMS)          3Q          .39         BMO 
+Benchmark Electronics Inc.        (BHE)          3Q          .20 
+Berkshire Hills Bancorp Inc.      (BHLB)         3Q          .20         AMC 
+Black Box Corp.                   (BBOX)         2Q          .70         AMC 
+Boston Ppties Inc.                (BXP)          3Q          .61         AMC 
+Boyd Gaming Corp.                 (BYD)          3Q          .10      7:00AM 
+Bp Plc                            (BP)           3Q          .99      3:00AM 
+BTU Intl Inc.                     (BTUI)         3Q         (.26)     4:30PM 
+Buffalo Wild Wings Inc.           (BWLD)         3Q          .37 
+
+26 Oct 2009 06:00 EDT DJ 
+Calendar Of U.S. Earnings Expected In The Week -2-
+
+
+Cabela's Inc.                     (CAB)          3Q          .17         BMO 
+Calamos Asset Mgmt Inc.           (CLMS)         3Q          .17         AMC 
+Canadian Pacific Railway Ltd.     (CP)           3Q          .76      7:30AM 
+Capella Education Co.             (CPLA)         3Q          .51         BMO 
+Carpenter Tech Corp.              (CRS)          1Q         (.26) 
+Carter's Inc.                     (CRI)          3Q          .66         AMC 
+Cavium Networks Inc.              (CAVM)         3Q          .00      4:00PM 
+Celanese Corp. (Series A)         (CE)           3Q          .42 
+Centene Corp.                     (CNC)          3Q          .50      6:00AM 
+Central European Media Enterp Ltd (CETV)         3Q         (.49)        BMO 
+Century Aluminum Co.              (CENX)         3Q         (.21)        AMC 
+Cephalon Inc.                     (CEPH)         3Q         1.42      4:10PM 
+Ceradyne Inc.                     (CRDN)         3Q          .27         BMO 
+Chemed Corp.                      (CHE)          3Q          .92         AMC 
+Chicago Bridge & Iron Co. N.V.    (CBI)          3Q          .39 
+Chiquita Brands Intl Inc.         (CQB)          3Q         (.15)        AMC 
+CIBER Inc.                        (CBR)          3Q          .07         BMO 
+Coca-Cola Femsa S.A.B. de C.V.    (KOF)          3Q          .82         BMO 
+CommScope Inc.                    (CTV)          3Q          .56      7:30AM 
+Compass Minerals Intl Inc.        (CMP)          3Q          .70         AMC 
+Convergys Corp.                   (CVG)          3Q          .24 
+Corn Products Intl Inc.           (CPO)          3Q          .64         BMO 
+CSG Syss Intl Inc.                (CSGS)         3Q          .29 
+Cynosure Inc.                     (CYNO)         3Q         (.06) 
+Daimler AG                        (DAI)          3Q          .02      7:00AM 
+Delphi Fincl Grp Inc.             (DFG)          3Q          .86         AMC 
+Desarrolladora Homex S.A.B.       (HXM)          3Q         2.07         AMC 
+DeVry Inc.                        (DV)           1Q          .65 
+DineEquity Inc.                   (DIN)          3Q          .30         BMO 
+Double-Take Software Inc.         (DBTK)         3Q          .10         AMC 
+DreamWorks Animation SKG Inc.     (DWA)          3Q          .15         AMC 
+DSP Grp Inc.                      (DSPG)         3Q          .11         BMO 
+Dynamics Research Corp.           (DRCO)         3Q          .24         AMC 
+E*TRADE Fincl Corp.               (ETFC)         3Q         (.09)        AMC 
+EarthLink Inc.                    (ELNK)         3Q          .27      7:00AM 
+Ecolab Inc.                       (ECL)          3Q          .60         BMO 
+eHealth Inc.                      (EHTH)         3Q          .14 
+Encore Acquisition Co.            (EAC)          3Q          .02 
+Endologix Inc.                    (ELGX)         3Q         (.01)        AMC 
+Energy Transfer Equity L.P.       (ETE)          3Q          .45 
+Entegris Inc.                     (ENTG)         3Q         (.02)        BMO 
+ev3 Inc.                          (EVVV)         3Q          .04         BMO 
+Exactech Inc.                     (EXAC)         3Q          .19         AMC 
+Ferro Corp.                       (FOE)          3Q         (.03) 
+First Advantage Corp.             (FADV)         3Q          .22 
+First Fincl Hldgs Inc.            (FFCH)         4Q          .30         BMO 
+FirstEnergy Corp.                 (FE)           3Q         1.08 
+FirstMerit Corp.                  (FMER)         3Q          .26      7:30AM 
+Fiserv Inc.                       (FISV)         3Q          .91 
+FMC Tech Inc.                     (FTI)          3Q          .63         AMC 
+FPL Grp Inc                       (FPL)          3Q         1.40         BMO 
+Franklin Resources Inc.           (BEN)          4Q         1.32      9:00AM 
+Fresh Del Monte Produce Inc.      (FDP)          3Q          .37         BMO 
+FTI Consulting Inc.               (FCN)          3Q          .66 
+G&K Svcs Inc.                     (GKSR)         1Q          .19         BMO 
+General Maritime Corp.            (GMR)          3Q          .06         AMC 
+Geron Corp.                       (GERN)         3Q         (.21) 
+Golfsmith Intl Hldgs Inc.         (GOLF)         3Q          .14         BMO 
+Grp 1 Automotive Inc.             (GPI)          3Q          .70 
+Harris Corp.                      (HRS)          1Q          .76      4:00PM 
+Hatteras Fincl Corp.              (HTS)          3Q         1.23 
+Heidrick & Struggles Intl Inc.    (HSII)         3Q          .08         BMO 
+Heritage Fincl Corp.              (HFWA)         3Q          .00         BMO 
+Hospira Inc.                      (HSP)          3Q          .68         BMO 
+Hydrogenics Corp.                 (HYGS)         3Q         (.04)        BMO 
+IAC/InterActiveCorp.              (IACI)         3Q          .13         BMO 
+Iconix Brand Grp Inc.             (ICON)         3Q          .27         BMO 
+Illumina Inc.                     (ILMN)         3Q          .20         AMC 
+Insituform Tech Inc.              (INSU)         3Q          .32         AMC 
+Integrated Device Tech Inc.       (IDTI)         2Q          .02      4:00PM 
+Inverness Medical Innovations Inc. (IMA)          3Q          .62 
+IRIS Intl Inc.                    (IRIS)         3Q          .10         AMC 
+Johnson Controls Inc.             (JCI)          4Q          .48 
+Jones Lang LaSalle Inc.           (JLL)          3Q          .58         AMC 
+Kona Grill Inc.                   (KONA)         3Q         (.08)        AMC 
+L-3 Commun Hldgs Inc.             (LLL)          3Q         1.85         BMO 
+LCA-Vision Inc.                   (LCAV)         3Q         (.31)        BMO 
+Life Tech Corp.                   (LIFE)         3Q          .62         BMO 
+Massey Energy Co.                 (MEE)          3Q          .19         AMC 
+McKesson Corp.                    (MCK)          2Q         1.01      4:00PM 
+Mercury Computer Syss Inc.        (MRCY)         1Q          .06         AMC 
+Merit Medical Syss Inc.           (MMSI)         3Q          .20         AMC 
+Methanex Corp.                    (MEOH)         3Q          .01         AMC 
+MicroStrategy Inc.                (MSTR)         3Q          .94 
+Molex Inc.                        (MOLXA)        1Q          .14      4:00PM 
+Molex Inc.                        (MOLX)         1Q          .14      4:00PM 
+Nalco Hldg Co.                    (NLC)          3Q          .26         AMC 
+Natl Instruments Corp.            (NATI)         3Q          .10         AMC 
+NeuStar Inc.                      (NSR)          3Q          .32         AMC 
+NewAlliance BancShr Inc.          (NAL)          3Q          .11         AMC 
+Norfolk Southern Corp.            (NSC)          3Q          .79         AMC 
+Norsk Hydro ASA                   (NHYDY)        3Q         (.05)     2:30AM 
+NuSTAR Energy L.P.                (NS)           3Q         1.00 
+NuSTAR GP Hldgs LLC               (NSH)          3Q          .47 
+NutriSys Inc.                     (NTRI)         3Q          .23         AMC 
+Open Text Corp.                   (OTEX)         1Q          .56      4:00PM 
+Orbital Sciences Corp.            (ORB)          3Q          .10         BMO 
+Orion Energy Syss Inc.            (OESX)         2Q         (.09)     5:00PM 
+Paccar Inc.                       (PCAR)         3Q          .01 
+Pacer Intl Inc.                   (PACR)         3Q          .00 
+Panera Bread Co.                  (PNRA)         3Q          .58         AMC 
+Parametric Tech Corp.             (PMTC)         4Q          .28         AMC 
+PAREXEL Intl Corp.                (PRXL)         1Q          .17         AMC 
+Patriot Coal Corp.                (PCX)          3Q         (.40) 
+Peet's Coffee & Tea Inc.          (PEET)         3Q          .17      4:00PM 
+Penwest Pharms Co.                (PPCO)         3Q          .00 
+Petroleum Geo-Svcs ASA            (PGSVY)        3Q          .44      3:00AM 
+Pharm Product Devt Inc.           (PPDI)         3Q          .32         AMC 
+PLX Tech Inc.                     (PLXT)         3Q         (.07) 
+Pool Corp.                        (POOL)         3Q          .42 
+Psychiatric Solutions Inc.        (PSYS)         3Q          .56         AMC 
+Pzena Invest Mgmt Inc.            (PZN)          3Q          .08 
+Radisys Corp.                     (RSYS)         3Q          .06      4:05PM 
+Rayonier Inc. REIT                (RYN)          3Q          .42         BMO 
+RenaissanceRe Hldgs Ltd.          (RNR)          3Q         2.28         AMC 
+RF Micro Devices Inc.             (RFMD)         2Q          .09      4:00PM 
+Ritchie Bros. Auctioneers Inc.    (RBA)          3Q          .13 
+Rogers Commun Inc.                (RCI)          3Q          .51      8:30AM 
+Royal KPN N.V.                    (KKPNY)        3Q          .36      2:00AM 
+Satcon Tech Corp.                 (SATC)         3Q         (.09)        AMC 
+SCANA Corp.                       (SCG)          3Q          .78         BMO 
+Schnitzer Steel Indus Inc.        (SCHN)         4Q          .30         BMO 
+SeaBright Insur Hldgs Inc.        (SBX)          3Q          .24         AMC 
+Sepracor Inc                      (SEPR)         3Q          .53 
+Signature Bank                    (SBNY)         3Q          .34         BMO 
+Sonic Automotive Inc.             (SAH)          3Q          .22      7:30AM 
+SonoSite Inc.                     (SONO)         3Q          .06         AMC 
+Staar Surgical Co.                (STAA)         3Q         (.03) 
+Stericycle Inc.                   (SRCL)         3Q          .53 
+Subsea 7 Inc.                     (SBEAF)        3Q          .35      4:00AM 
+SuccessFactors Inc.               (SFSF)         3Q          .00         AMC 
+Sun Bancorp Inc. (New Jersey)     (SNBC)         3Q         (.35) 
+
+26 Oct 2009 06:00 EDT DJ 
+Calendar Of U.S. Earnings Expected In The Week -3-
+
+
+Super Micro Computer Inc.         (SMCI)         1Q          .12         AMC 
+Svenska Cellulosa AB              (SVCBY)        3Q          .26      3:00AM 
+Swedish Match Ab Sponsored Adr    (SWMAY)        3Q         3.97      3:00AM 
+Switch & Data Facilities Co. Inc. (SDXC)         3Q          .03         AMC 
+Tanger Factory Outlet Centers Inc. (SKT)          3Q          .09         AMC 
+TD Ameritrade Hldg Corp.          (AMTD)         4Q          .23 
+Teleflex Inc.                     (TFX)          3Q          .89         BMO 
+Tennant Co.                       (TNC)          3Q          .18 
+Textron Inc.                      (TXT)          3Q         (.02) 
+Theravance Inc.                   (THRX)         3Q         (.33)        AMC 
+Total Sys Svcs Inc.               (TSS)          3Q          .29      4:00PM 
+TransAlta Corp.                   (TAC)          3Q          .38         BMO 
+Trimble Navigation Ltd.           (TRMB)         3Q          .26 
+Trustmark Corp.                   (TRMK)         3Q          .29         AMC 
+Ultimate Software Grp Inc.        (ULTI)         3Q          .05      4:00PM 
+Under Armour Inc.                 (UA)           3Q          .44      7:00AM 
+United States Steel Corp.         (X)            3Q        (2.77) 
+Universal Stainless & Alloy       (USAP)         3Q          .09 
+USANA Health Sciences Inc.        (USNA)         3Q          .50         AMC 
+Valero Energy Corp.               (VLO)          3Q         (.26) 
+ValueClick Inc.                   (VCLK)         3Q          .14      4:05PM 
+Vasco Data Security Intl Inc.     (VDSI)         3Q          .05 
+Vestas Wind Syss A/S              (VWSYF)        3Q          .80      3:30AM 
+Virginia Commerce Bancorp         (VCBI)         3Q         (.21) 
+Visa Inc.                         (V)            4Q          .71         AMC 
+Vishay InterTech Inc.             (VSH)          3Q          .03         BMO 
+Vitran Corp. Inc.                 (VTNC)         3Q          .03         BMO 
+Waddell & Reed Fincl Inc.         (WDR)          3Q          .34         BMO 
+Waste Svcs Inc.                   (WSII)         3Q          .12         AMC 
+Waters Corp.                      (WAT)          3Q          .77 
+Watsco Inc.                       (WSO.B)        3Q          .70         BMO 
+Watsco Inc.                       (WSO)          3Q          .70         BMO 
+Watts Water Tech Inc.             (WTS)          3Q          .37         AMC 
+Wilshire Bancorp Inc.             (WIBC)         3Q          .08         BMO 
+Wintrust Fincl Corp.              (WTFC)         3Q          .27      7:00AM 
+Wynn Resorts Ltd.                 (WYNN)         3Q     0.160000   Unspecified 
+Zix Corp.                         (ZIXI)         3Q    -0.010000  After Market 
+ 
+Wednesday 
+Acxiom Corp.                      (ACXM)         2Q          .11         AMC 
+Advance America Cash Advance Ctrs (AEA)           3Q          .14         AMC 
+Advanced Analogic Tech Inc.       (AATI)         3Q         (.01)        AMC 
+Advanced Energy Indus Inc.        (AEIS)         3Q         (.28)        BMO 
+Advantest Corp.                   (ATE)          2Q         (.18) 
+Affiliated Managers Grp Inc.      (AMG)          3Q         1.05 
+AFLAC Inc.                        (AFL)          3Q         1.20         AMC 
+Agnico-Eagle Mines Ltd.           (AEM)          3Q          .20      4:30PM 
+Akamai Tech Inc.                  (AKAM)         3Q          .35 
+Alliance HealthCare Svcs Inc.     (AIQ)          3Q          .07         AMC 
+Alliance Hldgs GP L.P.            (AHGP)         3Q          .38         BMO 
+Alliance Resource Partners L.P.   (ARLP)         3Q          .71         BMO 
+American Commercial Lines Inc.    (ACLI)         3Q          .49         AMC 
+American Safety Insur Hldgs Ltd.  (ASI)          3Q          .51      4:30PM 
+Amerigon Inc.                     (ARGN)         3Q          .01      6:00AM 
+Amicus Therapeutics Inc.          (FOLD)         3Q         (.38) 
+Annaly Capital Mgmt Inc.          (NLY)          3Q          .72 
+ArcelorMittal SA (NY Reg Sh)      (MT)           3Q          .00 
+Ariba Inc.                        (ARBA)         4Q          .17         BMO 
+Arrow Electronics Inc.            (ARW)          3Q          .33 
+Ashland Inc.                      (ASH)          4Q          .88 
+Asiainfo Hldgs Inc.               (ASIA)         3Q          .22 
+Aspen Insur Hldgs Ltd.            (AHL)          3Q         1.13         AMC 
+Assurant Inc.                     (AIZ)          3Q          .93         AMC 
+ATS Medical Inc.                  (ATSI)         3Q         (.01) 
+Auxilium Pharms Inc.              (AUXL)         3Q         (.31)        BMO 
+AvalonBay Communities Inc.        (AVB)          3Q          .49         AMC 
+Avista Corp.                      (AVA)          3Q          .10      7:05AM 
+Banco Santander S.A. (ADS)        (STD)           3Q     0.410000    Before Market 
+Basic Energy Svcs Inc.            (BAS)          3Q         (.55)        AMC 
+Belden Inc.                       (BDC)          3Q          .23 
+Berry Petroleum Co.               (BRY)          3Q          .31 
+BG Grp PLC                        (BRGYY)        3Q         1.07      2:00AM 
+BioMarin Pharm Inc.               (BMRN)         3Q          .00 
+Blackbaud Inc.                    (BLKB)         3Q          .21         AMC 
+BOK Fincl Corp.                   (BOKF)         3Q          .69 
+BorgWarner Inc.                   (BWA)          3Q          .12 
+Boston Private Fincl Hldgs Inc.   (BPFH)         3Q         (.22)        AMC 
+Brandywine Realty Trust           (BDN)          3Q          .16         AMC 
+Bridge Capital Hldgs              (BBNK)         3Q         (.21) 
+Cabot Corp.                       (CBT)          4Q          .12         AMC 
+CACI Inc.                         (CACI)         1Q          .75      4:05PM 
+Cadence Design Syss Inc.          (CDNS)         3Q         (.01) 
+Cal Dive Intl Inc.                (DVR)          3Q          .38         AMC 
+California Water Svc Grp          (CWT)          3Q         1.05         AMC 
+Capstead Mortgage Corp.           (CMO)          3Q          .56         AMC 
+Cardtronics Inc.                  (CATM)         3Q          .15         AMC 
+CB Richard Ellis Grp Inc.         (CBG)          3Q          .11         AMC 
+Celadon Grp Inc.                  (CLDN)         1Q          .06         AMC 
+Celera Corp.                      (CRA)          3Q         (.07)        AMC 
+CenterPoint Energy Inc.           (CNP)          3Q          .31         BMO 
+Cepheid                           (CPHD)         3Q         (.12)        AMC 
+Cerner Corp.                      (CERN)         3Q          .61         AMC 
+CEVA Inc.                         (CEVA)         3Q          .07         BMO 
+China Security & Surveillance Tech (CSR)         3Q          .58         BMO 
+Churchill Downs Inc.              (CHDN)         3Q          .26      4:30PM 
+Circor Intl Inc.                  (CIR)          3Q          .30         AMC 
+Coca-Cola Enterp Inc.             (CCE)          3Q          .45         BMO 
+Community Health Syss Inc.        (CYH)          3Q          .62         AMC 
+CommVault Syss Inc.               (CVLT)         2Q          .16 
+Compellent Tech Inc.              (CML)          3Q          .05         AMC 
+Complete Production Svcs Inc.     (CPX)          3Q         (.31) 
+ConocoPhillips                    (COP)          3Q          .94      8:30AM 
+Corporate Office Ppties Trust     (OFC)          3Q          .14         AMC 
+Cytokinetics Inc.                 (CYTK)         3Q         (.22)     4:00PM 
+Dentsply Intl Inc.                (XRAY)         3Q          .44         AMC 
+Dun & Bradstreet Corp.            (DNB)          3Q         1.13         AMC 
+Duncan Energy Partners L.P.       (DEP)          3Q          .35         BMO 
+EastGrp Ppties Inc.               (EGP)          3Q          .06 
+Electronics for Imaging Inc.      (EFII)         3Q         (.11)        AMC 
+Encore Capital Grp Inc.           (ECPG)         3Q          .28         AMC 
+Encore Energy Partners L.P.       (ENP)          3Q          .39 
+Equity Residential                (EQR)          3Q          .10 
+Euronet Worldwide Inc.            (EEFT)         3Q          .32         BMO 
+Evercore Partners Inc.            (EVR)          3Q          .22 
+Everest Re Grp Ltd.               (RE)           3Q         3.25         AMC 
+Express Scripts Inc.              (ESRX)         3Q          .81         AMC 
+FalconStor Software Inc.          (FALC)         3Q          .04         AMC 
+First Community BancShr Inc.      (FCBC)         3Q          .20 
+First Fincl Bancorp (Ohio)        (FFBC)         3Q          .08 
+First Solar Inc.                  (FSLR)         3Q         1.71         AMC 
+Flowserve Corp.                   (FLS)          3Q         2.02         AMC 
+FMC Corp.                         (FMC)          3Q          .89         AMC 
+Forrester Research Inc.           (FORR)         3Q          .16 
+Genco Shipping & Trading Ltd.     (GNK)          3Q         1.00         AMC 
+General Dynamics Corp.            (GD)           3Q         1.40 
+GlaxoSmithKline PLC               (GSK)          3Q          .94      8:00AM 
+Goodyear Tire & Rubber Co.        (GT)           3Q          .36         BMO 
+Granite Construction Inc.         (GVA)          3Q          .78         AMC 
+Grupo Aeroportuario del Pacifico  (PAC)          3Q           .32 
+GSI Commerce Inc.                 (GSIC)         3Q         (.28)        AMC 
+Guess? Inc.                       (GES)          3Q          .50 
+GulfMark Offshore Inc.            (GLF)          3Q          .88 
+Hanesbrands Inc.                  (HBI)          3Q          .52         AMC 
+Harleysville Grp Inc.             (HGIC)         3Q          .79         AMC 
+
+26 Oct 2009 06:00 EDT DJ 
+Calendar Of U.S. Earnings Expected In The Week -4-
+
+
+Harmonic Inc.                     (HLIT)         3Q          .06         AMC 
+Hartford Fincl Svcs Grp Inc.      (HIG)          3Q         1.03 
+Health Grades Inc.                (HGRD)         3Q          .05         BMO 
+Helix Energy Solutions Grp Inc.   (HLX)          3Q          .09         AMC 
+Hercules Offshore Inc.            (HERO)         3Q         (.33)        BMO 
+Hess Corp.                        (HES)          3Q          .51 
+Horace Mann Educators Corp.       (HMN)          3Q          .39         AMC 
+InfoSpace Inc.                    (INSP)         3Q          .10         AMC 
+InterDigital Inc.                 (IDCC)         3Q          .58         AMC 
+Interface Inc.                    (IFSIA)        3Q          .09         AMC 
+Intl Coal Grp Inc.                (ICO)          3Q          .05         AMC 
+Intl Paper Co.                    (IP)           3Q          .23         BMO 
+Internet Brands Inc.              (INET)         3Q          .07         AMC 
+Interpublic Grp Of Cos.           (IPG)          3Q          .02 
+ITC Hldgs Corp.                   (ITC)          3Q          .62         AMC 
+Itron Inc.                        (ITRI)         3Q          .53      4:00PM 
+Ixia                              (XXIA)         3Q          .02         AMC 
+Jarden Corp.                      (JAH)          3Q          .82         AMC 
+Jones Apparel Grp Inc.            (JNY)          3Q          .28 
+K-Sea Transportation Partners L.P. (KSP)          1Q          .30 
+Kaiser Aluminum Corp.             (KALU)         3Q          .29         AMC 
+Kirby Corp.                       (KEX)          3Q          .65      6:00PM 
+L-1 Identity Solutions Inc.       (ID)           3Q          .02         BMO 
+Las Vegas Sands Corp.             (LVS)          3Q         (.01) 
+Lazard Ltd.                       (LAZ)          3Q          .37         BMO 
+Level 3 Commun Inc.               (LVLT)         3Q         (.10) 
+LHC Grp                           (LHCG)         3Q          .52         AMC 
+Lincoln Natl Corp.                (LNC)          3Q          .76         AMC 
+LogMeIn Inc.                      (LOGM)         3Q          .09         AMC 
+LoopNet Inc.                      (LOOP)         3Q          .06         AMC 
+LSI Corp.                         (LSI)          3Q          .03         AMC 
+ManTech Intl Corp.                (MANT)         3Q          .79         AMC 
+MarketAxess Hldgs Inc.            (MKTX)         3Q          .10 
+MasTec Inc.                       (MTZ)          3Q          .25         AMC 
+MCG Capital Corp.                 (MCGC)         3Q          .14 
+MeadWestvaco Corp.                (MWV)          3Q          .26         BMO 
+MedAssets Inc.                    (MDAS)         3Q          .19         AMC 
+Medicines Co.                     (MDCO)         3Q         (.02) 
+Mercer Intl Inc.                  (MERC)         3Q         (.31)        AMC 
+Mips Tech Inc                     (MIPSB)        1Q          .04 
+MIPS Tech Inc.                    (MIPS)         1Q          .04 
+Molina Healthcare Inc.            (MOH)          3Q          .51         AMC 
+Nelnet Inc.                       (NNI)            3Q   0.760000    Unspecified 
+New York Community Bancorp Inc.   (NYB)          3Q          .26      8:00AM 
+Newell Rubbermaid Inc.            (NWL)          3Q          .35         BMO 
+Newport Corp.                     (NEWP)         3Q         (.05) 
+Nexen Inc.                        (NXY)          3Q          .24      9:00AM 
+NICE-Syss Ltd.                    (NICE)         3Q          .37 
+NightHawk Radiology Hldgs Inc.    (NHWK)         3Q          .16 
+Novozymes A/S                     (NVZMY)        3Q          .89      3:00AM 
+O'Reilly Automotive Inc.          (ORLY)         3Q          .56      6:30PM 
+Oceaneering Intl Inc.             (OII)          3Q          .87      5:00PM 
+Odfjell A S A Sponsored Adr       (ODJLY)        3Q          .07 
+Odyssey HealthCare Inc.           (ODSY)         3Q          .25         AMC 
+Online Resources Corp.            (ORCC)         3Q          .09         AMC 
+Owens Corning                     (OC)           3Q          .33         BMO 
+Owens-Illinois Inc.               (OI)           3Q          .93         AMC 
+PDL BioPharma Inc.                (PDLI)         3Q          .27         AMC 
+PepsiAmericas Inc.                (PAS)          3Q          .62         BMO 
+Plexus Corp.                      (PLXS)         4Q          .31         AMC 
+Pozen Inc.                        (POZN)         3Q          .12         BMO 
+Praxair Inc.                      (PX)           3Q         1.00 
+PSS World Medical Inc.            (PSSI)         2Q          .29         AMC 
+Public Svc Enterprise Grp Inc.    (PEG)          3Q          .90      8:45AM 
+Questar Corp.                     (STR)          3Q          .51         AMC 
+Qwest Commun Intl Inc.            (Q)            3Q          .07      7:00AM 
+Realty Income Corp.               (O)            3Q          .26 
+RPC Inc.                          (RES)          3Q         (.10)        BMO 
+RTI Biologics Inc.                (RTIX)         3Q          .03         BMO 
+Ryland Grp Inc.                   (RYL)          3Q         (.95)        AMC 
+Sap Ag                            (SAP)          3Q          .60         BMO 
+SAVVIS Inc.                       (SVVS)         3Q         (.23)        BMO 
+Sealed Air Corp.                  (SEE)          3Q          .33 
+Selective Insur Grp Inc.          (SIGI)         3Q          .32         AMC 
+ShoreTel Inc.                     (SHOR)         1Q          .00         AMC 
+Shutterfly Inc.                   (SFLY)         3Q         (.27) 
+Sierra Wireless Inc.              (SWIR)         3Q          .03 
+Silicon Laboratories Inc.         (SLAB)         3Q          .61 
+Siliconware Precision Indus Co.   (SPIL)         3Q          .12 
+Southern Co.                      (SO)           3Q          .99      7:30AM 
+Spectranetics Corp.               (SPNC)         3Q         (.04)        BMO 
+Spherion Corp.                    (SFN)          3Q         (.01)        AMC 
+SPX Corp.                         (SPW)          3Q          .85 
+StellarOne Corp.                  (STEL)         3Q         (.35)        BMO 
+Sun Healthcare Grp Inc.           (SUNH)         3Q          .25 
+Superior Energy Svcs Inc.         (SPN)          3Q          .34         AMC 
+SurModics Inc.                    (SRDX)         4Q          .20 
+Susquehanna BancShr Inc.          (SUSQ)         3Q         (.04)   Intraday 
+Symantec Corp.                    (SYMC)         2Q          .33 
+Taleo Corp.                       (TLEO)         3Q          .16         AMC 
+Techne Corp.                      (TECH)         1Q          .70 
+Teck Resources Ltd.               (TCK)          3Q          .46         AMC 
+Teekay Corp.                      (TK)           3Q         (.52) 
+Teekay LNG Partners L.P.          (TGP)          3Q          .51 
+Teekay Offshore Partners L. P.    (TOO)          3Q          .36 
+Teletech Hldgs Inc.               (TTEC)         3Q          .23         AMC 
+Teliasonera A B Sponsored Adr     (TLSNY)        3Q          .39      2:30AM 
+TEPPCO Partners L.P.              (TPP)          3Q          .42 
+Teradyne Inc.                     (TER)          3Q          .09      6:30PM 
+Thomas Weisel Partners Grp Inc.   (TWPG)         3Q         (.35)        AMC 
+TomoTherapy Inc.                  (TOMO)         3Q         (.20)     4:00PM 
+Torchmark Corp.                   (TMK)          3Q         1.49         AMC 
+TransAtlantic Hldgs Inc.          (TRH)          3Q         1.68         AMC 
+TranSwitch Corp.                  (TXCC)         3Q          .00      4:15PM 
+Trinity Indus Inc.                (TRN)          3Q          .25         AMC 
+Tyler Tech Inc.                   (TYL)          3Q          .19         AMC 
+UniFirst Corp.                    (UNF)          4Q          .69         BMO 
+UniSource Energy Corp.            (UNS)          3Q         1.45         AMC 
+United Microelectronics Corp.     (UMC)          3Q          .04      1:45AM 
+United Rentals Inc.               (URI)          3Q         (.21)        AMC 
+Universal American Corp.          (UAM)          3Q          .58         AMC 
+Vale S A Adr Repstg Pfd           (VALE.P)       3Q          .31         AMC 
+Vale S.A.                         (VALE)         3Q          .31         AMC 
+Varian Inc.                       (VARI)         4Q          .68 
+ViroPharma Inc.                   (VPHM)         3Q          .31         BMO 
+VIVUS Inc.                        (VVUS)         3Q         (.31) 
+Wabco Hldgs Inc.                  (WBC)          3Q         (.06) 
+WellPoint Inc.                    (WLP)          3Q         1.38      6:00AM 
+Westfield Fincl Inc.              (WFD)          3Q          .04 
+Whiting Petroleum Corp.           (WLL)          3Q          .23         AMC 
+Wipro Ltd.                        (WIT)          3Q          .14 
+Wright Express Corp.              (WXS)          3Q          .56         BMO 
+Wyndham Worldwide Corp. (WYN)     (3Q)     0.560000   Unspecified 
+XL Capital Ltd. (XL)              (3Q)     0.620000  After Market 
+Zarlink Semicon Inc. (ZARLF)      (2Q)     0.030000    Unspecifie          d 
+ 
+Thursday 
+3Par Inc.                         (PAR)          2Q          .00         AMC 
+ABB Ltd.                          (ABB)          3Q          .32      1:00AM 
+Accuray Inc.                      (ARAY)         1Q         (.04)        AMC 
+Acme Packet Inc.                  (APKT)         3Q          .07         AMC 
+Actuate Corp.                     (ACTU)         3Q          .10 
+AES Corp.                         (AES)          3Q          .27 
+Aetna Inc.                        (AET)          3Q          .67      6:00AM 
+AGL Resources Inc.                (AGL)          3Q          .24         BMO 
+
+26 Oct 2009 06:00 EDT DJ 
+Calendar Of U.S. Earnings Expected In The Week -5-
+
+
+Airgas Inc.                       (ARG)          2Q          .68         BMO 
+Airvana Inc.                      (AIRV)         3Q          .20         BMO 
+Aixtron AG                        (AIXG)         3Q          .11      2:30AM 
+Alaska Commun Syss Grp Inc.       (ALSK)         3Q          .06 
+Alcatel-Lucent                    (ALU)          3Q         (.03) 
+Alexander & Baldwin Inc.          (ALEX)         3Q          .25         BMO 
+Alexza Pharms Inc.                (ALXA)         3Q         (.27) 
+Allegheny Energy Inc.             (AYE)          3Q          .58         BMO 
+Allergan Inc.                     (AGN)          3Q          .70 
+AllianceBernstein Hldg L.P.       (AB)           3Q          .47         AMC 
+AMAG Pharms Inc.                  (AMAG)         3Q        (1.49)        BMO 
+Amer Sports Oyj                   (AGPDY)        3Q          .22      7:00AM 
+American Electric Power Co. Inc.  (AEP)          3Q          .85 
+American Physicians Capital Inc.  (ACAP)         3Q          .85         AMC 
+American Superconductor Corp.     (AMSC)         2Q          .09         BMO 
+AMN Healthcare Svcs Inc.          (AHS)          3Q          .05      4:00PM 
+Anadys Pharms Inc.                (ANDS)         3Q         (.22)        AMC 
+Anaren Inc.                       (ANEN)         1Q          .23         AMC 
+Apache Corp.                      (APA)          3Q         1.58      8:45AM 
+Applied Micro Circuits Corp.      (AMCC)         2Q          .01         AMC 
+Art Tech Grp Inc.                 (ARTG)         3Q          .02 
+Asbury Automotive Grp Inc.        (ABG)          3Q          .19         BMO 
+AstraZeneca PLC                   (AZN)          3Q         1.41      7:00AM 
+Astronics Corp.                   (ATRO)         3Q          .14 
+Astronics Corp.                   (ATROB)        3Q          .14 
+Asustek Computer Inc Gdr New Reg S (AKCIF)        3Q          .10 
+athenahealth Inc.                 (ATHN)         3Q          .16         AMC 
+Atlantic Tele-Network Inc.        (ATNI)         3Q          .66      5:00PM 
+Atlas Pipeline Partners L.P.      (APL)          3Q         (.14) 
+AutoNation Inc.                   (AN)           3Q          .32         BMO 
+Avnet Inc.                        (AVT)          1Q          .34 
+Avon Products Inc.                (AVP)          3Q          .39 
+Baldor Electric Co.               (BEZ)          3Q          .30         AMC 
+Ball Corp.                        (BLL)          3Q         1.17         BMO 
+Bally Tech Inc.                   (BYI)          1Q          .52         AMC 
+Banco Santander-Chile             (SAN)          3Q          .90         AMC 
+Bancorp Rhode Island Inc.         (BARI)         3Q          .15 
+Bankrate Inc.                     (RATE)         3Q          .23 
+Bare Escentuals Inc.              (BARE)         3Q          .20         AMC 
+Barrick Gold Corp.                (ABX)          3Q          .24         BMO 
+Basf S.E.                         (BASFY)        3Q          .78      2:30AM 
+bebe Stores Inc.                  (BEBE)         1Q         (.03) 
+Beckman Coulter Inc.              (BEC)          3Q          .85         AMC 
+BioCryst Pharms Inc.              (BCRX)         3Q         (.22) 
+Black Hills Corp.                 (BKH)          3Q          .19 
+Blockbuster Inc.                  (BBI)          3Q         (.10) 
+Blockbuster Inc.                  (BBI.B)        3Q         (.10) 
+BMC Software Inc.                 (BMC)          2Q          .58         AMC 
+BRF-Brazil Foods S/A              (PDA)          3Q          .86 
+Brink's Co.                       (BCO)          3Q          .49 
+Brunswick Corp.                   (BC)           3Q        (1.20)        BMO 
+Brush Engineered Materials Inc.   (BW)           3Q          .10 
+Buckeye Partners L.P.             (BPL)          3Q          .79 
+Build-A-Bear Workshop Inc.        (BBW)          3Q         (.09)        BMO 
+Burger King Hldgs Inc.            (BKC)          1Q          .37         BMO 
+CAI Intl Inc.                     (CAP)          3Q          .15 
+Callaway Golf Co.                 (ELY)          3Q         (.23) 
+Callidus Software Inc.            (CALD)         3Q         (.08)        AMC 
+Cambrex Corp.                     (CBM)          3Q          .05 
+Camden Ppty Trust                 (CPT)          3Q          .04         AMC 
+Carbo Ceramics Inc.               (CRR)          3Q          .42 
+Cardica Inc.                      (CRDC)         1Q         (.16)        AMC 
+CardioNet Inc.                    (BEAT)         3Q          .04 
+Cbeyond Inc.                      (CBEY)         3Q         (.02) 
+CBIZ Inc                          (CBZ)          3Q          .08         BMO 
+CDI Corp.                         (CDI)          3Q          .04         BMO 
+CEC Entertain Inc.                (CEC)          3Q          .47         AMC 
+Central Pacific Fincl Corp.       (CPF)          3Q         (.36)        BMO 
+Cerus Corp.                       (CERS)         3Q         (.12)        AMC 
+Chart Indus Inc.                  (GTLS)         3Q          .22 
+Cincinnati Fincl Corp.            (CINF)         3Q          .42 
+Cliffs Natural Resources Inc.     (CLF)          3Q         (.13)        AMC 
+CMS Energy Corp.                  (CMS)          3Q          .36 
+Colgate-Palmolive Co.             (CL)           3Q         1.11 
+Columbia Banking Sys Inc.         (COLB)         3Q         (.14)     9:15AM 
+ComScore Inc.                     (SCOR)         3Q          .06         AMC 
+Conexant Syss Inc.                (CNXT)         4Q          .01 
+Continental AG                    (CTTAY)        3Q          .12      3:30AM 
+Corinthian Colleges Inc.          (COCO)         1Q          .28         BMO 
+Cott Corp.                        (COT)          3Q          .17         BMO 
+CryoLife Inc.                     (CRY)          3Q          .07 
+Curis Inc.                        (CRIS)         3Q         (.06)        BMO 
+Curtiss Wright Class B            (CW.B)         3Q          .63         AMC 
+Curtiss-Wright Corp.              (CW)           3Q          .63         AMC 
+Dassault Sys S A Sponsored Adr    (DASTY)        3Q          .58 
+DCT Indus Trust Inc.              (DCT)          3Q         (.02)        AMC 
+Deltek Inc.                       (PROJ)         3Q          .11 
+Denny's Corp.                     (DENN)         3Q          .06         AMC 
+DepoMed Inc.                      (DEPO)         3Q         (.11)        AMC 
+Deutsche Bank AG                  (DB)           3Q         1.87         BMO 
+Dime Community BancShr            (DCOM)         3Q          .24         BMO 
+Dionex Corp.                      (DNEX)         1Q          .52         AMC 
+Dollar Fincl Corp.                (DLLR)         1Q          .44 
+Dover Downs Gaming & Entertain    (DDE)          3Q          .12 
+DTE Energy Co.                    (DTE)          3Q         1.00         AMC 
+Dynamic Materials Corp.           (BOOM)         3Q          .05         AMC 
+Eastman Kodak Co.                 (EK)           3Q         (.17)     7:00AM 
+El Paso Electric Co.              (EE)           3Q          .66 
+Electronic Arts Inc.              (ERTS)         2Q          .08 
+Elizabeth Arden Inc.              (RDEN)         1Q         (.01) 
+Embraer-Empresa Brasileiras       (ERJ)               3Q           .47 
+EMCOR Grp Inc.                    (EME)          3Q          .52 
+Enbridge Energy Partners L.P.     (EEP)          3Q          .59         AMC 
+Endo Pharms Hldgs Inc.            (ENDP)         3Q          .61 
+Endurance Specialty Hldgs Ltd.    (ENH)          3Q         1.29         AMC 
+Energen Corp.                     (EGN)          3Q          .65 
+ENI S.p.A.                        (E)            3Q          .97      2:45AM 
+EnPro Indus Inc.                  (NPO)          3Q          .30         BMO 
+Epicor Software Corp.             (EPIC)         3Q          .10         AMC 
+EQT Corp.                         (EQT)          3Q          .19         BMO 
+eResearch Tech Inc.               (ERES)         3Q          .06         AMC 
+Exelixis Inc.                     (EXEL)         3Q         (.31)        AMC 
+Expedia Inc.                      (EXPE)         3Q          .42         BMO 
+Exxon Mobil Corp.                 (XOM)          3Q         1.02 
+Fairfax Fincl Hldgs Ltd.          (FFH)          3Q        10.33         AMC 
+First American Corp.              (FAF)          3Q          .64      8:32AM 
+First Niagara Fincl Grp Inc.      (FNFG)         3Q          .17         BMO 
+First Potomac Realty Trust        (FPO)          3Q          .00         AMC 
+FreightCar America Inc.           (RAIL)         3Q          .22 
+Gen-Probe Inc.                    (GPRO)         3Q          .40      4:00PM 
+Genesis Lease Ltd.                (GLS)          3Q          .17 
+Gentiva Health Svcs Inc.          (GTIV)         3Q          .52         BMO 
+Genworth Fincl Inc.               (GNW)          3Q          .05         AMC 
+GFI Grp Inc.                      (GFIG)         3Q          .08         AMC 
+Global Cash Access Hldgs Inc.     (GCA)          3Q          .15 
+Gold Fields Ltd.                  (GFI)          1Q          .18      2:00AM 
+GrafTech Intl Ltd.                (GTI)          3Q          .06 
+Grasim Inds Ltd Spon Gdr 144A     (GRSJY)        2Q         1.55 
+Great Plains Energy Inc.          (GXP)          3Q          .69         AMC 
+Hain Celestial Grp Inc.           (HAIN)         1Q          .24 
+Hansen Medical Inc.               (HNSN)         3Q         (.33) 
+Harman Intl Indus Inc.            (HAR)          1Q         (.23) 
+Harsco Corp.                      (HSC)          3Q          .49         BMO 
+HealthSpring Inc.                 (HS)           3Q          .62         BMO 
+Heartland Payment Syss Inc.       (HPY)          3Q          .27 
+
+26 Oct 2009 06:00 EDT DJ 
+Calendar Of U.S. Earnings Expected In The Week -6-
+
+
+Hertz Global Hldgs Inc.           (HTZ)          3Q          .23         AMC 
+Holly Energy Partners L.P.        (HEP)          3Q          .75         BMO 
+Hypercom Corp.                    (HYC)          3Q          .02 
+I.D. Syss Inc.                    (IDSY)         3Q         (.13) 
+IDACORP Inc.                      (IDA)          3Q         1.07         BMO 
+Idenix Pharms Inc.                (IDIX)         3Q         (.23)        AMC 
+Immunogen Inc.                    (IMGN)         1Q         (.20) 
+Imperial Oil Ltd.                 (IMO)          3Q          .57 
+Ingram Micro Inc.                 (IM)           3Q          .20         AMC 
+Interactive Data Corp.            (IDC)          3Q          .35         AMC 
+Intermec Inc.                     (IN)           3Q         (.01)        AMC 
+InterMune Inc.                    (ITMN)         3Q         (.21) 
+Invest Tech Grp Inc.              (ITG)          3Q          .42         BMO 
+Iowa TeleCommun Svcs Inc.         (IWA)          3Q          .15         BMO 
+Iron Mountain Inc.                (IRM)          3Q          .24         BMO 
+IXYS Corp.                        (IXYS)         2Q          .00 
+Kansas City Southern              (KSU)          3Q          .25         BMO 
+Kaydon Corp.                      (KDN)          3Q          .26         BMO 
+KB Fincl Grp Inc.                 (KB)           3Q          .62 
+KBR Inc.                          (KBR)          3Q          .41 
+Kellogg Co.                       (K)            3Q          .83      8:00AM 
+Kennametal Inc.                   (KMT)          1Q         (.14) 
+Key Energy Svcs Inc.              (KEG)          3Q         (.16) 
+KLA-Tencor Corp.                  (KLAC)         1Q          .01      4:15PM 
+Labarge Inc.                      (LB)           1Q          .16         BMO 
+Lancaster Colony Corp.            (LANC)         1Q          .83         BMO 
+LeapFrog Enterp Inc.              (LF)           3Q          .09 
+Liberty Media Corp. Series A     (LMDIA)         3Q           .32 
+Littelfuse Inc.                   (LFUS)         3Q          .24         BMO 
+Liz Claiborne Inc.                (LIZ)          3Q         (.17) 
+LKQ Corp.                         (LKQX)         3Q          .19         BMO 
+Lubrizol Corp.                    (LZ)           3Q         2.19      8:00AM 
+Manitowoc Co.                     (MTW)          3Q          .08         AMC 
+MarineMax Inc.                    (HZO)          4Q         (.60) 
+Maxim Integrated Products Inc.    (MXIM)         1Q          .14      4:00PM 
+McAfee Inc.                       (MFE)          3Q          .60 
+MDC Partners Inc                  (MDCA)         3Q          .05         AMC 
+Medarex Inc                       (MEDX)         3Q         (.33) 
+Meredith Corp.                    (MDP)          1Q          .33         BMO 
+Metabolix Inc.                    (MBLX)         3Q         (.45)        AMC 
+MetLife Inc.                      (MET)          3Q          .84         AMC 
+Metso Corp.                       (MXCYY)        3Q          .40      6:00AM 
+Mettler-Toledo Intl Inc.          (MTD)          3Q         1.17 
+Micros Syss Inc.                  (MCRS)         1Q          .32      4:15PM 
+Midas Inc.                        (MDS)          3Q          .12 
+Mine Safety Appliances Co.        (MSA)          3Q          .37         BMO 
+Mohawk Indus Inc.                 (MHK)          3Q          .57 
+Monster Worldwide Inc.            (MWW)          3Q          .02         BMO 
+Moody's Corp.                     (MCO)          3Q          .38         BMO 
+Moog Inc.                         (MOG.A)        4Q          .39 
+Moog Inc.                         (MOG.B)        4Q          .39 
+Motorola Inc.                     (MOT)          3Q          .00      7:00AM 
+MPS Grp Inc.                      (MPS)          3Q          .02         BMO 
+Mylan Inc.                        (MYL)          3Q          .27         BMO 
+Nanometrics Inc.                  (NANO)         3Q         (.05)        AMC 
+Natl Penn BancShr Inc.            (NPBC)         3Q         (.01)     9:00AM 
+Navigant Consulting Inc.          (NCI)          3Q          .16      7:00AM 
+Neptune Orient Lines Ltd.         (NPTOY)        3Q         (.17) 
+Neurocrine Biosciences Inc.       (NBIX)         3Q         (.36) 
+Newmont Mining Corp.              (NEM)          3Q          .55 
+Newpark Resources Inc.            (NR)           3Q         (.04)        AMC 
+Noble Energy Inc.                 (NBL)          3Q          .81 
+NorthWestern Corp.                (NWE)          3Q          .33 
+NovaMed Inc.                      (NOVA)         3Q          .10      7:00AM 
+Novatel Wireless Inc.             (NVTL)         3Q          .13         AMC 
+Novo Nordisk A/S                  (NVO)          3Q          .84         BMO 
+NRG Energy Inc.                   (NRG)          3Q         1.12 
+Nu Skin Enterp Inc.               (NUS)          3Q          .40         BMO 
+O'Charley's Inc.                  (CHUX)         3Q         (.11)        BMO 
+Odyssey Re Hldgs Corp.            (ORH)          3Q          .69 
+Office Depot Inc.                 (ODP)          3Q         (.10) 
+OfficeMax Inc.                    (OMX)          3Q          .16 
+Olympic Steel Inc.                (ZEUS)         3Q          .21 
+OpenTable Inc                     (OPEN)         3Q          .05         AMC 
+Oplink Commun Inc.                (OPLK)         1Q          .13         AMC 
+OPNET Tech Inc.                   (OPNT)         2Q          .02         AMC 
+Opnext Inc.                       (OPXT)         2Q         (.07) 
+Orthofix Intl N.V.                (OFIX)         3Q          .37      4:00PM 
+OSI Syss Inc.                     (OSIS)         1Q          .07 
+Otter Tail Corp.                  (OTTR)         3Q          .27         AMC 
+Palomar Medical Tech Inc.         (PMTI)         3Q         (.01) 
+Patterson-UTI Energy Inc.         (PTEN)         3Q         (.16)        BMO 
+PC-Tel Inc.                       (PCTI)         3Q          .03         AMC 
+Pepco Hldgs Inc.                  (POM)          3Q          .46 
+PerkinElmer Inc.                  (PKI)          3Q          .27         AMC 
+PG&E Corp.                        (PCG)          3Q          .92 
+Pharmerica Corp.                  (PMC)          3Q          .32         AMC 
+Phase Forward Inc.                (PFWD)         3Q          .10 
+Pinnacle Entertain Inc.           (PNK)          3Q          .02         BMO 
+Pinnacle West Capital Corp.       (PNW)          3Q         1.67 
+PNM Resources Inc.                (PNM)          3Q          .38      6:30AM 
+Poniard Pharms Inc.               (PARD)         3Q         (.30) 
+Portfolio Recovery Associates Inc. (PRAA)         3Q          .77         AMC 
+Portland General Electric Co.     (POR)          3Q          .22         BMO 
+Powerwave Tech Inc.               (PWAV)         3Q          .00      4:00PM 
+PPL Corp.                         (PPL)          3Q          .46         BMO 
+Preferred Bank Los Angeles        (PFBC)         3Q         (.41)        AMC 
+Pride Intl Inc.                   (PDE)          3Q          .42         BMO 
+Procter & Gamble Co.              (PG)           1Q          .95 
+Radiant Syss Inc.                 (RADS)         3Q          .16 
+RADVision Ltd.                    (RVSN)         3Q          .10      8:00AM 
+RealNetworks Inc.                 (RNWK)         3Q         (.06) 
+Regal Entertain Grp               (RGC)          3Q          .09      4:00PM 
+Regis Corp.                       (RGS)          2Q          .23 
+Royal Dutch Shell PLC             (RDS.B)        3Q          .93      3:00AM 
+RSC Hldgs Inc.                    (RRR)          3Q         (.13)        AMC 
+Ruddick Corp.                     (RDK)          4Q          .47 
+SBA Commun Corp.                  (SBAC)         3Q         (.24)        AMC 
+Schweitzer-Mauduit Intl Inc.      (SWM)          3Q          .94 
+Seacoast Banking Corp. of Florida (SBCF)         3Q         (.21)        AMC 
+Semicon Mfg Intl Corp.            (SMI)          3Q        -0.200000  Before Market 
+Sempra Energy                     (SRE)          3Q         1.19 
+Senomyx Inc.                      (SNMX)         3Q         (.21) 
+Sequenom Inc.                     (SQNM)         3Q         (.28) 
+Shaw Grp Inc.                     (SHAW)         4Q          .47      4:00PM 
+Silicon Motion Tech Corp.         (SIMO)         3Q         (.06)        AMC 
+Simpson Mfg Co.                   (SSD)          3Q          .26         AMC 
+Smith Intl Inc.                   (SII)          3Q          .15         BMO 
+Snap-On Inc.                      (SNA)          3Q          .45         BMO 
+Solvay S.A.                       (SVYSY)        3Q         2.04      2:30AM 
+Sourcefire Inc.                   (FIRE)         3Q          .11         BMO 
+Sprint Nextel Corp.               (S)            3Q         (.10)     7:00AM 
+Standard Pacific Corp.            (SPF)          3Q         (.10)        AMC 
+Stanley Inc.                      (SXE)          2Q          .42         AMC 
+StarTek Inc.                      (SRT)          3Q          .10         BMO 
+Steiner Leisure Ltd.              (STNR)         3Q          .59 
+Sterlite Indus (India) Ltd.       (SLT)          2Q          .19 
+Stratasys Inc.                    (SSYS)         3Q          .06 
+Strayer Education Inc.            (STRA)         3Q         1.15         BMO 
+Superior Indus Intl Inc.          (SUP)          3Q         (.14) 
+SureWest Commun                   (SURW)         3Q          .04         AMC 
+Symmetricom Inc.                  (SYMM)         1Q          .01 
+Syntel Inc.                       (SYNT)         3Q          .58         BMO 
+Taiwan Semicon Mfg Co. Ltd.       (TSM)          3Q          .18 
+Techwell Inc.                     (TWLL)         3Q          .13         AMC 
+
+26 Oct 2009 06:00 EDT DJ 
+Calendar Of U.S. Earnings Expected In The Week -7-
+
+
+TeleCommunication Syss Inc.       (TSYS)         3Q          .09         AMC 
+Telenor ASA                       (TELNY)        3Q          .88      2:00AM 
+Tenneco Inc.                      (TEN)          3Q          .02         BMO 
+Tessera Tech Inc.                 (TSRA)         3Q          .40         AMC 
+Thoratec Corp.                    (THOR)         3Q          .19 
+Tidewater Inc.                    (TDW)          2Q         1.45         BMO 
+Timberland Co.                    (TBL)          3Q          .45         BMO 
+Timken Co.                        (TKR)          3Q         (.26)        BMO 
+Town Sports Intl Hldgs Inc.       (CLUB)         3Q         (.06) 
+TranS1 Inc.                       (TSON)         3Q         (.35)        AMC 
+U.S. Auto Parts Network Inc.      (PRTS)         3Q          .00         AMC 
+Ultralife Corp.                   (ULBI)         3Q         (.20)        BMO 
+Unit Corp.                        (UNT)          3Q          .60 
+United Therapeutics Corp.         (UTHR)         3Q          .31         BMO 
+Universal Health Svcs Inc.        (UHS)          3Q          .87         AMC 
+UPM-Kymmene Corp.                 (UPMKY)        3Q          .07      2:30AM 
+Valassis Commun Inc.              (VCI)          3Q          .28         BMO 
+Varian Medical Syss Inc.          (VAR)          4Q          .75         AMC 
+Vectren Corp.                     (VVC)          3Q          .21         AMC 
+Ventas Inc.                       (VTR)          3Q          .40         BMO 
+Virgin Media Inc.                 (VMED)         3Q         (.18)     3:00AM 
+VisionChina Media Inc.            (VISN)         3Q          .11         AMC 
+Vistaprint N.V.                   (VPRT)         1Q          .35      4:05PM 
+Volcom Inc.                       (VLCM)         3Q          .37      4:00PM 
+Volkswagen AG                     (VLKAY)        3Q          .21 
+Volkswagen Ag Spon Adr Pref       (VLKPY)        3Q          .21 
+Wabtec                            (WAB)          3Q          .57         BMO 
+Waste Mgmt Inc.                   (WM)           3Q          .53         BMO 
+Websense Inc.                     (WBSN)         3Q          .29         BMO 
+West Pharm Svcs Inc.              (WST)          3Q          .53 
+Westport Innovations Inc.         (WPRT)         2Q         (.25) 
+Williams Cos.                     (WMB)          3Q          .19         BMO 
+Williams Partners L.P.            (WPZ)          3Q          .65         BMO 
+Williams Pipeline Partners L.P.   (WMZ)          3Q          .37         BMO 
+Wisconsin Energy Corp.            (WEC)          3Q          .54         BMO 
+Woori Finance Hldgs Co. Ltd.      (WF)           3Q          .85 
+World Acceptance Corp.            (WRLD)         2Q     0.740000   Unspecified 
+Wright Medical Grp Inc.           (WMGI)         3Q     0.100000          .67 
+Xcel Energy Inc.                  (XEL)          3Q     0.540000  Before Market 
+ 
+Friday 
+Advanced Semicon Engineering Inc. (ASX)          3Q          .07 
+Allete Inc.                       (ALE)          3Q          .52         BMO 
+Altra Hldgs Inc.                  (AIMC)         3Q          .00 
+Ameren Corp.                      (AEE)          3Q         1.06 
+American Axle & Mfg Hldgs Inc.    (AXL)          3Q         (.37)     8:00AM 
+AMERIGrp Corp.                    (AGP)          3Q          .57      6:00AM 
+AON Corp.                         (AOC)          3Q          .65         BMO 
+Apartment Invest & Mgmt Co.       (AIV)          3Q         (.39)        BMO 
+Arch Coal Inc.                    (ACI)          3Q          .04 
+Barnes Grp Inc.                   (B)            3Q          .21         BMO 
+Berkshire Hathaway Inc.           (BRK.A)        3Q      1308.25 
+Berkshire Hathaway Inc.           (BRK.B)        3Q        43.61 
+BioScrip Inc.                     (BIOS)         3Q          .09         BMO 
+Calpine Corp                      (CPNLQ)        3Q          .27         BMO 
+Calpine Corp.                     (CPN)          3Q          .27         BMO 
+Capital Product Partners L.P.     (CPLP)         3Q          .30         BMO 
+Chevron Corp.                     (CVX)          3Q         1.44 
+Commercial Metals Co.             (CMC)          4Q          .01 
+Constellation Energy Grp Inc.     (CEG)          3Q         1.06 
+Coventry Health Care Inc.         (CVH)          3Q          .55 
+Cummins Inc.                      (CMI)          3Q          .37 
+Dominion Resources Inc. (Virginia) (D)            3Q          .90 
+Domtar Corp.                      (UFS)          3Q          .08         BMO 
+Duke Energy Corp.                 (DUK)          3Q          .39      7:00AM 
+Eldorado Gold Corp.               (EGO)          3Q          .07         BMO 
+EMS Tech Inc.                     (ELMG)         3Q          .41 
+Erste Grp Bank AG                 (EBKDY)        3Q          .35      2:00AM 
+Estee Lauder Cos.                 (EL)           1Q          .33 
+Exterran Hldgs Inc.               (EXH)          3Q          .14 
+Gartner Inc B                     (IT.B)         3Q          .14         BMO 
+Gartner Inc.                      (IT)           3Q          .14         BMO 
+Graham Corp.                      (GHM)          2Q          .03         BMO 
+Harmony Gold Mining Co. Ltd.      (HMY)          1Q          .05      2:00AM 
+HMS Hldgs Corp.                   (HMSY)         3Q          .30         BMO 
+ICICI Bank Ltd.                   (IBN)          2Q          .33 
+Interline Brands Inc.             (IBI)          3Q          .34         BMO 
+iStar Fincl Inc.                  (SFI)          3Q        (1.95)        BMO 
+ITT Corp.                         (ITT)          3Q          .89      7:00AM 
+Kyocera Corp.                     (KYO)          2Q          .41 
+Lance Inc.                        (LNCE)         3Q          .36         BMO 
+Lincoln Electric Hldgs Inc.       (LECO)         3Q          .42         BMO 
+M.D.C. Hldgs Inc.                 (MDC)          3Q         (.42)        BMO 
+Magellan Health Svcs Inc.         (MGLN)         3Q          .66      6:30AM 
+MDU Resources Grp Inc.            (MDU)          3Q          .44 
+MoneyGram Intl Inc.               (MGI)          3Q          .09 
+Natus Medical Inc.                (BABY)         3Q          .11 
+NiSource Inc.                     (NI)           3Q          .00         BMO 
+NYSE Euronext                     (NYX)          3Q          .46      2:30AM 
+OGE Energy Corp.                  (OGE)          3Q         1.31 
+OneBeacon Insur Grp Ltd.          (OB)           3Q          .39         BMO 
+Orkla ASA                         (ORKLY)        3Q          .10      2:00AM 
+Penske Automotive Grp Inc.        (PAG)          3Q          .28 
+Progress Energy Inc.              (PGN)          3Q         1.20 
+RBC Bearings Inc.                 (ROLL)         2Q          .32         BMO 
+Regency Centers Corp.             (REG)          3Q          .30         BMO 
+Ruth's Hospitality Grp Inc.       (RUTH)         3Q          .00      7:00AM 
+Sandvik AB                        (SDVKY)        3Q         (.09)     3:00AM 
+Sanofi-Aventis S.A.               (SNY)          3Q         1.27      2:30AM 
+Shire PLC                         (SHPGY)        3Q          .49      8:00AM 
+Simon Ppty Grp Inc.               (SPG)          3Q          .34 
+Southwestern Energy Co.           (SWN)          3Q          .35 
+Sterling Bancorp                  (STL)          3Q          .06 
+TECO Energy Inc.                  (TE)           3Q          .34         BMO 
+Tim Hortons Inc.                  (THI)          3Q          .43         BMO 
+TIM Participacoes S/A             (TSU)          3Q          .20 
+UIL Hldgs Corp.                   (UIL)          3Q          .74         AMC 
+Ultra Petroleum Corp.             (UPL)          3Q          .53         BMO 
+Westar Energy Inc.                (WR)           3Q          .88         AMC 
+Weyerhaeuser Co.                  (WY)           3Q         (.46)        BMO 
+<table> 
+
+(Companies tentatively scheduled to report quarterly earnings during the next five trading days. At least three brokerage analysts must be forecasting an EPS for the company to be included in this report. The Factset EPS estimate is the average.)
+
+(END) Dow Jones Newswires
+
+October 26, 2009 06:00 ET (10:00 GMT)

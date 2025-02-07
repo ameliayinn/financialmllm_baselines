@@ -1,0 +1,315 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Friday and early Monday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Acacia Communications Inc (ACIA) 
+ Shanmugaraj Murugesa (CEO 3/14/18-3/15/18       23,225   $43.60   1,093,953 
+ 
+Air Lease Corp (AL) CL A 
+ Levy Grant A (VP)             3/16/18           10,000   $44.01     168,399 
+ 
+Alnylam Pharmaceuticals Inc (ALNY) 
+ Greene Barry E (P)            3/14/18           38,460  $143.10      64,778 
+ Vaishnaw Akshay (VP)          3/14/18           88,554  $143.10      11,553 
+ 
+Alteryx Inc (AYX) CL A 
+ Eide Langley P (O)            3/15/18           37,100   $36.26      18,189 
+ Stoecker Dean (CB)        3/14/18-3/15/18       40,000   $36.50      40,000 
+ 
+Ametek Inc (AME) 
+ Kohlhagen Steven W (D)        3/16/18            5,000   $78.64      44,298 
+ 
+Amphastar Pharmaceuticals Inc (AMPH) 
+ Prins Richard K (D)           3/15/18           16,598   $19.90      28,844 
+ 
+Arcadia Biosciences Inc (RKDA) 
+ Rey Eric J (D)            3/14/18-3/15/18       21,255   $45.38       7,335 
+ 
+At Home Group Inc (HOME) 
+ Ahlman Alissa M (O)           3/14/18           10,234   $29.17           0 
+ Bird Lewis L III (CB)         3/14/18           26,588   $29.16      31,355 
+ 
+Athene Holding Ltd (ATH) CL A 
+ Kvalheim Grant (O)        3/15/18-3/16/18       85,000   $50.05   2,097,657 
+ 
+BlackLine Inc (BL) 
+ Murphy Chris (O)              3/14/18           50,000   $39.60      18,872 
+ 
+Booking Holdings Inc (BKNG) 
+ Millones Peter J (VP)         3/15/18            3,629 2,186.98       3,603 
+ Tans Gillian (O)              3/15/18              295 2,190.01       8,191 
+ 
+Box Inc (BOX) CL A 
+ Levin Daniel J (D)            3/15/18          100,000   $20.91       5,790 
+ 
+Boyd Gaming Corp (BYD) 
+ Johnson Marianne Boy (OD)     3/14/18           89,783   $33.87   7,718,771 
+ Thompson Stephen S (VP)       3/15/18           24,906   $33.55     100,479 
+ 
+Bright Horizons Family Solutions Inc (BFAM) 
+ Kramer Stephen Howar (CEO     3/15/18            2,961   $99.61     104,400 
+ 
+Broadcom Ltd (AVGO) 
+ Tan Hock E (CEO)              3/15/18           20,000  $264.13     109,834 
+ 
+Burlington Stores Inc (BURL) 
+ Sullivan Paul J (D)           3/14/18            5,000  $127.01       7,242 
+ 
+Casella Waste Systems Inc (CWST) CL A 
+ Coletta Edmond (CFO)          3/15/18           25,000   $23.29     150,255 
+ 
+CDW Corp (CDW) 
+ Campbell Neal J (VP)          3/15/18            3,805   $75.36      32,024 
+ Richards Thomas E (CB)        3/14/18           13,219   $75.26     663,063 
+ 
+ChannelAdvisor Corp (ECOM) 
+ Wingo Mitchell Scot (CB)      3/16/18           40,000    $9.15     762,052 
+ 
+Chegg Inc (CHGG) 
+ Tomasello Robin (VP)      3/14/18-3/16/18      138,949   $21.65     108,226 
+ 
+Chubb Ltd (CB) 
+ Bancroft Philip V (CFO)       3/15/18           55,675  $140.94     286,660 
+ 
+Cisco Systems Inc (CSCO) 
+ Goeckeler David (VP)          3/15/18           20,671   $45.50     544,052 
+ 
+Cloudera Inc (CLDR) 
+ Olson Michael (CB)            3/14/18           27,619   $20.19   2,852,437 
+ 
+Domino's Pizza Inc (DPZ) 
+ Trojan Greg (D)               3/14/18            3,000  $227.78       1,050 
+ 
+Dynavax Technologies Corp (DVAX) 
+ Novack David F (VP)           3/15/18           16,109   $16.30           0 
+ 
+Ecolab Inc (ECL) 
+ Inchaustegui Roberto (VP)     3/14/18            4,800  $137.43      24,222 
+ 
+Encore Capital Group Inc (ECPG) 
+ Grinberg Paul (O)             3/14/18           19,275   $44.16     170,168 
+ 
+Equinix Inc (EQIX) 
+ Strohmeyer Karl (O)           3/16/18            2,717  $420.00       1,298 
+ 
+Extra Space Storage Inc (EXR) 
+ Stubbs P Scott (CFO)          3/15/18            9,250   $85.73     135,723 
+ 
+Farmer Bros Co (FARM) 
+ Grossman Jeanne Farm (D)  3/12/18-3/14/18       15,700   $33.36   1,873,237 
+ 
+Federal Realty Investment Trust (FRT) 
+ Wood Donald C (CEO)           3/14/18           30,000  $117.76     380,273 
+ 
+FibroGen Inc (FGEN) 
+ Yu K Peony (O)                3/14/18            9,891   $53.20     160,333 
+ 
+Five9 Inc (FIVN) 
+ Burkland Michael (CB)         3/15/18           24,000   $30.89     752,482 
+ 
+HealthEquity Inc (HQY) 
+ Dreier Ashley (VP)            3/14/18           32,593   $60.00       5,652 
+ 
+Heron Therapeutics Inc (HRTX) 
+ Quart Barry D (CEO)           3/14/18          100,000   $24.75      67,993 
+ 
+Hortonworks Inc (HDP) 
+ Bearden Robert G (CB)     3/14/18-3/15/18      125,000   $20.42   2,773,979 
+ 
+ImmunoGen Inc (IMGN) 
+ Junius Daniel M (D)           3/16/18           25,000   $12.02     184,987 
+ 
+Insulet Corp (PODD) 
+ Alpuche Charles (VP)          3/15/18            7,090   $84.65      42,973 
+ Fallon John A (D)             3/14/18            9,000   $84.10       9,558 
+ Thomas Bradley A (VP)         3/14/18            7,250   $83.81      70,328 
+ 
+Intercontinental Exchange Inc (ICE) 
+ Wassersug Mark (COO)          3/15/18            7,898   $74.19      29,079 
+ 
+Intersect ENT Inc (XENT) 
+ Earnhardt Lisa D (CEO)        3/15/18           15,000   $38.32     510,865 
+ 
+Intuit Inc (INTU) 
+ Cook Scott D (OD)         3/15/18-3/16/18      214,272  $177.94  10,672,057 
+ 
+Invesco Ltd (IVZ) 
+ Flanagan Martin L (CEO)   3/14/18-3/15/18      422,860   $33.12   3,640,974 
+ 
+IPG Photonics Corp (IPGP) 
+ Hurley William S (D)          3/14/18            3,500  $255.93      11,005 
+ 
+Korea Fund Inc (KF) 
+ City Of London Inves (SH)     3/15/18            8,618   $41.82   2,041,956 
+ 
+Korn/Ferry International (KFY) 
+ Perry Debra J (D)             3/16/18            5,520   $51.00      26,452 
+ 
+MAM Software Group Inc (MAMS) 
+ Mamanteo Dwight (D)           3/15/18           80,224    $7.60     210,379 
+ 
+MarketAxess Holdings Inc (MKTX) 
+ Mcpherson Kevin M (O)         3/15/18            2,500  $223.43      80,192 
+ 
+MasTec Inc (MTZ) 
+ Johnson Julia L (D)           3/14/18           15,000   $51.00      57,086 
+ 
+Matson Inc (MATX) 
+ Forest Ronald J (P)           3/15/18           10,000   $29.56      78,666 
+ 
+Midstates Petroleum Co Inc (MPO) 
+ Centerbridge Credit  (SH)     3/14/18           25,000   $13.50   2,441,947 
+ 
+MINDBODY Inc (MB) CL A 
+ Stollmeyer Richard L (CB)     3/14/18           13,600   $40.57     174,455 
+ 
+Morgan Stanley Emerging Markets Fund Inc (MSF) 
+ City Of London Inves (SH)     3/15/18           40,273   $18.71   3,724,115 
+ 
+National Instruments Corp (NATI) 
+ Truchard James J (CB)     3/14/18-3/15/18       80,000   $52.00   7,924,909 
+ 
+Nutanix Inc (NTNX) CL A 
+ Long Kenneth W III (VP)       3/14/18           32,002   $54.36     179,390 
+ 
+Ollie's Bargain Outlet Holdings Inc (OLLI) 
+ Segura Omar (VP)              3/14/18           31,500   $58.93           0 
+ 
+ON Semiconductor Corp (ON) 
+ Klosterboer Robert A (VP)     3/14/18           16,249   $25.88     363,030 
+ 
+Owens Corning Inc (OC) 
+ Genis Arnaud (O)          3/14/18-3/15/18       59,541   $81.33      28,875 
+ 
+PetIQ Inc (PETQ) 
+ Newland John (CFO)            3/14/18           11,000   $25.00     180,815 
+ 
+Phibro Animal Health Corp (PAHC) CL A 
+ Bendheim Jack C (CB)      3/14/18-3/15/18       24,000   $40.05      12,000 
+ 
+ 
+
+19 Mar 2018 08:44 ET 
+Substantial Insider Sales: Morning Report -2-
+
+
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ Bfi Co LLC (SH)           3/14/18-3/15/18       24,000   $40.05      12,000 
+ 
+PRGX Global Inc (PRGX) 
+ Allums Victor A (VP)      3/14/18-3/16/18       38,698    $8.97     138,129 
+ 
+Providence Service Corp (PRSC) 
+ Shackelton David Cas (CFO 3/15/18-3/16/18       20,533   $69.61      15,167 
+ 
+Q2 Holdings Inc (QTWO) 
+ Seale R H III (CB)            3/14/18           39,440   $47.30   3,274,379 
+ 
+Qorvo Inc (QRVO) 
+ Creviston Steven E (VP)       3/15/18            6,000   $79.48      70,725 
+ 
+Quad/Graphics Inc (QUAD) CL A 
+ Frankowski Thomas J (COO)     3/14/18           96,032   $26.67     260,349 
+ 
+QuinStreet Inc (QNST) 
+ Wong Gregory (CFO)            3/15/18           22,929   $13.69     236,446 
+ 
+RadNet Inc (RDNT) 
+ Hames Norman R (OD)       3/13/18-3/16/18       40,000   $12.95     352,450 
+ 
+RBC Bearings Inc (ROLL) 
+ Crainer Thomas C (VP)         3/15/18            5,000  $124.92      12,519 
+ 
+RealPage Inc (RP) 
+ Chaney William P (VP)         3/14/18            5,000   $53.05     194,415 
+ Hill W Bryan (CFO)            3/14/18            8,000   $52.89     234,232 
+ 
+Ross Stores Inc (ROST) 
+ Brautigan Bernard G (O)       3/15/18            8,587   $76.80     184,502 
+ Garrett Sharon D (D)          3/15/18           26,000   $77.07     203,993 
+ 
+Skyworks Solutions Inc (SWKS) 
+ Gammel Peter L (O)            3/15/18           10,750  $111.21      13,730 
+ 
+Stitch Fix Inc (SFIX) CL A 
+ Hansen Marka (D)          3/14/18-3/16/18       14,700   $21.41           0 
+ Smith Mike C (COO)        3/14/18-3/16/18       80,000   $21.29           0 
+ 
+Summit Materials Inc (SUM) CL A 
+ Hill Thomas W (CEO)       3/14/18-3/16/18      447,959   $31.02     142,267 
+ 
+Sysco Corp (SYY) 
+ Tilghman Richard G (D)        3/15/18            5,000   $59.80      92,509 
+ 
+TechTarget Inc (TTGT) 
+ Cotoia Michael (CEO)      3/14/18-3/15/18       25,000   $18.76     136,812 
+ 
+Templeton Dragon Fund Inc (TDF) 
+ City Of London Inves (SH)     3/15/18           28,012   $23.00   9,445,492 
+ 
+Tetra Tech Inc/CA (TTEK) 
+ Lemmon Richard A (VP)         3/16/18           15,089   $51.09      36,696 
+ Mcdonald Kevin P (VP)         3/16/18           16,750   $50.98      22,964 
+ 
+United States Steel Corp (X) 
+ Breves Christine S (VP)       3/15/18           11,853   $38.47      36,268 
+ 
+United Therapeutics Corp (UTHR) 
+ Rothblatt Martine A (CB)  3/15/18-3/16/18       43,025  $111.11     683,629 
+ 
+Validus Holdings Ltd (VR) 
+ Driscoll Kean (P)             3/15/18            6,875   $67.53      90,233 
+ 
+Veeva Systems Inc (VEEV) CL A 
+ Wallach Matthew J (P)         3/15/18           12,000   $77.28           0 
+ 
+ViewRay Inc (VRAY) 
+ Dempsey James F (OD)          3/14/18           75,243    $7.57     182,602 
+ 
+Virtusa Corp (VRTU) 
+ Holler Thomas R (VP)          3/15/18           17,479   $50.53      38,189 
+ Modder Roger Keith (COO)      3/15/18           12,500   $50.03     181,945 
+ Rajgopal Raj (O)          3/15/18-3/16/18       41,108   $49.36      46,353 
+ 
+Vistra Energy Corp (VST) 
+ Apollo Management Ho (SH)     3/14/18        5,748,353   $20.03  40,131,762 
+ 
+Vonage Holdings Corp (VG) 
+ Citron Jeffrey A (CB)     3/14/18-3/16/18      500,000   $10.83  16,056,249 
+ 
+Walker & Dunlop Inc (WD) 
+ Warner Richard C (VP)     3/14/18-3/15/18       11,000   $53.51     111,160 
+ 
+Xencor Inc (XNCR) 
+ Baracchini Edgardo J (O)      3/15/18           40,000   $30.89           0 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+March 19, 2018 08:44 ET (12:44 GMT)

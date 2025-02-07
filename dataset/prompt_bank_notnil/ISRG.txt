@@ -1,0 +1,555 @@
+
+ 
+Company Name                             Value      Holdings          Change 
+ 
+ 
+BANK OF AMERICA CORP  COM         $184,899,614    14,377,886     (6,062,600) 
+SIRIUS XM RADIO INC  COM           $27,484,090     8,204,206     (6,000,000) 
+GENERAL ELECTRIC CO  COM          $316,307,194    13,639,810     (4,354,419) 
+REGIONS FINANCIAL CORP  COM        $59,408,114     6,233,800     (3,934,000) 
+POTASH CORP OF SASKATCHEWAN  C    $237,870,001     6,238,395     (3,861,613) 
+FREEPORT MCMORAN COPPER  CL B      $14,130,798       511,800     (3,737,402) 
+PFIZER INC  COM                   $204,534,034     7,302,179     (3,275,748) 
+BOSTON SCIENTIFIC CORP  COM         $6,226,307       671,662     (3,249,700) 
+BEST BUY INC  COM                  $47,254,253     1,729,025     (2,622,000) 
+HONEYWELL INTERNATIONAL INC  C    $326,776,071     4,118,680     (2,334,123) 
+CITIGROUP INC  COM                $220,992,417     4,606,888     (2,025,400) 
+SMITHFIELD FOODS INC  COM          $48,438,560     1,479,040     (1,961,598) 
+AT&T INC  COM                     $172,730,972     4,879,406     (1,958,969) 
+SPIRIT AEROSYSTEMS HOLDINGS  C     $15,666,696       729,362     (1,826,260) 
+NOBLE CORP  ORD REG               $108,902,067     2,897,873     (1,757,600) 
+RAYTHEON CO  COM                  $153,518,805     2,321,821     (1,729,233) 
+FOREST LABORATORIES INC  COM       $30,106,300       734,300     (1,297,300) 
+AES CORP  COM                      $35,232,615     2,938,500     (1,243,000) 
+ENDO HEALTH SOLUTIONS INC  COM      $2,759,250        75,000     (1,225,000) 
+DEAN FOODS CO  COM                 $30,140,451     3,008,029     (1,220,000) 
+PHILLIPS 66  COM                   $49,419,599       838,900     (1,213,200) 
+MRC GLOBAL INC  COM                $22,446,387       812,686     (1,206,510) 
+HARMAN INTL INDS  COM               $5,403,740        99,700     (1,191,000) 
+GENTEX CORP  COM                   $22,890,725       993,090     (1,134,257) 
+ROCKWELL COLLINS INC  COM          $68,724,646     1,083,814     (1,083,452) 
+BUNGE LTD  COM                     $15,028,859       212,362     (1,080,000) 
+WALT DISNEY CO  COM               $144,923,693     2,294,912     (1,039,500) 
+LEAR CORP  COM                     $31,239,924       516,704       (952,463) 
+EMC CORP/MA  COM                   $94,411,691     3,997,108       (945,937) 
+PNC FINANCIAL SERVICES GROUP       $71,771,364       984,248       (934,000) 
+MUELLER WATER PRODUCTS INC  CL     $10,442,371     1,511,197       (888,803) 
+NRG ENERGY INC  COM                $12,781,290       478,700       (833,500) 
+GOLDMAN SACHS GROUP INC  COM       $14,187,250        93,800       (806,100) 
+FRANCESCAS HOLDINGS CORP  COM      $27,115,120       975,715       (803,925) 
+BEACON ROOFING SUPPLY INC  COM      $3,947,096       104,200       (786,238) 
+COMCAST CORP  CL A                $130,859,948     3,134,370       (785,100) 
+ROCKWELL AUTOMATION INC  COM       $10,227,301       123,013       (772,919) 
+ELI LILLY & CO  COM                   $555,056        11,300       (766,900) 
+UNILEVER NV  NY SH                 $20,894,326       531,527       (750,000) 
+GANNETT INC  COM                   $23,635,453       966,290       (738,310) 
+STAGE STORES INC  COM              $11,768,753       500,798       (699,202) 
+AGILENT TECHNOLOGIES INC  COM       $4,429,979       103,601       (696,100) 
+MEDIVATION INC  COM               $159,297,300     3,237,750       (683,712) 
+DISH NETWORK CORP  CL A            $51,024,000     1,200,000       (683,000) 
+URBAN OUTFITTERS INC  COM          $96,610,129     2,402,042       (651,700) 
+MYRIAD GENETICS INC  COM           $16,122,000       600,000       (650,000) 
+SYNCHRONOSS TECHNOLOGIES INC       $33,343,675     1,080,132       (605,859) 
+TWENTY FIRST CENTURY FOX INC      $108,555,843     3,331,978       (594,000) 
+GILEAD SCIENCES INC  COM          $247,838,872     4,833,994       (582,700) 
+HHGREGG INC  COM                    $6,376,374       399,272       (575,000) 
+KRAFT FOODS GROUP INC  COM         $81,701,103     1,462,343       (573,693) 
+JAZZ PHARMACEUTICALS PLC  ORD      $23,024,550       335,000       (565,759) 
+ITAU UNIBANCO HOLDING SA  ADR       $7,106,000       550,000       (550,000) 
+DIODES INC  COM                     $3,711,165       142,902       (532,398) 
+POST HOLDINGS INC  COM              $4,833,075       110,698       (514,851) 
+TIME WARNER INC  COM               $26,011,368       449,868       (509,400) 
+EBAY INC  COM                      $61,251,996     1,184,300       (506,700) 
+ST JUDE MEDICAL INC  COM           $16,396,684       359,340       (502,800) 
+LYONDELLBASELL INDUSTRIES  ORD    $137,666,215     2,077,667       (483,198) 
+NII HOLDINGS INC  COM               $2,801,642       420,667       (450,000) 
+ALLSTATE CORP  COM                 $87,065,296     1,809,337       (449,700) 
+CHEVRON CORP  COM                 $275,018,373     2,323,968       (424,000) 
+SOUTHWEST GAS CORP  COM            $43,938,243       939,052       (400,000) 
+COSTCO WHOLESALE CORP  COM         $24,746,561       223,809       (395,000) 
+MICRON TECHNOLOGY INC  COM         $15,503,627     1,081,900       (392,900) 
+CONNS INC  COM                     $11,634,509       224,778       (375,000) 
+HOLLYFRONTIER CORP  COM             $1,433,130        33,500       (366,500) 
+CORCEPT THERAPEUTICS INC  COM       $1,134,852       655,984       (357,637) 
+WABCO HOLDINGS INC  COM            $80,424,549     1,076,778       (353,945) 
+COMERICA INC  COM                  $41,889,211     1,051,700       (347,900) 
+MARATHON OIL CORP  COM             $36,583,704     1,057,944       (345,000) 
+HALLIBURTON CO  COM                $85,395,500     2,046,872       (344,400) 
+OREXIGEN THERAPEUTICS INC  COM      $5,120,220       876,000       (324,000) 
+PRAXAIR INC  COM                   $34,941,387       303,416       (320,535) 
+COLGATE PALMOLIVE CO  COM          $31,369,598       547,558       (319,538) 
+ALLERGAN INC  COM                  $15,304,386       181,676       (319,400) 
+WAL MART STORES INC  COM          $198,408,733     2,663,562       (309,982) 
+OCEAN RIG UDW INC  ORD             $76,165,170     4,066,480       (305,523) 
+DEERE & CO  COM                     $2,500,388        30,774       (305,052) 
+QUESTCOR PHARMACEUTICALS INC       $27,264,000       600,000       (300,000) 
+ALLETE INC  COM                    $47,357,500       950,000       (300,000) 
+DTE ENERGY CO  COM                 $35,669,423       532,300       (298,000) 
+THERMO FISHER SC (ELECTRON) IN     $63,326,852       748,279       (295,900) 
+STRYKER CORP  COM                  $75,788,790     1,171,750       (295,700) 
+CATERPILLAR INC  COM               $45,048,449       546,108       (291,292) 
+RAYMOND JAMES FINANCIAL INC  C      $5,157,600       120,000       (280,000) 
+CARDIOVASCULAR SYSTEMS INC  CO      $6,856,038       323,398       (276,602) 
+AMC NETWORKS INC  CL A             $51,548,049       789,041       (273,748) 
+XL GROUP PLC  ORD                  $38,306,015     1,263,391       (272,579) 
+VALERO ENERGY CORP  COM            $18,580,845       534,393       (271,307) 
+NIELSEN HOLDINGS NV  ORD            $5,206,450       155,000       (270,000) 
+CHENIERE ENERGY INC  COM          $100,911,403     3,635,137       (267,512) 
+ADVANCE AUTO PARTS INC  COM        $42,989,174       529,619       (267,167) 
+CAREFUSION CORP  COM               $12,010,152       325,920       (265,900) 
+THRESHOLD PHARMACEUTICALS INC       $7,281,418     1,384,300       (265,700) 
+TYCO INTERNATIONAL LTD  COM       $130,757,890     3,968,373       (259,420) 
+KNOLL INC  COM                     $26,966,715     1,897,728       (250,000) 
+AMEDISYS INC  COM                   $9,753,557       840,534       (247,466) 
+UNITED CONTINENTAL HOLDINGS IN      $3,048,772        97,436       (240,133) 
+CUMMINS INC  COM                      $779,936         7,191       (239,767) 
+DOLLAR GENERAL CORP  COM            $7,129,087       141,366       (234,390) 
+ARMSTRONG WORLD INDUSTRIES INC    $112,234,480     2,348,493       (227,886) 
+ACUITY BRANDS INC  COM              $4,720,000        62,500       (218,353) 
+LOUISIANA PACIFIC CORP  COM        $27,939,523     1,889,082       (217,348) 
+RALPH LAUREN CORP  CL A            $15,342,458        88,307       (212,203) 
+MACYS INC  COM                        $211,200         4,400       (210,700) 
+EATON CORP PLC  COM                $46,403,355       705,111       (205,073) 
+CENTURYLINK (CENTURYTEL) INC        $5,805,495       164,229       (202,435) 
+WEATHERFORD INTERNATIONAL LTD       $2,397,500       175,000       (200,000) 
+DRESSER RAND GROUP INC  COM        $20,678,225       344,752       (191,376) 
+HUNTINGTON BANCSHARES INC  COM     $16,820,551     2,137,300       (190,500) 
+PRUDENTIAL FINANCIAL INC  COM      $74,042,926     1,013,870       (175,328) 
+HB FULLER CO  COM                  $33,196,802       877,990       (173,790) 
+TESARO INC  COM                    $10,661,257       325,634       (171,635) 
+MEAD JOHNSON NUTRITION CO  COM     $11,293,999       142,547       (156,487) 
+LIONS GATE ENTERTAINMENT CORP       $1,324,466        48,215       (155,000) 
+ALPHATEC HOLDINGS INC  COM            $353,795       172,583       (151,992) 
+CHILDRENS PLACE RETAIL STORES      $82,880,780     1,512,423       (150,335) 
+HMS HOLDINGS CORP  COM              $7,083,200       304,000       (150,000) 
+PEOPLES UNITED FINANCIAL INC        $2,097,920       140,800       (146,200) 
+PEPSICO INC  COM                   $64,014,416       782,668       (142,400) 
+TRAVELERS COS INC  CL A            $40,012,268       500,654       (136,700) 
+PERKINELMER INC  COM                $2,506,270        77,116       (132,200) 
+GLOBAL POWER EQUIPMENT GROUP        $1,620,237       100,511       (130,262) 
+APTARGROUP INC  COM                $67,684,976     1,225,955       (126,515) 
+EXXON MOBIL CORP  COM             $469,685,830     5,198,515       (124,500) 
+
+15 Aug 2013 09:46 EDT DJ 
+Adage Capital Mgmt LP 2Q 13F: Largest Sales -2-
+
+
+MCKESSON CORP  COM                 $58,968,416       515,008       (123,200) 
+APPLIED MATERIALS INC  COM         $24,065,408     1,612,963       (120,500) 
+UNIVERSAL HEALTH SERVICES INC       $3,013,200        45,000       (120,000) 
+MOSAIC CO  COM                     $22,032,182       409,444       (111,900) 
+SHERWIN WILLIAMS CO  COM           $23,702,546       134,216       (109,000) 
+ZIMMER HOLDINGS INC  COM            $4,983,510        66,500       (108,100) 
+TENNECO INC  COM                   $31,553,640       696,856       (107,898) 
+AMGEN INC  COM                     $43,938,034       445,348       (107,800) 
+ABBVIE INC  COM                    $95,222,225     2,303,392       (107,000) 
+CH ROBINSON WORLDWIDE INC  COM      $7,280,883       129,300       (100,100) 
+ACADIA HEALTHCARE CO INC  COM       $5,026,640       152,000       (100,000) 
+VALEANT PHARMACEUTICALS INTL        $8,608,000       100,000       (100,000) 
+RENT A CENTER INC  COM             $22,530,000       600,000       (100,000) 
+MICROCHIP TECHNOLOGY INC  COM         $372,202         9,992        (98,000) 
+ALTRIA GROUP INC  COM              $75,763,672     2,165,295        (93,200) 
+AKAMAI TECHNOLOGIES INC  COM       $14,174,809       333,133        (91,069) 
+JABIL CIRCUIT INC  COM              $5,593,984       274,484        (90,528) 
+INTUITIVE SURGICAL INC  COM        $62,426,321       123,340        (89,500) 
+MOLSON COORS BREWING CO  CL B       $3,206,859        67,005        (88,200) 
+LOWES COS INC  COM                 $40,722,085       995,650        (87,800) 
+CHARLES SCHWAB CORP  COM           $44,559,647     2,098,900        (87,500) 
+EMCOR GROUP INC  COM               $61,642,676     1,516,425        (84,402) 
+ELIZABETH ARDEN INC  COM            $4,121,657        91,509        (82,191) 
+EXPRESS SCRIPTS HOLDING CO  CO    $120,601,681     1,953,380        (80,700) 
+ARIAD PHARMACEUTICALS INC  COM     $45,836,952     2,620,752        (77,520) 
+BP PLC  ADR                         $7,275,282       174,300        (75,000) 
+CELGENE CORP  COM                  $61,153,518       522,769        (72,300) 
+EL PASO ELECTRIC CO  COM           $39,779,399     1,126,576        (71,700) 
+IDENIX PHARMACEUTICALS INC COM      $5,530,906     1,532,107        (67,900) 
+LIPOSCIENCE INC  COM                $3,372,703       482,504        (67,496) 
+UNUM GROUP COM                     $10,483,886       356,959        (67,000) 
+XILINX INC  COM                     $8,670,391       218,894        (65,500) 
+REINSURANCE GROUP OF AMERICA        $8,665,841       125,392        (64,608) 
+AMERICAN TOWER CORP  CL A          $36,496,903       498,796        (62,325) 
+WESTERN DIGITAL CORP  COM          $19,918,472       320,800        (54,300) 
+LENNOX INTERNATIONAL INC  COM      $20,818,732       322,571        (52,911) 
+PERRIGO CO  COM                    $11,458,579        94,699        (51,800) 
+BOEING CO  COM                    $277,279,368     2,706,749        (49,415) 
+GAMESTOP CORP  CL A                $63,169,535     1,502,963        (48,600) 
+BEAM INC  COM                       $9,525,192       150,930        (48,200) 
+JOHNSON & JOHNSON  COM            $218,690,056     2,547,054        (48,100) 
+NEXTERA ENERGY INC  COM           $158,266,752     1,942,400        (45,200) 
+US BANCORP/DE  COM                $139,111,020     3,848,161        (44,000) 
+NVIDIA CORP  COM                   $11,989,191       853,931        (40,400) 
+W W GRAINGER INC  COM              $29,429,658       116,701        (36,758) 
+AXIS CAPITAL HOLDINGS LTD  COM      $8,066,390       176,199        (31,845) 
+CANADIAN NATURAL RESOURCES LTD     $26,988,300       955,000        (30,000) 
+IMAX CORP  COM                     $16,355,394       657,900        (27,100) 
+BLACKROCK INC  CL A                $57,483,030       223,800        (24,500) 
+LAM RESEARCH CORP  COM             $11,798,830       266,099        (24,200) 
+WESTERN UNION CO  COM              $14,127,607       825,693        (20,600) 
+AMERICAN INTERNATIONAL GROUP       $82,384,559     1,843,055        (17,632) 
+HESS CORP  COM                     $16,569,308       249,200        (16,600) 
+AON PLC  CL A                      $19,291,293       299,787        (16,500) 
+ESTERLINE TECHNOLOGIES CORP  C     $24,861,326       343,911        (16,341) 
+ACE LTD  ORD                       $99,973,320     1,117,270         (9,603) 
+TREEHOUSE FOODS INC  COM            $5,108,581        77,946         (7,000) 
+NU SKIN ENTERPRISES INC  CL A       $9,974,662       163,198         (6,900) 
+LINCOLN ELECTRIC HOLDINGS INC      $25,448,554       444,361         (3,497) 
+XYLEM INC  COM                      $1,787,981        66,369           (358) 
+SAFEWAY INC  COM                    $7,602,904       321,340           (260) 
+APPLE INC  COM                    $536,777,110     1,353,686           (150) 
+
+13F data provided by: FactSet Research Systems Inc.; Please send questions to lionsharesinfo@factset.com. Copyright, FactSet Research Systems, 2013. All Rights Reserved.
+
+15 Aug 2013 09:46 EDT DJ 
+Adage Capital Mgmt LP 2Q 13F: Largest Eliminations
+
+
+DJ CFA SOURCE: SEC 13F-HR 
+FILER: Adage Capital Management LP 
+QUARTER ENDED: 06/30/2013 
+SEC RECEIVED: 08/14/2013 
+ 
+
+Up to 200 of the largest eliminated positions of Adage Capital Management LP are listed below, ordered by the number of shares sold during the three months ended June 30. 
+
+
+ 
+Company Name                    Ticker            Change 
+ 
+ 
+GERDAU SA  ADR PFD              GGB          (3,000,000) 
+PGT INC  COM                    PGTI         (2,045,244) 
+SYNOVUS FINANCIAL CORP  COM     SNV          (1,818,000) 
+DANA HOLDING CORP  COM          DAN          (1,219,535) 
+ENERGEN CORP  COM               EGN          (1,100,000) 
+LATTICE SEMICONDUCTOR CORP  CO  LSCC         (1,084,174) 
+SPECTRA ENERGY CORP  COM        SE             (941,600) 
+BANK OF NEW YORK MELLON CORP    BK             (835,500) 
+PARKER HANNIFIN CORP  COM       PH             (811,966) 
+STMICROELECTRONICS NV  NY REG   STM            (811,400) 
+ENERNOC INC  COM                ENOC           (800,284) 
+PENDRELL CORP  CL A             PCO            (800,000) 
+AMERICAN CAPITAL AGENCY CORP    AGNC           (767,172) 
+GRAPHIC PACKAGING HOLDING  COM  GPK            (700,000) 
+W R GRACE & CO  COM             GRA            (693,500) 
+DENTSPLY INTERNATIONAL INC  CO  XRAY           (624,900) 
+REGULUS THERAPEUTICS INC  COM   RGLS           (600,000) 
+NEWMONT MINING CORP  COM        NEM            (527,812) 
+PACKAGING CORP OF AMERICA  COM  PKG            (500,000) 
+PPL CORP  COM                   PPL            (472,995) 
+DIRECTV  COM                    DTV            (472,800) 
+TORO CO  COM                    TTC            (452,543) 
+TYSON FOODS INC  CL A           TSN            (444,793) 
+BELO CORP  CL A                 BLC            (400,000) 
+LIBERTY INTERACTIVE CORP  INT   LINTA          (395,000) 
+INTEGRA LIFESCIENCES HOLDINGS   IART           (356,476) 
+AXIALL CORP  COM                AXLL           (353,631) 
+TILE SHOP HOLDINGS INC  COM     TTS            (350,000) 
+WISCONSIN ENERGY CORP  COM      WEC            (330,100) 
+DENBURY RESOURCES INC  COM      DNR            (328,999) 
+CREDIT SUISSE GROUP  ADR        CS             (325,000) 
+ALERE INC  COM                  ALR            (322,700) 
+TEAM INC  COM                   TISI           (313,616) 
+PENTAIR LTD  COM                PNR            (308,033) 
+TWENTY FIRST CENTURY FOX INC    FOX            (300,000) 
+LIBERTY GLOBAL PLC  CL C        LBTYK          (298,179) 
+QUANTA SERVICES INC  COM        PWR            (294,600) 
+FEDEX CORP  COM                 FDX            (287,704) 
+PETROBRAS  ADR                  PBR            (269,756) 
+ATMEL CORP  COM                 ATML           (266,500) 
+LKQ CORP  COM                   LKQ            (261,320) 
+TESLA MOTORS INC  COM           TSLA           (242,416) 
+FLUOR CORP  COM                 FLR            (233,451) 
+SPX CORP  COM                   SPW            (230,540) 
+ASML HOLDING NV  NY SH          ASML           (230,040) 
+TCF FINANCIAL CORP  COM         TCB            (230,000) 
+ROYAL DUTCH SHELL PLC  ADR A    RDS.A          (224,858) 
+T MOBILE US INC  COM            TMUS           (224,758) 
+CLIFFS NATURAL RESOURCES INC    CLF            (203,317) 
+NXSTAGE MEDICAL INC  COM        NXTM           (191,100) 
+NORTHERN TRUST CORP  COM        NTRS           (188,400) 
+3M CO  COM                      MMM            (188,290) 
+DEVON ENERGY CORP  COM          DVN            (187,056) 
+WINDSTREAM CORP  COM            WIN            (175,235) 
+VERASTEM INC  COM               VSTM           (171,134) 
+RIGEL PHARMACEUTICALS INC  COM  RIGL           (159,863) 
+APPLIED INDUSTRIAL TECHNOLOGIE  AIT            (153,984) 
+TRIPADVISOR INC  COM            TRIP           (152,100) 
+JM SMUCKER CO  COM              SJM            (151,840) 
+APOLLO GROUP  CL A NON-VTG      APOL           (136,200) 
+WPX ENERGY INC  CL A            WPX            (133,800) 
+INTEGRYS ENERGY GROUP INC  COM  TEG            (111,314) 
+BANCO BRADESCO SA  ADR PFD      BBD            (110,000) 
+M&T BANK CORP  COM              MTB            (107,550) 
+CONOCOPHILLIPS  COM             COP            (101,500) 
+SOUTHWESTERN ENERGY CO  COM     SWN            (100,200) 
+CHEMTURA CORP  COM              CHMT           (100,000) 
+GLOBAL PAYMENTS INC  COM        GPN            (100,000) 
+PPL CORP  UNIT                  PPL.PRW        (100,000) 
+OWENS CORNING  COM              OC             (100,000) 
+INTERNATIONAL FLAVORS & FRAGRA  IFF             (89,400) 
+US AIRWAYS GROUP INC  COM       LCC             (65,000) 
+AUTONATION INC  COM             AN              (53,540) 
+TRW AUTOMOTIVE HOLDINGS CORP    TRW             (50,000) 
+WALTER ENERGY INC  COM          WLT             (50,000) 
+ROYAL DUTCH SHELL PLC  ADR B    RDS.B           (50,000) 
+ENDURANCE SPECIALTY HOLDINGS    ENH             (30,607) 
+FMC TECHNOLOGIES INC  COM       FTI             (29,400) 
+WATTS WATER TECHNOLOGIES INC    WTS             (28,500) 
+TIMKEN CO  COM                  TKR             (20,000) 
+INTERCONTINENTALEXCHANGE INC    ICE             (13,500) 
+BIOMARIN PHARMACEUTICAL INC  C  BMRN            (12,645) 
+PEABODY ENERGY CORP  COM        BTU             (12,600) 
+CARNIVAL CORP  PAIRED CTF       CCL             (10,600) 
+GREEN MOUNTAIN COFFEE ROASTERS  GMCR             (6,115) 
+NORDSON CORP  COM               NDSN             (3,900) 
+
+13F data provided by: FactSet Research Systems Inc.; Please send questions to lionsharesinfo@factset.com. Copyright, FactSet Research Systems, 2013. All Rights Reserved.
+
+Order free Annual Report for Belo Corp.
+
+Visit http://djnewswires.ar.wilink.com/?link=BLC   or call 1-888-301-0513
+
+Order free Annual Report for ConocoPhillips
+
+Visit http://djnewswires.ar.wilink.com/?link=COP   or call 1-888-301-0513
+
+Order free Annual Report for Discovery Ventures Inc
+
+Visit http://djnewswires.ar.wilink.com/?link=DVN   or call 1-888-301-0513
+
+Order free Annual Report for Southwestern Energy Co.
+
+Visit http://djnewswires.ar.wilink.com/?link=SWN   or call 1-888-301-0513
+
+Order free Annual Report for Walter Energy
+
+Visit http://djnewswires.ar.wilink.com/?link=WLT   or call 1-888-301-0513
+
+15 Aug 2013 09:46 EDT DJ 
+Adage Capital Mgmt LP 2Q 13F: Largest Purchases
+
+
+DJ CFA SOURCE: SEC 13F-HR 
+FILER: Adage Capital Management LP 
+QUARTER ENDED: 06/30/2013 
+SEC RECEIVED: 08/14/2013 
+ 
+
+Up to 200 of the largest purchases of Adage Capital Management LP are listed below, ordered by the number of shares bought during the three months ended June 30. 
+
+
+ 
+Company Name                             Value      Holdings        Change 
+ 
+ 
+MORGAN STANLEY  COM               $132,913,858     5,440,600     5,440,600 
+TEXTRON INC  COM                  $127,714,632     4,902,673     4,902,673 
+BRISTOL MYERS SQUIBB CO  COM      $448,457,804    10,034,858     4,518,700 
+FRONTIER COMMUNICATIONS CORP      $153,199,638    37,827,071     4,002,383 
+WELLS FARGO & CO  COM             $335,677,304     8,133,688     3,166,900 
+BB&T CORP  COM                     $90,571,404     2,673,300     2,673,300 
+MONDELEZ INTERNATIONAL INC  CL    $239,332,236     8,388,792     2,330,300 
+MASCO CORP  COM                    $40,244,414     2,064,875     2,064,875 
+GOODYEAR TIRE & RUBBER CO  COM     $31,405,787     2,052,800     2,052,800 
+CONAGRA FOODS INC  COM            $199,169,812     5,701,970     2,033,934 
+DANAHER CORP  COM                 $184,819,099     2,919,733     1,943,916 
+NV ENERGY INC  COM                 $45,074,120     1,921,318     1,921,318 
+HEALTH MANAGEMENT ASSOCIATES       $29,868,000     1,900,000     1,900,000 
+CONSOLIDATED EDISON INC  COM      $100,777,173     1,728,300     1,728,300 
+HUNTSMAN CORP  COM                 $28,152,000     1,700,000     1,700,000 
+MDU RESOURCES GROUP INC  COM       $44,047,000     1,700,000     1,700,000 
+USG CORP  COM                      $38,295,892     1,661,427     1,661,427 
+REPUBLIC SERVICES INC  COM         $89,461,835     2,635,882     1,615,357 
+ZOETIS INC  CL A                   $67,610,518     2,188,751     1,588,751 
+ENSCO PLC  CL A                   $159,619,547     2,746,379     1,564,600 
+MONSANTO CO  COM                  $371,330,710     3,758,408     1,544,101 
+PACIFIC DRILLING SA  ORD REG       $33,485,498     3,423,875     1,519,975 
+ILLINOIS TOOL WORKS INC  COM      $104,385,139     1,509,110     1,509,110 
+LIFE TECHNOLOGIES CORP  COM       $132,478,500     1,790,250     1,494,597 
+SONY CORP  ADR                     $30,878,810     1,457,235     1,457,235 
+GENERAL DYNAMICS CORP  COM        $176,275,320     2,250,419     1,359,556 
+WHITEWAVE FOODS CO  CL B           $20,558,806     1,352,553     1,352,553 
+VERTEX PHARMACEUTICALS INC  CO    $245,886,196     3,071,274     1,306,900 
+ALLSCRIPTS HEALTHCARE SOLUTION     $16,822,000     1,300,000     1,300,000 
+QUALCOMM INC  COM                 $237,127,494     3,881,609     1,276,600 
+SELECT COMFORT CORP  COM           $56,535,029     2,256,437     1,275,000 
+HUDSON CITY BANCORP INC  COM       $40,099,668     4,370,536     1,205,400 
+INTERPUBLIC GROUP OF COS  COM     $110,105,103     7,567,361     1,187,161 
+QUINTILES TRANSNATIONAL HLDGS      $47,667,200     1,120,000     1,120,000 
+UNS ENERGY CORP  COM               $49,203,000     1,100,000     1,100,000 
+ENBRIDGE INC  COM                 $109,382,000     2,600,000     1,100,000 
+SENSATA TECHNOLOGIES HOLDING N     $37,645,199     1,078,659     1,078,659 
+GROUP 1 AUTOMOTIVE INC  COM        $69,376,881     1,078,453     1,066,153 
+MONOLITHIC POWER SYSTEMS INC       $68,643,870     2,847,112     1,049,085 
+HILLSHIRE BRANDS CO  COM           $71,335,432     2,156,452     1,040,500 
+KODIAK OIL & GAS CORP  COM         $35,116,985     3,950,167     1,027,000 
+SNAP ON INC  COM                  $162,252,676     1,815,313     1,025,792 
+ROGERS COMMUNICATIONS INC  CL      $39,592,000     1,010,000     1,010,000 
+ARATANA THERAPEUTICS INC  COM       $7,560,000     1,000,000     1,000,000 
+NATIONAL GRID PLC  ADR             $56,670,000     1,000,000     1,000,000 
+HARTFORD FINANCIAL SERVICES GR     $48,531,785     1,569,592       970,358 
+ARCHER DANIELS MIDLAND CO  COM     $73,393,346     2,164,357       947,500 
+AVON PRODUCTS INC  COM             $73,013,594     3,471,878       844,900 
+NEWS CORP  CL A                    $12,703,174       832,995       832,995 
+LSI CORP  COM                       $5,839,806       817,900       817,900 
+TIME WARNER CABLE INC  COM        $105,629,968       939,100       787,800 
+PORTLAND GENERAL ELECTRIC CO       $48,564,990     1,587,610       787,610 
+TE CONNECTIVITY LTD  COM REG       $34,987,699       768,285       768,285 
+RR DONNELLEY & SONS CO  COM        $10,717,650       765,000       765,000 
+ESTEE LAUDER COMPANIES INC  CL    $168,234,135     2,557,916       764,400 
+REALOGY HOLDINGS CORP  COM         $36,703,713       764,024       764,024 
+ITC HOLDINGS CORP  COM            $125,106,929     1,370,284       761,100 
+UBS AG  ORD REG                    $12,712,500       750,000       750,000 
+ONYX PHARMACEUTICALS INC  COM     $126,674,026     1,459,042       750,000 
+FORD MOTOR CO  COM                 $83,473,258     5,395,815       744,600 
+DU PONT E I DE NEMOURS & CO  C     $38,755,605       738,202       738,202 
+GENERAL MOTORS CO  COM             $24,249,680       728,000       728,000 
+ROCKWOOD HOLDINGS INC  COM         $53,071,073       828,847       724,144 
+CONSTELLIUM NV  CL A               $11,541,824       714,664       714,664 
+XCEL ENERGY INC  COM               $20,138,404       710,600       710,600 
+TOYOTA MOTOR CORP  ADR             $84,462,000       700,000       700,000 
+COCA COLA CO  COM                 $409,398,278    10,206,888       695,500 
+ALLISON TRANSMISSION HLDGS INC     $15,971,360       692,000       692,000 
+LIBERTY GLOBAL PLC  CL A           $49,789,475       677,500       677,500 
+TEREX CORP  COM                    $23,693,433       900,891       667,032 
+BAXTER INTERNATIONAL INC  COM      $95,343,089     1,376,398       660,625 
+ACCRETIVE HEALTH INC  COM          $35,209,251     3,257,100       655,000 
+ZALE CORP  COM                      $5,939,270       652,667       652,667 
+MEDTRONIC INC  COM                 $89,547,352     1,739,797       651,500 
+ACCURAY INC  COM                   $28,126,000     4,900,000       650,000 
+STATE STREET CORP  COM            $115,297,801     1,768,100       605,200 
+HERBALIFE LTD  COM                 $40,705,672       901,765       601,765 
+VIACOM INC  CL B                   $71,710,491     1,054,101       600,100 
+AVISTA CORP  COM                   $16,212,000       600,000       600,000 
+BIOGEN IDEC INC  COM              $187,422,845       870,924       595,600 
+EXELIS INC  COM                     $9,221,070       668,678       586,672 
+WHITEWAVE FOODS CO  CL A            $9,465,690       582,504       582,504 
+EAGLE MATERIALS INC  COM           $41,505,961       626,316       565,016 
+ECOLAB INC  COM                    $79,962,571       938,638       555,011 
+EDISON INTERNATIONAL  COM         $152,224,128     3,160,800       553,700 
+PROGRESSIVE CORP  COM              $14,006,267       550,994       550,994 
+BRUNSWICK CORP  COM                $17,552,883       549,386       549,386 
+DYAX CORP  COM                      $1,865,642       539,203       539,203 
+RELIANCE STEEL & ALUMINUM CO      $110,906,344     1,691,677       528,900 
+NOVADAQ TECHNOLOGIES INC  COM      $23,218,500     1,725,000       525,000 
+MANITOWOC CO INC  COM               $8,987,005       501,787       501,787 
+CAMECO CORP  COM                   $10,330,000       500,000       500,000 
+CROWN HOLDINGS INC  COM            $79,334,464     1,928,871       500,000 
+IDACORP INC  COM                   $23,880,000       500,000       500,000 
+PERRY ELLIS INTERNATIONAL INC      $10,155,000       500,000       500,000 
+ANNALY CAPITAL MANAGEMENT INC       $6,285,000       500,000       500,000 
+UNITED TECHNOLOGIES CORP  COM      $90,531,646       974,087       493,656 
+ABERCROMBIE & FITCH CO  CL A       $83,627,521     1,848,122       460,900 
+PROCTER & GAMBLE CO  COM          $277,016,872     3,598,089       456,100 
+NOBLE ENERGY INC  COM             $163,326,812     2,720,300       454,100 
+HOME DEPOT INC  COM               $201,363,743     2,599,248       451,600 
+CALIFORNIA WATER SERVICE GROUP     $15,608,000       800,000       450,000 
+CATAMARAN CORP  COM                $27,256,840       559,000       450,000 
+INVENSENSE INC  COM                 $6,816,416       443,200       443,200 
+LA Z BOY INC  COM                  $21,136,543     1,042,750       442,750 
+ELECTRONIC ARTS INC  COM           $10,150,085       441,500       441,500 
+CROWN CASTLE INTERNATIONAL COR     $31,176,780       430,678       430,678 
+EOG RESOURCES INC  COM            $169,182,464     1,284,800       429,100 
+LMI AEROSPACE INC  COM             $19,106,086     1,019,535       423,348 
+ACTIVISION BLIZZARD INC  COM       $23,624,285     1,656,682       421,682 
+CIGNA CORP  COM                    $30,286,322       417,800       417,800 
+ANALOG DEVICES INC  COM            $38,359,578       851,300       410,800 
+VERIZON COMMUNICATIONS INC  CO    $208,221,241     4,136,298       406,900 
+VODAFONE GROUP PLC  ADR            $11,498,000       400,000       400,000 
+WATSCO INC  COM                    $41,362,894       492,650       392,650 
+MERCK & CO INC  COM               $202,423,433     4,357,878       387,300 
+ALEXION PHARMACEUTICALS INC  C     $73,100,200       792,500       386,212 
+AMERICAN EXPRESS CO  COM          $106,495,620     1,424,500       385,300 
+SAPIENT CORP  COM                   $4,897,500       375,000       375,000 
+PVH CORP  COM                     $146,718,039     1,173,275       361,363 
+PRECISION CASTPARTS CORP  COM     $130,414,776       577,031       360,203 
+MARRIOTT INTERNATIONAL INC  CL     $14,509,180       359,405       359,405 
+EASTMAN CHEMICAL CO  COM           $49,917,970       713,012       357,287 
+WESTLAKE CHEMICAL CORP  COM        $65,321,728       677,541       343,734 
+SILICON LABORATORIES INC  COM      $64,897,296     1,567,189       338,482 
+UNITEDHEALTH GROUP INC  COM       $101,559,676     1,551,003       336,400 
+MICROSOFT CORP  COM               $386,950,808    11,201,355       333,500 
+SEMPRA ENERGY  COM                 $27,193,376       332,600       332,600 
+BED BATH & BEYOND INC  COM         $23,590,875       332,500       332,500 
+
+15 Aug 2013 09:46 EDT DJ 
+Adage Capital Mgmt LP 2Q 13F: Largest Purchases -2-
+
+
+CBS CORP  CL B                     $41,484,814       848,881       329,000 
+EPIZYME INC  COM                    $9,142,250       325,000       325,000 
+GLAXOSMITHKLINE PLC  ADR           $16,240,250       325,000       325,000 
+NEWELL RUBBERMAID INC  COM         $89,935,020     3,426,096       323,300 
+ADT CORP  COM                      $12,866,529       322,874       322,874 
+WHIRLPOOL CORP  COM                $46,137,055       403,437       320,039 
+PHILIP MORRIS INTERNATIONAL IN    $421,773,309     4,869,237       318,600 
+NYSE EURONEXT INC  COM             $66,166,225     1,598,218       314,100 
+TEXAS INSTRUMENTS INCORPORATED     $34,213,395       981,733       313,100 
+WHOLE FOODS MARKET INC  COM        $15,933,060       309,500       309,500 
+CARDINAL HEALTH INC  COM           $57,432,960     1,216,800       303,900 
+CENTURY ALUMINUM CO  COM            $2,784,000       300,000       300,000 
+KBR INC  COM                        $9,750,000       300,000       300,000 
+COBALT INTERNATIONAL ENERGY IN     $26,171,450       985,000       285,000 
+DELTA AIR LINES INC  COM           $18,591,603       993,672       283,512 
+ANIXTER INTERNATIONAL INC  COM     $21,489,330       283,463       283,463 
+VISTEON CORP  COM                  $31,603,742       500,693       282,978 
+CISCO SYSTEMS INC  COM            $193,827,350     7,964,962       280,100 
+MADISON SQUARE GARDEN CO  CL A     $16,590,000       280,000       280,000 
+MOODYS CORP  COM                   $17,346,771       284,700       270,700 
+ENTERGY CORP  COM                  $18,256,160       262,000       262,000 
+INTEL CORP  COM                   $179,508,270     7,408,513       261,700 
+IPG PHOTONICS CORP  COM            $15,874,822       261,400       261,400 
+HCA HOLDINGS INC  COM              $32,454,000       900,000       255,000 
+REGENERON PHARMACEUTICALS  COM     $66,287,878       294,770       254,539 
+TESORO CORP  COM                   $17,098,176       326,800       252,500 
+CABLEVISION SYSTEMS CORP  CL A      $4,247,050       252,500       252,500 
+IRONWOOD PHARMACEUTICALS INC       $16,790,746     1,690,911       249,999 
+GUESS INC  COM                      $7,629,377       245,871       245,871 
+AMERICAN WOODMARK CORP  COM         $8,518,850       245,500       245,500 
+DIGITALGLOBE INC  COM              $19,768,875       637,500       242,500 
+AMPHENOL CORP  CL A                $18,354,091       235,490       235,490 
+EQT CORP  COM                     $101,530,104     1,279,200       226,700 
+LOCKHEED MARTIN CORP  COM          $43,301,137       399,236       224,733 
+AVAGO TECHNOLOGIES LTD  COM         $8,242,290       220,500       220,500 
+EXPEDIA INC  COM                   $20,390,850       339,000       208,700 
+MONSTER BEVERAGE CORP  COM         $40,147,313       659,992       208,294 
+COMMERCIAL VEHICLE GROUP INC        $1,548,875       207,624       207,624 
+AUTOMATIC DATA PROCESSING INC      $43,140,790       626,500       207,300 
+DELPHI AUTOMOTIVE PLC  COM         $31,584,229       623,086       203,300 
+PINNACLE WEST CAPITAL CORP  CO     $42,043,376       757,948       201,200 
+MACERICH CO  COM                   $12,212,291       200,300       200,300 
+WESTERN REFINING INC  COM           $5,614,000       200,000       200,000 
+SALIX PHARMACEUTICALS LTD  COM     $29,767,500       450,000       200,000 
+CLECO CORP  COM                    $27,858,000       600,000       200,000 
+AMETEK INC  COM                     $8,460,000       200,000       200,000 
+GENTIVA HEALTH SERVICES INC  C     $11,384,280     1,143,000       200,000 
+MAKO SURGICAL CORP  COM             $2,410,000       200,000       200,000 
+CAPITAL SENIOR LIVING CORP  CO     $18,116,200       758,000       200,000 
+COMMUNITY HEALTH SYSTEMS INC        $9,376,000       200,000       200,000 
+COOPER TIRE & RUBBER CO  COM        $6,574,294       198,200       198,200 
+MCGRAW HILL FINANCIAL INC  COM     $17,308,026       325,400       198,100 
+GENMARK DIAGNOSTICS INC  COM        $6,219,438       601,028       196,656 
+STANLEY BLACK & DECKER INC  CO     $14,810,680       191,600       191,600 
+ROWAN COS LTD  ORD A               $26,014,455       763,559       187,959 
+BROWN & BROWN INC  COM              $8,080,311       250,630       184,382 
+CHUBB CORP  COM                    $40,199,185       474,887       181,555 
+ILLUMINA INC  COM                  $13,471,200       180,000       180,000 
+INCYTE CORP  COM                    $3,944,600       179,300       179,300 
+INGERSOLL RAND PLC  ORD           $107,198,294     1,930,805       178,316 
+FASTENAL CO  COM                   $14,875,248       324,858       177,158 
+ZIONS BANCORPORATION  COM          $12,178,212       421,100       177,100 
+TAKE TWO INTERACTIVE SOFTWARE      $31,740,502     2,120,274       176,684 
+PIONEER NATURAL RESOURCES CO       $83,289,150       575,400       176,600 
+AETNA INC  COM                     $98,070,559     1,543,446       175,607 
+DOMTAR CORP  COM                   $18,287,500       275,000       175,000 
+HASBRO INC  COM                     $7,691,573       171,572       171,572 
+ENI SPA  ADR                       $14,158,800       345,000       170,000 
+ULTRATECH INC  COM                 $50,877,139     1,385,543       169,463 
+DOW CHEMICAL CO  COM               $56,898,757     1,768,690       163,700 
+KANSAS CITY SOUTHERN  COM          $17,112,540       161,500       161,500 
+
+13F data provided by: FactSet Research Systems Inc.; Please send questions to lionsharesinfo@factset.com. Copyright, FactSet Research Systems, 2013. All Rights Reserved.
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+August 15, 2013 09:46 ET (13:46 GMT)

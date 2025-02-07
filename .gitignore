@@ -4,6 +4,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 checkpoints/
+dataset/ticker/data.csv
+dataset/ticker/data_original.csv
 
 # C extensions
 *.so

@@ -1,0 +1,159 @@
+
+Company                                   Symbol     Quarter  Mean  Report Time 
+ 
+ 
+Thursday 
+Alaska Air Grp Inc.                       (ALK)       3Q     (2.95) 
+Allegion PLC                              (ALLE)      3Q      1.20       BMO 
+American Airlines Grp Inc.                (AAL)       3Q     (5.91) 
+American Electric Power Co.               (AEP)       3Q      1.47   6:57 AM 
+AT&T Inc.                                 (T)         3Q       .76   7:00 AM 
+Capital One Fincl Corp                    (COF)       3Q      2.14   4:05 PM 
+Citrix Syss Inc.                          (CTXS)      3Q      1.25   7:05 AM 
+Coca-Cola Company                         (KO)        3Q       .46       BMO 
+Danaher Corp.                             (DHR)       3Q      1.36   6:00 AM 
+Dow Inc.                                  (DOW)       3Q       .32   6:00 AM 
+Expedia Grp Inc.                          (EXPE)      3Q      (.81) 
+Fifth Third Bancorp                       (FITB)      3Q       .60   6:30 AM 
+Freeport-McMoRan Inc.                     (FCX)       3Q       .21 
+Genuine Parts Company                     (GPC)       3Q      1.40 
+Huntington BancShr Inc                    (HBAN)      3Q       .25       BMO 
+Intel Corp.                               (INTC)      3Q      1.11       AMC 
+Kimberly-Clark Corp.                      (KMB)       3Q      1.76   7:30 AM 
+M&T Bank Corp.                            (MTB)       3Q      2.61       BMO 
+Northrop Grumman Corp.                    (NOC)       3Q      5.62       BMO 
+Nucor Corp.                               (NUE)       3Q       .50 
+People's United Fincl Inc.                (PBCT)      3Q       .29   4:00 PM 
+Pool Corp.                                (POOL)      3Q      2.18       BMO 
+PulteGrp Inc.                             (PHM)       3Q      1.15       BMO 
+Quest Diagnostics Incorporated            (DGX)       3Q      3.72       BMO 
+Robert Half Intl Inc.                     (RHI)       3Q       .58   4:15 PM 
+Seagate Tech PLC                          (STX)       1Q       .89       AMC 
+Snap-on Incorporated                      (SNA)       3Q      2.16       BMO 
+Southwest Airlines Co.                    (LUV)       3Q     (2.35)  6:30 AM 
+SVB Fincl Grp                             (SIVB)      3Q      5.18       AMC 
+Tractor Supply Company                    (TSCO)      3Q      1.37       BMO 
+Union Pacific Corp.                       (UNP)       3Q      2.06   8:00 AM 
+Valero Energy Corp.                       (VLO)       3Q     (1.48) 
+VeriSign Inc.                             (VRSN)      3Q      1.32   4:05 PM 
+W.W. Grainger Inc.                        (GWW)       3Q      4.15   8:00 AM 
+West Pharm Svs Inc.                       (WST)       3Q       .99       BMO 
+ 
+Friday 
+American Express Company                  (AXP)       3Q      1.34   7:00 AM 
+Illinois Tool Works Inc.                  (ITW)       3Q      1.47   8:00 AM 
+Royal Caribbean Grp                       (RCL)       3Q     (5.16) 
+Sunday 
+Celanese Corp.                            (CE)        3Q      1.71 
+ 
+Monday 
+Alexandria Real Estate Equitie            (ARE)       3Q       .76       AMC 
+Cincinnati Fincl Corp                     (CINF)      3Q       .33       AMC 
+F5 Networks Inc.                          (FFIV)      4Q      2.37       AMC 
+Hasbro Inc.                               (HAS)       3Q      1.62 
+HCA Healthcare Inc                        (HCA)       3Q      2.29 
+Natl Oilwell Varco Inc.                   (NOV)       3Q      (.11)      AMC 
+Otis Worldwide Corp.                      (OTIS)      3Q       .56 
+Packaging Corp of America                 (PKG)       3Q      1.41       AMC 
+Principal Fincl Grp Inc.                  (PFG)       3Q      1.39   4:15 PM 
+ 
+Tuesday 
+3M Company                                (MMM)       3Q      2.26 
+Advanced Micro Devices Inc.               (AMD)       3Q       .35       AMC 
+Aflac Incorporated                        (AFL)       3Q      1.13   4:15 PM 
+Akamai Tech Inc.                          (AKAM)      3Q      1.23 
+Boston Ppties Inc.                        (BXP)       3Q       .56       AMC 
+C.H. Robinson Worldwide                   (CHRW)      3Q       .97       AMC 
+Caterpillar Inc.                          (CAT)       3Q      1.17   6:30 AM 
+Centene Corp.                             (CNC)       3Q       .96   6:00 AM 
+Chubb Limited                             (CB)        3Q      2.22       AMC 
+Corning Inc                               (GLW)       3Q       .36 
+Cummins Inc.                              (CMI)       3Q      2.42   7:30 AM 
+DexCom Inc.                               (DXCM)      3Q       .64       AMC 
+DTE Energy Company                        (DTE)       3Q      2.06       BMO 
+Ecolab Inc.                               (ECL)       3Q      1.12       BMO 
+Edison Intl                               (EIX)       3Q      1.45 
+Eli Lilly and Company                     (LLY)       3Q      1.71 
+Equity Residential                        (EQR)       3Q       .30   4:15 PM 
+Fiserv Inc.                               (FISV)      3Q      1.16       AMC 
+Fortive Corp.                             (FTV)       3Q       .80 
+Franklin Resources Inc.                   (BEN)       4Q       .68   8:30 AM 
+IDEX Corp.                                (IEX)       3Q      1.20       AMC 
+Invesco Ltd.                              (IVZ)       3Q       .48   6:55 AM 
+Juniper Networks Inc.                     (JNPR)      3Q       .43       AMC 
+Laboratory Corp of America Hldgs          (LH)        3Q      5.31       BMO 
+MarketAxess Hldgs Inc.                    (MKTX)      3Q      1.74       BMO 
+Maxim Integrated Products                 (MXIM)      1Q       .58   4:05 PM 
+Merck & Co. Inc.                          (MRK)       3Q      1.44   6:45 AM 
+Microsoft Corp.                           (MSFT)      1Q      1.54       AMC 
+MSCI Inc. Class A                         (MSCI)      3Q      1.82 
+Old Dominion Freight Line Inc.            (ODFL)      3Q      1.52       BMO 
+Omnicom Grp Inc                           (OMC)       3Q      1.07       BMO 
+ONEOK Inc.                                (OKE)       3Q       .60       AMC 
+Pfizer Inc.                               (PFE)       3Q       .69   6:45 AM 
+Raytheon Tech Corp                        (RTX)       3Q       .50       BMO 
+Roper Tech Inc.                           (ROP)       3Q      3.05       BMO 
+S&P Global Inc.                           (SPGI)      3Q      2.57   7:15 AM 
+Sherwin-Williams Company                  (SHW)       3Q      7.78       BMO 
+Stanley Black & Decker Inc.               (SWK)       3Q      2.69       BMO 
+Unum Grp                                  (UNM)       3Q      1.31   4:15 PM 
+Varian Medical Syss Inc.                  (VAR)       4Q      1.01       AMC 
+Waters Corp.                              (WAT)       3Q      1.93 
+Xerox Hldgs Corp.                         (XRX)       3Q       .28   6:30 AM 
+ 
+Wednesday 
+American Water Works Co.                  (AWK)       3Q      1.38 
+Ameriprise Fincl Inc.                     (AMP)       3Q      1.25       AMC 
+Amgen Inc.                                (AMGN)      3Q      3.78 
+Anthem Inc.                               (ANTM)      3Q      4.12   6:00 AM 
+Automatic Data Processing Inc.            (ADP)       1Q      1.00       BMO 
+AvalonBay Communities Inc.                (AVB)       3Q       .97       AMC 
+Boeing Company                            (BA)        3Q     (2.22) 
+Boston Scientific Corp.                   (BSX)       3Q       .25       BMO 
+Cerner Corp.                              (CERN)      3Q       .71       AMC 
+CME Grp Inc. Class A                      (CME)       3Q      1.41   7:00 AM 
+Cognizant Tech Sols                       (CTSH)      3Q       .90       AMC 
+Concho Resources Inc.                     (CXO)       3Q      1.24       AMC 
+Duke Realty Corp.                         (DRE)       3Q       .16       AMC 
+eBay Inc.                                 (EBAY)      3Q       .86   4:15 PM 
+Entergy Corp.                             (ETR)       3Q      2.41 
+Equinix Inc.                              (EQIX)      3Q      1.69   4:05 PM 
+Essex Ppty Trust Inc.                     (ESS)       3Q      1.12       AMC 
+Etsy Inc.                                 (ETSY)      3Q       .56       AMC 
+Flowserve Corp.                           (FLS)       3Q       .44 
+Ford Motor Company                        (F)         3Q       .18   4:05 PM 
+Fortune Brands Home & Sec.                (FBHS)      3Q      1.06       AMC 
+Garmin Ltd.                               (GRMN)      3Q      1.00       BMO 
+General Dynamics Corp.                    (GD)        3Q      2.86 
+General Electric Company                  (GE)        3Q      (.04)      BMO 
+Gilead Sciences Inc.                      (GILD)      3Q      1.92       AMC 
+Hess Corp.                                (HES)       3Q      (.67) 
+KLA Corp.                                 (KLAC)      1Q      2.77   4:05 PM 
+Masco Corp.                               (MAS)       3Q       .78   7:00 AM 
+Mastercard Incorporated Class A           (MA)        3Q      1.65 
+Mid-America Apartment Comm.               (MAA)       3Q       .56       AMC 
+Norfolk Southern Corp.                    (NSC)       3Q      2.38   8:00 AM 
+O'Reilly Automotive Inc.                  (ORLY)      3Q      6.38   4:30 PM 
+PerkinElmer Inc.                          (PKI)       3Q      1.50       AMC 
+Raymond James Fincl Inc.                  (RJF)       4Q      1.33 
+Rollins Inc.                              (ROL)       3Q       .24 
+Sealed Air Corp.                          (SEE)       3Q       .66   7:00 AM 
+SvcNow Inc.                               (NOW)       3Q      1.03       AMC 
+TE Connectivity Ltd.                      (TEL)       4Q       .87       BMO 
+Trane Tech plc                            (TT)        3Q      1.35 
+United Parcel Svc Inc.                    (UPS)       3Q      1.88   6:00 AM 
+
+22 Oct 2020 05:55 ET 
+Analyst Estimates for U.S. Earnings Expected in -2-
+
+
+United Rentals Inc.                       (URI)       3Q      4.35 
+Visa Inc. Class A                         (V)         4Q      1.09       AMC 
+Welltower Inc.                            (WELL)      3Q       .15       AMC 
+Western Digital Corp.                     (WDC)       1Q       .55       AMC 
+
+(At least three brokerage analysts must be forecasting EPS for the company to be included in this report. The Factset EPS estimate is the mean. Estimates can reflect GAAP or non-GAAP numbers.)
+
+(END) Dow Jones Newswires
+
+October 22, 2020 05:55 ET (09:55 GMT)

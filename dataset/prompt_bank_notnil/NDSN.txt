@@ -1,0 +1,108 @@
+
+Company                                Symbol     Quarter    Mean  Report Time 
+ 
+Thursday 
+Aeropostale Inc.                       (ARO)       2Q       .47 
+America's Car-Mart Inc.                (CRMT)      1Q       .67      AMC 
+Blue Coat Syss Inc.                    (BCSI)      1Q       .37 
+Buckle Inc.                            (BKE)       2Q       .49 
+Casual Male Retail Grp Inc.            (CMRG)      2Q       .09   7:00AM 
+Children's Place Retail Stores Inc.    (PLCE)      2Q      (.34) 
+China Finance Online Co. Ltd.          (JRJC)      2Q       .03      AMC 
+-Link Gdr-Repr 5 Ord Twd1((550114)     (D)         2Q       .07 
+Dell Inc.                              (DELL)      2Q       .30 
+Dick's Sporting Goods Inc.             (DKS)       2Q       .41      BMO 
+Dollar Tree Inc.                       (DLTR)      2Q       .54 
+Flowers Foods Inc.                     (FLO)       2Q       .35      BMO 
+Foot Locker Inc                        (FL)        2Q       .02 
+GameStop Corp.                         (GME)       2Q       .27 
+Gap Inc.                               (GPS)       2Q       .35   4:00PM 
+Hewlett-Packard Co.                    (HPQ)       3Q      1.08      AMC 
+HiSoft Tech Intl Ltd. ADS              (HSFT)      2Q       .16 
+Intuit Inc.                            (INTU)      4Q      (.10)     AMC 
+Lancaster Colony Corp.                 (LANC)      4Q       .99      BMO 
+Lenovo Grp Ltd. ADS                    (LNVGY)     1Q       .08 
+LSI Indus Inc.                         (LYTS)      4Q       .03      BMO 
+Marvell Tech Grp Ltd.                  (MRVL)      2Q       .40 
+Mentor Graphics Corp.                  (MENT)      2Q      (.03)  4:15PM 
+Navios Maritime Hldgs Inc.             (NM)        2Q       .15 
+Nordson Corp.                          (NDSN)      3Q      1.12      AMC 
+Ross Stores Inc.                       (ROST)      2Q      1.04   8:30AM 
+Salesforce.com Inc.                    (CRM)       2Q       .27      AMC 
+ScanSource Inc.                        (SCSC)      4Q       .48   4:00PM 
+School Specialty Inc.                  (SCHS)      1Q      1.25      BMO 
+Sears Hldgs Corp.                      (SHLD)      2Q      (.17)     BMO 
+Stage Stores Inc.                      (SSI)       2Q       .26   6:00AM 
+Staples Inc.                           (SPLS)      2Q       .20 
+Tech Data Corp.                        (TECD)      2Q       .79      BMO 
+Toro Co.                               (TTC)       3Q       .78   8:30AM 
+Towers Watson & Co.                    (TW)        4Q       .81      BMO 
+Verigy Ltd.                            (VRGY)      3Q       .16   4:05PM 
+Wet Seal Inc.                          (WTSLA)     2Q       .03 
+Williams-Sonoma Inc.                   (WSM)       2Q       .21      BMO 
+Yingli Green Energy Hldg Co. Ltd. ADS  (YGE)       2Q       .22      BMO 
+Zumiez Inc.                            (ZUMZ)      2Q      (.02) 
+ 
+Friday 
+AnnTaylor Stores Corp.                 (ANN)       2Q       .32   8:00AM 
+China Petroleum & Chemical Corp. ADS   (SNP)       2Q      2.86 
+Hibbett Sports Inc.                    (HIBB)      2Q       .16      BMO 
+Hormel Foods Corp.                     (HRL)       3Q       .61      BMO 
+J.M. Smucker Co.                       (SJM)       1Q       .96 
+ 
+Monday 
+Focus Media Hldg Ltd. ADS              (FMCN)      3Q       .26      AMC 
+Kensey Nash Corp.                      (KNSY)      4Q       .52   7:30AM 
+Sanderson Farms Inc.                   (SAFM)      3Q      1.87 
+Winn-Dixie Stores Inc.                 (WINN)      4Q       .13 
+Winn-Dixie Stores Inc.                 (WNDXQ)     4Q       .13 
+ 
+Tuesday 
+Applied Signal Tech Inc.               (APSG)      3Q       .22 
+Avago Tech Ltd.                        (AVGO)      3Q       .56      AMC 
+Bank of Montreal                       (BMO)       3Q      1.18 
+Barnes & Noble Inc.                    (BKS)       1Q      (.80)     BMO 
+Big Lots Inc.                          (BIG)       2Q       .47 
+Burger King Hldgs Inc.                 (BKC)       4Q       .33      BMO 
+Daktronics Inc.                        (DAKT)      1Q      (.04)     BMO 
+Dycom Indus Inc.                       (DY)        4Q       .12 
+ICL-Israel Chemicals Ltd.              (ISCHF)     2Q       .20 
+ICL-Israel Chemicals Ltd. ADS          (ISCHY)     2Q       .20 
+Medtronic Inc.                         (MDT)       1Q       .82   7:15AM 
+Pacific Sunwear of California Inc.     (PSUN)      2Q      (.23)  4:00PM 
+Trina Solar Ltd. ADS                   (TSL)       2Q       .49 
+VeriFone Syss Inc.                     (PAY)       3Q       .30 
+ 
+Wednesday 
+American Eagle Outfitters Inc.         (AEO)       2Q       .13 
+Aviat Networks Inc.                    (AVNW)      4Q      (.07)  4:00PM 
+Brown Shoe Co. Inc.                    (BWS)       2Q       .10      BMO 
+Canadian Imperial Bank of Commerce     (CM)        3Q      1.49   6:00AM 
+China Telecom Corp. Ltd. ADS           (CHA)       2Q       .75 
+Coldwater Creek Inc.                   (CWTR)      2Q      (.04)     BMO 
+Cyberonics Inc.                        (CYBX)      1Q       .21   5:00PM 
+DSW Inc.                               (DSW)       2Q       .45 
+DynaVox Inc.                           (DVOX)      4Q       .17      AMC 
+FuelCell Energy Inc.                   (FCEL)      3Q      (.15) 
+Guess? Inc.                            (GES)       2Q       .68 
+Heico Corp.                            (HEI)       3Q       .37      AMC 
+JDS Uniphase Corp.                     (JDSU)      4Q       .13      AMC 
+Jo-Ann Stores Inc.                     (JAS)       2Q       .00      AMC 
+KongZhong Corp. ADS                    (KONG)      2Q       .06      AMC 
+Layne Christensen Co.                  (LAYN)      2Q       .28 
+Perry Ellis Intl Inc.                  (PERY)      2Q      (.10)     BMO 
+Semtech Corp.                          (SMTC)      2Q       .38      AMC 
+Shoe Carnival Inc.                     (SCVL)      2Q       .28      AMC 
+Sigma Designs Inc.                     (SIGM)      2Q       .33 
+SWS Grp Inc.                           (SWS)       4Q       .12      AMC 
+Synovis Life Tech Inc.                 (SYNO)      3Q       .12      BMO 
+TiVo Inc.                              (TIVO)      2Q      (.15)     AMC 
+Toll Brothers Inc.                     (TOL)       3Q      (.14)     BMO 
+ 
+ 
+
+(Companies tentatively scheduled to report quarterly earnings during the next five trading days. At least three brokerage analysts must be forecasting an EPS for the company to be included in this report. The Factset EPS estimate is the average.)
+
+(END) Dow Jones Newswires
+
+August 19, 2010 06:00 ET (10:00 GMT)

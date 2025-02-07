@@ -1,0 +1,281 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Thursday and early Friday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Aaron's Inc (AAN) 
+ Yanker Robert H (D)            3/7/18           40,195   $47.69       8,038 
+ 
+Acacia Communications Inc (ACIA) 
+ Gavin John F (CFO)             3/6/18           16,000   $38.66     113,417 
+ Givehchi Mehrdad (VP)          3/6/18           21,060   $38.96     819,668 
+ Shah Bhupendra C (VP)          3/6/18           19,590   $38.97     360,498 
+ 
+Anixter Intl Inc (AXE) 
+ Eck Robert J (CEO)             3/7/18           12,200   $76.04     224,481 
+ 
+Apptio Inc (APTI) CL A 
+ Blasko Lawrence (O)        3/6/18-3/7/18        11,801   $29.95      59,981 
+ 
+Arista Networks Inc (ANET) 
+ Ullal Jayshree (CEO)           3/6/18           11,000  $289.67   3,752,464 
+ 
+Boot Barn Holdings Inc (BOOT) 
+ Grijalva Laurie Mari (O)       3/6/18           26,863   $18.50       6,725 
+ 
+Boyd Gaming Corp (BYD) 
+ Larson Brian A (VP)        3/6/18-3/7/18        99,077   $35.71      83,497 
+ 
+Builders FirstSource Inc (BLDR) 
+ Crow M Chad (CEO)              3/7/18           53,635   $21.34     274,952 
+ Jackson Peter M (CFO)          3/8/18           11,972   $21.44      32,305 
+ Sherman Floyd F (D)            3/6/18          100,000   $21.24     481,834 
+ 
+Catalyst Biosciences Inc (CBIO) 
+ Flynn James E (SH)         3/6/18-3/8/18        71,778   $30.53   1,113,222 
+ 
+Chegg Inc (CHGG) 
+ Brown Andrew J (CFO)       3/7/18-3/8/18        87,500   $22.57     671,057 
+ Housenbold Jeffrey T (D)       3/6/18           49,607   $21.99      11,980 
+ 
+Cognizant Technology Solutions Corp (CTSH) CL A 
+ Breakiron-Evans Maur (D)       3/6/18           20,000   $82.86         255 
+ 
+Cornerstone OnDemand Inc (CSOD) 
+ Swartz Brian L (CFO)           3/8/18            9,000   $43.81     198,941 
+*Carter David Joseph (O)        3/6/18            6,958   $43.35      73,495 
+ 
+E*TRADE Financial Corp (ETFC) 
+ Simonich Brent (O)             3/6/18            7,680   $53.00      26,240 
+ 
+Edwards Lifesciences Corp (EW) 
+ Lemercier Jean-Luc M (VP)      3/7/18            5,633  $136.29      38,665 
+ 
+Electronic Arts Inc (EA) CL A 
+ Jorgensen Blake J (CFO)        3/6/18           10,500  $125.97     138,114 
+ 
+Ellie Mae Inc (ELLI) 
+ Anderman Sigmund (CB)          3/7/18            5,987   $93.70     197,282 
+ Corr Jonathan (CEO)            3/7/18            3,113   $92.57     192,905 
+ 
+Energous Corp (WATT) 
+ Johnston Cesar (VP)            3/6/18           11,551   $21.98      73,855 
+ 
+FibroGen Inc (FGEN) 
+ Neff Thomas B (CB)         3/7/18-3/8/18        39,636   $53.14   3,091,153 
+ 
+Fidelity National Information Services Inc (FIS) 
+ Martire Frank R (CB)           3/6/18          116,074   $99.12     704,112 
+ 
+Fossil Group Inc (FOSL) 
+ Kartsotis Kosta N (CB)     3/6/18-3/8/18       255,448   $13.55   3,545,389 
+ 
+GoDaddy Inc (GDDY) CL A 
+ Carroll James M (VP)           3/6/18           18,866   $60.99      26,410 
+ Low Ah Kee Andrew (O)          3/8/18            4,951   $62.57      61,100 
+ Rechterman Barbara J (O)   3/6/18-3/7/18        35,000   $61.28      70,795 
+ 
+Green Dot Corp (GDOT) CL A 
+ Streit Steven W (CEO)      3/6/18-3/8/18        12,495   $66.75   3,672,311 
+ 
+H&E Equipment Services Inc (HEES) 
+ Magee Leslie S (CFO)           3/8/18           20,000   $42.45      63,428 
+ 
+Hess Corp (HES) 
+ Hess John B (CEO)              3/6/18           37,898   $48.62   1,788,041 
+ 
+Hewlett Packard Enterprise Co (HPE) 
+ Whitman Margaret C (D)     3/7/18-3/8/18       674,000   $19.14   1,830,759 
+ 
+Home BancShares Inc (HOMB) 
+ Ashley Richard H (D)           3/7/18          300,000   $25.01   3,942,021 
+ 
+Hormel Foods Corp (HRL) 
+ Binder Steven G (VP)           3/8/18           20,000   $33.40     348,888 
+ 
+Hostess Brands Inc (TWNK) CL A 
+ Stone Mark R (D)               3/6/18           60,000   $14.49     248,257 
+ 
+Illumina Inc (ILMN) 
+ Stapley Marc (VP)              3/6/18            2,000  $233.64      27,871 
+ 
+Instructure Inc (INST) 
+ Conroy William M (D)           3/8/18            5,500   $45.88     120,366 
+ 
+INTL FCStone Inc (INTL) 
+ Branch Scott J (D)             3/7/18           50,000   $43.12   1,006,557 
+ 
+Kellogg Co (K) 
+ Kellogg W K Foundati (SH)      3/8/18          205,000   $69.47  67,016,838 
+ 
+LeMaitre Vascular Inc (LMAT) 
+ Lemaitre George W (CB)     3/6/18-3/7/18        30,000   $36.19   3,227,739 
+ 
+Limelight Networks Inc (LLNW) 
+ Goldman Sachs Group  (SH)      3/6/18       15,272,493    $3.80     864,927 
+ Midle Mark J (D)               3/6/18       15,272,493    $3.80     864,927 
+ 
+LPL Financial Holdings Inc (LPLA) 
+ Arnold Dan H (CEO)             3/7/18           11,206   $63.46     229,761 
+ Hellman Marco (D)              3/6/18           29,300   $63.63     492,390 
+ 
+Microchip Technology Inc (MCHP) 
+ Day L B (D)                    3/7/18            6,000   $94.62      10,967 
+ 
+Middlefield Banc Corp (MBCN) 
+ Valerian William A (D)     3/7/18-3/8/18         5,818   $49.07      61,421 
+ 
+MINDBODY Inc (MB) CL A 
+ Lytikainen Kimberly  (O)       3/7/18           25,091   $37.84      64,005 
+ 
+Mondelez International Inc (MDLZ) CL A 
+ May Peter W (D)                3/6/18       18,191,062   $43.61  17,773,665 
+ 
+MuleSoft Inc (MULE) CL A 
+ Dao Mark (O)                   3/6/18           37,500   $34.08       1,470 
+ 
+Nanometrics Inc (NANO) 
+ Stultz Timothy J (D)       3/6/18-3/7/18        20,000   $27.77     322,087 
+ 
+Nektar Therapeutics (NKTR) 
+ Kuebler Christopher  (D)   3/6/18-3/7/18        40,000   $97.60      40,500 
+ Nicholson John (COO)       3/6/18-3/7/18       220,144   $99.27     167,513 
+ 
+Nordson Corp (NDSN) 
+ Hilton Michael F (CEO)     3/6/18-3/7/18        50,000  $137.11     209,774 
+ 
+Nu Skin Enterprises Inc (NUS) CL A 
+ Pisano Thomas R (D)            3/7/18           15,000   $72.00      42,437 
+ 
+Pacific Premier Bancorp Inc (PPBI) 
+ Wilcox Edward Earl (P)         3/7/18           21,261   $44.50      93,517 
+ 
+Palo Alto Networks Inc (PANW) 
+ Mclaughlin Mark D (CB)         3/6/18           55,000  $180.52     446,450 
+ Zuk Nir (OD)                   3/6/18           30,000  $181.65   1,656,531 
+ 
+Paycom Software Inc (PAYC) 
+ Levenson Robert J (D)          3/7/18           18,750  $107.11     152,895 
+ 
+PotlatchDeltic Corp (PCH) 
+ Covey Michael J (CB)       3/7/18-3/8/18        98,939   $51.01     151,998 
+ 
+Qorvo Inc (QRVO) 
+ Quinsey Ralph G (CB)           3/7/18           19,474   $83.64     127,760 
+ 
+Quad/Graphics Inc (QUAD) CL A 
+ Blais David A (VP)             3/7/18           38,976   $25.96      88,605 
+ 
+Quaker Chemical Corp (KWR) 
+ Steeples Adrian (VP)           3/6/18            1,957  $150.34       4,357 
+ 
+Republic Services Inc (RSG) 
+ Collins Tomago (D)             3/8/18            4,500   $67.95      13,441 
+ 
+Restaurant Brands International Inc (QSR) 
+ Goncalves Heitor (VP)          3/7/18           19,107   $57.59     407,711 
+ 
+RingCentral Inc (RNG) CL A 
+ Shah Praful (O)                3/8/18           10,000   $66.13     346,107 
+ Sipes David (COO)              3/7/18            9,300   $65.61     261,310 
+ 
+salesforce.com inc (CRM) 
+ Benioff Marc R (CB)            3/8/18            5,000  $126.40  33,331,800 
+ 
+Schwab (Charles) Corp (SCHW) 
+ Clark Bernard J (VP)           3/7/18           11,238   $54.07      56,882 
+ 
+ 
+
+9 Mar 2018 08:44 ET 
+Substantial Insider Sales: Morning Report -2-
+
+
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Simulations Plus Inc (SLP) 
+ Grasela Thaddeus Hen (P)   3/7/18-3/8/18        22,001   $16.16      94,544 
+ 
+Sirius XM Holdings Inc (SIRI) 
+ Amble Joan Lordi (D)           3/7/18           73,961    $6.50      26,174 
+ 
+SkyWest Inc (SKYW) 
+ Simmons Robert J (CFO)         3/6/18           39,339   $55.94      67,471 
+ Vais Terry (OS)                3/6/18            5,800   $56.00      37,607 
+ Woodward Eric (O)              3/8/18            4,500   $56.90      22,859 
+ 
+Tabula Rasa HealthCare Inc (TRHC) 
+ Knowlton Calvin H (CB)         3/7/18            8,000   $35.59   1,646,479 
+ Knowlton Orsula V (P)          3/7/18            8,000   $35.59   1,646,479 
+ 
+Tintri Inc (TNTR) 
+ Insight Holdings Gro (SH)      3/6/18           86,365    $5.13   5,248,709 
+ 
+TopBuild Corp (BLD) 
+ Buck Robert M (P)              3/6/18           23,112   $74.12      54,761 
+ Peterson John S (CFO)          3/6/18            6,932   $75.36      29,864 
+ 
+Treehouse Foods Inc (THS) 
+ Reed Sam K (CB)                3/7/18           11,480   $41.44      69,667 
+ 
+Trinseo SA (TSE) 
+ Horner Marilyn N (VP)          3/6/18           33,124   $80.25      17,208 
+ Leib Ryan J (O)                3/6/18            4,013   $80.67       4,366 
+ 
+United Rentals Inc (URI) 
+ Graziano Jessica (VP)          3/8/18            1,635  $181.25       5,584 
+ 
+Veeva Systems Inc (VEEV) CL A 
+ Zuppas Eleni Nitsa (O)     3/6/18-3/7/18        49,793   $77.28       6,399 
+ 
+Vocera Communications Inc (VCRA) 
+ Lang Brent D (CEO)             3/7/18           10,000   $27.27     391,880 
+ 
+Voya Financial Inc (VOYA) 
+ Silva Kevin D (VP)             3/8/18            5,480   $51.70       9,270 
+ 
+Western Digital Corp (WDC) 
+ Milligan Stephen D (CEO)       3/7/18           23,155   $94.49     139,716 
+ 
+Workday Inc (WDAY) CL A 
+ Still George J Jr (D)          3/6/18           16,000  $134.93      49,943 
+ 
+Wyndham Worldwide Corp (WYN) 
+ Rossi Nicola (VP)              3/6/18            2,863  $117.50       7,665 
+ 
+Yelp Inc (YELP) 
+ Donaker Geoffrey L (D)         3/6/18            6,000   $44.08       6,055 
+ 
+Yext Inc (YEXT) 
+ Distelburger Brian (P)         3/7/18           28,160   $12.98   4,776,501 
+ Lerman Howard (CEO)            3/6/18           30,000   $12.88   6,764,546 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+March 09, 2018 08:44 ET (13:44 GMT)

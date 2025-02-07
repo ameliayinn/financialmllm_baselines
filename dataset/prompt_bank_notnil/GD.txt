@@ -1,0 +1,27 @@
+PR Newswire
+
+FAIRFAX, Va., Nov. 3, 2020
+
+FAIRFAX, Va., Nov. 3, 2020 /PRNewswire/ -- General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE: GD), announced today it was awarded the Defense Enterprise Office Solutions (DEOS) contract by the General Services Administration (GSA) in partnership with the Defense Department (DoD) and the Defense Information Systems Agency (DISA).
+
+DEOS will streamline the DoD's use of cloud email and collaborative tools while enhancing cybersecurity and information sharing across the DoD's enterprise based on the latest commercial technology. GDIT will stand up and accredit DEOS cloud environments as well as support the migration of existing DoD Office 365 (O365) tenants into DEOS. The DEOS environments are intended to support over 3.2 million DoD users and GDIT will provide engineering, migration, training and support services for those users. DoD estimates the value of the DEOS Blanket Purchase Agreement (BPA) at $4.4 billion over a 10-year period, which includes a five-year base period with two two-year options and one one-year option.
+
+"GDIT looks forward to our continued partnership with GSA, the DoD and DISA in achieving the goals outlined in the DoD Cloud Strategy. DEOS will provide new and powerful collaboration capabilities to users across the enterprise and all the way to the tactical edge while driving efficiencies and enhancing the DoD security posture," said Amy Gilliland , president, GDIT. "The demand for DEOS capabilities have been further amplified by the COVID-19 crisis and more than ever, it's imperative that we accelerate the deployment of technology to support our mission partners."
+
+Under the contract, GDIT will replace legacy DoD IT office applications with an enterprise-wide standard cloud-based solution across all military services worldwide for both unclassified (IL5) and classified (IL6) environments. This solution will allow DoD users and mission partners to more seamlessly collaborate and share information regardless of their location or DoD organization. DEOS represents a major pillar of the DoD CIO's cloud strategy, the largest ever deployment of Microsoft O365 and the first deployment of O365 in a DoD classified environment.
+
+General Dynamics is a global aerospace and defense company that offers a broad portfolio of products and services in business aviation; combat vehicles, weapons systems and munitions; IT services; C4ISR solutions; and shipbuilding and ship repair. General Dynamics employs more than 100,000 people worldwide and generated $39.4 billion in revenue in 2019. More information about General Dynamics Information Technology is available at www.gdit.com. More information about General Dynamics is available at www.gd.com.
+
+View original content to download multimedia: http://www.prnewswire.com/news-releases/general-dynamics-awarded-4-4-billion-department-of-defense-enterprise-cloud-contract-301165984.html 
+
+SOURCE General Dynamics Information Technology
+
+/CONTACT: Oliver Nutt, Tel: 703 852 1599, Oliver.Nutt@gdit.com
+
+/Web site: http://www.gdit.com 
+
+3 Nov 2020 15:47 ET *General Dynamics  Awarded $4.4 B Department of Defense Enterprise Cloud Contract
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 03, 2020 15:47 ET (20:47 GMT)

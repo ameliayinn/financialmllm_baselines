@@ -1,0 +1,205 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Tuesday and early Wednesday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Alteryx Inc (AYX) CL A 
+ Jones Robert Scott (P)    10/30/20-11/2/20        5,304  $131.87      39,412 
+ 
+Amphenol Corp (APH) CL A 
+ d'Amico Lance E (VP)       11/2/20-11/3/20       18,500  $117.07       6,600 
+ 
+Anaplan Inc (PLAN) 
+ Morton David H Jr (CFO)       10/30/20           30,000   $56.03      38,181 
+ 
+Arcturus Therapeutics Holdings Inc (ARCT) 
+ Chivukula Pad (COO)            11/2/20           10,000   $55.28     702,548 
+ 
+Avalara Inc (AVLR) 
+ Ingram William D (D)           11/2/20           25,000  $145.76       1,731 
+ 
+Axogen Inc (AXGN) 
+ Mariani Peter J (CFO)         10/30/20           75,683   $12.41       5,000 
+ 
+Axonics Modulation Technologies Inc (AXNX) 
+ Sama Rinda (COO)          10/29/20-11/3/20       20,300   $48.02     116,564 
+ 
+Barnes & Noble Education Inc (BNED) 
+ Outerbridge Special  (SH)     10/30/20          232,828    $2.30   6,266,793 
+ 
+Black Diamond Therapeutics Inc (BDTX) 
+ Epstein David M (CEO)          11/2/20           12,000   $31.14     977,069 
+ 
+CareDx Inc (CDNA) 
+ Bell Michael Brian (CFO)       11/3/20           32,574   $48.15     103,343 
+ 
+Carvana Co (CVNA) 
+ Garcia Ernest C II (SH)       10/30/20        2,024,885  $191.11     655,556 
+ Garcia Ernest C II (SH)       10/30/20            4,215  $200.22     655,556 
+ 
+Centene Corp (CNC) 
+ Burdick Kenneth A (VP)         11/2/20           35,000   $62.02     838,386 
+ 
+CloudFlare Inc (NET) CL A 
+ Kramer Douglas James (O)       11/2/20            7,084   $52.58         647 
+ 
+CME Group Inc (CME) CL A 
+ Vroman Kendal (O)              11/2/20            4,541  $152.63       9,879 
+ 
+Coupa Software Inc (COUP) 
+ Ford Todd R (CFO)             10/30/20           12,500  $268.85      11,987 
+ 
+Dolby Laboratories Inc (DLB) CL A 
+ Sherman Mark A (VP)            11/2/20           25,000   $76.00      49,038 
+ Yeaman Kevin J (CEO)          10/30/20           30,000   $75.00     140,283 
+ 
+e.l.f. Beauty Inc (ELF) 
+ Amin Tarang (CB)           11/2/20-11/3/20       49,177   $20.61   4,603,503 
+ 
+Elastic NV (ESTC) 
+ Moorjani Janesh (CFO)          11/2/20           14,733   $99.66      20,341 
+ 
+Enphase Energy Inc (ENPH) 
+ Mcneil Jeff (COO)              11/2/20            5,932   $99.01     243,971 
+ 
+Equinix Inc (EQIX) 
+ Morandi Brandi Galvi (O)   11/2/20-11/3/20        2,525  $748.84      13,656 
+ 
+Estee Lauder Companies Inc (EL) CL A 
+ Demsey John (O)                11/3/20            5,907  $226.06      12,019 
+ Freda Fabrizio (CEO)           11/3/20           13,494  $224.93      68,174 
+ Haney Carl P (VP)              11/3/20            8,116  $223.96      14,188 
+ O'Hare Michael (VP)            11/3/20            4,711  $226.06       2,183 
+ Polcer Gregory F (VP)          11/3/20            2,346  $224.94      79,314 
+ 
+Etsy Inc (ETSY) 
+ Silverman Josh (CEO)      10/30/20-11/3/20      102,180  $128.31           0 
+ 
+Exact Sciences Corp (EXAS) 
+ Conroy Kevin T (CB)            11/2/20           32,819  $121.11     979,589 
+ 
+Federal Agricultural Mortgage Corp (AGM) CL C NON-VTG 
+ Zions Bancorporation (SH)      11/2/20           15,086   $66.02     632,101 
+ 
+First Solar Inc (FSLR) 
+ Walton Lukas T (SH)           10/30/20        2,500,000   $80.00   8,841,358 
+ 
+Frequency Therapeutics Inc (FREQ) 
+ Lucchino David L (CEO)         11/2/20           15,714   $20.81     339,514 
+ 
+Generac Holdings Inc (GNRC) 
+ Jagdfeld Aaron (CB)            11/2/20            5,000  $213.73     652,340 
+ 
+Globe Life Inc (GL) 
+ Coleman Gary L (CB)            11/3/20           12,000   $84.95     785,215 
+ Hutchison Larry M (CB)         11/3/20           12,000   $84.95     712,236 
+ Svoboda Frank M (CFO)          11/3/20           20,000   $84.94     123,203 
+ 
+Goosehead Insurance Inc (GSHD) CL A 
+ Colby Michael C (P)           10/30/20           50,000  $121.65     206,533 
+ 
+Hubbell Inc (HUBB) 
+ Mais Stephen M (VP)           10/30/20            3,400  $144.12      14,816 
+ Nord David G (CB)         10/30/20-11/2/20       49,544  $146.67     110,535 
+ 
+Karuna Therapeutics Inc (KRTX) 
+ Pande Atul (D)                 11/3/20            5,000   $85.00           0 
+ 
+Littelfuse Inc (LFUS) 
+ Major John Edward (D)          11/2/20            4,435  $200.16      21,345 
+ 
+LiveRamp Holdings Inc (RAMP) 
+ Arra James F (P)               11/2/20           15,000   $66.24     152,745 
+ 
+Logitech International SA (LOGI) 
+ Darrell Bracken (CEO)          11/2/20           41,666   $84.66     765,172 
+ 
+MediaAlpha Inc (MAX) CL A 
+ White Mountains Insu (SH)     10/30/20        3,609,894   $19.00  20,532,202 
+ 
+MediaAlpha Inc (MAX) CL B 
+ Cramer Keith (VP)             10/30/20           62,875   $17.67     357,618 
+ Martinez Lance (O)            10/30/20           26,468   $17.67     150,540 
+ Mikalis Brian (VP)            10/30/20           30,496   $17.67     173,454 
+ Nonko Eugene (OD)             10/30/20          146,110   $17.67   4,811,919 
+ Perine Robert (VP)            10/30/20           23,679   $17.67     134,682 
+ Sinanyan Tigran (CFO)         10/30/20           85,311   $17.67     485,227 
+ Sweetser Jeff (VP)            10/30/20           28,929   $17.67     164,541 
+ Topjian Serge (VP)            10/30/20           30,028   $17.67     170,792 
+ Wang Ambrose (O)              10/30/20          599,917   $17.67     169,735 
+ Yeh Kuanling Amy (VP)         10/30/20           40,044   $17.67     227,761 
+ Yi Steven (CEO)               10/30/20          846,014   $17.67   4,811,919 
+ 
+Packaging Corp of America (PKG) 
+ Hassfurther Thomas A (VP)      11/3/20           10,000  $120.00     262,898 
+ Ridley Bruce A (VP)            11/2/20            2,516  $117.64      16,124 
+ 
+Palo Alto Networks Inc (PANW) 
+ Zuk Nir (OD)                   11/2/20           12,000  $222.72     999,947 
+ 
+PennyMac Financial Services Inc (PFSI) 
+ Grogin Jeffrey (O)             11/2/20            9,225   $51.26     534,570 
+ 
+Phathom Pharmaceutials Inc (PHAT) 
+ Nabulsi Azmi (COO)             11/2/20           14,500   $36.83     852,700 
+ 
+Pinterest Inc (PINS) CL A 
+ Levine Jeremy S (D)       10/30/20-11/2/20      465,365   $58.62   1,305,130 
+ 
+PTC Therapeutics Inc (PTCT) 
+ Peltz Stuart Walter (CEO)      11/2/20           50,000   $53.66      56,085 
+ 
+ResMed Inc (RMD) 
+ Hollingshead James (O)         11/2/20            2,400  $195.00      87,602 
+ 
+Tenzing Acquisition Corp (TZAC) 
+ Hudson Bay Capital M (SH)      11/2/20           50,000   $10.87     760,000 
+ 
+Tesla Inc (TSLA) 
+ Wilson-Thompson Kath (D)      10/30/20           12,500  $399.99       1,800 
+ 
+Texas Roadhouse Inc (TXRH) 
+ Taylor Wayne Kent (CB)    10/30/20-11/3/20      200,000   $69.63   3,468,944 
+ 
+Tradeweb Markets Inc (TW) CL A 
+ Zucker Scott (O)               11/2/20           10,000   $55.24      62,275 
+ 
+VMware Inc (VMW) CL A 
+ Rowe Zane (CFO)                11/2/20           18,000  $130.07      84,714 
+ 
+Walker & Dunlop Inc (WD) 
+ Smith Howard W III (P)         11/2/20            9,111   $63.05     508,052 
+ 
+Wayfair Inc (W) CL A 
+ Macri Edmond (O)               11/2/20            1,500  $249.36     258,284 
+ 
+WSFS Financial Corp (WSFS) 
+ Wright Richard M (VP)          11/2/20           12,204   $32.91      56,126 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+November 04, 2020 08:44 ET (13:44 GMT)

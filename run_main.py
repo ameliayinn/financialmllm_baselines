@@ -136,15 +136,6 @@ def calculate_smape(preds, labels):
     smape = torch.mean(numerator / (denominator + 1e-8)) * 100
     return smape
 
-'''
-def calculate_smape(preds, labels):
-    """Calculate Symmetric Mean Absolute Percentage Error (SMAPE)."""
-    numerator = torch.abs(preds - labels)
-    denominator = (torch.abs(preds) + torch.abs(labels)) / 2
-    smape = torch.mean(numerator / denominator) * 100
-    return smape.item()
-'''
-
 # MASE 计算方法
 def calculate_mase(preds, labels, naive_forecast):
     """
@@ -164,6 +155,15 @@ def calculate_mase(preds, labels, naive_forecast):
 
     mase = mae_model / (mae_naive + 1e-8)
     return mase
+
+'''
+def calculate_smape(preds, labels):
+    """Calculate Symmetric Mean Absolute Percentage Error (SMAPE)."""
+    numerator = torch.abs(preds - labels)
+    denominator = (torch.abs(preds) + torch.abs(labels)) / 2
+    smape = torch.mean(numerator / denominator) * 100
+    return smape.item()
+'''
 
 '''
 def calculate_mase(preds, labels, naive_forecast=None):
@@ -358,9 +358,9 @@ for ii in range(args.itr):
         with open(log_file_path, 'a') as log_file:
             log_file.write(message + '\n')
 
-        with open(csv_file_path, 'a', newline='') as csvfile:
+        with open(csv_file_path, 'w', newline='') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow([args.seq_len, args.label_len, args.pred_len, epoch + 1, train_loss, vali_loss, test_loss, vali_mae_loss, smape, mase])
+            writer.writerow([args.seq_len, args.label_len, args.pred_len, epoch + 1, train_loss, vali_loss, test_loss, vali_mae_loss, f"{smape:.7f}", f"{mase:.7f}"])
 
         early_stopping(vali_loss, model, path)
         if early_stopping.early_stop:

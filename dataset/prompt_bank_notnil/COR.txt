@@ -1,0 +1,56 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: CoreSite Realty Corp 
+SYMBOL: COR (REIT) 
+ 
+FILER: Warren Brian 
+TITLE: Vice President 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+11/20/20           Exercise*                 4,950      $33.10        $163,825 
+11/20/20           Sale                      4,950     $127.03        $628,799 
+ 
+OWNERSHIP: 23,084 (Direct) 
+ 
+  * - 3,880 shares exercised 2 years, 3 months before expiration. 
+      1,070 shares exercised 2 years, 5 months before expiration. 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Warren Brian             VP              11/20/20    Sell        4,950          127.03      23,084 
+Smith Steven James       Officer         11/09/20    Sell        4,065 b        130.00      43,527 
+Warren Brian             VP              11/05/20    Sell        1,000 b        127.14      23,084 
+Jones Mark R             Officer         11/03/20    Sell          750 b        122.25      12,621 
+Finnin Jeffrey S         CFO             11/02/20    Sell        4,000 b        120.29      74,587 
+Kaiser Maile             VP              11/02/20    Sell        2,366 b        119.83      15,071 
+Smith Steven James       Officer         10/08/20    Sell        1,000 b        127.00      47,592 
+Carlyle Realty V GP LLC  Holder          08/05/20    Sell      230,172  o       128.55           0 
+Warren Brian             VP              08/05/20    Sell        1,000 b        127.74      24,084 
+Koehler Michael R        Dir             08/04/20    Sell        8,750          128.20           0 
+Finnin Jeffrey S         CFO             08/03/20    Sell        4,000 b        128.48      78,987 
+Jones Mark R             Officer         08/03/20    Sell          750 b        129.06      13,371 
+McCandless Derek         VP              06/01/20    Sell        7,000 b        124.93      24,115 
+Carlyle Group Management Holder          05/28/20    Sell    2,000,000  o       124.56           0 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+November 24, 2020 16:44 ET (21:44 GMT)

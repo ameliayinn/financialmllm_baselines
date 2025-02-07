@@ -1,0 +1,33 @@
+Traders are often on the hunt for short-squeeze candidates, but finding them can be tricky. A common method is to look at the short interest in a stock as a percentage of the shares outstanding; if the short interest is high, say above 30%, it implies that short sellers may have to scramble to cover their positions, adding momentum to a buying wave. By that measure, American Airlines Group (ticker: AAL) would seem like an ideal candidate for a squeeze, since it has the highest short interest in the S&P 500, at 31% of shares outstanding.
+
+Yet the best candidates for a squeeze aren't necessarily those with high short interest, according to Ihor Dusaniwsky, managing director at S3 Partners, a market data analytics firm. Rather, he says, it's often in the stocks where short traders have staked out large dollar-value positions and racked up the heaviest losses as the stock has climbed.
+
+"A common misconception in the market is that high short interest as a percentage of the float is necessary for a short squeeze to occur," he says. "This is patently false." Traders who are short rarely exit a stock en masse, he adds, usually covering their positions gradually. And they rarely own enough shares to overwhelm trading, partly because a big jump in price is usually accompanied by a surge of volume, diminishing the clout of short positions.
+
+Tesla (TSLA), he points out, has been the poster-child stock for a short squeeze. Yet short-interest in Tesla never topped 20% this year and has since fallen to about 7% of shares outstanding. What has made the stock more vulnerable to a squeeze was the dollar value at stake -- $19 billion at the start of the year and around $22 billion now. And Tesla shorts have racked up billions of dollars in losses as the stock has surged more than 400% this year.
+
+"Short covering helps grease the skids," Dusaniwsky says, "but it's never the primary mover."
+
+Dusaniwsky says the best candidates for a squeeze are stocks where short-traders may be forced to exit their positions due to a recent increase in mark-to-market losses (which could trigger forced selling at brokerage and institutional trading firms that have circuit breakers to manage portfolios and assets at risk).
+
+Along those lines, Barron's asked S3 to screen for stocks in the S&P 500 with high short positions by dollar value and significant mark-to-market losses over the past week and month. With the market moving up lately, short sellers in these stocks are likely to face mounting losses and pressure to cover their positions.
+
+"These are the stocks where the shorts are already in pain and got hurt more over the past week," Dusaniwsky says.
+
+Stocks that turned up include Alphabet (GOOGL), ViacomCBS (VIAC), Lam Research (LRCX), Thermo Fisher Scientific (TMO), Idexx Laboratories (IDXX), Align Technology (ALGN), Arista Networks (ANET), Carrier Global (CARR), Teradyne (TER), Martin Marietta Materials (MLM), Garmin (GRMN), and Quanta Services (PWR).
+
+Why these stocks? Alphabet, for instance, has more than $4.6 billion of its shares sold short, plus another $3.7 billion in the C-Class shares (GOOG). Those amounts are a rounding error of Alphabet's market cap of $1.2 trillion. But short traders have racked up 3% losses in the past week, 12% in the last month, and 24% losses on the year as the stock has climbed 32%. And they are down by more than $1.7 billion this year, including $1 billion in losses over the last month (based on mark-to-market positions). All of that could raise pressure on traders to cover their positions and buy the stock if the shares keep rising.
+
+Align Technology, a dental company that makes Invisalign braces, also hasn't worked out for the bears. The stock has surged 77% this year, saddling short traders with 68% losses on their positions, including a 39% loss in the past month and 2.2% loss in the last week. Short traders are now down $657 million for the year, including a $25 million loss in the past week, according to S3.
+
+Idexx, a veterinary lab and water-testing firm, has been a loser for the shorts. The stock is up nearly 80% this year, pushing its price to 69 times estimated 2021 earnings. While it may be overvalued, betting against the stock hasn't worked; short positions are down $293 million this year, amounting to a 61% loss on market positions. And gains in the stock over the last month have saddled the shorts with $70 million in losses, or around 14.5% on outstanding positions.
+
+Gains in ViacomCBS are causing losses for the shorts. While the stock is down 27% this year, it has mounted a big comeback from its March lows, rallying more than 100% in the last six months. Traders have staked out short positions worth more than $3.2 billion, and they are down by $236 million this year, including $200 million in losses over the last week alone.
+
+Carrier is another one that has been painful for shorts. The company went public in March, after being spun off from United Technologies, which merged with Raytheon Technologies (RTX). Carrier has soared 214% since it started trading, handing short traders $232 million in market losses. Overall, the shorts are down an average 92%, including a nearly 10% loss in the last week. Betting against demand for home and industrial air conditioners appears to have been a bad wager, and it could help push the stock even higher if the shorts keep losing their shirts.
+
+Write to Daren Fonda at daren.fonda@barrons.com
+
+(END) Dow Jones Newswires
+
+November 05, 2020 12:56 ET (17:56 GMT)

@@ -1,0 +1,45 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: Stryker Corp 
+SYMBOL: SYK 
+ 
+FILER: Berry William E Jr 
+TITLE: Vice President 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+11/13/20           Sale                      1,275     $231.84        $295,597 
+ 
+OWNERSHIP: 314 (Direct)  466 (Indirect) 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Berry William E Jr       VP              11/13/20    Sell        1,275          231.84         780 
+Stryker Ronda E          Dir             08/06/20    Sell      140,000          186.26  22,739,970 
+Doliveux Roch            Dir             07/31/20    Buy            53          191.94      22,070 
+Lobo Kevin               Chmn            07/31/20    Sell       25,855 bo       190.80      70,914 
+Boehnlein Glenn S        CFO             06/15/20    Sell       10,351 b        185.24      17,715 
+Golston Allan C          Dir             05/29/20    Sell        7,299  o       193.23       9,027 
+Datar Srikant M          Dir          05/19-05/20/20 Sell          750  o       191.23      23,733 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+November 17, 2020 15:04 ET (20:04 GMT)

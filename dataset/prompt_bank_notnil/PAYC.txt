@@ -1,0 +1,60 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: Paycom Software Inc 
+SYMBOL: PAYC 
+ 
+FILER: Watts J C Jr 
+TITLE: Director 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+11/11/20           Sale                      1,000     $385.53        $385,534 
+ 
+OWNERSHIP: 4,734 (Direct) 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Watts J C Jr             Dir             11/11/20    Sell        1,000          385.53       4,734 
+Smith Bradley Scott      Officer         11/03/20    Sell        1,000 b        369.35      41,868 
+Boelte Craig E           CFO             10/15/20    Sell        8,000 b        371.02     364,049 
+Richison Chad R          Chmn            10/13/20    Sell       45,000 b        370.79   6,993,672 
+Richison Chad R          Chmn         10/09-10/12/20 Sell       90,000 b        364.44   7,038,672 
+Richison Chad R          Chmn         10/07-10/08/20 Sell       90,000 b        347.57   7,128,672 
+Richison Chad R          Chmn         10/05-10/06/20 Sell       90,000 b        336.21   7,218,672 
+Richison Chad R          Chmn         10/01-10/02/20 Sell       90,000 b        322.14   7,308,672 
+Richison Chad R          Chmn            09/30/20    Sell       45,000 b        311.42   7,398,672 
+York Jeffrey D           Officer         09/02/20    Sell       50,000 b        306.00     592,359 
+Smith Bradley Scott      Officer         08/03/20    Sell        1,000 b        287.32      43,868 
+Boelte Craig E           CFO             07/15/20    Sell        8,000 b        293.33     372,799 
+Evans Jon D              COO             07/09/20    Sell        3,000 b        317.58      26,799 
+Levenson Robert J        Dir             06/12/20    Sell       82,000          302.20       7,695 
+Peters Frederick C II    Dir             06/11/20    Sell        1,000          311.13      20,417 
+York Jeffrey D           Officer         06/08/20    Sell       50,000 b        328.77     642,359 
+Smith Bradley Scott      Officer         06/01/20    Sell       10,000 b        303.22      45,755 
+Levenson Robert J        Dir             05/28/20    Sell        2,777          291.58      92,995 
+Richison Chad R          Chmn            05/19/20    Sell      650,000          268.00   7,443,672 
+Boelte Craig E           CFO             05/18/20    Sell       10,000 b        285.49     380,799 
+Clark Jason D            Dir             05/18/20    Sell          900          284.51       5,850 
+Evans Jon D              COO          05/13-05/14/20 Sell        3,000 b        257.15      31,662 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+November 12, 2020 20:36 ET (01:36 GMT)

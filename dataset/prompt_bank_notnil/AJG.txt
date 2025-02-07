@@ -1,0 +1,1489 @@
+ROLLING MEADOWS, Ill., Oct. 26, 2017
+
+ROLLING MEADOWS, Ill., Oct. 26, 2017 /PRNewswire/ -- Arthur J. Gallagher & Co . (NYSE: AJG) today reported its financial results for the quarter ended September 30, 2017. Management will host a webcast conference call to discuss these results on Thursday, October 26, 2017 at 5:15 p.m. ET/4:15 p.m. CT. To listen to the call, and for printer-friendly formats of this release and the "Supplemental Quarterly Data" and "CFO Commentary," which may also be referenced during the call, please visit ajg.com/IR. These documents contain both GAAP and non-GAAP measures. Investors and other users of this information should read carefully the section entitled "Information Regarding Non-GAAP Measures" beginning on page 9. 
+
+
+ 
+Summary of Financial Results -- Third Quarter 
+Reconciliations of non-GAAP measures begin on page 2 
+ 
+(Dollars in millions, 
+except per share data)      3rd Q 2017          3rd Q 2016          Change 
+                            Reported  Adjusted  Reported  Adjusted  Reported  Adjusted 
+Brokerage Segment           GAAP      Non-GAAP  GAAP      Non-GAAP  GAAP      Non-GAAP 
+------------------------- 
+ 
+ Revenues                   $ 953.7   $  953.1  $ 877.6   $  883.5  9%        8% 
+ Organic revenues                     $  900.0            $  869.5            3.5% 
+ Net earnings               $ 107.6             $  97.7             10% 
+                                                                     +15 
+ Net earnings margin        11.3%               11.1%                bpts 
+ Adjusted EBITDAC                     $  266.2            $  246.3            8% 
+ Adjusted EBITDAC margin              27.9%               27.9%                +5 bpts 
+ Diluted net earnings per 
+  share                     $  0.59   $   0.67  $  0.55   $   0.61  7%        10% 
+ 
+Risk Management Segment 
+------------------------- 
+ Revenues                   $ 200.2   $  200.2  $ 176.7   $  177.7  13%       13% 
+ Organic revenues                     $  195.5            $  177.4            10.2% 
+ Net earnings               $  17.1             $  13.2             30% 
+                                                                     +107 
+ Net earnings margin        8.5%                7.5%                 bpts 
+ Adjusted EBITDAC                     $   35.8            $   30.0            19% 
+                                                                               +100 
+ Adjusted EBITDAC margin              17.9%               16.9%                bpts 
+ Diluted net earnings per 
+  share                     $  0.09   $   0.09  $  0.07   $   0.08  29%       13% 
+ 
+Corporate Segment 
+------------------------- 
+ Diluted net earnings per 
+  share                     $  0.03   $   0.05  $  0.07   $   0.08  -57%      -38% 
+ 
+Total Company 
+------------------------- 
+ Diluted net earnings per 
+  share                     $  0.71   $   0.81  $  0.69   $   0.77  3%        5% 
+ 
+
+"We delivered another excellent quarter of operating performance," said J. Patrick Gallagher, Jr ., Chairman, President and CEO. "We posted strong revenue growth, expanded margins, completed 6 brokerage tuck-in mergers and grew earnings per share in the quarter. During this same period, many of our clients faced challenges related to unprecedented natural disasters. I'm proud of how quickly our employees anticipated and addressed clients' needs even as many dealt with their own losses. In addition, consistent with the values of our unique Gallagher culture, others generously volunteered and contributed to relief efforts."
+
+"Over the past month, I met with almost all of our global leaders and many insurance carriers. My discussions, and our own internal data, continue to suggest a stable global P&C rate environment. Of particular note, Australia and New Zealand are continuing to see rate increases, and it appears there could be some modest hardening on U.S. property lines. Regardless of industry conditions, our talented team will help our clients navigate the current insurance market place, and I believe we are well positioned for a strong finish to 2017, and for another excellent year in 2018."
+
+(1 of 14) 
+
+
+ 
+Summary of Financial Results -- Nine Months Ended September 30 
+Reconciliations of non-GAAP measures begin on page 3 
+ 
+(Dollars in millions, 
+except per share data)      9 Mths 2017            9 Mths 2016           Change 
+                            Reported    Adjusted   Reported   Adjusted   Reported  Adjusted 
+Brokerage Segment           GAAP        Non-GAAP   GAAP       Non-GAAP   GAAP      Non-GAAP 
+------------------------- 
+ 
+ Revenues                   $ 2,830.3   $ 2,827.2  $ 2,642.2  $ 2,609.2  7%        8% 
+ Organic revenues                       $ 2,657.3             $ 2,567.3            3.5% 
+ Net earnings               $  325.2               $  278.5              17% 
+                                                                          +95 
+ Net earnings margin        11.5%                  10.5%                  bpts 
+ Adjusted EBITDAC                       $   791.1             $   715.1            11% 
+ Adjusted EBITDAC margin                28.0%                 27.4%                 +57 bpts 
+ Diluted net earnings per 
+  share                     $    1.75   $    1.93  $    1.54  $    1.75  14%       10% 
+ 
+Risk Management Segment 
+------------------------- 
+ Revenues                   $  571.5    $   571.5  $  532.5   $   533.3  7%        7% 
+ Organic revenues                       $   563.4             $   532.6            5.8% 
+ Net earnings               $    45.8              $    42.1             9% 
+                                                                          +10 
+ Net earnings margin        8.0%                   7.9%                   bpts 
+ Adjusted EBITDAC                       $    99.1             $    91.7            8% 
+ Adjusted EBITDAC margin                17.3%                 17.2%                 +15 bpts 
+ Diluted net earnings per 
+  share                     $    0.25   $    0.25  $    0.23  $    0.24  9%        4% 
+ 
+Corporate Segment 
+------------------------- 
+ Diluted net earnings 
+  (loss) per share          $   (0.03)  $    0.06  $    0.02  $    0.08  -250%     -25% 
+ 
+Total Company 
+------------------------- 
+ Diluted net earnings per 
+  share                     $    1.97   $    2.24  $    1.79  $    2.07  10%       8% 
+ 
+ 
+Quarter Ended September 30 Reported GAAP to Adjusted Non-GAAP 
+Reconciliation: 
+                                                                                  Diluted Net 
+                                                                                  Earnings Per 
+                      Revenues              Net Earnings        EBITDAC           Share 
+                                            3rd Q               3rd Q    3rd Q    3rd Q    3rd Q 
+Segment               3rd Q 17   3rd Q 16   17       3rd Q 16   17       16       17       16 
+ 
+                      (in millions)         (in millions)       (in millions) 
+ 
+Brokerage, as 
+ reported             $  953.7   $  877.6   $ 107.6  $  97.7    $ 256.5  $ 229.9  $  0.59  $  0.55 
+ Gains on book 
+  sales               (0.6)      (1.1)      (0.4)    (0.8)      (0.6)    (1.1)    -        - 
+ Acquisition 
+  integration         -          -          2.3      6.7        3.5      9.4      0.01     0.04 
+ Workforce & lease 
+  termination         -          -          3.4      4.3        5.1      6.0      0.02     0.02 
+ Acquisition 
+  related 
+  adjustments         -          -          8.3      1.3        1.7      0.6      0.05     - 
+ U.K. statutory 
+  income tax rate 
+  change              -          -          -        (1.5)      -        -        -        (0.01) 
+ Levelized foreign 
+  currency 
+  translation         -          7.0        -        0.7        -        1.5      -        0.01 
+ 
+Brokerage, as 
+ adjusted *           953.1      883.5      121.2    108.4      266.2    246.3    0.67     0.61 
+ 
+Risk Management, as 
+ reported             200.2      176.7      17.1     13.2       35.7     29.2     0.09     0.07 
+ Workforce & lease 
+  termination         -          -          -        0.3        0.1      0.4      -        0.01 
+ Acquisition 
+  related 
+  adjustments         -          -          (0.4)    -          -        -        -        - 
+ Levelized foreign 
+  currency 
+  translation         -          1.0        -        0.2        -        0.4      -        - 
+ 
+Risk Management, as 
+ adjusted *           200.2      177.7      16.7     13.7       35.8     30.0     0.09     0.08 
+ 
+Corporate, as 
+ reported             430.6      428.0      13.1     19.5       (53.4)   (42.7)   0.03     0.07 
+ Litigation 
+  settlement          -          -          -        3.5        -        4.4      -        0.01 
+ Home office lease 
+  termination/move    -          -          3.7      -          6.2      -        0.02     - 
+ 
+Corporate, as 
+ adjusted *           430.6      428.0      16.8     23.0       (47.2)   (38.3)   0.05     0.08 
+ 
+Total Company, as 
+ reported             $ 1,584.5  $ 1,482.3  $ 137.8  $ 130.4    $ 238.8  $ 216.4  $  0.71  $  0.69 
+ 
+Total Company, as 
+ adjusted *           $ 1,583.9  $ 1,489.2  $ 154.7  $ 145.1    $ 254.8  $ 238.0  $  0.81  $  0.77 
+Total Brokerage & 
+Risk 
+ Management, as 
+  reported            $ 1,153.9  $ 1,054.3  $ 124.7  $ 110.9    $ 292.2  $ 259.1  $  0.68  $  0.62 
+ 
+Total Brokerage & 
+Risk 
+ Management, as 
+  adjusted *          $ 1,153.3  $ 1,061.2  $ 137.9  $ 122.1    $ 302.0  $ 276.3  $  0.76  $  0.69 
+ 
+
+26 Oct 2017 16:15 ET 
+Press Release: Arthur J. Gallagher & Co . -2-
+
+(2 of 14) 
+
+
+ 
+*  For 2017, the pretax impact of the Brokerage Segment adjustments totals 
+   $20.5 million, with a corresponding adjustment to the provision for income 
+   taxes of $6.9 million relating to these items. The pretax impact of the 
+   Risk Management Segment adjustments totals ($0.5) million, with a 
+   corresponding adjustment to the provision for income taxes of 
+   ($0.1) million relating to these items. The pretax impact of the Corporate 
+   Segment adjustments totals $6.2 million, with a corresponding adjustment to 
+   the provision for income taxes of $2.5 million relating to these items. A 
+   detailed reconciliation of the 2017 and 2016 provision for income taxes is 
+   shown on page 13. 
+ 
+ 
+Nine Months Ended September 30 Reported GAAP to Adjusted 
+Non-GAAP Reconciliation: 
+                                                                                    Diluted Net 
+                      Revenues              Net Earnings        EBITDAC             Earnings Per Share 
+                                            9 Mths    9 Mths    9 Mths    9 Mths    9 Mths    9 Mths 
+Segment               9 Mths 17  9 Mths 16  17        16        17        16        17        16 
+ 
+                      (in millions)         (in millions)       (in millions) 
+ 
+Brokerage, as 
+ reported             $ 2,830.3  $ 2,642.2  $  325.2  $  278.5  $  762.4  $  674.4  $   1.75  $   1.54 
+ Gains on book 
+  sales               (3.1)      (4.7)      (2.2)     (3.3)     (3.1)     (4.7)     (0.01)    (0.02) 
+ Acquisition 
+  integration         -          -          6.6       25.1      9.7       35.5      0.04      0.14 
+ Workforce & lease 
+  termination         -          -          9.8       8.6       14.4      12.1      0.05      0.05 
+ Acquisition 
+  related 
+  adjustments         -          -          18.2      9.6       7.7       3.2       0.10      0.06 
+ U.K. statutory 
+  income tax rate 
+  change              -          -          -         (1.5)     -         -         -         (0.01) 
+ Levelized foreign 
+  currency 
+  translation         -          (28.3)     -         (2.1)     -         (5.4)     -         (0.01) 
+ 
+Brokerage, as 
+ adjusted *           2,827.2    2,609.2    357.6     314.9     791.1     715.1     1.93      1.75 
+ 
+Risk Management, as 
+ reported             571.5      532.5      45.8      42.1      98.5      89.9      0.25      0.23 
+ Workforce & lease 
+  termination         -          -          0.3       0.9       0.6       1.3       -         0.01 
+ Acquisition 
+  related 
+  adjustments         -          -          (0.4)     -         -         -         -         - 
+ Levelized foreign 
+  currency 
+  translation         -          0.8        -         0.2       -         0.5       -         - 
+ 
+Risk Management, as 
+ adjusted *           571.5      533.3      45.7      43.2      99.1      91.7      0.25      0.24 
+ 
+Corporate, as 
+ reported             1,158.8    1,035.1    15.0      23.4      (155.3)   (112.0)   (0.03)    0.02 
+ Litigation 
+  settlement          -          -          8.8       11.6      11.1      14.6      0.05      0.06 
+ Home office lease 
+  termination/move    -          -          7.9       -         13.2      -         0.04      - 
+ 
+Corporate, as 
+ adjusted *           1,158.8    1,035.1    31.7      35.0      (131.0)   (97.4)    0.06      0.08 
+ 
+Total Company, as 
+ reported             $ 4,560.6  $ 4,209.8  $  386.0  $  344.0  $  705.6  $  652.3  $   1.97  $   1.79 
+ 
+Total Company, as 
+ adjusted *           $ 4,557.5  $ 4,177.6  $  435.0  $  393.1  $  759.2  $  709.4  $   2.24  $   2.07 
+Total Brokerage & 
+Risk 
+ Management, as 
+  reported            $ 3,401.8  $ 3,174.7  $  371.0  $  320.6  $  860.9  $  764.3  $   2.00  $   1.77 
+ 
+Total Brokerage & 
+Risk 
+ Management, as 
+  adjusted *          $ 3,398.7  $ 3,142.5  $  403.3  $  358.1  $  890.2  $  806.8  $   2.18  $   1.99 
+ 
+ 
+*  For 2017, the pretax impact of the Brokerage Segment adjustments totals 
+   $47.8 million, with a corresponding adjustment to the provision for income 
+   taxes of $15.4 million relating to these items. There was no net pretax 
+   impact of the Risk Management Segment adjustments, with a corresponding 
+   adjustment to the provision for income taxes of $0.1 million relating to 
+   these items. The pretax impact of the Corporate Segment adjustments totals 
+   $24.3 million, with a corresponding adjustment to the provision for income 
+   taxes of $7.6 million relating to these items. A detailed reconciliation of 
+   the 2017 and 2016 provision for income taxes is shown on page 14. 
+ 
+
+(3 of 14) 
+
+
+ 
+Brokerage Segment Reported GAAP to Adjusted Non-GAAP Reconciliations 
+(dollars in millions): 
+ 
+Organic 
+Revenues          3rd Q    3rd Q 
+(Non-GAAP)        17       16       Change  9 Mths 17  9 Mths 16  Change 
+--------------- 
+ 
+Base 
+Commissions and 
+Fees 
+--------------- 
+Commissions and 
+ fees, as 
+ reported         $ 884.9  $ 811.5  9.0%    $ 2,576.0  $ 2,398.3  7.4% 
+Less 
+ commissions 
+ and fees from 
+ acquisitions     (37.1)   -                (124.4)    - 
+Less disposed 
+ of operations    -        (0.1)            -          (1.5) 
+Levelized 
+ foreign 
+ currency 
+ translation      -        6.2              -          (26.2) 
+ 
+Organic base 
+ commissions 
+ and fees         $ 847.8  $ 817.6  3.7%    $ 2,451.6  $ 2,370.6  3.4% 
+ 
+Supplemental 
+Commissions 
+--------------- 
+Supplemental 
+ commissions, 
+ as reported      $  39.9  $  35.3  13.0%   $  115.9   $  106.8   8.5% 
+Less 
+ supplemental 
+ commissions 
+ from 
+ acquisitions     (0.2)    -                (1.4)      - 
+Less disposed 
+ of operations    -        (0.1)            -          (0.5) 
+Levelized 
+ foreign 
+ currency 
+ translation      -        0.2              -          (2.7) 
+ 
+Organic 
+ supplemental 
+ commissions      $  39.7  $  35.4  12.2%   $  114.5   $  103.6   10.5% 
+ 
+Contingent 
+Commissions 
+--------------- 
+Contingent 
+ commissions, 
+ as reported      $  13.5  $  16.4  -17.7%  $   96.4   $   96.7   -0.3% 
+Less contingent 
+ commissions 
+ from 
+ acquisitions     (1.0)    -                (5.2)      - 
+Less disposed 
+ of operations    -        -                -          (2.9) 
+Levelized 
+ foreign 
+ currency 
+ translation      -        0.1              -          (0.7) 
+ 
+Organic 
+ contingent 
+ commissions      $  12.5  $  16.5  -24.2%  $   91.2   $   93.1   -2.0% 
+ 
+Total reported 
+commissions, 
+fees, 
+supplemental 
+commissions and 
+ contingent 
+ commissions      $ 938.3  $ 863.2  8.7%    $ 2,788.3  $ 2,601.8  7.2% 
+Less 
+ commissions 
+ and fees from 
+ acquisitions     (38.3)   -                (131.0)    - 
+Less disposed 
+ of operations    -        (0.2)            -          (4.9) 
+Levelized 
+ foreign 
+ currency 
+ translation      -        6.5              -          (29.6) 
+ 
+Total organic 
+commissions, 
+fees, 
+supplemental 
+commissions and 
+ contingent 
+ commissions      $ 900.0  $ 869.5  3.5%    $ 2,657.3  $ 2,567.3  3.5% 
+ 
+ 
+Acquisition Activity      3rd Q 17  3rd Q 16  9 Mths 17  9 Mths 16 
+----------------------- 
+ 
+Number of acquisitions 
+ closed                   6         7         27         28 
+Estimated annualized 
+ revenues acquired (in 
+ millions)                $ 36.9    $ 27.4    $ 129.7    $  97.8 
+ 
+
+(4 of 14) 
+
+
+ 
+Brokerage Segment Reported GAAP to Adjusted Non-GAAP Reconciliations 
+(continued) (dollars in millions): 
+ 
+Compensation Expense 
+and Ratios                  3rd Q 17  3rd Q 16  9 Mths 17  9 Mths 16 
+--------------------- 
+ 
+Compensation expense, 
+ as reported                $ 548.4   $ 504.0   $ 1,621.7  $ 1,515.1 
+ 
+Acquisition 
+ integration                (3.0)     (4.9)     (6.7)      (14.0) 
+Workforce and lease 
+ termination related 
+ charges                    (4.7)     (5.5)     (12.5)     (9.3) 
+Acquisition related 
+ adjustments                (1.7)     (0.6)     (7.7)      (3.2) 
+Levelized foreign 
+ currency 
+ translation                -         2.6       -          (18.9) 
+ 
+Compensation expense, 
+ as adjusted                $ 539.0   $ 495.6   $ 1,594.8  $ 1,469.7 
+ 
+Reported compensation 
+expense ratios using 
+reported 
+  revenues on pages 2 
+   and 3               *    57.5%     57.4%     57.3%      57.3% 
+ 
+Adjusted compensation 
+expense ratios using 
+adjusted 
+  revenues on pages 2 
+   and 3               **   56.6%     56.1%     56.4%      56.3% 
+ 
+ 
+*   Reported third quarter compensation ratio was 0.1 pts higher than the same 
+    period in 2016. This ratio was primarily impacted by raises and increased 
+    incentive compensation, partially offset by lower integration costs, 
+    headcount controls and favorable medical plan experience. 
+**  Adjusted third quarter compensation ratio was 0.5 pts higher than the same 
+    period in 2016. This ratio was primarily impacted by raises and increased 
+    incentive compensation, partially offset by headcount controls and 
+    favorable medical plan experience. 
+ 
+ 
+Operating Expense and 
+Ratios                      3rd Q 17  3rd Q 16  9 Mths 17  9 Mths 16 
+--------------------- 
+ 
+Operating expense, as 
+ reported                   $ 148.8   $ 143.7   $  446.2   $  452.7 
+ 
+Acquisition 
+ integration                (0.5)     (4.5)     (3.0)      (21.5) 
+Workforce and lease 
+ termination related 
+ charges                    (0.4)     (0.5)     (1.9)      (2.8) 
+Levelized foreign 
+ currency 
+ translation                -         2.9       -          (4.0) 
+ 
+Operating expense, as 
+ adjusted                   $ 147.9   $ 141.6   $  441.3   $  424.4 
+ 
+Reported operating 
+expense ratios using 
+reported 
+  revenues on pages 2 
+   and 3               *    15.6%     16.4%     15.8%      17.1% 
+ 
+Adjusted operating 
+expense ratios using 
+adjusted 
+  revenues on pages 2 
+   and 3               **   15.5%     16.0%     15.6%      16.3% 
+ 
+ 
+ 
+*   Reported third quarter operating expense ratio was 0.8 pts lower than the 
+    same period in 2016. This ratio was primarily impacted by lesser 
+    integration costs and savings in professional fees. 
+**  Adjusted third quarter operating expense ratio was 0.5 pts lower than the 
+    same period in 2016. This ratio was primarily impacted by savings in 
+    professional fees. 
+ 
+ 
+
+26 Oct 2017 16:15 ET 
+Press Release: Arthur J. Gallagher & Co . -3-
+
+
+Net Earnings to 
+Adjusted 
+EBITDAC              3rd Q    3rd Q            9 Mths    9 Mths 
+(Non-GAAP)           17       16       Change  17        16        Change 
+--------------- 
+ 
+Net earnings, 
+ as reported         $ 107.6  $  97.7  10.1%   $  325.2  $  278.5  16.8% 
+Provision for 
+ income taxes        54.0     51.4             166.6     148.8 
+Depreciation         14.9     14.2             45.9      42.6 
+Amortization         68.9     62.5             196.9     183.3 
+Change in 
+ estimated 
+ acquisition 
+ earnout 
+ payables            11.1     4.1              27.8      21.2 
+ 
+EBITDAC              256.5    229.9    11.6%   762.4     674.4     13.1% 
+ 
+Gains from 
+ books of 
+ business 
+ sales               (0.6)    (1.1)            (3.1)     (4.7) 
+Acquisition 
+ integration         3.5      9.4              9.7       35.5 
+Acquisition 
+ related 
+ adjustments         1.7      0.6              7.7       3.2 
+Workforce and 
+ lease 
+ termination 
+ related 
+ charges             5.1      6.0              14.4      12.1 
+Levelized 
+ foreign 
+ currency 
+ translation         -        1.5              -         (5.4) 
+ 
+EBITDAC, as 
+ adjusted            $ 266.2  $ 246.3  8.1%    $  791.1  $  715.1  10.6% 
+ 
+Net earnings 
+margin, as 
+reported using 
+reported 
+  revenues on 
+   pages 2 and                          +15                         +95 
+   3                 11.3%    11.1%     bpts   11.5%     10.5%      bpts 
+ 
+EBITDAC margin, 
+as adjusted 
+using adjusted 
+  revenues on 
+   pages 2 and                          +5                          +57 
+   3             *   27.9%    27.9%     bpts   28.0%     27.4%      bpts 
+ 
+ 
+*  Adjusted EBITDAC margin expansion for third quarter 2017 would have been 
+   approximately 30 basis points excluding the roll-in impact of our 
+   acquisitions. 
+ 
+
+(5 of 14) 
+
+
+ 
+Risk Management Segment Reported GAAP to Adjusted Non-GAAP 
+Reconciliations (dollars in millions): 
+ 
+Organic Revenues 
+(Non-GAAP)            3rd Q 17   3rd Q 16   Change  9 Mths 17  9 Mths 16  Change 
+---------------- 
+ 
+Fees              *   $   200.1  $   176.0  13.7%   $   567.6  $   529.6  7.2% 
+International 
+ performance 
+ bonus fees           -          0.4                3.5        2.2 
+ 
+Fees as reported      200.1      176.4      13.4%   571.1      531.8      7.4% 
+ 
+Less fees from 
+ acquisitions         (4.6)      -                  (7.7)      - 
+Levelized 
+ foreign 
+ currency 
+ translation          -          1.0                -          0.8 
+ 
+Organic fees      *   $   195.5  $   177.4  10.2%   $   563.4  $   532.6  5.8% 
+ 
+ 
+ 
+*  Organic fee growth was helped by revenues from claim audit timing of 
+   approximately $4.0 million. Excluding these audit revenues, organic growth 
+   would have been approximately 8%. 
+ 
+ 
+Compensation Expense 
+and Ratios                  3rd Q 17  3rd Q 16  9 Mths 17  9 Mths 16 
+--------------------- 
+ 
+Compensation expense, 
+ as reported                $ 115.4   $ 106.8   $  333.6   $  316.3 
+ 
+Workforce and lease 
+ termination related 
+ charges                    (0.1)     (0.3)     (0.6)      (1.2) 
+Levelized foreign 
+ currency 
+ translation                -         0.5       -          0.3 
+ 
+Compensation expense, 
+ as adjusted                $ 115.3   $ 107.0   $  333.0   $  315.4 
+ 
+Reported compensation 
+expense ratios using 
+reported 
+  revenues on pages 2 
+   and 3                *   57.6%     60.4%     58.4%      59.4% 
+ 
+Adjusted compensation 
+expense ratios using 
+adjusted 
+  revenues on pages 2 
+   and 3                *   57.6%     60.2%     58.3%      59.1% 
+ 
+ 
+ 
+*  Reported third quarter compensation ratio was 2.8 pts lower than the same 
+   period in 2016. Adjusted third quarter compensation ratio was 2.6 pts lower 
+   than the same period in 2016. Excluding the impact of the audit timing 
+   noted above, the reported and adjusted third quarter compensation ratios 
+   were 1.5 pts and 1.3 pts lower than the same period in 2016, respectively. 
+   Both ratios were primarily impacted by savings in base compensation and 
+   employee benefits related to headcount controls. 
+ 
+ 
+Operating Expense and 
+Ratios                      3rd Q 17  3rd Q 16  9 Mths 17  9 Mths 16 
+--------------------- 
+ 
+Operating expense, as 
+ reported                   $  49.1   $  40.7   $  139.4   $  126.3 
+ 
+Workforce and lease 
+ termination related 
+ charges                    -         (0.1)     -          (0.1) 
+Levelized foreign 
+ currency 
+ translation                -         0.1       -          - 
+ 
+Operating expense, as 
+ adjusted                   $  49.1   $  40.7   $  139.4   $  126.2 
+ 
+Reported operating 
+expense ratios using 
+reported 
+  revenues on pages 2 
+   and 3                *   24.5%     23.0%     24.4%      23.7% 
+ 
+Adjusted operating 
+expense ratios using 
+adjusted 
+  revenues on pages 2 
+   and 3                *   24.5%     22.9%     24.4%      23.7% 
+ 
+ 
+ 
+*  Reported third quarter operating expense ratio was 1.5 pts higher than the 
+   same period in 2016. Adjusted third quarter operating expense ratio was 
+   1.6 pts higher than the same period in 2016. Excluding the impact of the 
+   audit timing noted above, the reported and adjusted third quarter operating 
+   ratios were 2.0 pts and 2.1 pts higher than the same period in 2016, 
+   respectively. Both ratios were impacted by increased business insurance, 
+   bad debts and ramp-up costs associated with new business wins in Australia, 
+   all totaling approximately $3.0 million. 
+ 
+
+(6 of 14) 
+
+
+ 
+Risk Management Segment Reported GAAP to Adjusted Non-GAAP Reconciliations 
+(continued) (dollars in millions): 
+ 
+Net Earnings to 
+Adjusted 
+EBITDAC              3rd Q    3rd Q            9 Mths    9 Mths 
+(Non-GAAP)           17       16       Change  17        16        Change 
+--------------- 
+ 
+Net earnings, 
+ as reported         $  17.1  $  13.2  29.6%   $   45.8  $   42.1  8.8% 
+Provision for 
+ income taxes        10.7     8.3              27.8      25.8 
+Depreciation         7.7      7.0              23.1      20.2 
+Amortization         0.7      0.7              2.1       1.8 
+Change in 
+ estimated 
+ acquisition 
+ earnout 
+ payables            (0.5)    -                (0.3)     - 
+ 
+EBITDAC              35.7     29.2     22.3%   98.5      89.9      9.6% 
+ 
+Workforce and 
+ lease 
+ termination 
+ related 
+ charges             0.1      0.4              0.6       1.3 
+Levelized 
+ foreign 
+ currency 
+ translation         -        0.4              -         0.5 
+ 
+EBITDAC, as 
+ adjusted            $  35.8  $  30.0  19.3%   $   99.1  $   91.7  8.1% 
+ 
+Net earnings 
+margin, as 
+reported using 
+reported 
+  revenues on 
+   pages 2 and                          +107 
+   3                 8.5%     7.5%      bpts   8.0%      7.9%       +10 bpts 
+ 
+EBITDAC margin, 
+as adjusted 
+using adjusted 
+  revenues on 
+   pages 2 and                          +100 
+   3             *   17.9%    16.9%     bpts   17.3%     17.2%      +15 bpts 
+ 
+ 
+ 
+*  Adjusted EBITDAC margin for third quarter 2017 would have been 17.7% 
+   excluding the revenue and operating expense items discussed on the previous 
+   page. 
+ 
+ 
+Corporate Segment Reported GAAP to Adjusted Non-GAAP Reconciliations (dollars in millions): 
+ 
+                                2017                               2016 
+                                         Net Earnings                       Net Earnings 
+                                         (Loss)                             (Loss) 
+                                         Attributable 
+                                Income   to                        Income   Attributable to 
+                     Pretax     Tax      Controlling    Pretax     Tax      Controlling 
+                     Loss       Benefit  Interests      Loss       Benefit  Interests 
+ 
+3rd Quarter 
+Interest and 
+ banking costs       $ (31.9)   $ 12.8   $      (19.1)  $ (29.3)   $ 11.7   $      (17.6) 
+Clean energy 
+ related (1)         (38.8)     77.1     38.3           (39.8)     79.1     39.3 
+Acquisition costs    (2.3)      0.9      (1.4)          (0.9)      0.1      (0.8) 
+Corporate            (21.2)     12.5     (8.7)          (9.1)      3.4      (5.7) 
+Litigation 
+ settlement          -          -        -              (4.4)      0.9      (3.5) 
+Home office lease 
+ termination/move    (6.2)      2.5      (3.7)          -          -        - 
+ 
+Reported 3rd 
+ quarter             (100.4)    105.8    5.4            (83.5)     95.2     11.7 
+ 
+Litigation 
+ settlement          -          -        -              4.4        (0.9)    3.5 
+Home office lease 
+ termination/move    6.2        (2.5)    3.7            -          -        - 
+ 
+Adjusted 3rd 
+ quarter             $ (94.2)   $ 103.3  $        9.1   $ (79.1)   $ 94.3   $       15.2 
+ 
+Nine Months 
+Interest and 
+ banking costs       $ (95.0)   $ 38.1   $      (56.9)  $ (83.6)   $ 33.4   $      (50.2) 
+Clean energy 
+ related (1)         (114.5)    202.7    88.2           (98.1)     183.9    85.8 
+Acquisition costs    (7.4)      2.2      (5.2)          (3.7)      0.6      (3.1) 
+Corporate            (49.1)     33.8     (15.3)         (27.7)     9.6      (18.1) 
+Litigation 
+ settlement          (11.1)     2.3      (8.8)          (14.6)     3.0      (11.6) 
+Home office lease 
+ termination/move    (13.2)     5.3      (7.9)          -          -        - 
+ 
+Reported nine 
+ months              (290.3)    284.4    (5.9)          (227.7)    230.5    2.8 
+ 
+Litigation 
+ settlement          11.1       (2.3)    8.8            14.6       (3.0)    11.6 
+Home office lease 
+ termination/move    13.2       (5.3)    7.9            -          -        - 
+ 
+Adjusted nine 
+ months              $ (266.0)  $ 276.8  $       10.8   $ (213.1)  $ 227.5  $       14.4 
+ 
+ 
+ 
+(1)  Pretax earnings for the third quarter are presented net of amounts 
+     attributable to noncontrolling interests of $7.7 million in 2017 and 
+     $7.8 million in 2016. Pretax earnings for the nine-month period are 
+     presented net of amounts attributable to noncontrolling interests of 
+     $20.9 million in 2017 and $20.6 million in 2016. 
+ 
+
+(7 of 14)
+
+26 Oct 2017 16:15 ET 
+Press Release: Arthur J. Gallagher & Co . -4-
+
+Corporate Segment Reported GAAP to Adjusted Non-GAAP Reconciliations (continued):
+
+Interest and banking costs and debt - At September 30, 2017, Gallagher had $2,798.0 million of borrowings from private placements, $75.0 million of short-term borrowings under its line of credit facility and $156.4 million outstanding under a revolving loan facility that provides funding for premium finance receivables, which are fully collateralized by the underlying premiums held by insurance carriers, and as such are excluded from our debt covenant computations. Gallagher issued $398.0 million private placement debt in early August 2017 to fund the repayment of debt that matured on August 3, 2017 and reduced the credit facility balance.
+
+Clean energy - Consists of the operating results related to our investments in 34 clean coal production plants and royalty income from clean coal licenses related to Chem-Mod LLC . Additional information regarding these results is available in the "CFO Commentary" at ajg.com/IR.
+
+Acquisition costs - Consists mostly of external professional fees and other due diligence costs related to acquisitions.
+
+Corporate - Consists of overhead allocations mostly related to corporate staff compensation and other corporate level activities. In the CFO commentary document as of September 15, 2017, we provided an estimate of our third quarter 2017 after-tax loss for this line ranging between $5.0 million and $6.0 million. As shown on the previous page, we actually reported a loss of $8.7 million. Most of the variance was due to unrealized losses on the unfavorable impact of foreign exchange rates on the remeasurement of monetary assets, net of liabilities, denominated in non-functional currencies on the balance sheets of our non-U.S. operations. As of October 25, 2017, most of that unrealized loss has reversed as the dollar has strengthened subsequent to September 30, 2017.
+
+Litigation Settlement - During the third quarter of 2015, Gallagher settled litigation against certain former U.K. executives and their advisors for a pretax gain of $31.0 million ($22.3 million net of costs and taxes). Incremental expenses that arose in connection with this matter resulted in quarterly after-tax charges being incurred through June 30, 2017. No such charges were incurred in this segment in the third quarter of 2017.
+
+Home Office Lease Termination/Move - During first quarter 2017, we relocated our corporate office headquarters to a nearby suburb of Chicago. Move-related after-tax charges, including after-tax lease abandonment charges, were $3.7 million in the third quarter of 2017. Move-related after-tax charges are expected to total approximately $0.5 million in the fourth quarter of 2017.
+
+Income Taxes
+
+Gallagher allocates the provision for income taxes to its Brokerage and Risk Management segments using the local country statutory rates. Gallagher's consolidated effective tax rate for the quarters ended September 30, 2017 and 2016 was (42.5)% and (37.4)%, respectively, which was lower than the statutory rate due to the amount of IRC Section 45 tax credits earned and the impact of the income tax benefit of stock compensation in third quarter 2017.
+
+Webcast Conference Call
+
+Gallagher will host a webcast conference call on Thursday, October 26, 2017 at 5:15 p.m. ET/4:15 p.m. CT. To listen to this call, please go to ajg.com/IR. The call will be available for replay at such website for at least 90 days.
+
+About Arthur J. Gallagher & Co .
+
+Arthur J. Gallagher & Co ., an international insurance brokerage and risk management services firm, is headquartered in Rolling Meadows, Illinois, has operations in 34 countries and offers client-service capabilities in more than 150 countries around the world through a network of correspondent brokers and consultants.
+
+Cautionary Information
+
+This press release contains "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. When used in this press release, the words "anticipates," "believes," "contemplates," "see," "should," "could," "will," "estimates," "expects, " "intends," "plans" and variations thereof and similar expressions, are intended to identify forward-looking statements. Examples of forward-looking statements include, but are not limited to, statements regarding (i) the amount of, and potential uses for, investment returns generated by Gallagher's clean energy investments; (ii) our corporate income tax rate; (iii) anticipated future results or performance of any segment or the Company as a whole; (iv) the premium rate environment; (v) the economic environment; and (vi) anticipated acquisition integration costs.
+
+(8 of 14)
+
+Gallagher's actual results may differ materially from those contemplated by the forward-looking statements. Readers are therefore cautioned against relying on any of the forward-looking statements, which are neither statements of historical fact nor guarantees or assurances of future performance. Important factors that could cause actual results to differ materially from those in the forward-looking statements include the following: 
+
+
+   -- Risks and uncertainties related to Gallagher's clean energy investments, 
+      including uncertainties related to political and regulatory risks, such 
+      as potential actions by Congress or challenges by the IRS  eliminating or 
+      reducing the availability of tax credits under IRC Section 45 
+      retroactively and/or going forward; the ability to maintain and find 
+      co-investors; the potential for divergent business objectives by 
+      co-investors and other stakeholders; plant operational risks, including 
+      supply-chain risks; utilities' future use of, or demand for, coal; the 
+      market price of coal; the costs of moving a clean coal plant; 
+      intellectual property litigation risks; and environmental risks - all of 
+      which could impact (i) and (ii) above; and 
+ 
+   -- Changes in worldwide and national economic conditions; changes in premium 
+      rates and in insurance markets generally; changes in the insurance 
+      brokerage industry's competitive landscape; changes in accounting 
+      standards; and the uncertainties and challenges inherent in the 
+      acquisition integration process - all of which could impact (iii) - (vi) 
+      above. 
+
+Please refer to Gallagher's filings with the SEC, including Item 1A, "Risk Factors," of its Annual Report on Form 10-K for the fiscal year ended December 31, 2016 for a more detailed discussion of these and other factors that could impact its forward-looking statements. Any forward-looking statement made by Gallagher in this press release speaks only as of the date on which it is made. Except as required by applicable law, Gallagher does not undertake to update the information included herein or the corresponding earnings release posted on Gallagher's website.
+
+Information Regarding Non-GAAP Measures
+
+In addition to reporting financial results in accordance with GAAP, this press release provides information regarding EBITDAC, EBITDAC margin, adjusted EBITDAC, adjusted EBITDAC margin, diluted net earnings per share, as adjusted (adjusted EPS), for the Brokerage and Risk Management segments, adjusted revenues, adjusted compensation and operating expenses, adjusted compensation expense ratio, adjusted operating expense ratio and organic revenue measures for each operating segment. These measures are not in accordance with, or an alternative to, the GAAP information provided in this press release. Gallagher's management believes that these presentations provide useful information to management, analysts and investors regarding financial and business trends relating to Gallagher's results of operations and financial condition. See further below for definitions and the reason each of these measures is useful to investors. Gallagher's industry peers may provide similar supplemental non-GAAP information with respect to one or more of these measures, although they may not use the same or comparable terminology and may not make identical adjustments. The non-GAAP information provided by Gallagher should be used in addition to, but not as a substitute for, the GAAP information provided. As disclosed in its most recent Proxy Statement, beginning in first quarter 2017, Gallagher makes determinations regarding certain elements of executive officer compensation, performance share awards and annual cash incentive awards, partly on the basis of measures related to adjusted EBITDAC. Certain reclassifications have been made to the prior year amounts reported in this press release in order to conform them to the current year presentation.
+
+Adjusted Non-GAAP presentation - Gallagher believes that the adjusted non-GAAP presentations of the current and prior year information, presented in this earnings release, provide stockholders and other interested persons with useful information regarding certain financial metrics of Gallagher that may assist such persons in analyzing Gallagher's operating results as they develop a future earnings outlook for Gallagher. The after-tax amounts related to the adjustments were computed using the normalized effective tax rate for each respective period. See pages 13 and 14 for a reconciliation of the adjustments made to income taxes. 
+
+
+   -- Adjusted revenues and expenses - Revenues, compensation expense and 
+      operating expense, respectively, each adjusted to exclude the following: 
+ 
+   -- Net gains realized from sales of books of business, which are primarily 
+      net proceeds received related to sales of books of business and other 
+      divestiture transactions. 
+ 
+   -- Acquisition integration costs, which include costs related to certain of 
+      our large acquisitions, outside the scope of our usual tuck-in strategy, 
+      not expected to occur on an ongoing basis in the future once we fully 
+      assimilate the applicable acquisition.  These costs are typically 
+      associated with redundant workforce, extra lease space, duplicate 
+
+26 Oct 2017 16:15 ET 
+Press Release: Arthur J. Gallagher & Co . -5-
+
+
+      services and external costs incurred to assimilate the acquisition with 
+      our IT related systems. 
+ 
+   -- Workforce related charges, which primarily include severance costs 
+      related to employee terminations and other costs associated with 
+      redundant workforce. 
+ 
+   -- Lease termination related charges, which primarily include costs related 
+      to terminations of real estate leases and abandonment of leased space. 
+ 
+   -- Acquisition related adjustments, which include change in estimated 
+      acquisition earnout payables adjustments, impacts of acquisition 
+      valuation true-ups, impairment charges and acquisition related 
+      compensation charges. 
+
+(9 of 14) 
+
+
+   -- The impact of foreign currency translation, as applicable.  The amounts 
+      excluded with respect to foreign currency translation are calculated by 
+      applying current year foreign exchange rates to the same periods in the 
+      prior year. 
+ 
+   -- Adjusted ratios - Adjusted compensation expense and adjusted operating 
+      expense, respectively, each divided by adjusted revenues. 
+
+Non-GAAP Earnings Measures 
+
+
+   -- EBITDAC and EBITDAC margin - EBITDAC is net earnings before interest, 
+      income taxes, depreciation, amortization and the change in estimated 
+      acquisition earnout payables and EBITDAC margin is EBITDAC divided by 
+      total revenues.  These measures for the Brokerage and Risk Management 
+      segments provide a meaningful representation of Gallagher's operating 
+      performance and, for the overall business, provide a meaningful way to 
+      measure its financial performance on an ongoing basis. 
+ 
+   -- Adjusted EBITDAC and Adjusted EBITDAC Margin - Adjusted EBITDAC is 
+      EBITDAC adjusted to exclude net gains realized from sales of books of 
+      business, acquisition integration costs, workforce related charges, lease 
+      termination related charges, acquisition related adjustments and the 
+      period-over-period impact of foreign currency translation, as applicable 
+      and Adjusted EBITDAC margin is Adjusted EBITDAC divided by total adjusted 
+      revenues (defined above).  These measures for the Brokerage and Risk 
+      Management segments provide a meaningful representation of Gallagher's 
+      operating performance, and are also presented to improve the 
+      comparability of our results between periods by eliminating the impact of 
+      the items that have a high degree of variability. 
+ 
+   -- Adjusted EPS for the Brokerage and Risk Management segments - Net 
+      earnings adjusted to exclude the after-tax impact of net gains realized 
+      from sales of books of business, acquisition integration costs, the 
+      impact of foreign currency translation, workforce related charges, lease 
+      termination related charges and acquisition related adjustments divided 
+      by diluted weighted average shares outstanding.  This measure provides a 
+      meaningful representation of Gallagher's operating performance (and as 
+      such should not be used as a measure of Gallagher's liquidity), and is 
+      also presented to improve the comparability of our results between 
+      periods by eliminating the impact of the items that have a high degree of 
+      variability. 
+
+Organic Revenues (a non-GAAP measure) - For the Brokerage segment, organic change in base commission and fee revenues excludes the first twelve months of net commission and fee revenues generated from acquisitions and the net commission and fee revenues related to operations disposed of in each year presented. These commissions and fees are excluded from organic revenues in order to help interested persons analyze the revenue growth associated with the operations that were a part of Gallagher in both the current and prior year. In addition, change in base commission and fee revenue organic growth excludes the period-over-period impact of foreign currency translation. For the Risk Management segment, organic change in fee revenues excludes the first twelve months of fee revenues generated from acquisitions and the fee revenues related to operations disposed of in each year presented. In addition, change in organic growth excludes the period-over-period impact of foreign currency translation to improve the comparability of our results between periods by eliminating the impact of the items that have a high degree of variability or are due to the limited-time nature of these revenue sources.
+
+These revenue items are excluded from organic revenues in order to determine a comparable, but non-GAAP, measurement of revenue growth that is associated with the revenue sources that are expected to continue in the current year and beyond. Gallagher has historically viewed organic revenue growth as an important indicator when assessing and evaluating the performance of its Brokerage and Risk Management segments. Gallagher also believes that using this non-GAAP measure allows readers of our financial statements to measure, analyze and compare the growth from its Brokerage and Risk Management segments in a meaningful and consistent manner.
+
+Reconciliation of Non-GAAP Information Presented to GAAP Measures - This press release includes tabular reconciliations to the most comparable GAAP measures, as follows: for EBITDAC (on pages 11 and 12), for adjusted revenues, adjusted EBITDAC and adjusted diluted net earnings per share (on pages 2 and 3), for organic revenue measures (on pages 4 and 6, respectively, for the Brokerage and Risk Management segments), for adjusted compensation and operating expenses and adjusted EBITDAC margin (on pages 5, 6, and 7, respectively, for the Brokerage and Risk Management segments). Reported compensation and operating expense ratios can also be found in the "Supplemental Quarterly Data" available at ajg.com/IR.
+
+(10 of 14) 
+
+
+ 
+Arthur J. Gallagher & Co . 
+Reported Statement of Earnings and EBITDAC - 3rd Qtr Ended September 30, 
+(Unaudited - in millions except per share, percentage and workforce data) 
+ 
+                                                3rd Q Ended   3rd Q Ended     9 Mths Ended   9 Mths Ended 
+                                                Sept 30,                                     Sept 30, 
+Brokerage Segment                               2017          Sept 30, 2016   Sept 30, 2017  2016 
+ 
+Commissions                                     $    662.6    $      612.9    $    1,943.3   $   1,842.3 
+Fees                                            222.3         198.6           632.7          556.0 
+Supplemental 
+ commissions                                    39.9          35.3            115.9          106.8 
+Contingent 
+ commissions                                    13.5          16.4            96.4           96.7 
+Investment income and gains realized on books 
+ of business sales                              15.4          14.4            42.0           40.4 
+ Revenues                                       953.7         877.6           2,830.3        2,642.2 
+ 
+Compensation                                    548.4         504.0           1,621.7        1,515.1 
+Operating                                       148.8         143.7           446.2          452.7 
+Depreciation                                    14.9          14.2            45.9           42.6 
+Amortization                                    68.9          62.5            196.9          183.3 
+Change in estimated acquisition 
+ earnout payables                               11.1          4.1             27.8           21.2 
+ Expenses                                       792.1         728.5           2,338.5        2,214.9 
+ 
+Earnings before 
+ income taxes                                   161.6         149.1           491.8          427.3 
+Provision for 
+ income taxes                                   54.0          51.4            166.6          148.8 
+ 
+Net earnings                                    107.6         97.7            325.2          278.5 
+Net earnings (loss) attributable 
+ to noncontrolling interests                    (0.3)         (0.2)           7.1            4.1 
+ 
+Net earnings attributable to 
+ controlling interests                          $    107.9    $       97.9    $     318.1    $     274.4 
+ 
+EBITDAC 
+Net earnings                                    $    107.6    $       97.7    $     325.2    $     278.5 
+Provision for 
+ income taxes                                   54.0          51.4            166.6          148.8 
+Depreciation                                    14.9          14.2            45.9           42.6 
+Amortization                                    68.9          62.5            196.9          183.3 
+Change in estimated acquisition 
+ earnout payables                               11.1          4.1             27.8           21.2 
+ 
+EBITDAC                                         $    256.5    $      229.9    $     762.4    $     674.4 
+ 
+ 
+                                                3rd Q Ended   3rd Q Ended     9 Mths Ended   9 Mths Ended 
+Risk Management                                 Sept 30,                                     Sept 30, 
+Segment                                         2017          Sept 30, 2016   Sept 30, 2017  2016 
+ 
+Fees                                            $    200.1    $      176.4    $     571.1    $     531.8 
+Investment income                               0.1           0.3             0.4            0.7 
+ Revenues                                       200.2         176.7           571.5          532.5 
+ 
+Compensation                                    115.4         106.8           333.6          316.3 
+Operating                                       49.1          40.7            139.4          126.3 
+Depreciation                                    7.7           7.0             23.1           20.2 
+Amortization                                    0.7           0.7             2.1            1.8 
+Change in estimated acquisition 
+ earnout payables                               (0.5)         -               (0.3)          - 
+
+26 Oct 2017 16:15 ET 
+Press Release: Arthur J. Gallagher & Co . -6-
+
+
+ Expenses                                       172.4         155.2           497.9          464.6 
+ 
+Earnings before 
+ income taxes                                   27.8          21.5            73.6           67.9 
+Provision for 
+ income taxes                                   10.7          8.3             27.8           25.8 
+ 
+Net earnings                                    17.1          13.2            45.8           42.1 
+Net earnings attributable to 
+noncontrolling interests                        -             -               -              - 
+ 
+Net earnings attributable to 
+ controlling interests                          $     17.1    $       13.2    $      45.8    $     42.1 
+ 
+EBITDAC 
+Net earnings                                    $     17.1    $       13.2    $      45.8    $     42.1 
+Provision for 
+ income taxes                                   10.7          8.3             27.8           25.8 
+Depreciation                                    7.7           7.0             23.1           20.2 
+Amortization                                    0.7           0.7             2.1            1.8 
+Change in estimated acquisition 
+ earnout payables                               (0.5)         -               (0.3)          - 
+ 
+EBITDAC                                         $     35.7    $       29.2    $      98.5    $     89.9 
+ 
+ 
+                                                3rd Q Ended   3rd Q Ended     9 Mths Ended   9 Mths Ended 
+                                                Sept 30,                                     Sept 30, 
+Corporate Segment                               2017          Sept 30, 2016   Sept 30, 2017  2016 
+ 
+Revenues from consolidated clean 
+ coal facilities                                $    418.6    $      417.1    $    1,125.2   $   1,000.6 
+Royalty income from clean coal 
+ licenses                                       12.5          12.7            34.7           36.6 
+Loss from unconsolidated clean 
+ coal facilities                                (0.5)         (0.5)           (1.1)          (1.2) 
+Other net (losses) 
+ revenues                                       -             (1.3)           -              (0.9) 
+ Revenues                                       430.6         428.0           1,158.8        1,035.1 
+ 
+Cost of revenues from consolidated 
+ clean coal facilities                          451.4         449.7           1,215.4        1,079.1 
+Compensation                                    16.3          15.8            58.1           48.3 
+Operating                                       16.3          5.2             40.6           19.7 
+Interest                                        31.4          28.5            92.9           81.5 
+Depreciation                                    7.9           4.5             21.2           13.6 
+ Expenses                                       523.3         503.7           1,428.2        1,242.2 
+ 
+Loss before income 
+ taxes                                          (92.7)        (75.7)          (269.4)        (207.1) 
+Benefit for income 
+ taxes                                          (105.8)       (95.2)          (284.4)        (230.5) 
+ 
+Net earnings                                    13.1          19.5            15.0           23.4 
+Net earnings attributable to 
+ noncontrolling interests                       7.7           7.8             20.9           20.6 
+ 
+Net earnings (loss) attributable 
+ to controlling interests                       $      5.4    $       11.7    $       (5.9)  $      2.8 
+ 
+EBITDAC 
+Net earnings                                    $     13.1    $       19.5    $      15.0    $     23.4 
+Benefit for income 
+ taxes                                          (105.8)       (95.2)          (284.4)        (230.5) 
+Interest                                        31.4          28.5            92.9           81.5 
+Depreciation                                    7.9           4.5             21.2           13.6 
+ 
+EBITDAC                                         $     (53.4)  $      (42.7)   $     (155.3)  $    (112.0) 
+ 
+See "Information Regarding Non-GAAP Measures" on page 9 of 
+14. 
+ 
+(11 of 14) 
+ 
+Arthur J. Gallagher & Co . 
+Reported Statement of Earnings and EBITDAC - 3rd Qtr Ended September 30, 
+(Unaudited - in millions except share and per share data) 
+ 
+                                                3rd Q Ended   3rd Q Ended     9 Mths Ended   9 Mths Ended 
+                                                Sept 30,                                     Sept 30, 
+Total Company                                   2017          Sept 30, 2016   Sept 30, 2017  2016 
+ 
+Commissions                                     $    662.6    $      612.9    $    1,943.3   $   1,842.3 
+Fees                                            422.4         375.0           1,203.8        1,087.8 
+Supplemental 
+ commissions                                    39.9          35.3            115.9          106.8 
+Contingent 
+ commissions                                    13.5          16.4            96.4           96.7 
+Investment income and gains realized on books 
+ of business sales                              15.5          14.7            42.4           41.1 
+Revenues from clean coal 
+ activities                                     430.6         429.3           1,158.8        1,036.0 
+Other net (losses) revenues - 
+ Corporate                                      -             (1.3)           -              (0.9) 
+ Revenues                                       1,584.5       1,482.3         4,560.6        4,209.8 
+ 
+Compensation                                    680.1         626.6           2,013.4        1,879.7 
+Operating                                       214.2         189.6           626.2          598.7 
+Cost of revenues from clean coal 
+ activities                                     451.4         449.7           1,215.4        1,079.1 
+Interest                                        31.4          28.5            92.9           81.5 
+Depreciation                                    30.5          25.7            90.2           76.4 
+Amortization                                    69.6          63.2            199.0          185.1 
+Change in estimated acquisition 
+ earnout payables                               10.6          4.1             27.5           21.2 
+ Expenses                                       1,487.8       1,387.4         4,264.6        3,921.7 
+ 
+Earnings before 
+ income taxes                                   96.7          94.9            296.0          288.1 
+Benefit for income 
+ taxes                                          (41.1)        (35.5)          (90.0)         (55.9) 
+ 
+Net earnings                                    137.8         130.4           386.0          344.0 
+Net earnings attributable to 
+ noncontrolling interests                       7.4           7.6             28.0           24.7 
+ 
+Net earnings attributable to 
+ controlling interests                          $    130.4    $      122.8    $     358.0    $     319.3 
+ 
+Diluted net 
+ earnings per 
+ share                                          $     0.71    $       0.69    $      1.97    $     1.79 
+ 
+Dividends declared 
+ per share                                      $     0.39    $       0.38    $      1.17    $     1.14 
+ 
+EBITDAC 
+Net earnings                                    $    137.8    $      130.4    $     386.0    $     344.0 
+Benefit for income 
+ taxes                                          (41.1)        (35.5)          (90.0)         (55.9) 
+Interest                                        31.4          28.5            92.9           81.5 
+Depreciation                                    30.5          25.7            90.2           76.4 
+Amortization                                    69.6          63.2            199.0          185.1 
+Change in estimated acquisition 
+ earnout payables                               10.6          4.1             27.5           21.2 
+ 
+EBITDAC                                         $    238.8    $      216.4    $     705.6    $     652.3 
+ 
+ 
+ 
+Arthur J. Gallagher & Co . 
+Consolidated Balance Sheet 
+(Unaudited - in millions except per share data) 
+ 
+                                                                              Sept 30, 2017  Dec 31, 2016 
+ 
+Cash and cash 
+ equivalents                                                                  $     564.9    $     545.5 
+Restricted cash                                                               1,615.6        1,392.1 
+Premiums and fees 
+ receivable                                                                   2,227.3        1,844.8 
+Other current 
+ assets                                                                       679.6          633.7 
+ 
+ Total current 
+  assets                                                                      5,087.4        4,416.1 
+ 
+Fixed assets - net                                                            413.4          377.6 
+Deferred income taxes (includes tax credit carryforwards of 
+ $607.1 in 2017 and $477.9 in 2016)                                           918.4          796.5 
+Other noncurrent 
+ assets                                                                       559.6          504.3 
+Goodwill - net                                                                4,160.4        3,767.8 
+Amortizable 
+ intangible assets 
+ - net                                                                        1,671.2        1,627.3 
+ 
+ Total assets                                                                 $   12,810.4   $  11,489.6 
+ 
+Premiums payable to insurance and 
+ reinsurance companies                                                        $    3,508.5   $   2,996.1 
+Accrued compensation and other 
+ accrued liabilities                                                          768.1          772.1 
+Unearned fees                                                                 85.4           69.0 
+Other current 
+ liabilities                                                                  61.8           70.9 
+Premium financing 
+
+26 Oct 2017 16:15 ET 
+Press Release: Arthur J. Gallagher & Co . -7-
+
+
+ debt                                                                         156.4          125.6 
+Corporate related borrowings - 
+ current                                                                      125.0          578.0 
+ 
+ Total current 
+  liabilities                                                                 4,705.2        4,611.7 
+ 
+Corporate related borrowings - 
+ noncurrent                                                                   2,741.7        2,144.6 
+Other noncurrent 
+ liabilities                                                                  1,191.3        1,077.5 
+ 
+ Total liabilities                                                            8,638.2        7,833.8 
+ 
+Stockholders' 
+equity: 
+Common stock - issued and 
+ outstanding                                                                  180.8          178.3 
+Capital in excess 
+ of par value                                                                 3,366.0        3,265.5 
+Retained earnings                                                             1,062.1        916.4 
+Accumulated other comprehensive 
+ loss                                                                         (498.9)        (763.6) 
+ 
+Total controlling interests 
+ stockholders' equity                                                         4,110.0        3,596.6 
+Noncontrolling 
+ interests                                                                    62.2           59.2 
+ 
+ Total 
+  stockholders' 
+  equity                                                                      4,172.2        3,655.8 
+ 
+ Total liabilities and 
+  stockholders' equity                                                        $   12,810.4   $  11,489.6 
+ 
+See "Information Regarding Non-GAAP Measures" 
+on page 9 of 14. 
+ 
+(12 of 14) 
+ 
+Arthur J. Gallagher & Co . 
+Other Information 
+(Unaudited - data is rounded where indicated) 
+ 
+                                                3rd Q Ended   3rd Q Ended     9 Mths Ended   9 Mths Ended 
+                                                Sept 30,                                     Sept 30, 
+OTHER INFORMATION                               2017          Sept 30, 2016   Sept 30, 2017  2016 
+ 
+Basic weighted average shares 
+ outstanding (000s)                             180,511       177,611         179,753        177,355 
+Diluted weighted average shares 
+ outstanding (000s)                             182,517       178,520         181,588        178,160 
+ 
+Number of common shares outstanding at end of 
+ period (000s)                                                                180,799        177,941 
+ 
+Workforce at end of period 
+(includes acquisitions): 
+ Brokerage                                                                    19,715         18,539 
+ Risk Management                                                              5,749          5,451 
+ Total Company                                                                26,271         24,689 
+ 
+ 
+Reconciliation of Non-GAAP Measures - Pre-tax Earnings and Diluted Net 
+Earnings per Share (Unaudited) 
+ 
+(Unaudited - in millions except 
+share and per share data) 
+                                                              Net Earnings    Net Earnings 
+                     Earnings       Provision                 (Loss)          (Loss)         Diluted Net 
+                                                              Attributable    Attributable 
+                     (Loss)         (Benefit)                 to              to             Earnings 
+                     Before Income  for Income  Net           Noncontrolling  Controlling    (Loss) 
+                     Taxes          Taxes       Earnings      Interests       Interests      per Share 
+ 
+3rd Q Ended Sept 
+30, 2017 
+Brokerage, as 
+ reported            $      161.6   $   54.0    $    107.6    $       (0.3)   $     107.9    $     0.59 
+ 
+Gains on book 
+ sales               (0.6)          (0.2)       (0.4)         -               (0.4)          - 
+Acquisition 
+ integration         3.5            1.2         2.3           -               2.3            0.01 
+Workforce & lease 
+ termination         5.1            1.7         3.4           -               3.4            0.02 
+Acquisition 
+ related 
+ adjustments         12.5           4.2         8.3           -               8.3            0.05 
+ 
+Brokerage, as 
+ adjusted            $      182.1   $   60.9    $    121.2    $       (0.3)   $     121.5    $     0.67 
+ 
+Risk Management, 
+ as reported         $       27.8   $   10.7    $     17.1    $         -     $      17.1    $     0.09 
+ 
+Workforce & lease 
+ termination         0.1            0.1         -             -               -              - 
+Acquisition 
+ related 
+ adjustments         (0.6)          (0.2)       (0.4)         -               (0.4)          - 
+ 
+Risk Management, 
+ as adjusted         $       27.3   $   10.6    $     16.7    $         -     $      16.7    $     0.09 
+ 
+Corporate, as 
+ reported            $      (92.7)  $  (105.8)  $     13.1    $       7.7     $       5.4    $     0.03 
+ 
+Litigation 
+settlement           -              -           -             -               -              - 
+Home office lease 
+ termination/move    6.2            2.5         3.7           -               3.7            0.02 
+ 
+Corporate, as 
+ adjusted            $      (86.5)  $  (103.3)  $     16.8    $       7.7     $       9.1    $     0.05 
+ 
+3rd Q Ended Sept 
+30, 2016 
+Brokerage, as 
+ reported            $      149.1   $   51.4    $     97.7    $       (0.2)   $      97.9    $     0.55 
+ 
+Gains on book 
+ sales               (1.1)          (0.3)       (0.8)         -               (0.8)          - 
+Acquisition 
+ integration         9.4            2.7         6.7           -               6.7            0.04 
+Workforce & lease 
+ termination         6.0            1.7         4.3           -               4.3            0.02 
+Acquisition 
+ related 
+ adjustments         1.9            0.6         1.3           -               1.3            - 
+U.K. statutory 
+ income tax rate 
+ change              -              1.5         (1.5)         -               (1.5)          (0.01) 
+Levelized foreign 
+ currency 
+ translation         1.0            0.3         0.7           -               0.7            0.01 
+ 
+Brokerage, as 
+ adjusted            $      166.3   $   57.9    $    108.4    $       (0.2)   $     108.6    $     0.61 
+ 
+Risk Management, 
+ as reported         $       21.5   $    8.3    $     13.2    $         -     $      13.2    $     0.07 
+ 
+Workforce & lease 
+ termination         0.4            0.1         0.3           -               0.3            0.01 
+Levelized foreign 
+ currency 
+ translation         0.3            0.1         0.2           -               0.2            - 
+ 
+Risk Management, 
+ as adjusted         $       22.2   $    8.5    $     13.7    $         -     $      13.7    $     0.08 
+ 
+Corporate, as 
+ reported            $      (75.7)  $   (95.2)  $     19.5    $       7.8     $      11.7    $     0.07 
+ 
+Litigation 
+ settlement          4.4            0.9         3.5           -               3.5            0.01 
+ 
+Corporate, as 
+ adjusted            $      (71.3)  $   (94.3)  $     23.0    $       7.8     $      15.2    $     0.08 
+ 
+See "Information Regarding Non-GAAP Measures" 
+on page 9 of 14. 
+ 
+(13 of 14) 
+ 
+Reconciliation of Non-GAAP Measures - Pre-tax Earnings and Diluted Net Earnings per Share (Unaudited) - 
+Continued 
+ 
+(Unaudited - in millions except 
+share and per share data) 
+                                                              Net Earnings    Net Earnings 
+                     Earnings       Provision                 (Loss)          (Loss)         Diluted Net 
+                                                              Attributable    Attributable 
+                     (Loss)         (Benefit)                 to              to             Earnings 
+                     Before Income  for Income  Net           Noncontrolling  Controlling    (Loss) 
+                     Taxes          Taxes       Earnings      Interests       Interests      per Share 
+ 
+9 Months Ended 
+Sept 30, 2017 
+Brokerage, as 
+ reported            $      491.8   $  166.6    $    325.2    $       7.1     $     318.1    $     1.75 
+ 
+Gains on book 
+ sales               (3.1)          (0.9)       (2.2)         -               (2.2)          (0.01) 
+Acquisition 
+ integration         9.7            3.1         6.6           -               6.6            0.04 
+Workforce & lease 
+ termination         14.4           4.6         9.8           -               9.8            0.05 
+Acquisition 
+ related 
+ adjustments         26.8           8.6         18.2          -               18.2           0.10 
+ 
+Brokerage, as 
+ adjusted            $      539.6   $  182.0    $    357.6    $       7.1     $     350.5    $     1.93 
+ 
+Risk Management, 
+ as reported         $       73.6   $   27.8    $     45.8    $         -     $      45.8    $     0.25 
+ 
+Workforce & lease 
+ termination         0.6            0.3         0.3           -               0.3            - 
+Acquisition 
+ related 
+ adjustments         (0.6)          (0.2)       (0.4)         -               (0.4)          - 
+ 
+Risk Management, 
+ as adjusted         $       73.6   $   27.9    $     45.7    $         -     $      45.7    $     0.25 
+ 
+Corporate, as 
+ reported            $     (269.4)  $  (284.4)  $     15.0    $       20.9    $       (5.9)  $     (0.03) 
+ 
+Litigation 
+ settlement          11.1           2.3         8.8           -               8.8            0.05 
+Home office lease 
+ termination/move    13.2           5.3         7.9           -               7.9            0.04 
+ 
+Corporate, as 
+ adjusted            $     (245.1)  $  (276.9)  $     31.7    $       20.9    $      10.8    $     0.06 
+ 
+9 Months Ended 
+Sept 30, 2016 
+Brokerage, as 
+ reported            $      427.3   $  148.8    $    278.5    $       4.1     $     274.4    $     1.54 
+ 
+Gains on book 
+ sales               (4.7)          (1.4)       (3.3)         -               (3.3)          (0.02) 
+Acquisition 
+
+26 Oct 2017 16:15 ET 
+Press Release: Arthur J. Gallagher & Co . -8-
+
+
+ integration         35.5           10.4        25.1          -               25.1           0.14 
+Workforce & lease 
+ termination         12.1           3.5         8.6           -               8.6            0.05 
+Acquisition 
+ related 
+ adjustments         13.7           4.1         9.6           -               9.6            0.06 
+U.K. statutory 
+ income tax rate 
+ change              -              1.5         (1.5)         -               (1.5)          (0.01) 
+Levelized foreign 
+ currency 
+ translation         (3.0)          (0.9)       (2.1)         -               (2.1)          (0.01) 
+ 
+Brokerage, as 
+ adjusted            $      480.9   $  166.0    $    314.9    $       4.1     $     310.8    $     1.75 
+ 
+Risk Management, 
+ as reported         $       67.9   $   25.8    $     42.1    $         -     $      42.1    $     0.23 
+ 
+Workforce & lease 
+ termination         1.3            0.4         0.9           -               0.9            0.01 
+Levelized foreign 
+ currency 
+ translation         0.4            0.2         0.2           -               0.2            - 
+ 
+Risk Management, 
+ as adjusted         $       69.6   $   26.4    $     43.2    $         -     $      43.2    $     0.24 
+ 
+Corporate, as 
+ reported            $     (207.1)  $  (230.5)  $     23.4    $       20.6    $       2.8    $     0.02 
+ 
+Litigation 
+ settlement          14.6           3.0         11.6          -               11.6           0.06 
+ 
+Corporate, as 
+ adjusted            $     (192.5)  $  (227.5)  $     35.0    $       20.6    $      14.4    $     0.08 
+ 
+See "Information Regarding Non-GAAP Measures" 
+ on page 9 of 14. 
+ 
+ 
+
+Contact:
+
+Ray Iardella
+
+Vice President - Investor Relations
+
+630-285-3661 or ray_iardella@ajg.com
+
+(14 of 14)
+
+View original content: http://www.prnewswire.com/news-releases/arthur-j-gallagher--co-announces-third-quarter-2017-financial-results-300544401.html 
+
+SOURCE Arthur J. Gallagher & Co .
+
+/Web site: http://www.ajg.com 
+
+26 Oct 2017 16:34 ET *Arthur J Gallagher & Co  3Q EPS 71c >AJG
+
+(MORE TO FOLLOW) Dow Jones Newswires (212-416-2800)
+
+October 26, 2017 16:34 ET (20:34 GMT)

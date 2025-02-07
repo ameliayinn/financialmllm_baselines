@@ -1,0 +1,162 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission and 
+compiled after 8:30 a.m. EST Thursday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+10X Genomics Inc (TXG) CL A 
+ Stuelpnagel John R (CB)       11/17/20            7,500  $135.98     503,491 
+ 
+AdaptHealth Corp (AHCO) 
+ Assured Investment M (SH)     11/17/20        1,882,000   $27.95   1,915,934 
+ 
+AGCO Corporation (AGCO) 
+ Deml Wolfgang (D)         11/17/20-11/18/20       7,500   $94.38      17,891 
+ 
+Appian Corp (APPN) CL A 
+ Biddle Albert G W II (D)      11/17/20           30,000  $107.97     203,694 
+ Winters Christopher (O)       11/17/20           23,104  $106.79      34,850 
+ 
+Bancorp Inc/The (TBBK) 
+ Chrystal John C (D)       11/17/20-11/18/20      27,863   $12.13     225,916 
+ 
+BigCommerce Holdings Inc (BIGC) SER 1 
+ Revolution Growth Ug (SH)     11/17/20          674,083   $65.79   5,825,673 
+ 
+Bio-Techne Corp (TECH) 
+ Seth Alpna (D)                 11/9/20            5,023  $306.62       2,139 
+ 
+Ceridian HCM Holding Inc (CDAY) 
+ Ossip David D (CB)            11/18/20          506,991   $94.90     788,958 
+ 
+Clean Harbors Inc (CLH) 
+ Weber Brian P (VP)            11/17/20            3,600   $73.73      58,298 
+ 
+Coherus BioSciences Inc (CHRS) 
+ Anicetti Vincent R (COO)  11/17/20-11/18/20      22,770   $17.72      32,569 
+ 
+EMCOR Group Inc (EME) 
+ Guzzi Anthony (CB)            11/17/20           14,224   $85.01     327,818 
+ 
+Enterprise Financial Services Corp (EFSC) 
+ Deutsch James F (D)           11/17/20           50,000   $35.41     896,425 
+ 
+Euronet Worldwide Inc (EEFT) 
+ Bianchi Juan (DO)             11/18/20           56,547  $130.46       4,168 
+ Brown Michael J (CB)      11/17/20-11/18/20      42,362  $129.41   1,814,211 
+ 
+Fiserv Inc (FISV) 
+ Yabuki Jeffery W (CB)         11/18/20           30,000  $109.06     515,109 
+ 
+Globe Life Inc (GL) 
+ Coleman Gary L (CB)           11/18/20           13,000   $94.27     786,449 
+ 
+Hologic Inc (HOLX) 
+ Cohn Benjamin Jordan (O)      11/17/20            5,000   $72.58      18,292 
+ 
+HubSpot Inc (HUBS) 
+ Halligan Brian (CB)           11/17/20            8,500  $342.39     661,073 
+ 
+Illumina Inc (ILMN) 
+ Flatley Jay T (CB)            11/17/20            3,000  $297.16     200,933 
+ 
+Inspire Medical Systems Inc (INSP) 
+ Buchholz Richard (CFO)        11/17/20            3,000  $171.66      72,171 
+ 
+Interactive Brokers Group Inc (IBKR) CL A 
+ Brody Paul Jonathan (CFO) 11/17/20-11/18/20       5,045   $54.46     880,165 
+ Frank Thomas Aj (VP)      11/17/20-11/18/20      36,129   $54.47   1,973,853 
+ 
+J & J Snack Foods Corp (JJSF) 
+ Moore Dennis G (VP)           11/17/20            5,000  $162.01      68,106 
+ Pape Robert Joseph (VP)       11/19/20            2,700  $157.29      12,310 
+ 
+Keurig Dr Pepper Inc (KDP) 
+ Mondelez Internation (SH)     11/17/20       40,000,000   $28.30 118,218,223 
+ 
+Legacy Housing Corporation (LEGH) 
+ Hodgson Curtis Drew (CB)  10/23/20-11/18/20      17,073   $14.92   6,847,861 
+ 
+Masonite International Corp (DOOR) 
+ Foster Jonathan F (D)         11/17/20            4,000   $95.20      10,027 
+ 
+Packaging Corp of America (PKG) 
+ Hassfurther Thomas A (VP)     11/17/20            5,000  $135.00     242,898 
+ 
+Paylocity Holding Corp (PCTY) 
+ Kinsey Mark S (VP)            11/17/20            3,865  $187.53      53,458 
+ 
+PTC Inc (PTC) 
+ Camacho Eduarda (VP)          11/19/20            3,130   $98.28      11,325 
+ 
+Purple Innovation Inc (PRPL) 
+ Legg John A (COO)             11/18/20           15,000   $30.14       2,980 
+ White Verdi Ray III (O)       11/17/20           10,000   $28.51           0 
+ 
+Raymond James Financial Inc (RJF) 
+ Dowdle Jeffrey A (COO)        11/17/20            9,200   $88.29      44,614 
+ 
+Sanmina Corp (SANM) 
+ Sola Jure (CB)                11/17/20           64,557   $32.44   1,242,960 
+ 
+Schwab (Charles) Corp (SCHW) 
+ Sarin Arun (D)                11/18/20           27,835   $48.61      19,933 
+ Schwab Charles R (CB)         11/19/20           98,870   $46.87 121,642,362 
+ Walther Roger O (D)           11/18/20           28,100   $49.23     266,481 
+ 
+Sensata Technologies Holding plc (ST) 
+ Sullivan Martha N (D)         11/17/20           67,700   $47.11     397,889 
+ Wroe Thomas Jr (D)            11/18/20           50,000   $48.60      15,827 
+ 
+Service Corp International (SCI) 
+ Sangalis Gregory T (VP)       11/17/20           25,000   $50.05     209,293 
+ 
+Sleep Number Corp (SNBR) 
+ Callen David R (CFO)      11/17/20-11/18/20      12,265   $73.26      42,892 
+ Ibach Shelly Radue (CEO)      11/17/20            9,802   $71.70     177,002 
+ 
+Southern National Bancorp of Virginia Inc (SONA) 
+ Castle Creek Capital (SH)     11/17/20          469,000   $11.06   2,225,876 
+ 
+TPI Composites Inc (TPIC) 
+ Castle Thomas J (VP)          11/17/20           41,796   $39.56           0 
+ 
+Trinseo SA (TSE) 
+ M&G Investment Manag (SH)     11/18/20           10,000   $39.84   7,789,044 
+ 
+Unifi Inc (UFI) 
+ Bishop Robert J (D)       11/17/20-11/19/20      60,000   $16.34   1,615,942 
+ 
+Verisk Analytics Inc (VRSK) CL A 
+ Wright David B (D)            11/18/20           10,000  $204.81      29,298 
+ 
+Wabtec Corp (WAB) 
+ Faiveley Erwan (D)        11/17/20-11/18/20      54,020   $71.99   5,964,587 
+ Neupaver Albert J (CB)        11/18/20           40,500   $73.12     699,732 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+November 19, 2020 16:44 ET (21:44 GMT)

@@ -1,0 +1,125 @@
+PALO ALTO, Calif., Sept. 22, 2020 (GLOBE NEWSWIRE) -- Today, HP Inc . announced updates to its Pavilion line-up, designed to turn heads while progressing the company's leadership towards a more sustainable future. The HP Pavilion 13, HP Pavilion 14, and HP Pavilion 15 Laptops showcase a progressive new tonal color-blocking design and are the first consumer laptops available from HP to feature 11(th) Gen Intel(R) Core(TM) processors with Intel(R) Iris(R) Xe graphics. The new devices are also the company's first consumer notebooks using post-consumer-recycled and ocean-bound plastics.(1)
+
+Never before has the PC been more essential among the Gen Z population. They have turned to PCs to connect with friends and family, stay entertained, and learn in digital classrooms. They have spent almost 10 more hours a week on their PC during COVID-19 than before, and over half of them are using the PC more than their phones.(2) The newest Pavilion series delivers stellar performance, an immersive entertainment experience, and the mobility required to accommodate how and where they use their PC.
+
+"When it comes to PCs for the newest generation of users, we want to help power their fun not only during the pandemic but in the years to come," said Kevin Frost, global lead and general manager, Consumer, Personal Systems, HP Inc . " HP packs powerful performance features and a youthful, colorful premium design into its newest Pavilion clamshells, making them accessible to everyone to stay connected, entertained, and learning."
+
+Playful and Unique Design for Today's PC User
+
+Sustainability continues to be a key focus for HP across the full portfolio of PCs and solutions. The new Pavilions feature the use of post-consumer recycled and ocean-bound plastics in the construction of the speaker housing -- and its use in these devices is estimated to keep approximately 92,000 plastic bottles out of the oceans and landfills.(3) The outer boxes and fiber cushions used in packaging the new devices are also 100% sustainably sourced and recyclable.(4) The laptops are also EPEAT Silver registered and Energy Star certified.
+
+The latest Pavilion PCs are inspired by art. Featuring clean lines and sculptural elements with attractive hourglass edges, users can easily open the device from all three sides. As part of the Pavilion redesign, these devices feature a 3D seamless metal chassis to eliminate parting lines on the device for a sleek, clean look and feel. The Pavilion 15 sports an 86% screen-to-body ratio (STBR), and x/y dimensions across all three devices have also improved gen-over-gen.(5) The displays have a three-sided micro edge bezel, with the Pavilion 13 offering either a Full HD or Ultra HD display, and the Pavilion 14 and Pavilion 15 offering either an HD or Full HD panel.(6) The devices are also Microsoft High Dynamic Range (HDR) streaming capable, with High Efficiency Video Coding (HEVC) preinstalled on FHD and UHD panel options for a richer, more colorful viewing experience.
+
+The devices also come in five unique color combinations.(7) All platforms will offer natural silver, luminous gold, and ceramic white color combinations; the Pavilion 14 also features a tranquil pink color combination; and, the Pavilion 15 will offer four different color options including fog blue.
+
+Perfect for students, all the PCs feature an edge-to-edge keyboard, a larger, more modern, precision touchpad for multi-touch support and easier navigation, and a secure log-in with the optional fingerprint reader.
+
+Power Your Fun with Premium Performance, Blazing Fast Connectivity
+
+Whether powering through online coursework or streaming the latest trending show, the Pavilion PCs offer best-in class-mobile productivity and rich, immersive visuals with the new 11th Gen Intel(R) Core(TM) processors with Intel(R) Iris(R) X(e) graphics .(8) The Pavilion 14 and Pavilion 15 offers the option of up to NVIDIA(R) GeForce(R) MX450 graphics(9) and the Pavilion 15 will also offer optional AMD Ryzen(TM) 4000 Series Mobile Processors(10) as well.
+
+Other features include: 
+
+
+   -- Accelerated access to files and better storage performance: All three 
+      devices offer optional dual channel memory technology and optional 
+      Intel(R) Optane(TM) Memory11 with PCIe SSD standard up to 1TB .12 
+ 
+   -- Battery life: Easily power through the day on the newest Pavilion laptops, 
+      with up to 8.5 hours of battery life on the Pavilion 13, and up to 8.75 
+      hours on the Pavilion 14 and Pavilion 15.3 
+ 
+   -- The ports needed to stay productive: The HDMI 2.0 port easily connects an 
+      external 5K monitor , and a versatile SuperSpeed USB-C(R) port supports 
+      data, display, and power delivery .13 
+ 
+   -- Stay connected with faster speeds: With Wi-Fi 6, the Pavilion PCs enable 
+      up to four times faster maximum Wi-Fi speeds and 75% lower latency.14 
+ 
+   -- Quick access to the PC anytime: Open the laptop for an instant wake from 
+      sleep with HP 's Modern Standby15 to receive email, notifications, and 
+      stream music while in a lower power sleep state. 
+ 
+   -- Great video and audio experience for today's new normal: HP  Dual Speakers, 
+      HP Audio Boost, and tuning by B&O deliver a rich, authentic audio 
+      experience, and the HP Wide Vision HD Camera features an 88-degree, 
+      wide-angle field of view to video chat in crystal clear detail.16 
+
+Pricing and availability(17) : 
+
+
+   -- HP Pavilion 13 is expected to be available in October via HP.com with a 
+      starting price of $679.99. The device will also be available for purchase 
+      at Amazon , Costco.com, and other US retailers. 
+ 
+   -- HP Pavilion 14 is expected to be available in October via HP.com with a 
+      starting price of $579.99. The device will also be available for purchase 
+      at other US retailers. 
+ 
+   -- HP Pavilion 15 is expected to be available in October via HP.com with a 
+      starting price of $599.99 for the AMD model. The device is also available 
+      for purchase at Amazon , Costco , Costco.com, and other US retailers. 
+
+About HP
+
+HP Inc . creates technology that makes life better for everyone, everywhere. Through our product and service portfolio of personal systems, printers and 3D printing solutions, we engineer experiences that amaze. More information about HP Inc . is available at http://www.hp.com .
+
+AMD, the AMD Arrow logo, Ryzen, Radeon, and combinations thereof are trademarks of Advanced Micro Devices, Inc .
+
+Intel , the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries.
+
+(c)Copyright 2020 HP Development Company, L.P . The information contained herein is subject to change without notice. The only warranties for HP products and services are set forth in the express warranty statements accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. HP shall not be liable for technical or editorial errors or omissions contained herein.
+
+(1) Based on HP 's internal analysis of displays marketed to consumers as of Sept. 22, 2020. Notebooks 45% post-consumer recycled plastic content consists of 5% ocean bound plastic materials by weight.
+
+(2) HP Proprietary Research, 2020. Online survey of 790 end-users in the US, UK, France, China, and Australia.
+
+(3) Based on HP 's internal analysis as of Sept. 22, 2020. 92k recycled plastic bottles consumed, based on HP 's projected shipment volumes of Pavilion clamshell PC products annually. Manufactured recycled ocean bound plastic material in product speaker enclosures. Calculation based on grams per product (using 12.7 grams per 16.9 ounce "single serve" bottled water container) multiplied by projected shipment volumes/ 12.7 grams.
+
+(4) 100% outer box packaging made from sustainably source certified and recycled fibers. Fiber cushions made from 100% recycled wood fiber and organic material. Any plastic cushions are made from >90% recycled plastic. Excludes plastic bags and plastic foam sheeting.
+
+(5) Percent of active plus nonactive viewing area to active viewing area plus border. Measure with lid vertical to the desk.
+
+(6) 4K content required to view full 4K images.
+
+(7) Final color options are dependent on form factor and availability may vary by country.
+
+(8) Multi-core is designed to improve performance of certain software products. Not all customers or software applications will necessarily benefit from use of this technology. Performance and clock frequency will vary depending on application workload and your hardware and software configurations. Intel 's numbering, branding and/or naming is not a measurement of higher performance.
+
+(9) This option is only available on the Pavilion 15 Intel model.
+
+(10) Multi-core is designed to improve performance of certain software products. Not all customers or software applications will necessarily benefit from use of this technology. Performance and clock frequency will vary depending on application workload and your hardware and software configurations. AMD's numbering is not a measurement of clock speed.
+
+(11) Intel(R) Optane(TM) memory system acceleration does not replace or increase the DRAM in your system.
+
+(12) For solid state drives, TB = 1 trillion bytes. Actual formatted capacity is less. Up to 35GB of system disk is reserved for system recovery software.
+
+(13) USB-C support on the HP Pavilion 15 AMD model is HDMI 2.0 out up to 5120x2880 (60Hz) with HDCP 2.3.
+
+(14) Based on Wi-Fi 5 80MHz and Wi-Fi 6 160MHz minimum requirements when transferring files between two devices connected to the same router. Requires a wireless router, sold separately, that supports 802.11ax (Wi-Fi 6). Only available in countries where 802.11ax is supported.
+
+22 Sep 2020 08:00 ET 
+Press Release: HP Builds on Sustainability -2-
+
+(15) System in Connected Modern Standby mode wireless on. Standby time will vary depending on various factors including battery, network configuration, individual usage pattern and configuration. The maximum capacity of the battery will naturally decrease with time and usage.
+
+(16) Features may require software or other 3rd party applications to provide the described functionality.
+
+(17) Pricing from HP.com, subject to change without notice. Retailers pricing may vary.
+
+Photos accompanying this announcement are available at
+
+https://www.globenewswire.com/NewsRoom/AttachmentNg/ac63c47a-7a88-4f38-9fd0-c1c2d81ef6eb 
+
+https://www.globenewswire.com/NewsRoom/AttachmentNg/4ed21a0d-460b-4b90-a40e-9f4a52ab8bc9 
+
+https://www.globenewswire.com/NewsRoom/AttachmentNg/39d9eb82-a08c-4545-a645-e0af99dc9198  
+
+
+Jenni Balthrop, HP , Consumer 
+jenni.balthrop@hp.com 
+www.hp.com/go/newsroom 
+
+(END) Dow Jones Newswires
+
+September 22, 2020 08:00 ET (12:00 GMT)

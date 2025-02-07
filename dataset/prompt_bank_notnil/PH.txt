@@ -1,0 +1,160 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission and 
+compiled after 8:30 a.m. EST Tuesday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+3M Company (MMM) 
+ Fong Ivan K (VP)              11/16/20           15,073  $172.62      32,813 
+ 
+Adobe Inc (ADBE) 
+ Belsky Scott (VP)             11/16/20              600  $459.79      10,016 
+ 
+Advanced Micro Devices (AMD) 
+ Papermaster Mark D (VP)       11/13/20           43,000   $82.36   1,422,329 
+ 
+Archer-Daniels-Midland Co (ADM) 
+ Taets Joseph D (VP)           11/16/20           30,000   $50.15     191,503 
+ 
+Automatic Data Processing (ADP) 
+ Ayala John C (VP)             11/16/20            6,485  $175.00      26,527 
+ O'Brien Dermot J (VP)         11/16/20           12,406  $175.00      13,547 
+ 
+Bridgebio Pharma Inc (BBIO) 
+ Mccormick Frank (O)           11/13/20          100,000   $42.76   1,200,468 
+ 
+Cerner Corp (CERN) 
+ Peterzalek John (VP)      11/13/20-11/16/20      16,100   $75.25      24,838 
+ 
+Clean Harbors Inc (CLH) 
+ Mckim Alan S (CB)             11/13/20           19,739   $70.86   3,725,392 
+ 
+Cognex Corp (CGNX) 
+ Krantz Karl Theodor (D)   11/13/20-11/16/20      15,000   $72.13      35,500 
+ 
+CONMED Corp (CNMD) 
+ Berge Terence M (VP)          11/16/20           11,400   $96.32      15,912 
+ 
+Cree Inc (CREE) 
+ Replogle John B (D)           11/13/20            4,000   $70.59      63,170 
+ 
+CVS Health Corp (CVS) 
+ Lotvin Alan (VP)              11/13/20            7,138   $70.00      47,469 
+ 
+DTE Energy Co (DTE) 
+ Meador David E (O)            11/16/20            4,500  $134.50     176,632 
+ Paul Matthew T (O)            11/16/20            2,300  $134.35      14,148 
+ 
+Echo Global Logistics Inc (ECHO) 
+ Waggoner Douglas R (CB)       11/16/20           37,500   $29.03     287,385 
+ 
+Euronet Worldwide Inc (EEFT) 
+ Brown Michael J (CB)      11/13/20-11/16/20      53,692  $123.55   1,774,664 
+ Weller Rick (CFO)             11/13/20           48,771  $121.22      96,374 
+ 
+Expeditors International of Washington Inc (EXPD) 
+ Musser Jeffrey S (CEO)        11/13/20          120,000   $89.34     182,617 
+ 
+Globe Life Inc (GL) 
+ Matson Kenneth J (OS)         11/16/20            8,000   $93.88      24,504 
+ 
+Gogo Inc (GOGO) 
+ Aguirre Sergio A (DO)         11/13/20           32,152   $10.40           0 
+ 
+Insight Enterprises Inc (NSIT) 
+ Ebermann Wolfgang (O)         11/13/20            7,460   $69.54      42,549 
+ 
+Integer Holdings Corp (ITGR) 
+ Bailey Pamela G (D)           11/16/20            6,217   $71.18      49,544 
+ 
+Littelfuse Inc (LFUS) 
+ Hunter Gordon B (CB)          11/16/20            6,000  $231.13      23,194 
+ 
+Marsh & McLennan Cos Inc (MMC) 
+ Mcgivney Mark C (CFO)         11/16/20           32,439  $114.91      33,678 
+ Yates Lloyd M (D)             11/16/20            6,658  $115.17      24,001 
+ 
+McCormick & Co Inc (MKC) VTG 
+ Mangan Michael D (D)          11/13/20            5,000  $183.30      17,765 
+ 
+Mohawk Industries Inc (MHK) 
+ Lorberbaum Jeffrey S (CB)     11/16/20            3,000  $126.00   9,460,286 
+ 
+Monolithic Power Systems Inc (MPWR) 
+ Tseng Saria (VP)              11/13/20            4,886  $307.70     245,321 
+ 
+MSA Safety Inc (MSA) 
+ Vartanian Nishan J (CB)       11/16/20           16,357  $141.12      42,281 
+ 
+Novanta Inc (NOVT) 
+ Buckley Robert (CFO)          11/16/20            4,000  $115.08     152,681 
+ Glastra Matthijs (CEO)        11/16/20            5,000  $114.28      99,237 
+ 
+NVR Inc (NVR) 
+ Bredow Eugene James (O)       11/13/20              183 4,281.64         979 
+ 
+Parker-Hannifin Corp (PH) 
+ Svensson Ake (D)              11/16/20            2,000  $264.72       7,248 
+ 
+Primerica Inc (PRI) 
+ Williams Glenn J (CEO)        11/13/20            3,000  $126.29      65,343 
+ 
+Progressive Corp-Ohio (PGR) 
+ Sieger Michael D (O)          11/13/20            2,700   $95.00      49,131 
+ 
+Qorvo Inc (QRVO) 
+ Creviston Steven E (VP)       11/16/20            4,000  $147.84      57,944 
+ Fego Paul J (VP)              11/16/20            3,000  $147.84      40,053 
+ Klein James L (VP)            11/16/20            2,880  $147.84      44,465 
+ Murphy Mark J (CFO)           11/16/20            3,000  $147.84     100,172 
+ 
+Robert Half Intl Inc (RHI) 
+ Glass Robert W (VP)           11/16/20           10,227   $65.59     264,784 
+ 
+Southern Copper Corp (SCCO) 
+ Larrea Mota-Velasco  (CB)     11/13/20          100,000   $54.12   2,822,967 
+ 
+Stryker Corp (SYK) 
+ Berry William E Jr (VP)       11/13/20            1,275  $231.84         780 
+ 
+SVB Financial Group (SIVB) 
+ China John (O)                11/13/20              990  $345.00      26,879 
+ 
+Valmont Industries (VMI) 
+ Kaniewski Stephen G (CEO)     11/13/20            4,882  $156.77      23,786 
+ 
+VF Corp (VFC) 
+ Roe Scott A (CFO)             11/13/20           62,741   $79.21     114,898 
+ 
+Wabtec Corp (WAB) 
+ Faiveley Erwan (D)        11/13/20-11/16/20      57,000   $70.86   6,018,607 
+ 
+Waterstone Financial Inc (WSBF) 
+ Bartel Ellen Syburg (D)       11/16/20           19,762   $18.20      17,500 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+November 17, 2020 16:44 ET (21:44 GMT)

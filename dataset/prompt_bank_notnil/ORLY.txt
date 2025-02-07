@@ -1,0 +1,915 @@
+
+Source: OneChicago Exchange 
+For previous business day. 
+Symbol      Contract 
+               Month      Settle      Change 
+Agilent Technologies 
+A1D          Apr '18        67.97       -1.59 
+Alcoa Inc 
+AA1D         Jun '18        60.41        0.84 
+American Airlines Group Inc Div 
+AAL1D        May '18        46.95       -0.88 
+Apple Computer 
+AAPL1D       Apr '18       172.81       -5.04 
+AAPL1D       May '18       173.06       -5.06 
+AAPL1D       Jun '18       173.34       -5.06 
+AAPL1D       Sep '18       174.59       -5.10 
+ABBVIE INC 
+ABBV1D       Jun '18        93.30       -1.32 
+Amerisource Bergen Corp 
+ABC1D        May '18        91.83       -1.06 
+Ambev SA Div 
+ABEV1D       Apr '18         6.89        0.01 
+ABEV1D       May '18         6.90        0.01 
+ABEV1D       Jun '18         6.91        0.01 
+Abiomed Inc 
+ABMD1D       Apr '18       306.46       -1.20 
+Abbott Laboratories 
+ABT1D        Apr '18        59.88        0.36 
+ABT1D        Jun '18        60.06        0.35 
+Barrick Gold 
+ABX1D        May '18        13.34        0.06 
+ABX1D        Jun '18        13.36        0.06 
+Accenture PLC 
+ACN1D        Jun '18       155.00       -0.17 
+Adobe Systems 
+ADBE1D       May '18       227.96       -3.50 
+ADBE1D       Sep '18       229.97       -3.54 
+Archers-Daniels-Midland 
+ADM1D        Apr '18        45.79        0.14 
+ADM1D        May '18        45.86        0.14 
+ADM1D        Jun '18        45.93        0.14 
+Automatic Data Processing 
+ADP1D        Jun '18       118.12       -0.87 
+Agnico-Eagle Mines Ltd 
+AEM1D        May '18        44.45       -1.08 
+AEM1D        Jun '18        44.52       -1.07 
+American Electric Power Co Inc 
+AEP1D        Apr '18        68.52       -0.21 
+AEP1D        Jun '18        68.69       -0.19 
+AES Corporation 
+AES1D        Apr '18        11.75        0.00 
+AES1D        May '18        11.77        0.00 
+AES1D        Jun '18        11.79        0.00 
+Agios Pharmaceuticals 
+AGIO1D       Apr '18        88.29        0.25 
+Allergan Inc 
+AGN1D        Jun '18       159.08       -7.02 
+American Capital Agency Corp 
+AGNC1D       Jun '18        18.77       -0.05 
+Assured Guaranty LTD 
+AGO1D        Jun '18        36.95        0.48 
+Apollo Investment Corp 
+AINV1D       Jun '18         5.46       -0.04 
+Allstate Corporation 
+ALL1D        Jun '18        98.28        0.18 
+Alnylam Pharmaceuticals Inc 
+ALNY1D       Apr '18        96.19       -1.52 
+ALNY1D       May '18        96.33       -1.52 
+Alexion Pharmaceuticals Inc 
+ALXN1D       May '18       111.91       -1.21 
+Applied Materials 
+AMAT1D       Apr '18        51.19       -3.54 
+AMAT1D       Jun '18        51.35       -3.55 
+Advanced Micro Devices 
+AMD1D        Apr '18        10.11       -0.25 
+AMD1D        Jun '18        10.13       -0.26 
+Amgen 
+AMGN1D       Jun '18       173.47       -2.20 
+Ameriprise Financial Inc 
+AMP1D        Apr '18       145.59        0.96 
+Amazon 
+AMZN1D       Apr '18      1556.97       29.00 
+AMZN1D       May '18      1559.24       29.03 
+AMZN1D       Jun '18      1561.76       29.07 
+Arista Networks Inc 
+ANET1D       Jun '18       257.17       -2.15 
+Apache Corporation 
+APA1D        Jun '18        42.16       -0.81 
+Andarko Petroleum 
+APC1D        Apr '18        66.08       -0.28 
+APC1D        May '18        66.18       -0.27 
+APC1D        Jun '18        66.29       -0.27 
+Air Products and Chemicals Inc 
+APD1D        Apr '18       166.81       -1.57 
+APD1D        May '18       167.03       -1.60 
+Ares Capital Corp 
+ARCC1D       Jun '18        16.00       -0.10 
+Arrow Electronics Inc 
+ARW1D        Jun '18        78.57        0.10 
+Allegheny Technologies 
+ATI1D        May '18        26.35        0.02 
+ATI1D        Jun '18        26.39        0.02 
+American Express 
+AXP1D        Apr '18       102.37        7.21 
+AXP1D        Jun '18       102.68        7.24 
+Autozone 
+AZO1D        Sep '18       610.06       -4.81 
+Boeing Company 
+BA1D         Apr '18       340.65       -0.38 
+BA1D         May '18       341.15       -0.38 
+BA1D         Jun '18       341.70       -0.38 
+BA1D         Sep '18       344.16       -0.39 
+Alibaba Group Holding Ltd Div 
+BABA1D       Apr '18       181.40       -1.29 
+BABA1D       Jun '18       181.95       -1.30 
+Bank of America 
+BAC1D        Apr '18        30.18        0.65 
+BAC1D        May '18        30.23        0.65 
+BAC1D        Jun '18        30.27        0.65 
+Baxter International Inc 
+BAX1D        Jun '18        67.19       -0.24 
+Bed Bath Beyond 
+BBBY1D       Jun '18        17.75       -0.43 
+BB&T Corporation 
+BBT1D        Apr '18        52.36        1.73 
+Best Buy 
+BBY1D        Jun '18        73.56       -2.07 
+Brunswick Corporation 
+BC1D         Jun '18        59.65       -1.78 
+Barclays PLC 
+BCS1D        Jun '18        12.31        0.05 
+Bunge Limited 
+BG1D         Jun '18        75.91        0.84 
+BHP Billiton Limited 
+BHP1D        Apr '18        47.75       -0.38 
+BHP1D        May '18        47.77       -0.39 
+Baidu Com 
+BIDU1D       Apr '18       237.12       -0.65 
+BIDU1D       May '18       237.45       -0.66 
+BIDU1D       Jun '18       237.83       -0.66 
+Biogen 2C 
+BIIB1D       Jun '18       266.85       -2.03 
+Barnes & Noble Inc 
+BKS1D        Jun '18         5.72        0.10 
+Black Rock Inc 
+BLK1D        Jun '18       526.70        1.82 
+BLK1D        Sep '18       530.49        1.82 
+Ball Corporation 
+BLL1D        Apr '18        40.92       -0.33 
+BLL1D        May '18        40.98       -0.33 
+Blue Bio Inc 
+BLUE1D       Apr '18       170.51       -4.25 
+BLUE1D       May '18       170.74       -4.25 
+Bristol-Myers Squibb 
+BMY1D        Apr '18        51.61       -0.69 
+BMY1D        Jun '18        51.77       -0.70 
+BP p.l.c. 
+BP1D         Jun '18        43.80        0.13 
+BRF Brasil Foods 
+BRFS1D       May '18         7.16        0.33 
+Berkshire Hathaway 
+BRKB1D       Jun '18       200.96        0.83 
+BRKB1D       Sep '18       202.32        0.76 
+Bruker Corp 
+BRKR1D       Jun '18        30.33       -0.24 
+Boston Scientific Corporation 
+BSX1D        Jun '18        28.98       -0.05 
+Citigroup 
+C1D          Apr '18        70.28        1.29 
+C1D          Jun '18        70.50        1.30 
+C1D          Sep '18        71.01        1.31 
+Computer Associates 
+CA1D         Apr '18        34.84       -0.19 
+CA1D         May '18        34.89       -0.19 
+Cardinal Health Inc 
+CAH1D        May '18        62.40       -1.59 
+Caterpillar 
+CAT1D        Apr '18       155.71       -0.25 
+CAT1D        May '18       155.93       -0.26 
+Chubb Corporation 
+CB1D         Jun '18       138.01        1.10 
+CBL & Associates Properties Inc 
+CBL1D        Jun '18         4.16       -0.10 
+CBL1D        Sep '18         4.18       -0.10 
+Crown Castle International 
+CCI1D        Apr '18       102.64       -3.96 
+CCI1D        May '18       102.78       -3.97 
+Carnival Corporation 
+CCL1D        Jun '18        65.26       -0.22 
+Celgene 
+CELG1D       Apr '18        89.62       -1.40 
+CELG1D       May '18        89.75       -1.40 
+CELG1D       Jun '18        89.90       -1.40 
+Cerner Corporation 
+CERN1D       May '18        59.01       -0.37 
+CF Industries Holding Inc 
+CF1D         May '18        39.70       -0.38 
+Chesapeake Energy 
+CHK1D        Apr '18         3.03       -0.10 
+CHK1D        May '18         3.03       -0.10 
+CHK1D        Jun '18         3.03       -0.10 
+Checkpoint Software 
+CHKP1D       Jun '18       103.42       -1.00 
+C.H. Robinson Worldwide inc 
+CHRW1D       Apr '18        94.29       -0.66 
+CHRW1D       May '18        94.43       -0.66 
+CIGNA 
+CI1D         Apr '18       171.74       -3.48 
+CI1D         Jun '18       172.26       -3.51 
+Colgate Palmolive 
+CL1D         Jun '18        69.99       -2.32 
+Cliffs Natural Resources 
+CLF1D        May '18         7.20        0.00 
+CLF1D        Jun '18         7.21        0.00 
+Chicago Mercantile Holdings 
+CME1D        Apr '18       164.48       -0.73 
+CME1D        May '18       164.72       -0.74 
+CME1D        Jun '18       164.98       -0.74 
+Chipotle Mexican Grill Inc 
+CMG1D        May '18       338.95       -0.92 
+CMG1D        Jun '18       339.48       -0.92 
+Capstead Mortgage Corp 
+CMO1D        Jun '18         8.79       -0.08 
+Cinemark Holdings Inc 
+CNK1D        Jun '18        40.53        0.34 
+Capital One Financial 
+COF1D        Apr '18        98.35        1.20 
+COF1D        May '18        98.50        1.21 
+Cabot Oil & Gas Corporation 
+COG1D        Apr '18        23.56       -0.48 
+COG1D        May '18        23.60       -0.48 
+CommScope Holding Co Inc 
+COMM1D       Jun '18        40.81       -0.36 
+Conoco Phillips 
+COP1D        Apr '18        66.31       -0.12 
+COP1D        Jun '18        66.52       -0.11 
+COP1D        Sep '18        66.99       -0.12 
+Costco Wholesale 
+COST1D       Apr '18       195.08       -1.44 
+COST1D       May '18       195.33       -1.46 
+COST1D       Jun '18       195.62       -1.47 
+Coty Inc 
+COTY1D       Jun '18        17.22       -0.51 
+Campbell Soup 
+CPB1D        Apr '18        41.27       -0.57 
+CPB1D        May '18        41.32       -0.57 
+CPB1D        Jun '18        41.37       -0.58 
+Salesforce.com 
+CRM1D        Apr '18       124.06       -0.41 
+CRM1D        Jun '18       124.45       -0.40 
+Cisco Systems 
+CSCO1D       Apr '18        44.56       -0.07 
+CSCO1D       May '18        44.62       -0.08 
+CSCO1D       Jun '18        44.69       -0.07 
+CSX Corporation 
+CSX1D        Apr '18        61.19        0.17 
+CSX1D        May '18        61.28        0.18 
+Cognizant Technology 
+CTSH1D       Apr '18        82.37       -0.34 
+CVS/Caremark Corp 
+CVS1D        Jun '18        66.06       -0.76 
+ChevronTexaco Corp 
+CVX1D        Apr '18       123.71       -0.12 
+CVX1D        May '18       123.89       -0.12 
+CVX1D        Jun '18       124.08       -0.13 
+Cypress Sharpridge Invest Inc 
+CYS1D        Jun '18         6.62       -0.06 
+Delta Airlines 
+DAL1D        Jun '18        55.24       -0.15 
+Deere & Company 
+DE1D         Apr '18       148.11       -1.67 
+Discover Financial Services 
+DFS1D        Apr '18        73.29        1.19 
+Danahar Corporation 
+DHR1D        Jun '18       101.79       -0.94 
+Walt Disney 
+DIS1D        Apr '18       100.89       -0.33 
+DIS1D        May '18       101.04       -0.33 
+
+20 Apr 2018 09:21 ET 
+OneChicago Futures Close -2-
+
+
+DIS1D        Jun '18       101.20       -0.33 
+DIS1D        Sep '18       101.93       -0.33 
+Discovery Communications Inc Div 
+DISC1D       Jun '18        23.44       -0.13 
+DISH Netowrk Corporation 
+DISH1D       Jun '18        38.64       -0.59 
+Denbury Resources Inc 
+DNR1D        Sep '18         3.18        0.01 
+Duke Energy-1C 
+DUK1D        Jun '18        78.76        0.23 
+Devon Energy Corporation 
+DVN1D        Jun '18        35.80       -0.41 
+Dynex Capital Inc 
+DX1D         Jun '18         6.44       -0.09 
+Electronics Arts Inc 
+EA1D         Sep '18       124.38       -1.85 
+eBAY 
+EBAY1D       Jun '18        42.24        0.36 
+Ecopetrol 
+EC1D         Apr '18        22.24        0.52 
+EC1D         May '18        22.25        0.52 
+Consolidated Edison 
+ED1D         Jun '18        78.35        0.09 
+Estee Lauder 
+EL1D         May '18       152.06       -0.68 
+Eastman Chemical Co 
+EMN1D        Apr '18       107.47       -0.91 
+EMN1D        May '18       107.63       -0.91 
+EMN1D        Jun '18       107.80       -0.91 
+Emerson Electric 
+EMR1D        Jun '18        70.88        0.05 
+Enbridge Inc 
+ENB1D        Jun '18        32.08       -1.12 
+Enersis 
+ENIA1D       Apr '18        11.67       -0.07 
+ENIA1D       May '18        11.69       -0.07 
+EOG Resources 
+EOG1D        Apr '18       114.04        1.18 
+EOG1D        May '18       114.21        1.18 
+EOG1D        Jun '18       114.40        1.19 
+Enterprise Product Partners 
+EPD1D        Jun '18        26.72       -0.19 
+Wisdom Tree India Earnings 
+EPI1D        Apr '18        26.50       -0.26 
+EPI1D        May '18        26.53       -0.26 
+Equity Residential 
+EQR1D        Jun '18        60.89       -1.28 
+Erie Indemnity Co 
+ERIE1D       Apr '18       118.36        0.51 
+Express Scripts 
+ESRX1D       Apr '18        73.76       -0.99 
+ENSCO International Co 
+ESV1D        Jun '18         6.07        0.04 
+Eaton Corp 
+ETN1D        Apr '18        79.15       -0.05 
+ETN1D        May '18        79.27       -0.04 
+Energy Transfer Partners LP 
+ETP1D        Apr '18        18.09       -0.01 
+Entergy Corporation 
+ETR1D        Apr '18        80.02        0.45 
+ETR1D        Jun '18        80.27        0.46 
+Exelon Corporation 
+EXC1D        May '18        39.01        0.02 
+EXC1D        Jun '18        39.07        0.02 
+Ford Motor 
+F1D          Apr '18        10.96       -0.37 
+F1D          May '18        10.98       -0.37 
+F1D          Jun '18        10.99       -0.38 
+Fastenal Company 
+FAST1D       Apr '18        50.58       -0.10 
+FAST1D       May '18        50.66       -0.10 
+Facebook Inc 
+FB1D         Apr '18       168.11        1.74 
+FB1D         May '18       168.35        1.73 
+FB1D         Jun '18       168.62        1.73 
+FB1D         Sep '18       169.84        1.75 
+Fibria Celulose 
+FBR1D        Apr '18        19.68       -0.23 
+FBR1D        May '18        19.71       -0.23 
+FedEx 
+FDX1D        Jun '18       252.37       -3.97 
+First Energy Corporation 
+FE1D         Jun '18        34.97       -0.24 
+Fidelity Natl Information Srvc 
+FIS1D        Apr '18        97.06       -0.48 
+Fossel Group Inc Div 
+FOSL1D       Jun '18        14.43       -0.65 
+Twenty-First Century FOX Div 
+FOXA1D       Apr '18        37.20       -0.11 
+FOXA1D       May '18        37.25       -0.11 
+FOXA1D       Jun '18        37.30       -0.12 
+General Dynamics 
+GD1D         Jun '18       225.68       -0.53 
+GD1D         Sep '18       227.31       -0.53 
+General Electric 
+GE1D         Apr '18        13.99        0.33 
+GE1D         May '18        14.01        0.33 
+GE1D         Jun '18        14.03        0.33 
+GE1D         Sep '18        14.13        0.34 
+General Growth Properties Inc 
+GGP1D        Sep '18        20.05       -0.43 
+Gilead Sciences 
+GILD1D       Apr '18        74.44       -1.25 
+GILD1D       Jun '18        74.67       -1.25 
+General Mills 
+GIS1D        Jun '18        44.17       -0.70 
+General Motors 
+GM1D         Jun '18        37.89       -1.16 
+Randgold Resources Limited ADR 
+GOLD1D       May '18        81.52       -0.64 
+Alphabet Inc Div 
+GOLG1D       Apr '18      1089.49       14.01 
+GOLG1D       May '18      1091.08       14.02 
+GOLG1D       Jun '18      1092.84       14.04 
+Alphabet Inc Class C 
+GOOG1D       Apr '18      1087.74       15.57 
+GOOG1D       Jun '18      1090.85       15.37 
+GoPro Inc 
+GPRO1D       Jun '18         5.12        0.08 
+Gap Inc 
+GPS1D        Apr '18        29.55        0.01 
+Groupon Inc 
+GRPN1D       Jun '18         4.77       -0.07 
+GrubHub Inc 
+GRUB1D       Apr '18       101.74       -1.34 
+GRUB1D       Jun '18       102.01       -1.35 
+Goldman Sachs Group 
+GS1D         Apr '18       254.18        0.16 
+GS1D         May '18       254.55        0.16 
+GS1D         Jun '18       254.96        0.15 
+HCA Holdings Inc 
+HCA1D        Jun '18        98.68       -0.34 
+Home Depot 
+HD1D         Apr '18       177.09       -2.77 
+HD1D         Jun '18       177.63       -2.79 
+HDFC Bank Ltd Div 
+HDB1D        May '18        98.45        0.02 
+Holly Frontier 
+HFC1D        Jun '18        58.42        0.21 
+Howard Hughes Corp 
+HHC1D        Jun '18       138.07       -0.18 
+Hecla Mining Company 
+HL1D         Jun '18         3.92        0.08 
+HL1D         Sep '18         3.94        0.08 
+Honeywell 
+HON1D        Apr '18       148.14       -1.24 
+Hewlett Packard 
+HPQ1D        Jun '18        21.69       -0.38 
+H&R Block 
+HRB1D        May '18        26.37       -0.36 
+HRB1D        Jun '18        26.41       -0.36 
+Hercules Tech.Growth Capital Inc 
+HTGC1D       Jun '18        12.22        0.00 
+HTGC1D       Sep '18        12.30        0.00 
+Huntsman Corporation 
+HUN1D        Jun '18        31.71       -0.63 
+Interactive Brokers Group 
+IBKR1D       May '18        72.77        0.74 
+IBKR1D       Jun '18        72.89        0.74 
+International Business Machines 
+IBM1D        Apr '18       147.71       -1.09 
+IBM1D        May '18       147.92       -1.10 
+IBM1D        Jun '18       148.15       -1.11 
+ICICI Bank Limited 
+IBN1D        Apr '18         8.75       -0.04 
+IBN1D        May '18         8.76       -0.04 
+IBN1D        Jun '18         8.78       -0.04 
+IBN1D        Sep '18         8.84       -0.04 
+IMAX Corp 
+IMAX1D       Jun '18        22.37       -0.20 
+Incyte Corp 
+INCY1D       Jun '18        69.25       -1.03 
+Infosys Technologies 
+INFY1D       Apr '18        17.17        0.24 
+INFY1D       May '18        17.19        0.24 
+Intel Corporation 
+INTC1D       Apr '18        52.22       -1.39 
+INTC1D       Jun '18        52.38       -1.40 
+Intuit Inc 
+INTU1D       Apr '18       179.42       -1.79 
+INTU1D       May '18       179.68       -1.79 
+International Paper 
+IP1D         Jun '18        53.76       -0.48 
+Iron Mountain Inc 
+IRM1D        May '18        33.81       -0.76 
+Intuitive Surgical 
+ISRG1D       Sep '18       467.49       -8.45 
+Illinois Tool Works 
+ITW1D        Apr '18       159.10       -0.31 
+JetBlue Airways 
+JBLU1D       Jun '18        19.72       -0.31 
+Johnson Controls 
+JCI1D        Apr '18        34.01       -0.43 
+J.C. Penney 
+JCP1D        Jun '18         3.04        0.00 
+Johnson & Johnson 
+JNJ1D        Apr '18       127.56       -0.17 
+JNJ1D        May '18       127.74       -0.18 
+JNJ1D        Jun '18       127.95       -0.18 
+Juniper Networks 
+JNPR1D       Jun '18        24.52        0.06 
+J.P. Morgan Chase 
+JPM1D        Apr '18       111.72        2.39 
+JPM1D        May '18       111.89        2.40 
+JPM1D        Jun '18       112.07        2.40 
+Kellogg Company 
+K1D          Jun '18        62.39       -1.22 
+KeyCorp 
+KEY1D        Apr '18        19.55        0.68 
+KKR & Co LP Div 
+KKR1D        Jun '18        21.21        0.18 
+KLA-Tencor 
+KLAC1D       Jun '18       102.61       -5.97 
+Kimberly Clark 
+KMB1D        May '18       103.49       -3.21 
+KMB1D        Jun '18       103.66       -3.21 
+Kinder Morgan Inc 
+KMI1D        Apr '18        16.54        0.37 
+KMI1D        Jun '18        16.59        0.37 
+Kandi Technologies Group Div 
+KNDI1D       Jun '18         4.81       -0.15 
+Coca-Cola 
+KO1D         Apr '18        44.31       -0.20 
+KO1D         Jun '18        44.45       -0.20 
+The Kroger Company 
+KR1D         Jun '18        24.26       -0.40 
+Kohl's 
+KSS1D        Jun '18        60.31       -1.07 
+Lithia Motors Inc 
+LAD1D        Apr '18       101.46       -1.67 
+L Brands Inc Div 
+LB1D         May '18        36.00       -0.09 
+LB1D         Jun '18        36.06       -0.09 
+Lending Club Corporation 
+LC1D         Jun '18         3.41       -0.03 
+Eli Lilly and Company 
+LLY1D        Jun '18        80.00        0.03 
+Lockheed Martin 
+LMT1D        Apr '18       353.39        2.21 
+LMT1D        May '18       353.86        2.20 
+LMT1D        Jun '18       354.39        2.19 
+Lincoln National Corporation 
+LNC1D        Jun '18        71.84        0.78 
+Lowe's 
+LOW1D        Jun '18        85.14       -1.54 
+Las Vegas Sands Corp 
+LVS1D        May '18        73.95       -0.59 
+Macy's 
+M1D          Jun '18        29.50        0.01 
+Mastercard Inc 
+MA1D         Jun '18       179.57       -0.46 
+Macerich Company 
+MAC1D        Apr '18        57.55       -0.52 
+Marriott International 
+MAR1D        Apr '18       137.63       -0.69 
+MAR1D        May '18       137.82       -0.70 
+Masco Corporation 
+MAS1D        Jun '18        39.87       -1.57 
+Mattel Incorporated 
+MAT1D        Apr '18        13.45       -0.44 
+MAT1D        May '18        13.47       -0.44 
+MAT1D        Jun '18        13.48       -0.44 
+McDonalds Corporation 
+MCD1D        Apr '18       159.54       -2.28 
+MCD1D        May '18       159.76       -2.30 
+Microchip Technology 
+MCHP1D       Apr '18        85.14       -2.87 
+Mondelez International 
+MDLZ1D       Apr '18        41.01       -0.98 
+MDLZ1D       Jun '18        41.13       -0.98 
+Medtronics Inc 
+MDT1D        May '18        80.12       -0.19 
+MDT1D        Jun '18        80.25       -0.19 
+MercadoLibre Inc 
+MELI1D       Apr '18       330.01      -15.12 
+MetLife 
+MET1D        Apr '18        47.44        0.44 
+MET1D        Jun '18        47.59        0.45 
+Marsh & McLennan Companies 
+MMC1D        Jun '18        83.60       -0.58 
+3M Co 
+MMM1D        Apr '18       218.86       -0.68 
+MMM1D        Jun '18       219.50       -0.66 
+
+20 Apr 2018 09:21 ET 
+OneChicago Futures Close -3-
+
+
+Altria Group Inc 
+MO1D         Apr '18        57.78       -3.73 
+MO1D         May '18        57.87       -3.73 
+MO1D         Jun '18        57.96       -3.74 
+Monsanto 
+MON1D        Jun '18       124.99       -0.36 
+Mosiac Company 
+MOS1D        Jun '18        25.93       -0.19 
+Marathon Petroleum 
+MPC1D        Apr '18        79.40        0.61 
+MPC1D        May '18        79.50        0.62 
+MPC1D        Jun '18        79.61        0.62 
+Merck Co Inc 
+MRK1D        Apr '18        58.64       -0.28 
+MRK1D        Jun '18        58.82       -0.27 
+Marathon Oil Corp 
+MRO1D        Apr '18        17.99       -0.24 
+MRO1D        May '18        18.02       -0.24 
+MRO1D        Jun '18        18.05       -0.24 
+Morgan Stanley 
+MS1D         Apr '18        54.70        1.44 
+MS1D         May '18        54.78        1.44 
+MS1D         Jun '18        54.87        1.44 
+Microsoft Corporation 
+MSFT1D       Apr '18        96.11       -0.34 
+MSFT1D       May '18        96.25       -0.34 
+MSFT1D       Jun '18        96.41       -0.34 
+Micron Technology 
+MU1D         Apr '18        51.42       -2.59 
+MU1D         May '18        51.50       -2.59 
+MU1D         Jun '18        51.58       -2.60 
+MU1D         Sep '18        51.95       -2.62 
+Noble Energy Inc 
+NBL1D        Apr '18        33.83        0.21 
+NBL1D        May '18        33.88        0.21 
+Norwegian Cruise Line Holdings 
+NCLH1D       Jun '18        55.12       -0.47 
+Noble Corporation 
+NE1D         Jun '18         4.86        0.06 
+NexEra Energy Inc 
+NEE1D        Apr '18       162.55       -0.32 
+NEE1D        May '18       162.78       -0.31 
+NEE1D        Jun '18       163.05       -0.29 
+Newmont Mining 
+NEM1D        Apr '18        41.94        0.85 
+NEM1D        May '18        42.00        0.85 
+Netflix Inc 
+NFLX1D       Apr '18       332.71       -1.84 
+NFLX1D       May '18       333.20       -1.84 
+NFLX1D       Jun '18       333.74       -1.84 
+NFLX1D       Sep '18       336.14       -1.86 
+Nike Inc Class B 
+NKE1D        Apr '18        65.73       -0.48 
+NKE1D        May '18        65.83       -0.47 
+NKE1D        Jun '18        65.93       -0.48 
+Annaly Capital Management Inc 
+NLY1D        Jun '18        10.28       -0.03 
+NRG Energy Inc 
+NRG1D        Apr '18        31.49        0.11 
+NRG1D        May '18        31.53        0.11 
+NRG1D        Jun '18        31.58        0.11 
+NuStar Enegy LP 
+NS1D         Jun '18        21.56       -0.29 
+Norfolk Southern Corp 
+NSC1D        Apr '18       138.87        0.25 
+NutriSystem 
+NTRI1D       Apr '18        28.70        0.00 
+NORTHERN TRUST COMPANY 
+NTRS1D       Apr '18       108.15        1.83 
+NTRS1D       May '18       108.30        1.82 
+Nucor 
+NUE1D        Apr '18        65.13       -0.30 
+Nvidia Corporation 
+NVDA1D       Apr '18       229.05       -7.34 
+NVDA1D       May '18       229.38       -7.33 
+NVDA1D       Jun '18       229.75       -7.32 
+NVDA1D       Sep '18       231.41       -7.28 
+Novartis AG 
+NVS1D        Apr '18        79.00       -2.70 
+NVS1D        Jun '18        79.21       -2.68 
+Newel Rubbermaid 
+NWL1D        May '18        26.72       -0.55 
+NWL1D        Jun '18        26.76       -0.55 
+Omega Healthcare Investors Inc 
+OHI1D        Jun '18        25.95       -0.39 
+ONEOK Inc Div 
+OKE1D        Apr '18        59.74       -0.09 
+OKE1D        May '18        59.83       -0.09 
+Omnicon Group Div 
+OMC1D        Apr '18        75.03        0.27 
+OMC1D        May '18        75.14        0.27 
+Opko Health Inc Div 
+OPK1D        Jun '18         3.17       -0.05 
+OPK1D        Sep '18         3.18       -0.04 
+Oracle Corporation 
+ORCL1D       Apr '18        46.82       -0.26 
+ORCL1D       May '18        46.89       -0.26 
+ORCL1D       Jun '18        46.97       -0.26 
+O'Reilly Automotive Inc DIV 
+ORLY1D       Sep '18       225.25       -3.84 
+Overstock.com 
+OSTK1D       Jun '18        36.57       -0.84 
+Occidental Petroleum Corp 
+OXY1D        Apr '18        75.99        0.06 
+OXY1D        Jun '18        76.23        0.07 
+Pan American Silver Corp 
+PAAS1D       May '18        17.52        0.29 
+PAAS1D       Jun '18        17.54        0.29 
+People's United Financial Inc 
+PBCT1D       Apr '18        18.07       -0.27 
+PBCT1D       May '18        18.10       -0.27 
+PG&E Corporation 
+PCG1D        Apr '18        46.50        0.05 
+PCG1D        May '18        46.56        0.04 
+PCG1D        Jun '18        46.64        0.05 
+Public Service Enterprise Group 
+PEG1D        Apr '18        50.03       -0.42 
+PEG1D        May '18        50.10       -0.43 
+PepsiCo 
+PEP1D        Apr '18       105.57       -1.42 
+PEP1D        Jun '18       105.90       -1.42 
+Pfizer 
+PFE1D        Apr '18        36.53        0.04 
+PFE1D        May '18        36.58        0.04 
+PFE1D        Jun '18        36.64        0.04 
+Procter & Gamble Co 
+PG1D         Apr '18        74.95       -3.26 
+PG1D         Jun '18        75.18       -3.27 
+Parker-Hannifin Corporation 
+PH1D         Apr '18       176.19       -2.28 
+Pulte Homes 
+PHM1D        May '18        28.80       -1.19 
+Powershares Water Resources 
+PHO1D        Jun '18        31.16       -0.14 
+ProLogis Inc 
+PLD1D        Apr '18        65.23       -0.44 
+Philip Morris International Inc 
+PM1D         Apr '18        85.64      -15.81 
+PM1D         May '18        85.77      -15.83 
+PNC Financial Services Group 
+PNC1D        Apr '18       144.27        2.60 
+PPG Industries 
+PPG1D        Apr '18       109.64       -3.56 
+PPL Corporation 
+PPL1D        May '18        28.32        0.09 
+Prudential Financial 
+PRU1D        Apr '18       107.07        1.22 
+PRU1D        May '18       107.23        1.23 
+Prospect Capital Corp 
+PSEC1D       Jun '18         6.44       -0.05 
+Phillips 66 Div 
+PSX1D        Jun '18       110.97        1.75 
+Pioneer Natural Resources 
+PXD1D        Apr '18       195.48        1.01 
+PXD1D        May '18       195.76        1.01 
+PXD1D        Jun '18       196.08        1.02 
+PayPal Holdings Inc 
+PYPL1D       May '18        79.80       -0.66 
+PYPL1D       Jun '18        79.92       -0.67 
+Qualcomm 
+QCOM1D       Jun '18        52.73       -2.68 
+Qorvo Inc 
+QRVO1D       Apr '18        70.63       -2.50 
+Rowan Companies 
+RDC1D        Jun '18        15.34       -0.11 
+Radian Group Inc 
+RDN1D        Jun '18        15.33       -0.09 
+Revlon Inc 
+REV1D        Jun '18        22.60       -0.09 
+Robert Half International Inc 
+RHI1D        Apr '18        60.55        0.09 
+RHI1D        May '18        60.64        0.10 
+Transocean 
+RIG1D        Jun '18        12.57        0.11 
+RIG1D        Sep '18        12.65        0.11 
+Rockwell Automation 
+ROK1D        Jun '18       175.04       -2.64 
+Roper Industries Inc DIV 
+ROP1D        Sep '18       282.87        0.36 
+Ross Stores Inc DIV 
+ROST1D       Apr '18        78.75       -0.15 
+Range Reserve Corporation 
+RRC1D        Jun '18        14.28       -0.29 
+Republic Services Inc 
+RSG1D        Apr '18        65.89       -0.07 
+RSG1D        May '18        65.98       -0.07 
+Raytheon 
+RTN1D        Jun '18       228.77        0.99 
+Rayonier Inc 
+RYN1D        Jun '18        36.99       -0.13 
+Sprint Corp Div 
+S1D          Jun '18         5.97       -0.04 
+Starbucks 
+SBUX1D       Apr '18        59.22       -0.28 
+SBUX1D       May '18        59.30       -0.29 
+SBUX1D       Jun '18        59.40       -0.29 
+Charles Schwab 
+SCHW1D       Apr '18        53.68        1.50 
+SCHW1D       May '18        53.76        1.50 
+Global X Silver Miners 
+SIL1D        Sep '18        31.70        0.01 
+Schlumberger 
+SLB1D        May '18        70.38       -0.07 
+SLB1D        Jun '18        70.49       -0.07 
+Southern Company 
+SO1D         Jun '18        45.74        0.17 
+Simon Property Group 
+SPG1D        May '18       150.49       -2.30 
+Superior Energy Services Inc 
+SPN1D        Jun '18         9.79        0.03 
+Stericycle Inc Div 
+SRCL1D       Jun '18        61.04       -0.62 
+Sempra Energy 
+SRE1D        Jun '18       110.71       -1.24 
+Sun Trust Banks 
+STI1D        Apr '18        67.03        1.61 
+STI1D        May '18        67.13        1.62 
+Skyworks Solutions Inc 
+SWKS1D       Sep '18        94.85       -5.14 
+Southwestern Energy 
+SWN1D        Apr '18         4.36       -0.17 
+SWN1D        May '18         4.37       -0.17 
+SWN1D        Jun '18         4.37       -0.17 
+Synchrony Financial 
+SYF1D        Apr '18        35.35        0.46 
+AT&T Corporation 
+T1D          Apr '18        34.82       -0.39 
+T1D          Jun '18        34.92       -0.40 
+Tyco Electronics 
+TEL1D        Apr '18       101.05       -1.14 
+TEL1D        May '18       101.20       -1.14 
+Teva Pharmaceutical 
+TEVA1D       May '18        17.73       -0.21 
+TEVA1D       Jun '18        17.76       -0.21 
+Target 
+TGT1D        May '18        71.09       -1.55 
+TGT1D        Jun '18        71.20       -1.56 
+TJX Companies 
+TJX1D        Apr '18        82.64       -0.55 
+TJX1D        May '18        82.76       -0.55 
+Thermo-Fisher Scientific Inc 
+TMO1D        Apr '18       217.00       -2.55 
+TMO1D        May '18       217.31       -2.56 
+T.Rowe Price Group 
+TROW1D       Apr '18       108.83       -0.06 
+TROW1D       May '18       108.99       -0.05 
+Tesla Motors Inc 
+TSLA1D       Apr '18       300.07        6.74 
+TSLA1D       May '18       299.81        6.74 
+TSLA1D       Jun '18       299.60        6.74 
+Tata Motors Limited 
+TTM1D        Apr '18        25.13       -0.44 
+TTM1D        May '18        25.17       -0.44 
+TTM1D        Sep '18        25.39       -0.44 
+Twitter Inc Div 
+TWTR1D       Apr '18        31.54        0.00 
+Texas Instruments 
+TXN1D        Apr '18       101.29       -4.07 
+Textron Incorporated 
+TXT1D        Sep '18        66.16        1.50 
+United Continental Holdings Inc 
+UAL1D        Apr '18        70.23       -0.36 
+UAL1D        May '18        70.34       -0.35 
+Unisys Corporation 
+UIS1D        Jun '18        11.37       -0.05 
+Ulta Salon Cosmetics & Fragrance 
+ULTA1D       Jun '18       234.89        1.12 
+United Health Group 
+UNH1D        Apr '18       235.77       -0.65 
+UNH1D        May '18       236.11       -0.66 
+UNH1D        Jun '18       236.49       -0.66 
+Union Pacific Corporation 
+UNP1D        Apr '18       138.00       -0.97 
+UNP1D        May '18       138.19       -0.99 
+
+20 Apr 2018 09:21 ET 
+OneChicago Futures Close -4-
+
+
+UNP1D        Jun '18       138.42       -0.98 
+U.S. Bancorp 
+USB1D        Apr '18        50.70        0.70 
+USB1D        Jun '18        50.86        0.70 
+United States Oil Fund 
+USO1D        Apr '18        13.77       -0.11 
+USO1D        May '18        13.76       -0.11 
+United Technologies 
+UTX1D        Apr '18       123.85       -0.96 
+UTX1D        Jun '18       124.24       -0.96 
+Visa Inc 
+V1D          Jun '18       124.35       -0.53 
+Valero Energy Corporation 
+VLO1D        Apr '18       108.20        0.65 
+VLO1D        Jun '18       108.52        0.66 
+Vulcan Materials 
+VMC1D        Jun '18       115.69       -3.07 
+Vodafone Group Public 
+VOD1D        Jun '18        29.55       -0.28 
+Verizon Communications 
+VZ1D         Apr '18        48.43       -0.19 
+VZ1D         May '18        48.50       -0.20 
+VZ1D         Jun '18        48.58       -0.19 
+Western Digital Corporation 
+WDC1D        Jun '18        89.77       -2.20 
+Wells Fargo Co 
+WFC1D        Apr '18        51.54        1.15 
+WFC1D        May '18        51.62        1.15 
+WFC1D        Jun '18        51.70        1.15 
+WeatherFord International Ltd 
+WFT1D        Jun '18         2.64       -0.04 
+WFT1D        Sep '18         2.65       -0.04 
+Whirlpool Corporation 
+WHR1D        May '18       152.24       -2.72 
+Wipro Limited 
+WIT1D        Apr '18         5.26        0.03 
+Waste Management 
+WM1D         Jun '18        82.84       -1.04 
+Wal-Mart Stores Inc 
+WMT1D        Apr '18        87.89        0.31 
+WMT1D        Jun '18        88.16        0.32 
+Weyerhauser 
+WY1D         Jun '18        36.74       -0.23 
+Wynn Resorts Limited 
+WYNN1D       Jun '18       192.25       -1.27 
+United States Steel 
+X1D          May '18        37.40       -0.16 
+Xilinx 
+XLNX1D       Jun '18        65.10       -3.12 
+Exxon Mobil Corporation 
+XOM1D        May '18        79.53        0.19 
+XOM1D        Jun '18        79.66        0.20 
+Xerox Corporation 
+XRX1D        Jun '18        30.42        0.06 
+YUM Brands 
+YUM1D        Jun '18        86.71       -0.56 
+Zion Bancorp 
+ZION1D       Jun '18        53.37        1.12 
+ 
+Write to Linda Rice at csstat.dowjones.com 
+ 
+
+(END) Dow Jones Newswires
+
+April 20, 2018 09:21 ET (13:21 GMT)

@@ -1,0 +1,164 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Monday and early Tuesday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Altice USA Inc (ATUS) 
+ Olsen Michael (VP)             7/31/20           20,000   $27.00      99,938 
+ 
+Anaplan Inc (PLAN) 
+ Morton David H Jr (CFO)        7/30/20           30,000   $45.05      30,620 
+ 
+Arista Networks Inc (ANET) 
+ Duda Kenneth (VP)          7/30/20-7/31/20       20,000  $251.05     428,766 
+ Sadana Anshul (COO)        7/30/20-7/31/20        4,990  $250.98       2,784 
+ 
+Avantor Inc (AVTR) 
+ Ohri Devashish (VP)            7/30/20           35,000   $21.37     151,671 
+ 
+BlackLine Inc (BL) 
+ Partin Mark (CFO)               8/3/20           20,000   $90.16      99,588 
+ 
+Brooks Automation Inc (BRKS) 
+ Pietrantoni David (VP)     7/30/20-7/31/20       12,000   $48.75      25,438 
+ 
+Brown & Brown Inc (BRO) 
+ Lloyd Robert W (VP)            7/30/20           21,828   $44.50     103,855 
+ 
+ChemoCentryx Inc (CCXI) 
+ Vifor (International (SH)   7/30/20-8/3/20      137,741   $53.72   9,194,085 
+ 
+CONMED Corp (CNMD) 
+ Shagory Peter K (VP)           7/31/20            4,440   $84.57       1,861 
+ 
+CorVel Corp (CRVL) 
+ Clemons Victor Gordo (CB)   7/30/20-8/3/20        4,500   $78.81   1,642,146 
+ 
+Edwards Lifesciences Corp (EW) 
+ Wood Larry L (VP)               8/3/20           10,698   $78.40     363,979 
+ 
+eXp World Holdings Inc (EXPI) 
+ Sanford Penny (SH)             7/30/20           20,000   $20.21  15,175,820 
+ 
+FactSet Research Systems Inc (FDS) 
+ Snow Frederick Phili (CEO       8/3/20            1,769  $349.91       3,887 
+ 
+Fortune Brands Home & Security Inc (FBHS) 
+ Fink Nicholas I (CEO)          7/31/20           30,000   $76.01      75,686 
+ Klein Christopher J (CB)       7/31/20          135,600   $75.88     419,911 
+ Lantz Brian C (VP)             7/31/20           12,000   $75.94      17,781 
+ 
+Health Catalyst Inc (HCAT) 
+ Burton Daniel D (CEO)      7/30/20-7/31/20      200,570   $35.37     181,939 
+ 
+Iridium Communications Inc (IRDM) 
+ Hickey Thomas D (O)            7/31/20           27,761   $26.77     144,471 
+ 
+Keurig Dr Pepper Inc (KDP) 
+ Mondelez Internation (SH)       8/3/20       14,071,962   $29.45 170,725,048 
+ 
+Kinder Morgan Inc (KMI) 
+ Waughtal Perry M (D)            8/3/20           59,593   $13.97     299,293 
+ 
+MACOM Technology Solutions Holdings Inc (MTSI) 
+ Hwang Donghyun (Thom (VP)      7/30/20            8,882   $42.91      57,419 
+ 
+Mastercard Inc (MA) CL A 
+ Sachin J Mehra (CFO)           7/31/20           13,996  $308.96      10,922 
+ 
+Mondelez International Inc (MDLZ) CL A 
+ May Peter W (D)            7/30/20-7/31/20    1,043,472   $55.91  14,805,519 
+ 
+NeoGenomics Inc (NEO) 
+ Shovlin Robert J (DO)          7/30/20           81,356   $38.17     148,270 
+ 
+Novocure Ltd (NVCR) 
+ Leung Gabriel (Kinyi (D)       7/30/20            7,112   $75.00      72,045 
+ 
+O'Reilly Automotive Inc (ORLY) 
+ Shaw Jeff M (P)                7/30/20            7,500  $480.00      29,250 
+ Venosdel Richard Dar (VP)      7/30/20            2,500  $482.39       2,883 
+ 
+Okta Inc (OKTA) CL A 
+ Wilson Lynn Michelle (D)       7/30/20           10,000  $219.45      17,270 
+ 
+PACCAR Inc (PCAR) 
+ Ley Alma Lily (VP)             7/30/20            3,314   $84.65       4,294 
+ 
+PayPal Holdings Inc (PYPL) 
+ Alford Peggy (VP)              7/31/20            3,769  $193.61       7,770 
+ Anderson Aaron (VP)            7/31/20            9,203  $193.62      11,637 
+ Britto Mark J (VP)             7/31/20            9,000  $193.68      82,536 
+ 
+Pegasystems Inc (PEGA) 
+ Stillwell Kenneth (CFO)     7/30/20-8/3/20        6,000  $116.05       8,987 
+ 
+Pluralsight Inc (PS) CL A 
+ Maudlin Timothy I (D)          7/31/20           50,000   $20.92      11,632 
+ 
+Polaris Inc (PII) 
+ Musso Christopher (VP)         7/30/20            3,700  $106.00      27,601 
+ 
+Pool Corp (POOL) 
+ Housey Hart Melanie (VP)       7/30/20            2,250  $312.02      11,336 
+ 
+Research Solutions Inc (RSSS) 
+ Bristol Investment F (SH)   7/31/20-8/3/20      200,000    $2.35   4,348,930 
+ 
+Rush Enterprises Inc (RUSHA) CL A 
+ Anderson Scott T (VP)       7/30/20-8/3/20       40,334   $48.56       3,694 
+ 
+S&P Global Inc (SPGI) 
+ Berisford John L (O)           7/30/20            5,940  $349.92      26,073 
+ Cheung Martina (O)             7/30/20            1,398  $353.42       7,119 
+ Geduldig Courtney (VP)      7/30/20-8/3/20        5,608  $352.10       9,597 
+ Kemps Steven J (VP)            7/30/20            1,047  $355.27       7,639 
+ 
+salesforce.com inc (CRM) 
+ Benioff Marc R (CB)         7/31/20-8/3/20       30,000  $197.08  29,933,800 
+ 
+Stryker Corp (SYK) 
+ Lobo Kevin (CB)                7/31/20           25,855  $190.80      70,914 
+ 
+Tesla Inc (TSLA) 
+ Denholm Robyn M (CB)           7/30/20           26,167 1,488.13       1,000 
+ 
+Thermo Fisher Scientific Inc (TMO) 
+ Casper Marc N (CB)         7/30/20-7/31/20       40,000  $407.17     344,276 
+ 
+Ultra Clean Holdings Inc (UCTT) 
+ Granger Clarence L (CB)        7/30/20           12,530   $30.00     156,368 
+ 
+Zendesk Inc (ZEN) 
+ Geschke John (O)                8/3/20            5,500   $91.66      29,101 
+ 
+Zillow Group Inc (Z) CL C 
+ Barton Richard N (CEO)     7/30/20-7/31/20       22,251   $70.04   7,487,743 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+August 04, 2020 08:44 ET (12:44 GMT)

@@ -1,0 +1,864 @@
+3 Aug 2020 06:59 ET *Global Payments 2Q Adj EPS $1.31 >GPN
+
+3 Aug 2020 07:02 ET 
+Press Release: Global Payments Reports Second Quarter 2020 Results
+
+Global Payments Reports Second Quarter 2020 Results
+
+Collaborates with Amazon Web Services to Deliver Future of Payments
+
+Expands Partnership with CaixaBank 
+
+
+ATLANTA--(BUSINESS WIRE)--August 03, 2020-- 
+
+Global Payments Inc . (NYSE: GPN) today announced results for the second quarter ended June 30, 2020.
+
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200803005127/en/ 
+
+"We are pleased with our performance in the second quarter, with each month exceeding our post COVID-19 expectations and results improving significantly in May and June. We are also very proud of our team members around the globe for their exceptional and continuous dedication to our customers and the communities in which they live and work despite difficult circumstances," said Jeff Sloan , Chief Executive Officer.
+
+"We continue to make substantial progress on our strategic goals. First, we entered into a new relationship with Amazon Web Services (AWS) to be our preferred cloud provider for our issuer business. We expect our collaboration with AWS to drive innovative payments solutions worldwide; substantially expand our target addressable opportunities; enable best-in-class experiences for our customers and their consumers; and facilitate revenue possibilities with Amazon across all segments of our business. Together with AWS, we will deliver an industry-leading, cloud-based platform to institutions worldwide, bringing transformative technologies to all types of issuers and providing consumers with frictionless digital experiences."
+
+Sloan added, "Second, we are delighted to expand our relationship with longstanding partner CaixaBank by agreeing to meaningfully increase our ownership in our joint venture and extending our partnership through 2040. CaixaBank is one of the largest banks in Europe and is Spain's leading financial group. Their confidence in us further highlights the strength of our differentiated model as the partner of choice to the most sophisticated and complex institutions globally."
+
+Second Quarter 2020 Summary 
+
+
+   -- GAAP revenues were $1.672 billion, compared to $935 million in the second 
+      quarter of 2019; diluted earnings per share were $0.12 compared to $0.77 
+      in the prior year; and operating margin was 6.4%. 
+ 
+   -- Adjusted net revenues declined 14% to $1.521 billion, compared to $1.772 
+      billion in the second quarter of 2019 on a combined basis. 
+ 
+   -- Adjusted earnings per share declined 13% to $1.31, compared to $1.51 in 
+      the second quarter of 2019. 
+ 
+   -- Adjusted operating margin was 37.0%, compared to 37.4% in the second 
+      quarter of 2019 on a combined basis. 
+
+Financial Highlights
+
+"We delivered solid financial performance for the second quarter in a challenging environment and are encouraged by the recovery across our businesses, which has continued in July," said Paul Todd , Senior Executive Vice President and Chief Financial Officer. "Our cost actions in response to the pandemic remain on track to deliver $400 million in additional annual run rate expense savings, which is incremental to the at least $350 million of annual run rate expense synergies and at least $125 million in annual run rate revenue synergies we expect to achieve through 2022 related to the TSYS merger."
+
+Todd concluded, "We benefited by entering the crisis in extraordinary condition, and the timing and quantum of our actions taken early on enabled us to substantially exceed our adjusted operating margin expectations for the quarter. Finally, our strong cash flows, together with our investment grade balance sheet and liquidity position, provide us with significant financial flexibility to continue to pursue strategic priorities opportunistically as markets stabilize."
+
+Capital Allocation
+
+Global Payments ' Board of Directors approved a dividend of $0.195 per share payable September 24, 2020 to shareholders of record as of September 10, 2020.
+
+Conference Call
+
+Global Payments ' management will host a live audio webcast today, August 3, 2020, at 8:00 a.m. ET to discuss financial results and business highlights. All interested parties may access the audio webcast via the investor relations page of the company's website at investors.globalpaymentsinc.com. A replay of the audio webcast will be archived on the company's website following the live event.
+
+Non-GAAP Financial Measures
+
+Global Payments supplements revenues, income, operating income, operating margin and earnings per share information determined in accordance with GAAP by providing these measures, and other measures with certain adjustments (such measures being non-GAAP financial measures) on an adjusted basis in this earnings release to assist with evaluating our performance. In addition to GAAP measures, management uses these non-GAAP financial measures to focus on the factors the company believes are pertinent to the daily management of our operations.
+
+Reconciliations of the non-GAAP measures to the most directly comparable GAAP measure are included in the schedules to this release.
+
+About Global Payments
+
+Global Payments Inc . (NYSE: GPN) is a leading pure play payments technology company delivering innovative software and services to our customers globally. Our technologies, services and employee expertise enable us to provide a broad range of solutions that allow our customers to operate their businesses more efficiently across a variety of channels around the world.
+
+Headquartered in Georgia with nearly 24,000 employees worldwide, Global Payments is a member of the S&P 500 with worldwide reach spanning over 100 countries throughout North America, Europe, Asia Pacific and Latin America. For more information, visit www.globalpaymentsinc.com and follow Global Payments on Twitter (@globalpayinc), LinkedIn and Facebook .
+
+Forward-Looking Statements
+
+Certain of the matters discussed in this communication which are not statements of historical fact constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements, which are based on current expectations, estimates and projections about the industry and markets in which we operate, and beliefs of and assumptions made by our management, involve risks, uncertainties and assumptions that could significantly affect the financial condition, results of operations, business plans and the future performance of Global Payments . Actual events or results might differ materially from those expressed or forecasted in these forward-looking statements. Examples of forward-looking statements include, but are not limited to, statements we make regarding the effects of the global pandemic on our business, including estimates of the effects of the pandemic on our revenues and financial operating results, the effects of actions taken by us in response to the pandemic, anticipated benefits of the merger with TSYS, including our future financial and operating results, the combined company's plans, objectives, expectations and intentions, our expected financial and operating results, projected future growth of business, or completion or anticipated benefits of strategic initiatives, and other statements that are not historical facts. Although we believe the expectations reflected in any forward-looking statements are based on reasonable assumptions, we can give no assurance that our expectations will be attained, and therefore actual outcomes and results may differ materially from what is expressed or forecasted in such forward-looking statements.
+
+In addition to factors previously disclosed in Global Payments ' reports filed with the SEC and those identified elsewhere in this communication, the following factors, among others, could cause actual results to differ materially from forward-looking statements or historical performance: the effects and duration of global economic, political, market, health and social events or other conditions, including the effects and duration of the global pandemic; regulatory measures or voluntary actions, including social distancing, shelter-in-place orders, reinstating of opening restrictions on nonessential businesses and similar measures imposed or undertaken in an effort to combat the spread of the global pandemic; management's assumptions and projections used in their estimates of the timing and severity of the effects of the global pandemic on our future revenues and results of operations; our ability to meet our liquidity needs in light of the effects of the global pandemic; the outcome of any legal proceedings that may be instituted against Global Payments or its or TSYS' current or former directors; difficulties, delays and higher than anticipated costs related to integrating the businesses of Global Payments and TSYS, including with respect to implementing systems to prevent a material security breach of any internal systems or to successfully manage credit and fraud risks in business units; failing to fully realize anticipated cost savings and other anticipated benefits of the merger when expected or at all; business disruptions from the merger or integration that will harm our business, including current plans and operations; potential adverse reactions or changes to business relationships resulting from the merger, including as it relates to the businesses' ability to successfully renew existing client contracts on favorable terms or at all and obtain new clients; failing to comply with the applicable requirements of Visa , Mastercard or other payment networks or card schemes or changes in those requirements; the ability to maintain Visa and Mastercard registration and financial institution sponsorship; the ability to retain and hire key personnel; the diversion of management's attention from ongoing business operations; the continued availability of capital and financing following the merger; the business, economic and political conditions in the markets in which we operate; increased competition in the markets in which we operate and our ability to increase our market share in existing markets
+
+3 Aug 2020 07:02 ET 
+Press Release: Global Payments Reports Second -2-
+
+and expand into new markets; our ability to safeguard our data; risks associated with our indebtedness, foreign currency exchange and interest rate risks; the effects of new or changes in current laws, regulations, credit card association rules or other industry standards, including privacy and cybersecurity laws and regulations; and events beyond our control, such as acts of terrorism, and other factors included in the "Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2019, and in other documents that we file with the SEC, which are available at http://www.sec.gov . Any forward-looking statements speak only as of the date of this communication or as of the date they were made, and we undertake no obligation to update forward-looking statements, except as required by law. 
+
+
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 1 
+ CONSOLIDATED STATEMENTS OF INCOME (UNAUDITED) 
+ GLOBAL PAYMENTS INC . AND SUBSIDIARIES 
+ (In thousands, except per share data) 
+ 
+                            Three Months Ended                   Six Months Ended 
+                                 June 30,                            June 30, 
+                     ---------------------------------  ----------------------------------- 
+                                                 %                                    % 
+                        2020        2019       Change      2020         2019        Change 
+                     -----------  ---------  ---------  -----------  -----------  --------- 
+ 
+Revenues             $1,671,952   $935,152    78.8%     $3,575,550   $1,818,190    96.7% 
+ 
+Operating expenses: 
+    Cost of service     893,740    302,276   195.7%      1,827,611      607,505   200.8% 
+    Selling, 
+     general and 
+     administrative     670,638    411,150    63.1%      1,396,386      789,467    76.9% 
+                     ----------   --------              ----------   ---------- 
+                      1,564,378    713,426   119.3%      3,223,997    1,396,972   130.8% 
+                     ----------   --------              ----------   ---------- 
+ 
+Operating income        107,574    221,726   (51.5)%       351,553      421,218   (16.5)% 
+                     ----------   --------              ----------   ---------- 
+ 
+Interest and other 
+ income                   2,787      6,176   (54.9)%         5,293        9,112   (41.9)% 
+Interest and other 
+ expense                (82,855)   (65,616)   26.3%       (175,499)    (124,697)   40.7% 
+                     ----------   --------              ----------   ---------- 
+                        (80,068)   (59,440)   34.7%       (170,206)    (115,585)   47.3% 
+                     ----------   --------              ----------   ---------- 
+ 
+Income before 
+ income taxes and 
+ equity in income 
+ of equity method 
+ investments             27,506    162,286   (83.1)%       181,347      305,633   (40.7)% 
+Income tax expense         (836)   (32,247)  (97.4)%       (16,338)     (56,388)  (71.0)% 
+                     ----------   --------              ----------   ---------- 
+Income before 
+ equity in income 
+ of equity method 
+ investments             26,670    130,039   (79.5)%       165,009      249,245   (33.8)% 
+                     ----------   --------              ----------   ---------- 
+Equity in income of 
+ equity method 
+ investments, net 
+ of tax                  12,774         --          nm      25,041           --          nm 
+Net income               39,444    130,039   (69.7)%       190,050      249,245   (23.7)% 
+Net income 
+ attributable to 
+ noncontrolling 
+ interests, net of 
+ income tax              (2,113)    (9,581)  (77.9)%        (9,147)     (16,445)  (44.4)% 
+                     ----------   --------              ----------   ---------- 
+Net income 
+ attributable to 
+ Global Payments      $   37,331   $120,458   (69.0)%    $  180,903   $  232,800   (22.3)% 
+                      =========    =======               =========    ========= 
+ 
+Earnings per share 
+attributable to 
+Global Payments : 
+        Basic        $     0.12   $   0.77   (84.4)%    $     0.60   $     1.48   (59.5)% 
+        Diluted      $     0.12   $   0.77   (84.4)%    $     0.60   $     1.48   (59.5)% 
+ 
+Weighted-average 
+number of shares 
+outstanding: 
+        Basic           299,140    156,768                 299,264      157,141 
+        Diluted         300,246    157,262                 300,541      157,638 
+ 
+
+(---------------------------------------------------------------------------------- nm - not meaningful) 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 2 
+ NON-GAAP FINANCIAL MEASURES (UNAUDITED) 
+ GLOBAL PAYMENTS INC . AND SUBSIDIARIES 
+ (In thousands, except per share data) 
+ 
+                       Three Months Ended                   Six Months Ended 
+                            June 30,                            June 30, 
+               ----------------------------------  ---------------------------------- 
+                  2020        2019      % Change      2020        2019      % Change 
+               ----------  ----------  ----------  ----------  ----------  ---------- 
+ 
+Adjusted net 
+ revenue       $1,520,898  $  888,418    71.2%     $3,249,749  $1,721,480   88.8% 
+ 
+Adjusted 
+ operating 
+ income        $  562,219  $  360,694    55.9%     $1,236,927  $  689,326   79.4% 
+ 
+Adjusted net 
+ income 
+ attributable 
+ to Global 
+ Payments       $  394,313  $  236,830    66.5%     $  868,157  $  448,928   93.4% 
+ 
+Adjusted 
+ diluted 
+ earnings per 
+ share 
+ attributable 
+ to Global 
+ Payments       $     1.31  $     1.51   (13.2)%    $     2.89  $     2.85    1.4% 
+ 
+Non-GAAP 
+Information 
+with 2019 on 
+Combined 
+Basis(1) : 
+ 
+Adjusted net 
+ revenue(1)    $1,520,898  $1,771,860   (14.2)%    $3,249,749  $3,496,973   (7.1)% 
+ 
+Adjusted 
+ operating 
+ income(1)     $  562,219  $  662,139   (15.1)%    $1,236,927  $1,283,422   (3.6)% 
+ 
+
+---------------------------------------------------------------------------------- (1) The non-GAAP information for 2019 is presented on a combined basis and includes TSYS results for the three and six months ended 2019 determined in accordance with GAAP applied by TSYS and presented with Global Payments ' adjustments to revenue and operating income.
+
+See Schedules 6 and 7 for a reconciliation of each non-GAAP financial measure to the most comparable GAAP measure.
+
+NON-GAAP FINANCIAL MEASURES
+
+Global Payments supplements revenues, income, operating income, operating margin and EPS information determined in accordance with U.S. GAAP by providing these measures, and other measures, with certain adjustments (such measures being non-GAAP financial measures) in this document to assist with evaluating our performance. In addition to GAAP measures, management uses these non-GAAP financial measures to focus on the factors the company believes are pertinent to the daily management of our operations. Management believes adjusted net revenue more closely reflects the economic benefits to the company's core business and allows for better comparisons with industry peers. Management uses these non-GAAP financial measures, together with other metrics, to set goals for and measure the performance of the business and to determine incentive compensation. Adjusted net revenue, adjusted operating income, adjusted operating margin, adjusted net income and adjusted EPS should be considered in addition to, and not as substitutes for, revenues, operating income, net income and EPS determined in accordance with GAAP. The non-GAAP financial measures reflect management's judgment of particular items, and may not be comparable to similarly titled measures reported by other companies.
+
+Adjusted net revenue excludes gross-up related payments associated with certain lines of business to reflect economic benefits to the company. On a GAAP basis, these payments are presented gross in both revenues and operating expenses. Adjusted operating income, adjusted net income and adjusted EPS exclude acquisition-related amortization expense, share-based compensation expense, acquisition and integration expense and certain other items, such as unusual, direct and discrete costs due to the global pandemic, specific to each reporting period as more fully described in the accompanying reconciliations in Schedules 6 and 7. Adjusted operating margin is derived by dividing adjusted operating income by adjusted net revenue. The tax rate used in determining the income tax impact of earnings adjustments is either the jurisdictional statutory rate in effect at the time of the adjustment or the jurisdictional expected annual effective tax rate for the period, depending on the nature and timing of the adjustment. 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 3 
+ SEGMENT INFORMATION (UNAUDITED) 
+ GLOBAL PAYMENTS INC . AND SUBSIDIARIES 
+ (In thousands) 
+ 
+                                   Three Months Ended 
+                    ------------------------------------------------ 
+                         June 30, 2020            June 30, 2019              % Change 
+                    ------------------------  ----------------------  ---------------------- 
+                       GAAP       Non-GAAP      GAAP     Non-GAAP(1)     GAAP      Non-GAAP 
+                    -----------  -----------  ---------  -----------  ----------  ---------- 
+ 
+Revenues: 
+    Merchant 
+     Solutions      $1,001,555   $  905,663   $929,914   $1,150,912      7.7%      (21.3)% 
+    Issuer 
+     Solutions         470,025      414,207      5,238      437,684           nm    (5.4)% 
+    Business and 
+     Consumer 
+     Solutions         216,722      216,722         --      196,143           nm    10.5% 
+    Intersegment 
+     Elimination       (16,350)     (15,694)        --      (12,879)          nm   (21.9)% 
+                    ----------   ----------   --------   ---------- 
+                    $1,671,952   $1,520,898   $935,152   $1,771,860     78.8%      (14.2)% 
+                     =========    =========    =======    ========= 
+ 
+Operating income: 
+    Merchant 
+     Solutions      $  175,078   $  371,476   $283,411   $  521,849    (38.2)%     (28.8)% 
+    Issuer 
+
+3 Aug 2020 07:02 ET 
+Press Release: Global Payments Reports Second -3-
+
+
+     Solutions          58,027      177,114      3,596      159,121           nm    11.3% 
+    Business and 
+     Consumer 
+     Solutions          48,195       70,105         --       48,230           nm    45.4% 
+    Corporate         (173,726)     (56,476)   (65,281)     (67,061)  (166.1)%      15.8% 
+                    ----------   ----------   --------   ---------- 
+                    $  107,574   $  562,219   $221,726   $  662,139    (51.5)%     (15.1)% 
+                     =========    =========    =======    ========= 
+ 
+ 
+                                     Six Months Ended 
+                    -------------------------------------------------- 
+                         June 30, 2020             June 30, 2019               % Change 
+                    ------------------------  ------------------------  ---------------------- 
+                       GAAP       Non-GAAP       GAAP      Non-GAAP(1)     GAAP      Non-GAAP 
+                    -----------  -----------  -----------  -----------  ----------  ---------- 
+ 
+Revenues: 
+    Merchant 
+     Solutions      $2,216,824   $2,007,007   $1,807,696   $2,233,455     22.6%      (10.1)% 
+    Issuer 
+     Solutions         973,787      856,193       10,494      876,414           nm    (2.3)% 
+    Business and 
+     Consumer 
+     Solutions         420,668      420,668           --      415,321           nm     1.3% 
+    Intersegment 
+     Elimination       (35,729)     (34,119)          --      (28,217)          nm   (20.9)% 
+                    ----------   ----------   ----------   ---------- 
+                    $3,575,550   $3,249,749   $1,818,190   $3,496,973     96.7%       (7.1)% 
+                     =========    =========    =========    ========= 
+ 
+Operating income: 
+    Merchant 
+     Solutions      $  479,231   $  871,901   $  521,540   $  994,087     (8.1)%     (12.3)% 
+    Issuer 
+     Solutions         117,331      351,792        7,035      313,581           nm    12.2% 
+    Business and 
+     Consumer 
+     Solutions          79,307      122,591           --      105,989           nm    15.7% 
+    Corporate         (324,316)    (109,357)    (107,357)    (130,235)  (202.1)%      16.0% 
+                    ----------   ----------   ----------   ---------- 
+                    $  351,553   $1,236,927   $  421,218   $1,283,422    (16.5)%      (3.6)% 
+                     =========    =========    =========    ========= 
+ 
+
+(---------------------------------------------------------------------------------- nm - not meaningful)
+
+(1) The non-GAAP information for 2019 is presented on a combined basis and includes TSYS results for the three and six months ended 2019 determined in accordance with GAAP applied by TSYS and presented with Global Payments ' adjustments to revenue and operating income and segment reporting structure.
+
+See Schedules 8 and 9 for a reconciliation of adjusted net revenue and adjusted operating income by segment to the most comparable GAAP measures and Schedule 2 for a discussion of non-GAAP financial measures. 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 4 
+ CONSOLIDATED BALANCE SHEETS (UNAUDITED) 
+ GLOBAL PAYMENTS INC . AND SUBSIDIARIES 
+ (In thousands, except share data) 
+ 
+                                     June 30, 2020     December 31, 2019 
+                                    ---------------  --------------------- 
+ 
+ASSETS 
+Current assets: 
+    Cash and cash equivalents       $    1,825,625   $        1,678,273 
+    Accounts receivable, net               788,697              895,232 
+    Settlement processing assets         1,314,811            1,353,778 
+    Prepaid expenses and other 
+     current assets                        422,208              439,165 
+                                    --------------   ------------------ 
+        Total current assets             4,351,341            4,366,448 
+Goodwill                                23,679,923           23,759,740 
+Other intangible assets, net            12,538,621           13,154,655 
+Property and equipment, net              1,477,635            1,382,802 
+Deferred income taxes                        6,220                6,292 
+Other noncurrent assets                  1,947,737            1,810,225 
+                                    --------------   ------------------ 
+        Total assets                $   44,001,477   $       44,480,162 
+                                        ==========       ============== 
+ 
+LIABILITIES AND EQUITY 
+Current liabilities: 
+    Settlement lines of credit      $      439,474   $          463,237 
+    Current portion of long-term 
+     debt                                  833,334               35,137 
+    Accounts payable and accrued 
+     liabilities                         1,606,028            1,822,166 
+    Settlement processing 
+     obligations                         1,350,507            1,258,806 
+                                    --------------   ------------------ 
+        Total current liabilities        4,229,343            3,579,346 
+Long-term debt                           8,440,267            9,090,364 
+Deferred income taxes                    2,972,142            3,145,641 
+Other noncurrent liabilities               726,736              609,822 
+                                    --------------   ------------------ 
+        Total liabilities               16,368,488           16,425,173 
+                                    --------------   ------------------ 
+Commitments and contingencies 
+Equity: 
+    Preferred stock, no par value; 
+    5,000,000 shares authorized 
+    and none issued                             --                   -- 
+    Common stock, no par value; 
+    400,000,000 shares authorized 
+    at June 30, 2020 and December 
+    31, 2019; 299,244,326 issued 
+    and outstanding at June 30, 
+    2020 and 300,225,590 issued 
+    and outstanding at December 
+    31, 2019                                    --                   -- 
+    Paid-in capital                     25,570,582           25,833,307 
+    Retained earnings                    2,314,423            2,333,011 
+    Accumulated other 
+     comprehensive loss                   (459,146)            (310,571) 
+                                    --------------   ------------------ 
+         Total Global Payments 
+          shareholders' equity          27,425,859           27,855,747 
+Noncontrolling interests                   207,130              199,242 
+                                    --------------   ------------------ 
+Total equity                            27,632,989           28,054,989 
+                                    --------------   ------------------ 
+        Total liabilities and 
+         equity                     $   44,001,477   $       44,480,162 
+                                        ==========       ============== 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 5 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) 
+ GLOBAL PAYMENTS INC . AND SUBSIDIARIES 
+ (In thousands) 
+ 
+                                                 Six Months Ended 
+                                        ---------------------------------- 
+                                         June 30, 2020     June 30, 2019 
+                                        ---------------  ----------------- 
+ 
+Cash flows from operating activities: 
+Net income                              $      190,050   $      249,245 
+Adjustments to reconcile net income to 
+net cash provided by operating 
+activities: 
+    Depreciation and amortization of 
+     property and equipment                    172,229           82,760 
+    Amortization of acquired 
+     intangibles                               628,264          210,993 
+    Amortization of capitalized 
+     contract costs                             38,070           31,965 
+    Share-based compensation expense            62,805           27,914 
+    Provision for operating losses and 
+     bad debts                                  66,921           18,637 
+    Noncash lease expense                       47,770           17,989 
+    Deferred income taxes                      (96,458)          (6,483) 
+    Other, net                                 (14,218)           4,480 
+    Changes in operating assets and 
+    liabilities, net of the effects of 
+    business combinations: 
+        Accounts receivable                     56,186          (49,774) 
+        Settlement processing assets 
+         and obligations, net                  136,453          (41,715) 
+        Prepaid expenses and other 
+         assets                                (97,653)        (148,435) 
+        Accounts payable and other 
+         liabilities                          (230,130)        (150,223) 
+                                        --------------   -------------- 
+            Net cash provided by 
+             operating activities              960,289          247,353 
+                                        --------------   -------------- 
+Cash flows from investing activities: 
+    Acquisitions, net of cash acquired         (74,095)         (78,245) 
+    Capital expenditures                      (208,384)        (133,312) 
+    Other, net                                  12,188           13,182 
+                                        --------------   -------------- 
+            Net cash used in investing 
+             activities                       (270,291)        (198,375) 
+                                        --------------   -------------- 
+Cash flows from financing activities: 
+    Net (repayments of) borrowings 
+     from settlement lines of credit           (25,546)          32,163 
+    Proceeds from long-term debt             1,867,008          586,000 
+    Repayments of long-term debt            (1,809,199)        (569,119) 
+    Payments of debt issuance costs             (8,006)              -- 
+    Repurchases of common stock               (421,162)        (233,996) 
+    Proceeds from stock issued under 
+     share-based compensation plans             42,632           12,952 
+    Common stock repurchased - 
+     share-based compensation plans            (39,226)         (11,167) 
+    Distributions to noncontrolling 
+
+3 Aug 2020 07:02 ET 
+Press Release: Global Payments Reports Second -4-
+
+
+     interests                                      --          (26,239) 
+    Dividends paid                            (116,591)          (3,137) 
+                                        --------------   -------------- 
+            Net cash used in financing 
+             activities                       (510,090)        (212,543) 
+                                        --------------   -------------- 
+Effect of exchange rate changes on 
+ cash                                          (32,556)             414 
+                                        --------------   -------------- 
+Increase (decrease) in cash and cash 
+ equivalents                                   147,352         (163,151) 
+Cash and cash equivalents, beginning 
+ of the period                               1,678,273        1,210,878 
+                                        --------------   -------------- 
+Cash and cash equivalents, end of the 
+ period                                 $    1,825,625   $    1,047,727 
+                                            ==========       ========== 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 6 
+ RECONCILIATION OF NON-GAAP FINANCIAL MEASURES TO GAAP MEASURES (UNAUDITED) 
+ GLOBAL PAYMENTS INC . AND SUBSIDIARIES 
+ (In thousands, except per share data) 
+ 
+                                         Three Months Ended June 30, 2020 
+                ---------------------------------------------------------------------------------- 
+                                                                        Income 
+                               Net Revenue          Earnings           Taxes on 
+                   GAAP       Adjustments(1)     Adjustments(2)     Adjustments(3)      Non-GAAP 
+                ----------  ------------------  ----------------  ------------------  ------------ 
+ 
+Revenues        $1,671,952  $    (151,054)      $             --  $         --        $1,520,898 
+ 
+Operating 
+ income         $  107,574  $       2,685       $        451,960  $         --        $  562,219 
+ 
+Net income 
+ attributable 
+ to Global 
+ Payments        $   37,331  $       2,685       $        452,443  $    (98,146)       $  394,313 
+ 
+Diluted 
+ earnings per 
+ share 
+ attributable 
+ to Global 
+ Payments        $     0.12                                                            $     1.31 
+ 
+Diluted 
+ weighted 
+ average 
+ shares 
+ outstanding       300,246                                                               300,246 
+ 
+                                         Three Months Ended June 30, 2019 
+                ---------------------------------------------------------------------------------- 
+                                                                        Income 
+                               Net Revenue          Earnings           Taxes on 
+                   GAAP       Adjustments(1)     Adjustments(2)     Adjustments(3)      Non-GAAP 
+                ----------  ------------------  ----------------  ------------------  ------------ 
+ 
+Revenues        $  935,152  $     (46,734)      $             --  $         --        $  888,418 
+ 
+Operating 
+ income         $  221,726  $       4,234       $        134,734  $         --        $  360,694 
+ 
+Net income 
+ attributable 
+ to Global 
+ Payments        $  120,458  $       4,234       $        135,643  $    (23,505)       $  236,830 
+ 
+Diluted 
+ earnings per 
+ share 
+ attributable 
+ to Global 
+ Payments        $     0.77                                                            $     1.51 
+ 
+Diluted 
+ weighted 
+ average 
+ shares 
+ outstanding       157,262                                                               157,262 
+ 
+
+---------------------------------------------------------------------------------- (1) Represents adjustments to revenues for gross-up related payments (included in operating expenses) associated with certain lines of business to reflect economic benefits to the company. Also, for the three months ended June 30, 2020 and June 30, 2019, includes $2.7 million and $4.2 million, respectively, to eliminate the effect of acquisition accounting fair value adjustments for software-related contract liabilities associated with acquired businesses.
+
+(2) For the three months ended June 30, 2020, earnings adjustments to operating income included $328.3 million in Cost of Service (COS) and $123.6 million in Selling, General, & Administrative (SG&A) expenses. Adjustments to COS include $314.4 million of amortization of acquired intangibles, $2.9 million of acquisition and integration expenses and $11.0 million of other items. Adjustments to SG&A include $35.0 million of share-based compensation expense, $82.2 million of acquisition and integration expenses and $6.4 million of other items. Other items included in COS and SG&A include employee termination benefits and other incremental charges directly related to COVID-19.
+
+(Net income attributable to Global Payments also reflects the removal of a $2.0 million loss associated with the partial sale of an ownership position in a strategic partner.)
+
+(For the three months ended June 30, 2019, earnings adjustments to operating income include $105.2 million in COS and $29.5 million in SG&A expenses. Adjustments to COS include $104.1 million of amortization of acquired intangibles and $1.1 million of acquisition and integration expenses. Adjustments to SG&A include $16.5 million of share-based compensation expense and $13.0 million of acquisition and integration expenses. Net income attributable to Global Payments also reflects an adjustment to remove a $2.9 million charge to interest expense associated with the bridge facility the company entered into in connection with the proposed TSYS merger.)
+
+(3) Income taxes on adjustments reflect the tax effect of earnings adjustments to income before income taxes. The tax rate used in determining the tax impact of earnings adjustments is either the jurisdictional statutory rate in effect at the time of the adjustment or the jurisdictional expected annual effective tax rate for the period, depending on the nature and timing of the adjustment.
+
+See "Non-GAAP Financial Measures" discussion on Schedule 2. 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 7 
+ UNAUDITED RECONCILIATION OF NON-GAAP FINANCIAL MEASURES TO GAAP MEASURES 
+ GLOBAL PAYMENTS INC. AND SUBSIDIARIES 
+ (In thousands, except per share data) 
+ 
+                                          Six Months Ended June 30, 2020 
+                ---------------------------------------------------------------------------------- 
+                                                                        Income 
+                               Net Revenue          Earnings           Taxes on 
+                   GAAP       Adjustments(1)     Adjustments(2)     Adjustments(3)      Non-GAAP 
+                ----------  ------------------  ----------------  ------------------  ------------ 
+ 
+Revenues        $3,575,550  $    (325,801)      $             --  $          --       $3,249,749 
+ 
+Operating 
+ income         $  351,553  $       5,584       $        879,790  $          --       $1,236,927 
+ 
+Net income 
+ attributable 
+ to Global 
+ Payments        $  180,903  $       5,584       $        885,384  $    (203,714)      $  868,157 
+ 
+Diluted 
+ earnings per 
+ share 
+ attributable 
+ to Global 
+ Payments        $     0.60                                                            $     2.89 
+ 
+Diluted 
+ weighted 
+ average 
+ shares 
+ outstanding       300,541                                                               300,541 
+ 
+                                          Six Months Ended June 30, 2019 
+                ---------------------------------------------------------------------------------- 
+                                                                        Income 
+                               Net Revenue          Earnings           Taxes on 
+                   GAAP       Adjustments(1)     Adjustments(2)     Adjustments(3)      Non-GAAP 
+                ----------  ------------------  ----------------  ------------------  ------------ 
+ 
+Revenues        $1,818,190  $     (96,710)      $             --  $          --       $1,721,480 
+ 
+Operating 
+ income         $  421,218  $       8,641       $        259,467  $          --       $  689,326 
+ 
+Net income 
+ attributable 
+ to Global 
+ Payments        $  232,800  $       8,641       $        258,376  $     (50,889)      $  448,928 
+ 
+Diluted 
+ earnings per 
+ share 
+ attributable 
+ to Global 
+ Payments        $     1.48                                                            $     2.85 
+ 
+Diluted 
+ weighted 
+ average 
+ shares 
+ outstanding       157,638                                                               157,638 
+ 
+
+---------------------------------------------------------------------------------- (1) Represents adjustments to revenues for gross-up related payments (included in operating expenses) associated with certain lines of business to reflect economic benefits to the company. Also, for the six months ended June 30, 2020 and June 30, 2019, includes $5.6 million and $8.6 million, respectively, to eliminate the effect of acquisition accounting fair value adjustments for software-related contract liabilities associated with acquired businesses.
+
+(2) For the six months ended June 30, 2020, earnings adjustments to operating income included $648.6 million in COS and $231.1 million in SG&A expenses. Adjustments to COS include $629.2 million of amortization of acquired intangibles, $2.9 million of acquisition and integration expenses and $16.5 million of other items. Adjustments to SG&A include $62.8 million of share-based compensation expense, $153.8 million of acquisition and integration expenses and $14.5 million of other items. Other items included in COS and SG&A include employee termination benefits and other incremental charges directly related to COVID-19.
+
+(Net income attributable to Global Payments also reflects the removal of a $8.7 million loss associated with the partial sale of an ownership position in a strategic partner.)
+
+3 Aug 2020 07:02 ET 
+Press Release: Global Payments Reports Second -5-
+
+(For the six months ended June 30, 2019, earnings adjustments to operating income include $214.0 million in COS and $45.5 million in SG&A expenses. Adjustments to COS include $212.1 million of amortization of acquired intangibles and $1.9 million of acquisition and integration expenses. Adjustments to SG&A include $27.9 million of share-based compensation expense and $17.6 million of acquisition and integration expenses. Net income attributable to Global Payments also reflects an adjustment to remove a $2.9 million charge to interest expense associated with the bridge facility the company entered into in connection with the proposed TSYS merger.)
+
+(3) Income taxes on adjustments reflect the tax effect of earnings adjustments to income before income taxes. The tax rate used in determining the tax impact of earnings adjustments is either the jurisdictional statutory rate in effect at the time of the adjustment or the jurisdictional expected annual effective tax rate for the period, depending on the nature and timing of the adjustment.
+
+See "Non-GAAP Financial Measures" discussion on Schedule 2. 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 8 
+ RECONCILIATION OF NON-GAAP FINANCIAL MEASURES TO GAAP MEASURES (UNAUDITED) 
+ GLOBAL PAYMENTS INC . AND SUBSIDIARIES 
+ (In thousands) 
+ 
+                                               Three Months Ended June 30, 2020 
+                               ---------------------------------------------------------------- 
+                                               Net Revenue          Earnings 
+                                  GAAP        Adjustments (2)    Adjustments(3)     Non-GAAP 
+                               -----------  ------------------  ----------------  ------------- 
+ 
+Revenues: 
+    Merchant 
+     Solutions                 $1,001,555   $      (95,892)     $             --  $  905,663 
+    Issuer 
+     Solutions                    470,025          (55,818)                   --     414,207 
+    Business and 
+     Consumer 
+     Solutions                    216,722               --                    --     216,722 
+    Intersegment 
+     Eliminations                 (16,350)             656                    --     (15,694) 
+                               ----------   --------------      ----------------  ---------- 
+                               $1,671,952   $     (151,054)     $             --  $1,520,898 
+                                =========   ===  =========      ====  ==========   ========= 
+ 
+Operating income: 
+    Merchant 
+     Solutions                 $  175,078   $          320      $        196,078  $  371,476 
+    Issuer 
+     Solutions                     58,027            2,365               116,722     177,114 
+    Business and 
+     Consumer 
+     Solutions                     48,195               --                21,910      70,105 
+    Corporate                    (173,726)              --               117,250     (56,476) 
+                               ----------   --------------      ----------------  ---------- 
+                               $  107,574   $        2,685      $        451,960  $  562,219 
+                                =========   ===  =========      ====  ==========   ========= 
+ 
+                                         Three months ended June 30, 2019 
+                    --------------------------------------------------------------------------- 
+                                               Net Revenue          Earnings 
+                      GAAP       TSYS(1)      Adjustments(2)     Adjustments(3)     Non-GAAP 
+                    ---------  -----------  ------------------  ----------------  ------------- 
+ 
+Revenues: 
+    Merchant 
+     Solutions      $929,914   $  361,194   $     (140,196)     $             --  $1,150,912 
+    Issuer 
+     Solutions         5,238      487,517          (55,071)                   --     437,684 
+    Business and 
+     Consumer 
+     Solutions            --      196,143               --                    --     196,143 
+    Intersegment 
+     Eliminations         --      (13,552)             673                    --     (12,879) 
+                    --------   ----------   --------------      ----------------  ---------- 
+                    $935,152   $1,031,302   $     (194,594)     $             --  $1,771,860 
+                     =======    =========   ===  =========      ====  ==========   ========= 
+ 
+Operating income: 
+    Merchant 
+     Solutions      $283,411   $   86,005   $        4,234      $        148,199  $  521,849 
+    Issuer 
+     Solutions         3,596      155,525               --                    --     159,121 
+    Business and 
+     Consumer 
+     Solutions            --       34,996               --                13,234      48,230 
+    Corporate        (65,281)     (57,438)              --                55,658     (67,061) 
+                    --------   ----------   --------------      ----------------  ---------- 
+                    $221,726   $  219,088   $        4,234      $        217,091  $  662,139 
+                     =======    =========   ===  =========      ====  ==========   ========= 
+ 
+
+(1) Represents TSYS financial information determined in accordance with GAAP applied by TSYS and presented in Global Payments new segment reporting structure, net of revenues between legacy Global Payments and TSYS considered intercompany revenue following the merger.
+
+(2) Represents adjustments to revenues for gross-up related payments (included in operating expenses) associated with certain lines of business to reflect economic benefits to the company. Also, for the three months ended June 30, 2020 and June 30, 2019, includes $2.7 million and $4.2 million, respectively, to eliminate the effect of acquisition accounting fair value adjustments for software-related contract liabilities associated with acquired businesses.
+
+(3) For the three months ended June 30, 2020, earnings adjustments to operating income included $328.3 million in COS and $123.6 million in SG&A expenses. Adjustments to COS include $314.4 million of amortization of acquired intangibles, $2.9 million of acquisition and integration expenses and $11.0 million of other items. Adjustments to SG&A include $35.0 million of share-based compensation expense, $82.2 million of acquisition and integration expenses and $6.4 million of other items. Other items included in COS and SG&A include employee termination benefits and other incremental charges directly related to COVID-19.
+
+(For the three months ended June 30, 2019, earnings adjustments to operating income include $158.9 million in COS and $58.2 million in SG&A expenses. Adjustments to COS include $157.8 million of amortization of acquired intangibles and $1.1 million of acquisition and integration expenses. Adjustments to SG&A include $40.2 million of share-based compensation expense and $18.0 million of acquisition and integration expenses.)
+
+See "Non-GAAP Financial Measures" discussion on Schedule 2. 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+SCHEDULE 9 
+ UNAUDITED RECONCILIATION OF SEGMENT NON-GAAP FINANCIAL MEASURES TO GAAP MEASURES 
+ GLOBAL PAYMENTS INC. AND SUBSIDIARIES 
+ (In thousands) 
+ 
+                                              Six Months Ended June 30, 2020 
+                             ---------------------------------------------------------------- 
+                                             Net Revenue          Earnings 
+                                GAAP        Adjustments(2)     Adjustments(3)     Non-GAAP 
+                             -----------  ------------------  ----------------  ------------- 
+ 
+Revenues: 
+Merchant 
+ Solutions                   $2,216,824   $    (209,817)      $             --  $2,007,007 
+Issuer 
+ Solutions                      973,787        (117,594)                    --     856,193 
+Business and 
+ Consumer 
+ Solutions                      420,668              --                     --     420,668 
+Intersegment 
+ Eliminations                   (35,729)          1,610                     --     (34,119) 
+                             ----------   -------------  ---  ----------------  ---------- 
+                             $3,575,550   $    (325,801)      $             --  $3,249,749 
+                              =========       =========       ====  ==========   ========= 
+ 
+Operating 
+income: 
+Merchant 
+ Solutions                   $  479,231   $         517       $        392,153  $  871,901 
+Issuer 
+ Solutions                      117,331           5,067                229,394     351,792 
+Business and 
+ Consumer 
+ Solutions                       79,307              --                 43,284     122,591 
+Corporate                      (324,316)             --                214,959    (109,357) 
+                             ----------   -------------  ---  ----------------  ---------- 
+                             $  351,553   $       5,584       $        879,790  $1,236,927 
+                              =========       =========  ===  ====  ==========   ========= 
+ 
+                                       Six Months Ended June 30, 2019 
+                ----------------------------------------------------------------------------- 
+                                             Net Revenue          Earnings 
+                   GAAP        TSYS(1)      Adjustments(2)     Adjustments(3)     Non-GAAP 
+                -----------  -----------  ------------------  ----------------  ------------- 
+ 
+Revenues: 
+Merchant 
+ Solutions      $1,807,696   $  701,018   $    (275,259)      $             --  $2,233,455 
+Issuer 
+ Solutions          10,494      974,771        (108,851)                    --     876,414 
+Business and 
+ Consumer 
+ Solutions              --      415,321              --                     --     415,321 
+Intersegment 
+ Eliminations   $       --      (29,536)          1,319                     --     (28,217) 
+                 ---------   ----------   -------------  ---  ----------------  ---------- 
+                $1,818,190   $2,061,574   $    (382,791)      $             --  $3,496,973 
+                 =========    =========       =========       ====  ==========   ========= 
+ 
+Operating 
+income: 
+
+3 Aug 2020 07:02 ET 
+Press Release: Global Payments Reports Second -6-
+
+
+Merchant 
+ Solutions      $  521,540   $  161,226   $       8,641       $        302,680  $  994,087 
+Issuer 
+ Solutions           7,035      306,546              --                     --     313,581 
+Business and 
+ Consumer 
+ Solutions              --       79,521              --                 26,468     105,989 
+Corporate         (107,357)    (104,935)             --                 82,057    (130,235) 
+                ----------   ----------   -------------  ---  ----------------  ---------- 
+                $  421,218   $  442,358   $       8,641       $        411,205  $1,283,422 
+                 =========    =========       =========  ===  ====  ==========   ========= 
+ 
+
+(1) Represents TSYS financial information determined in accordance with GAAP applied by TSYS and presented in Global Payments new segment reporting structure, net of revenues between legacy Global Payments and TSYS considered intercompany revenue following the merger.
+
+(2) Represents adjustments to revenues for gross-up related payments (included in operating expenses) associated with certain lines of business to reflect economic benefits to the company. Also, for the six months ended June 30, 2020 and June 30, 2019, includes $5.6 million and $8.6 million, respectively, to eliminate the effect of acquisition accounting fair value adjustments for software-related contract liabilities associated with acquired businesses.
+
+(3) For the six months ended June 30, 2020, earnings adjustments to operating income included $648.6 million in COS and $231.1 million in SG&A expenses. Adjustments to COS include $629.2 million of amortization of acquired intangibles, $2.9 million of acquisition and integration expenses and $16.5 million of other items. Adjustments to SG&A include $62.8 million of share-based compensation expense, $153.8 million of acquisition and integration expenses and $14.5 million of other items. Other items included in COS and SG&A include employee termination benefits and other incremental charges directly related to COVID-19.
+
+(For the six months ended June 30, 2019, earnings adjustments to operating income include $322.7 million in COS and $88.5 million in SG&A expenses. Adjustments to COS include $320.8 million of amortization of acquired intangibles and $1.9 million of acquisition and integration expenses. Adjustments to SG&A include $62.3 million of share-based compensation expense and $26.2 million of acquisition and integration expenses.)
+
+See "Non-GAAP Financial Measures" discussion on Schedule 2.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20200803005127/en/  
+
+
+ 
+    CONTACT:    Investor contact: 
+
+investor.relations@globalpay.com
+
+Winnie Smith
+
+770-829-8478
+
+Media contact:
+
+media.relations@globalpay.com
+
+Emily Edmonds
+
+770-829-8755
+
+(END) Dow Jones Newswires
+
+August 03, 2020 07:02 ET (11:02 GMT)

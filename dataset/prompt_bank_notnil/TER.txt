@@ -1,0 +1,44 @@
+PR Newswire
+
+SAN JOSE, Calif., Oct. 10, 2017
+
+SAN JOSE, Calif., Oct. 10, 2017 /PRNewswire/ -- Cadence Design Systems, Inc . (NASDAQ: CDNS) today announced that Teradyne Inc . has standardized its simulation tasks using the Xcelium(TM) Parallel Logic Simulator to accelerate ASIC development for delivery of its automation equipment for test and industrial applications. With the Xcelium simulator, Teradyne achieved a 2X performance speedup with production-use single-core, mixed-signal ASIC verification when compared with its previous simulation solution.
+
+Teradyne, a longtime user of the broader Cadence(R) Verification Suite, built a verification environment that can deliver first-pass silicon success with mixed-signal designs, accelerating time to market. The Xcelium simulator has quickly become a key component in the verification environment, providing the Teradyne team with an easy-to-use solution that delivers fast simulation performance and ensures high-quality designs. With Teradyne's extensive use of real number models, the Xcelium simulator allows its designers to perform earlier, more complete full-chip mixed-signal verification. In addition to using the Xcelium simulator, Teradyne is also utilizing the Cadence JasperGold(R) Formal Verification Platform to assist with formal-first verification and expedited debug, and the Cadence vManager(TM) Metric-Driven Signoff Platform to effectively integrate the verification process from planning to metrics management across formal, simulation, emulation and verification IP.
+
+"Rapid development and verification of our automation test equipment solutions is critical to our success," said Andre Hendarman, Director of Mixed Signal ASIC Development at Teradyne, Inc . "The Xcelium Parallel Logic Simulator has provided us with the fastest simulation performance by far, which is helping us speed up the delivery of our test products, while also ensuring our designs are of the highest quality."
+
+The new Xcelium simulator further extends the innovation within the Cadence Verification Suite and supports the company's System Design Enablement strategy, which enables system and semiconductor companies to create complete, differentiated end products more efficiently. The Verification Suite is comprised of best-in-class core engines, verification fabric technologies and solutions that increase design quality and throughput, fulfilling verification requirements for a wide variety of applications and vertical segments.
+
+For more information on the Cadence Xcelium Parallel Logic Simulator, please visit www.cadence.com/go/xceliumsim, and for more information on the Cadence Verification Suite, please visit www.cadence.com/go/verificationsuite.
+
+About Cadence
+
+Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play. Cadence(R) software, hardware and semiconductor IP are used by customers to deliver products to market faster. The company's System Design Enablement strategy helps customers develop differentiated products--from chips to boards to systems--in mobile, consumer, cloud datacenter, automotive, aerospace, IoT, industrial and other market segments. Cadence is listed as one of Fortune Magazine's 100 Best Companies to Work For. Learn more at www.cadence.com. 
+
+
+ 
+(c) 2017 Cadence Design Systems, Inc . All rights reserved worldwide. Cadence, 
+the Cadence logo and the other Cadence marks found at 
+www.cadence.com/go/trademarks are trademarks or registered trademarks of 
+Cadence Design Systems, Inc . All other trademarks are the property of their 
+respective owners. 
+ 
+
+For more information, please contact:
+
+Cadence Newsroom
+
+408-944-7039
+
+newsroom@cadence.com
+
+View original content with multimedia: http://www.prnewswire.com/news-releases/teradyne-standardizes-on-cadence-xcelium-parallel-logic-simulator-300533413.html 
+
+SOURCE Cadence Design Systems, Inc .
+
+/Web site: http://www.cadence.com 
+
+(END) Dow Jones Newswires
+
+October 10, 2017 10:45 ET (14:45 GMT)

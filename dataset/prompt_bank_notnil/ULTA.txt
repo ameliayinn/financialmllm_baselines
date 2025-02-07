@@ -1,0 +1,101 @@
+
+Company                              Symbol     Quarter    Mean  Report Time 
+ 
+Thursday 
+Aruba Networks Inc.                   (ARUN)       4Q      (.03)     AMC 
+Brown-Forman Corp.                    (BF.A)       1Q       .88   8:00AM 
+Brown-Forman Corp.                    (BF.B)       1Q       .88   8:00AM 
+C&D Tech Inc.                         (CHP)        2Q       .07 
+CenterPoint Energy Inc.               (CNP)        3Q       .31 
+China Finance Online Co. Ltd.         (JRJC)       2Q       .19      AMC 
+Conn's Inc.                           (CONN)       2Q       .37 
+Credence Syss Corp.                   (CMOS)       3Q      (.07) 
+Del Monte Foods Co.                   (DLM)        1Q      (.03) 
+dELiA*s Corp.                         (DLIA)       2Q      (.16)     AMC 
+Dell Inc.                             (DELL)       2Q       .36 
+DSW Inc.                              (DSW)        2Q       .09   7:00AM 
+Energy Conversion Devices Inc.        (ENER)       4Q       .21      BMO 
+Esterline Tech Corp.                  (ESL)        3Q       .65 
+Fleetwood Enterp Inc.                 (FLE)        1Q      (.18) 
+Fred's Inc.                           (FRED)       2Q       .09 
+Genesco Inc.                          (GCO)        2Q       .04 
+Gerber Scientific Inc.                (GRB)        1Q       .11      BMO 
+Hellenic TeleCommun Organization S.A. (OTE)        2Q       .23 
+Layne Christensen Co.                 (LAYN)       2Q       .62 
+Magma Design Automation Inc.          (LAVA)       1Q      (.25) 
+Marvell Tech Grp Ltd.                 (MRVL)       2Q       .17      AMC 
+Micros Syss Inc.                      (MCRS)       4Q       .38   4:15PM 
+Netezza Corp.                         (NZ)         2Q       .04      BMO 
+Novell Inc.                           (NOVL)       3Q       .03   4:00PM 
+OmniVision Tech Inc.                  (OVTI)       1Q       .20      AMC 
+On Track Innovations Ltd.             (OTIV)       2Q      (.22)  9:30AM 
+PETsMART Inc.                         (PETM)       2Q       .29      AMC 
+Quanex Building Products Corp.        (NX)         3Q       .37      BMO 
+Royal Bank of Canada                  (RY)         3Q      1.04 
+Sears Hldgs Corp.                     (SHLD)       2Q       .28      BMO 
+Sigma Designs Inc.                    (SIGM)       2Q       .35      AMC 
+SourceForge Inc.                      (LNUX)       4Q      (.01)     AMC 
+Tiffany & Co.                         (TIF)        2Q       .55 
+Toronto-Dominion Bank                 (TD)         3Q      1.42   7:30AM 
+Vimpel Commun                        (524173)      2Q      9.88 
+Vimpel Commun (ADS)                   (VIP)        2Q       .49 
+Williams-Sonoma Inc.                  (WSM)        2Q       .09      BMO 
+Wind River Syss Inc.                  (WIND)       2Q       .07      AMC 
+Zale Corp.                            (ZLC)        4Q      (.58)     BMO 
+ 
+Friday 
+Compal Electronics Inc Gdr 144A       (CMPLY)      2Q       .11 
+Compal Electronics Inc Gdr Reg S      (581036)     2Q       .11 
+ 
+Saturday 
+Microchip Tech Inc.                   (MCHP)       2Q       .41 
+ 
+Tuesday 
+Altera Corp.                          (ALTR)       3Q       .30      AMC 
+Donaldson Co. Inc.                    (DCI)        4Q       .61      AMC 
+Shanda Interactive Entertain Ltd.     (SNDA)       2Q       .51      AMC 
+ 
+Wednesday 
+AeroVironment Inc.                    (AVAV)       1Q       .18 
+Casey's General Stores Inc.           (CASY)       1Q       .53   4:00PM 
+Collective Brands Inc.                (PSS)        2Q       .30      AMC 
+Dollar Fincl Corp.                    (DLLR)       4Q       .58 
+Guess? Inc.                           (GES)        2Q       .49 
+H&R Block Inc.                        (HRB)        1Q      (.35)     AMC 
+Hovnanian Enterp Inc.                 (HOV)        3Q     (1.51)     AMC 
+Joy Global Inc.                       (JOYG)       3Q       .88      BMO 
+Mindray Medical Intl Ltd.             (MR)         2Q       .24      AMC 
+SAIC Inc.                             (SAI)        2Q       .26      AMC 
+Staples Inc.                          (SPLS)       3Q       .41 
+United Natural Foods Inc.             (UNFI)       4Q       .30      BMO 
+ 
+Thursday 
+ADC TeleCommun Inc.                   (ADCT)       3Q       .28   4:00PM 
+America's Car-Mart Inc.               (CRMT)       1Q       .37   7:30AM 
+American Software Inc.                (AMSWA)      1Q       .04 
+BioForm Medical Inc.                  (BFRM)       4Q      (.16)     AMC 
+Campbell Soup Co.                     (CPB)        4Q       .24 
+Cascade Corp.                         (CAE)        2Q      1.02 
+Ciena Corp.                           (CIEN)       3Q       .34      BMO 
+Cooper Cos.                           (COO)        3Q       .65   4:00PM 
+DesCartes Syss Grp Inc.               (DSGX)       2Q       .06      BMO 
+Jackson Hewitt Tax Svc Inc.           (JTX)        1Q      (.64)     BMO 
+Korn/Ferry Intl                       (KFY)        1Q       .30 
+Martek Biosciences Corp.              (MATK)       3Q       .24   4:00PM 
+MDS Inc.                              (MDZ)        3Q       .06 
+Movado Grp Inc.                       (MOV)        2Q       .41 
+Quiksilver Inc.                       (ZQK)        3Q       .20      AMC 
+SeaChange Intl Inc.                   (SEAC)       2Q       .03      AMC 
+Smith & Wesson Hldg Corp.             (SWHC)       1Q       .07 
+Toll Brothers Inc.                    (TOL)        3Q      (.25) 
+Ulta Salon Cosmetics & Fragrance Inc. (ULTA)       2Q       .05      AMC 
+UTi Worldwide Inc.                    (UTIW)       2Q       .28      BMO 
+VeriFone Hldgs Inc.                   (PAY)        3Q       .32 
+
+(Companies tentatively scheduled to report quarterly earnings during the next five trading days. At least three brokerage analysts must be forecasting an EPS for the company to be included in this report. The Factset EPS estimate is the average.)
+
+Click here to go to Dow Jones NewsPlus, a web front page of today's most important business and market news, analysis and commentary: http://www.djnewsplus.com/al?rnd=BoRMfymB3IV0Cliy7PnazQ%3D%3D . You can use this link on the day this article is published and the following day.
+
+(END) Dow Jones Newswires
+
+August 27, 2008 13:00 ET (17:00 GMT)

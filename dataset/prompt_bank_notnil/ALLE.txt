@@ -1,0 +1,161 @@
+Fitch Ratings -Toronto-16 November 2021:
+
+Fitch Ratings has assigned a 'BBB' rating to Leggett & Platt, Incorporated 's (Leggett) new offering of US$500 million senior unsecured notes due 2051. Leggett intends to use net proceeds from this issuance to refinance commercial paper. The transaction is leverage neutral, and Fitch views it as credit neutral.
+
+This issuance follows Leggett's refinancing of its revolving credit facility during 3Q'21, which extended maturity from January 2024 to September 2026. Additionally, Leggett fully repaid its remaining $280 million Term Loan A during Q3 2021. Pro forma for the transaction, the company's liquidity resources will include $235 million in cash and an undrawn $1.2 billion revolver. Fitch expects Leggett to refinance its $300 million bond maturing August 2022 on a leverage-neutral basis.
+
+Key Rating Drivers
+
+Recovery Underway: Following the onset of the pandemic in 2020, Leggett took several steps to preserve cash and margins which included cost-cutting and deferring/delaying capex. These measures, combined with a pronounced rebound in end markets, resulted in stronger than expected revenue performance through the second half of 2020 which has continued into 2021. The pricing environment has also contributed to EBITDA and FCF margin growth.
+
+Management has observed a re-allocation of household spending, as consumers forego vacations and other discretionary expenditures. Fitch expects a partial reversal of this trend, together with cost pressure on the raw material and labor input side, to be a moderate weight on margins during 2021.
+
+Resumption of Deleveraging Path: Debt taken on to fund the 2019 Elite Comfort Solutions, Inc. (ECS) acquisition drove total debt/EBITDA leverage from 2.0x at YE 2018 to 3.0x at YE 2019, which exceeded the company's public leverage target of 2.5x. The pandemic delayed the company's plan to materially delever during 2020. As Leggett's end markets continue to recover, Fitch expects the company to continue its deleveraging path through a combination of EBITDA growth and debt repayments.
+
+Bedding Industry Disruption: The company's core bedding business is shifting to accommodate online purchasing and delivery of compressed mattresses, which the company believes could account for half of the U.S. market by 2026. Leggett is well positioned to capitalize on this trend following its acquisition of ECS, which gives it improved capabilities to develop and manufacture full-foam and hybrid components and finished mattresses. Fitch expects the company will adjust its portfolio of business over time to leverage its competitive advantages in customer engagement, co-design and flexible manufacturing.
+
+Diverse End Markets: Fitch views the company's focus on several different end markets to be a credit positive, reducing cyclicality as well as reliance on any one customer. In addition to its exposure to the bedding market, Leggett has a sizable automotive business that benefits from several long-running trends (increased vehicle size, increased content and consumer preference for comfort), which Fitch expects will drive growth at a faster pace than the automotive market overall. Fitch expects the flooring business to remain steady over time, and the furniture segment provides added diversity. In addition, the company has invested in new businesses (including aerospace and hydraulics), which further diversifies its end-market exposure.
+
+Bedding Consumer Behavior: U.S. bedding sales largely track GDP. Since two-thirds of bedding and furniture purchases are replacement items, consumer sentiment is a stronger leading indicator than real estate trends, such as new housing starts. The U.S. consumer confidence index bottomed out in June 2020 at around 98.5, higher than previous downturns (96.8 in 2011 and 96.6 in 2009), and currently sits around 100.0. Mattresses are deferrable large ticket purchases with an average replacement cycle of 8-15 years.
+
+Co-Design Expertise; Low-Cost Manufacturing: The company benefits from its co-design relationships with manufacturers, as well as scale in fragmented industries. Product development is a core competency, with many of its furniture, bedding and automotive components being co-designed. Leggett has over 1,500 patents. The company's manufacturing is vertically integrated, as it sources scrap steel to produce steel rod and wire in its own mill. This reduces both cost and supply risk. Overall, steel accounts for approximately 25% of raw materials and chemicals account for approximately 15%, and price increases for these inputs are typically passed on to customers with a 60- to 90-day lag.
+
+Consistent FCF Generation: The company generated consistently positive FCF during the past few years, with FCF margins in the low-to-mid single digit range since 2016. Fitch forecasts the company to generate FCF margins of around 3%-4% in 2021 and beyond, which we expect to be allocated towards ECS-acquisition debt repayment, modest dividend increases and limited bolt-on M&A. Fitch expects the company will refrain from larger acquisitions and share repurchases as it focuses on deleveraging over the short to medium term.
+
+Derivation Summary
+
+Leggett serves a much broader range of end markets than other companies in its peer set. Fitch considers the closest comparables to be from the building material and diversified manufacturing spaces. Leggett compares to Masco Corporation (BBB/Stable), which is similarly sized, exposed to less diverse and less stable end markets, and carries slightly lower leverage.
+
+Compared to Allegion plc (BBB-/Positive), Leggett is larger and features superior diversification, though its margins are lower. Vontier Corporation (BBB-/Stable) is smaller than Leggett with less end-market diversity and similar leverage. Compared to Mohawk Industries, Inc . (BBB+/Stable) Leggett is smaller, with similar margins and higher leverage, though Leggett does benefit from superior end-market diversity. IDEX Corporation (BBB+/Stable) carries lower leverage and generates greater margins, though it is smaller and less diversified than Leggett.
+
+After accounting for the ECS acquisition and its effect on leverage, Leggett has shown greater business stability than peers. The company's liquidity and profitability metrics are quite good for the rating category, with its strong financial profile partly offset by elevated leverage, which Fitch expects to moderate over the near to medium term.
+
+Key Assumptions
+
+Fitch's Key Assumptions Within Our Rating Case for the Issuer
+
+Fitch forecasts a 16% rebound in revenue in 2021, reflecting a combination of volume growth in the mid- to high-single-digit range, and price increases driven by strong consumer demand and raw material cost inflation pass-through. Revenue growth assumptions in the mid-single-digit range in 2022 and beyond reflects the long-run average growth for Leggett's key end markets.
+
+Reflecting higher operating costs (mostly raw materials), which are partly passed on to the consumer, Fitch projects EBITDA margin pressure through 2021 followed by a gradual recovery, as cost-cutting efforts balance inflationary pressure.
+
+Leggett reduced capex by 60% to $66 million in 2020 through cost-cutting efforts. In order to catch up on deferred maintenance and roll-out growth initiatives, Fitch forecasts capex to rebound in line with the long-term average of 3.0%-3.5% of revenue.
+
+The company has resumed minor bolt-on acquisitions, which Fitch expects to continue at a limited level through the forecast period. The company fully prepaid its term loan A in August 2021. Fitch expects the company to refinance its 2022 maturity on a leverage-neutral basis. No share repurchases have been assumed by Fitch in the short to medium term, and Fitch expects the company to continue pursuing incremental dividend increases.
+
+Debt/EBITDA leverage returns to the mid-2.0x range around during 2022.
+
+RATING SENSITIVITIES
+
+Factors that Could, Individually or Collectively, Lead to Positive Rating Action/Upgrade
+
+--Given the additional debt and higher leverage taken on to fund the ECS acquisition, as well as the impact of the pandemic on the company's operations, we do not envision an upgrade in the near term;
+
+--In the long term, a sustained increase in FCF margin to over 5% could lead to positive rating action;
+
+--A more conservative financial policy leading to a sustained decrease in FFO leverage to below 2.75x, or a sustained decrease in total debt/EBITDA leverage below 2.0x, could also position the company for an upgrade.
+
+Factors that Could, Individually or Collectively, Lead to Negative Rating Action/Downgrade
+
+--A loss in competitiveness in one or more a key operating segments, leading to FCF margins falling below 2%;
+
+--FFO leverage remains above 3.25x, or total debt/EBITDA leverage remains above 2.5x on a sustained basis.
+
+Best/Worst Case Rating Scenario
+
+International scale credit ratings of Non-Financial Corporate issuers have a best-case rating upgrade scenario (defined as the 99th percentile of rating transitions, measured in a positive direction) of three notches over a three-year rating horizon; and a worst-case rating downgrade scenario (defined as the 99th percentile of rating transitions, measured in a negative direction) of four notches over three years. The complete span of best- and worst-case scenario credit ratings for all rating categories ranges from 'AAA' to 'D'. Best- and worst-case scenario credit ratings are based on historical performance. For more information about the methodology used to determine sector-specific best- and worst-case scenario credit ratings, visit https://www.fitchratings.com/site/re/10111579 .
+
+Liquidity and Debt Structure
+
+16 Nov 2021 10:02 ET 
+Press Release: Fitch Rates Leggett & Platt, -2-
+
+Strong Liquidity: Leggett's liquidity position is strong for the rating category, with a Sept. 30, 2021 cash balance of $235 million and $1.2 billion available under its revolver proforma for the November 2021 bond issuance. The company generally keeps a cash balance between $200 million and $300 million. Liquidity is also supported by positive FCF.
+
+The company's senior unsecured notes rank pari passu with its $1.2 billion senior unsecured revolving credit facility, which functions as a CP backstop. The company's debt maturity profile is generally well staggered. The next material maturity a $300 million note due August 2022. Fitch expects this to be refinanced on a leverage-neutral basis. During the third quarter of 2021, the company fully repaid its remaining $280 million term loan A balance, and extended the maturity date of its revolving credit facility from January 2024 to September 2026.
+
+Issuer Profile
+
+Leggett & Platt, Incorporated is a manufacturer of finished products and critical components for the bedding, automotive, furniture, and flooring end markets.
+
+Date of Relevant Committee 27 July 2021 REFERENCES FOR SUBSTANTIALLY MATERIAL SOURCE CITED AS KEY DRIVER OF RATING The principal sources of information used in the analysis are described in the Applicable Criteria. ESG Considerations
+
+Unless otherwise disclosed in this section, the highest level of ESG credit relevance is a score of '3'. This means ESG issues are credit-neutral or have only a minimal credit impact on the entity, either due to their nature or the way in which they are being managed by the entity. For more information on Fitch's ESG Relevance Scores, visit www.fitchratings.com/esg
+
+Leggett & Platt, Incorporated
+
+----senior unsecured; Long Term Rating; New Rating; BBB
+
+Contacts:
+
+Primary Rating Analyst
+
+Brad Jarman,
+
+Director
+
++1 647 933 0284
+
+brad.jarman@fitchratings.com
+
+Fitch Ratings, Inc . , Canada Branch
+
+120 Adelaide Street West Suite 2500
+
+Toronto
+
+Secondary Rating Analyst
+
+Kameron Krail,
+
+Associate Director
+
++1 646 582 4713
+
+kameron.krail@fitchratings.com
+
+Committee Chairperson
+
+Philip Zahn, CFA
+
+Senior Director
+
++1 312 606 2336
+
+philip.zahn@fitchratings.com
+
+MEDIA RELATIONS: Elizabeth Fogerty, New York, Tel: +1 212 908 0526, Email: elizabeth.fogerty@thefitchgroup.com
+
+Additional information is available on www.fitchratings.com
+
+Applicable Model
+
+Numbers in parentheses accompanying applicable model(s) contain hyperlinks to criteria providing description of model(s).
+
+Corporate Monitoring & Forecasting Model (COMFORT Model), v7.9.0 ( 1 )
+
+ADDITIONAL DISCLOSURES
+
+Solicitation Status
+
+Additional Disclosures For Unsolicited Credit Ratings
+
+Endorsement Status
+
+Endorsement Policy
+
+ALL FITCH CREDIT RATINGS ARE SUBJECT TO CERTAIN LIMITATIONS AND DISCLAIMERS. PLEASE READ THESE LIMITATIONS AND DISCLAIMERS BY FOLLOWING THIS LINK: HTTPS://WWW.FITCHRATINGS.COM/UNDERSTANDINGCREDITRATINGS. IN ADDITION, THE FOLLOWING HTTPS://WWW.FITCHRATINGS.COM/RATING-DEFINITIONS-DOCUMENT DETAILS FITCH'S RATING DEFINITIONS FOR EACH RATING SCALE AND RATING CATEGORIES, INCLUDING DEFINITIONS RELATING TO DEFAULT. PUBLISHED RATINGS, CRITERIA, AND METHODOLOGIES ARE AVAILABLE FROM THIS SITE AT ALL TIMES. FITCH'S CODE OF CONDUCT, CONFIDENTIALITY, CONFLICTS OF INTEREST, AFFILIATE FIREWALL, COMPLIANCE, AND OTHER RELEVANT POLICIES AND PROCEDURES ARE ALSO AVAILABLE FROM THE CODE OF CONDUCT SECTION OF THIS SITE. DIRECTORS AND SHAREHOLDERS RELEVANT INTERESTS ARE AVAILABLE AT HTTPS://WWW.FITCHRATINGS.COM/SITE/REGULATORY. FITCH MAY HAVE PROVIDED ANOTHER PERMISSIBLE SERVICE OR ANCILLARY SERVICE TO THE RATED ENTITY OR ITS RELATED THIRD PARTIES. DETAILS OF PERMISSIBLE SERVICE(S) FOR WHICH THE LEAD ANALYST IS BASED IN AN ESMA- OR FCA-REGISTERED FITCH RATINGS COMPANY (OR BRANCH OF SUCH A COMPANY) OR ANCILLARY SERVICE(S) CAN BE FOUND ON THE ENTITY SUMMARY PAGE FOR THIS ISSUER ON THE FITCH RATINGS WEBSITE.
+
+Copyright © 2021 by Fitch Ratings, Inc ., Fitch Ratings Ltd . and its subsidiaries. 33 Whitehall Street, NY, NY 10004. Telephone: 1-800-753-4824, (212) 908-0500. Fax: (212) 480-4435. Reproduction or retransmission in whole or in part is prohibited except by permission. All rights reserved. In issuing and maintaining its ratings and in making other reports (including forecast information), Fitch relies on factual information it receives from issuers and underwriters and from other sources Fitch believes to be credible. Fitch conducts a reasonable investigation of the factual information relied upon by it in accordance with its ratings methodology, and obtains reasonable verification of that information from independent sources, to the extent such sources are available for a given security or in a given jurisdiction. The manner of Fitch's factual investigation and the scope of the third-party verification it obtains will vary depending on the nature of the rated security and its issuer, the requirements and practices in the jurisdiction in which the rated security is offered and sold and/or the issuer is located, the availability and nature of relevant public information, access to the management of the issuer and its advisers, the availability of pre-existing third-party verifications such as audit reports, agreed-upon procedures letters, appraisals, actuarial reports, engineering reports, legal opinions and other reports provided by third parties, the availability of independent and competent third- party verification sources with respect to the particular security or in the particular jurisdiction of the issuer, and a variety of other factors. Users of Fitch's ratings and reports should understand that neither an enhanced factual investigation nor any third-party verification can ensure that all of the information Fitch relies on in connection with a rating or a report will be accurate and complete. Ultimately, the issuer and its advisers are responsible for the accuracy of the information they provide to Fitch and to the market in offering documents and other reports. In issuing its ratings and its reports, Fitch must rely on the work of experts, including independent auditors with respect to financial statements and attorneys with respect to legal and tax matters. Further, ratings and forecasts of financial and other information are inherently forward-looking and embody assumptions and predictions about future events that by their nature cannot be verified as facts. As a result, despite any verification of current facts, ratings and forecasts can be affected by future events or conditions that were not anticipated at the time a rating or forecast was issued or affirmed.
+
+The information in this report is provided "as is" without any representation or warranty of any kind, and Fitch does not represent or warrant that the report or any of its contents will meet any of the requirements of a recipient of the report. A Fitch rating is an opinion as to the creditworthiness of a security. This opinion and reports made by Fitch are based on established criteria and methodologies that Fitch is continuously evaluating and updating. Therefore, ratings and reports are the collective work product of Fitch and no individual, or group of individuals, is solely responsible for a rating or a report. The rating does not address the risk of loss due to risks other than credit risk, unless such risk is specifically mentioned. Fitch is not engaged in the offer or sale of any security. All Fitch reports have shared authorship. Individuals identified in a Fitch report were involved in, but are not solely responsible for, the opinions stated therein. The individuals are named for contact purposes only. A report providing a Fitch rating is neither a prospectus nor a substitute for the information assembled, verified and presented to investors by the issuer and its agents in connection with the sale of the securities. Ratings may be changed or withdrawn at any time for any reason in the sole discretion of Fitch. Fitch does not provide investment advice of any sort. Ratings are not a recommendation to buy, sell, or hold any security. Ratings do not comment on the adequacy of market price, the suitability of any security for a particular investor, or the tax-exempt nature or taxability of payments made in respect to any security. Fitch receives fees from issuers, insurers, guarantors, other obligors, and underwriters for rating securities. Such fees generally vary from US$1,000 to US$750,000 (or the applicable currency equivalent) per issue. In certain cases, Fitch will rate all or a number of issues issued by a particular issuer, or insured or guaranteed by a particular insurer or guarantor, for a single annual fee. Such fees are expected to vary from US$10,000 to US$1,500,000 (or the applicable currency equivalent). The assignment, publication, or dissemination of a rating by Fitch shall not constitute a consent by Fitch to use its name as an expert in connection with any registration statement filed under the United States securities laws, the Financial Services and Markets Act of 2000 of the United Kingdom, or the securities laws of any particular jurisdiction. Due to the relative efficiency of electronic publishing and distribution, Fitch research may be available to electronic subscribers up to three days earlier than to print subscribers.
+
+For Australia, New Zealand, Taiwan and South Korea only: Fitch Australia Pty Ltd holds an Australian financial services license (AFS license no. 337123) which authorizes it to provide credit ratings to wholesale clients only. Credit ratings information published by Fitch is not intended to be used by persons who are retail clients within the meaning of the Corporations Act 2001
+
+16 Nov 2021 10:02 ET 
+Press Release: Fitch Rates Leggett & Platt, -3-
+
+Fitch Ratings, Inc . is registered with the U.S. Securities and Exchange Commission as a Nationally Recognized Statistical Rating Organization (the "NRSRO"). While certain of the NRSRO's credit rating subsidiaries are listed on Item 3 of Form NRSRO and as such are authorized to issue credit ratings on behalf of the NRSRO (see https://www.fitchratings.com/site/regulatory  ), other credit rating subsidiaries are not listed on Form NRSRO (the "non-NRSROs") and therefore credit ratings issued by those subsidiaries are not issued on behalf of the NRSRO. However, non-NRSRO personnel may participate in determining credit ratings issued by or on behalf of the NRSRO.
+
+(END) Dow Jones Newswires
+
+November 16, 2021 10:02 ET (15:02 GMT)

@@ -1,0 +1,279 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Thursday and early Friday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+ABIOMED INC (ABMD) 
+ Minogue Michael R (CB)    7/30/13-7/31/13       36,500   $25.04     239,289 
+ 
+ACADIA HEALTHCARE CO INC (ACHC) 
+ Prince Karen Marie (SH)    7/30/13-8/1/13       28,000   $35.80      88,326 
+ 
+ADOBE SYSTEMS INC (ADBE) 
+ Narayen Shantanu (CEO)         8/1/13           50,000   $47.54     231,672 
+ 
+AFLAC INCORPORATED (AFL) 
+ Amos John Shelby II (D)        8/1/13           40,000   $62.95     673,054 
+ 
+ALASKA AIR GROUP INC (ALK) 
+ Tilden Bradley D (CEO)         8/1/13           19,735   $63.00     118,929 
+ 
+ALEXION PHARMACEUTICALS INC (ALXN) 
+ Bell Leonard (CEO)            7/30/13          210,000  $114.67   1,179,588 
+ 
+AMSURG CORP (AMSG) 
+ Gulmi Claire M (CFO)      7/30/13-7/31/13       70,000   $39.08     107,306 
+ 
+ARCH CAPITAL GROUP LTD (ACGL) 
+ Lyons Mark Donald (CFO)       7/31/13           10,000   $54.26     215,517 
+ 
+ARCTIC CAT INC (ACAT) 
+ Delmore Timothy Char (CFO     7/31/13            8,863   $55.15      51,218 
+ 
+ASPEN INSURANCE HOLDINGS LTD (AHL) 
+ Hutter Heidi (D)               8/1/13           48,894   $37.68      39,781 
+ 
+CAPITAL ONE FINANCIAL CORP (COF) 
+ Finneran John G Jr (O)    7/30/13-7/31/13       41,650   $69.26     159,421 
+ 
+COCA-COLA ENTERPRISES INC (CCE) 
+ Patricot Hubert (VP)          7/31/13          119,998   $37.51     291,370 
+ 
+COLGATE-PALMOLIVE CO (CL) 
+ Corbo Michael (VP)            7/30/13           10,000   $60.21      75,448 
+ 
+CORRECTIONS CORP OF AMERICA (CXW) 
+ Mullenger Todd (CFO)          7/31/13           25,000   $33.09     118,345 
+ 
+COSTAR GROUP INC (CSGP) 
+ Carchedi Francis A (VP)       7/30/13           10,325  $157.00       2,642 
+ Radecki Brian J (CFO)         7/30/13           10,267  $157.00      19,904 
+ 
+DOMINO'S PIZZA INC (DPZ) 
+ Lawton Michael T (CFO)        7/30/13           76,730   $62.10      58,630 
+ 
+DUNKIN' BRANDS GROUP INC (DNKN) 
+ Travis Nigel (CB)          7/31/13-8/1/13      168,000   $43.36     124,377 
+ 
+EPAM SYSTEMS INC (EPAM) 
+ Dobkin Arkadiy (CB)       7/30/13-7/31/13       67,311   $29.13   3,201,219 
+ 
+FACEBOOK INC (FB) CL A 
+ Schroepfer Michael T (O)      7/30/13           45,000   $36.94     763,004 
+ Stretch Colin (VP)            7/30/13           18,593   $36.19     121,119 
+ 
+FASTENAL CO (FAST) 
+ Rucinski Steven A (VP)        7/31/13           12,500   $49.00      13,340 
+ 
+GILEAD SCIENCES INC (GILD) 
+ Madigan John W (D)            7/30/13          249,000   $61.97      35,580 
+ 
+GNC HOLDINGS INC (GNC) CL A 
+ Fortunato Joe (CB)            7/31/13          111,885   $52.50      79,284 
+ Stubenhofer Gerald J (VP)     7/30/13           15,000   $52.55      16,346 
+ 
+GREEN DOT CORP (GDOT) CL A 
+ Keatley John L (CFO)      7/30/13-7/31/13       22,231   $21.96      69,993 
+ 
+HAWAIIAN HOLDINGS INC (HA) 
+ Falvey Barbara D (VP)         7/31/13           40,000    $7.88      87,295 
+ 
+HITTITE MICROWAVE CORP (HITT) 
+ Boecke William W (CFO)        7/30/13           15,000   $62.23      61,955 
+ Hannabach William (VP)        7/30/13            4,419   $62.19      43,275 
+ Hildreth Norman G Jr (VP)     7/30/13            7,851   $62.30      55,135 
+ Jablonski Brian (VP)          7/30/13            9,145   $62.20      40,574 
+ 
+IGATE CORP (IGTE) 
+ Sircar Sujit (CFO)            7/31/13           18,000   $23.22     165,000 
+ 
+INTEGRATED DEVICE TECH INC (IDTI) 
+ Crowley Richard D Jr (CFO     7/31/13           62,458    $8.99      52,784 
+ Crowley Richard D Jr (CFO 7/30/13-7/31/13      252,708    $8.98     115,242 
+ Dakshinamoorthy Subr (VP) 7/30/13-7/31/13       29,000    $9.03       7,761 
+ Sparkman Thomas C (VP)     7/31/13-8/1/13       68,332    $9.07      18,348 
+ Tewksbury Ted L III (CEO)  7/31/13-8/1/13      220,809    $9.19      18,750 
+ Tewksbury Ted L III (CEO)     7/31/13          339,716    $9.00      57,268 
+ Tewksbury Ted L III (CEO) 7/30/13-7/31/13      233,415    $9.00     224,532 
+ 
+INTEL CORP (INTC) 
+ Sodhani Arvind (VP)        7/30/13-8/1/13      185,692   $23.45     105,768 
+ 
+IPG PHOTONICS CORP (IPGP) 
+ Shcherbakov Eugene A (OD)     7/30/13            5,000   $67.23      11,910 
+ 
+KLA-TENCOR CORP (KLAC) 
+ Bell Bobby R (VP)             7/30/13           36,950   $58.35      14,480 
+ 
+LIN MEDIA LLC (TVL) CL A 
+ Hicks Muse Tate & Fu (SH) 7/30/13-7/31/13      481,130   $15.35   1,008,936 
+ Hicks Muse Tate & Fu (SH) 7/30/13-7/31/13      123,798   $15.35     259,601 
+ Muse John R (D)           7/30/13-7/31/13      616,300   $15.35   1,292,380 
+ 
+LINEAR TECHNOLOGY CORP (LLTC) 
+ Maier Lothar (CEO)             8/1/13          100,000   $40.80     362,207 
+ 
+LOCKHEED MARTIN CORP (LMT) 
+ Ambrose Richard F (VP)        7/30/13           15,767  $120.18       1,033 
+ 
+LUMBER LIQUIDATORS HOLDINGS INC (LL) 
+ Pescara Marco (O)              8/1/13            6,012   $97.25       3,001 
+ 
+LYONDELLBASELL INDUSTRIES NV (LYB) CL A 
+ Quarles Patrick D (VP)         8/1/13           60,144   $68.40       3,561 
+ 
+MACERICH CO (MAC) 
+ O'Hern Thomas E (CFO)         7/30/13            5,000   $63.74      79,401 
+ 
+MAGNACHIP SEMICONDUCTOR CORP (MX) 
+ Avenue Special Situa (SH)      8/1/13        1,694,600   $19.76   5,788,978 
+ 
+MANPOWERGROUP INC (MAN) 
+ Hueneke Terry A (D)       7/30/13-7/31/13       16,250   $66.32      12,625 
+ 
+MASTERCARD INC (MA) CL A 
+ Mastercard Foundatio (SH)  7/30/13-8/1/13        6,411  $618.52  12,127,413 
+ 
+OCCIDENTAL PETROLEUM CORP (OXY) 
+ Djerejian Edward P (D)         8/1/13           17,000   $89.61      47,374 
+ 
+ON ASSIGNMENT INC (ASGN) 
+ Hanson Theodore S (O)      7/30/13-8/1/13       61,926   $30.70     371,626 
+ 
+ORBITZ WORLDWIDE INC (OWW) 
+ Tamar Tamer (VP)              7/31/13           34,781    $9.46      34,056 
+ 
+OVERSTOCK.COM INC (OSTK) 
+ Tabacco Joseph J Jr (D)    7/31/13-8/1/13       20,000   $34.06      15,775 
+ 
+PEPSICO INC (PEP) 
+ Gallagher Marie T (VP)        7/31/13           33,998   $84.98      34,275 
+ 
+PFIZER INC (PFE) 
+ Cangialosi Loretta V (VP)     7/31/13           14,688   $29.63     190,038 
+ Hill Charles H (VP)           7/31/13           96,500   $29.64      75,139 
+ 
+PLEXUS CORP (PLXS) 
+ Foate Dean A (CB)          7/30/13-8/1/13       43,600   $35.20     153,619 
+ 
+POOL CORP (POOL) 
+ Cook Arthur David (O)         7/31/13            8,663   $53.00     138,798 
+ 
+POWER INTEGRATIONS INC (POWI) 
+ Balakrishnan Balu (CEO)       7/31/13           50,000   $54.52     357,587 
+ Bickell Alan D (D)            7/31/13           10,000   $55.00       6,063 
+ Tomlin John (VP)              7/31/13           10,000   $55.00      41,336 
+ 
+RALLY SOFTWARE DEVELOPMENT CORP (RALY) 
+ Leavitt Richard D (VP)        7/30/13           20,000   $23.54      39,000 
+ Martens Ryan A (O)            7/30/13          120,000   $23.54     511,885 
+ Mobius VI LLC (SH)            7/30/13        1,406,647   $23.54   1,997,367 
+ 
+RENEWABLE ENERGY GROUP INC (REGI) 
+ Koch Jonathan (D)         7/29/13-7/31/13      175,183   $14.11   1,558,243 
+ 
+ROBERT HALF INTL INC (RHI) 
+ Buckley Michael C (VP)         8/1/13           10,113   $38.16     140,650 
+ 
+ROCKWELL AUTOMATION INC (ROK) 
+ Coppins Kent G (VP)            8/1/13           10,850   $99.19       9,720 
+ Crandall Theodore D (CFO)      8/1/13           22,066   $99.19      78,108 
+ Rohr-Dralle Rondi (VP)         8/1/13            4,800   $99.44      17,911 
+ 
+RPX CORP (RPXC) 
+ Barker Geoffrey T (OD)     7/31/13-8/1/13       15,000   $17.37   1,451,364 
+ 
+ 
+
+2 Aug 2013 08:44 EDT DJ 
+CFA Substantial Insider Sales: Morning Report -2-
+
+
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+SALESFORCE.COM INC (CRM) 
+ Hu George (COO)                8/1/13           12,000   $45.08      17,735 
+ 
+SIRIUS XM RADIO INC (SIRI) 
+ Frear David J (CFO)           7/30/13          419,898    $3.76      87,946 
+ 
+SONUS NETWORKS INC (SONS) 
+ Empire Capital Manag (SH) 7/30/13-7/31/13    3,192,366    $3.42  30,569,328 
+ 
+SPLUNK INC (SPLK) 
+ Sullivan Godfrey R (CB)       7/31/13           10,000   $49.85   2,466,240 
+ 
+SPS COMMERCE INC (SPSC) 
+ Black Archie C (CEO)          7/30/13           20,000   $64.16      25,449 
+ 
+STANCORP FINANCIAL GROUP INC (SFG) 
+ Parsons Eric E (D)         7/31/13-8/1/13       45,000   $54.56         604 
+ 
+STANLEY BLACK & DECKER INC (SWK) 
+ Loree James M (P)             7/31/13           33,414   $84.80     291,809 
+ 
+STERICYCLE INC (SRCL) 
+ Collins Michael J (VP)        7/31/13           30,119  $116.25       8,264 
+ 
+SUPPORT.COM INC (SPRT) 
+ Schaffer Shelly (CFO)          8/1/13           75,000    $5.50       6,000 
+ 
+SVB FINANCIAL GROUP (SIVB) 
+ Descheneaux Michael (CFO)     7/30/13           15,850   $87.76       5,902 
+ 
+THERAVANCE INC (THRX) 
+ Mammen Mathai (VP)            7/30/13            7,000   $36.51     211,705 
+ 
+TRIMAS CORP (TRS) 
+ Tredwell Daniel P (D)         7/30/13        1,000,000   $36.34   1,117,775 
+ 
+UNDER ARMOUR INC (UA) CL A 
+ Plank Kevin A (CB)        7/30/13-7/31/13      198,000   $67.44         200 
+ Plank Kevin A (CB)             8/1/13           94,500   $68.89         200 
+ 
+UNITED TECHNOLOGIES CORP (UTX) 
+ Rogan Thomas I (T)            7/31/13            6,456  $106.16      39,421 
+ 
+UNITED THERAPEUTICS CORP (UTHR) 
+ Mahon Paul A (VP)              8/1/13            6,000   $75.91      34,490 
+ Patusky Christopher (D)        8/1/13            3,500   $75.49       1,300 
+ Rothblatt Martine A (CB)       8/1/13            3,833   $75.97     708,978 
+ 
+UTAH MEDICAL PRODUCTS INC (UTMD) 
+ Cornwell Kevin L (CB)     7/30/13-7/31/13        8,100   $57.65     292,261 
+ 
+VALIDUS HOLDINGS LTD (VR) 
+ Salam Romel (VP)              7/31/13            7,907   $35.63      70,766 
+ 
+WADDELL & REED FINANCIAL INC (WDR) CL A 
+ Strohm Michael D (COO)         8/1/13           26,540   $52.90     137,113 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+August 02, 2013 08:44 ET (12:44 GMT)

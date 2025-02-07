@@ -1,0 +1,126 @@
+
+ 
+    Company                   Symbol          Yld Per   Amount            Payable Record
+ 
+   Increased                                               New       Old 
+C N A Fincl                   CNA             2.5  Q         .2       .15   Mar 07 Feb 21 
+Compass Minerals              CMP             2.9  Q       .545      .495   Mar 15 Mar 01 
+D&B                           DNB             2.0  Q         .4       .38   Mar 14 Feb 27 
+Jack Henry & Associates       JKHY            1.2  Q        .13      .115   Mar 12 Feb 26 
+Owens & Minor                 OMI             3.1  Q        .24       .22   Mar 29 Mar 15 
+Phillips 66                   PSX             1.9  Q      .3125       .25   Mar 01 Feb 21 
+Primerica                     PRI             1.4  Q        .11       .09   Mar 08 Feb 22 
+ 
+   Decreased                                               New       Old 
+Boardwalk Pipeline            BWP             7.9  Q        .53     .5325   Feb 28 Feb 21 
+ 
+    Regular 
+7.75% CorTS Toys ""R"" Us     XKE             8.3  S      .3875             Mar 01 Feb 28 
+8.1% CorTS  Provident Fin     KRJ             7.3  S     1.0125             Mar 15 Mar 14 
+American Science & Eng        ASEI            3.1  Q         .5             Mar 04 Feb 18 
+BncpSouth Cap Tr I 8.15%      BXSpA           7.7  Q      .5094             Jul 01 Jun 28 
+Cgrp Cap XVI Enhncd TruPs     CpW             6.4  Q      .4031             Jul 01 Jun 28 
+Chatham Lodging Trust         CLDT            5.1  M        .07             Mar 29 Feb 28 
+Citgrp Cp XIV 6.875%TruPS     CpO             6.8  Q      .4297             Jul 01 Jun 28 
+Citigp Cp X 6.1% Cp TruPs     CpR             6.1  Q      .3813             Jul 01 Jun 28 
+Citigroup Cap XI 6% TruPs     CpQ             6.0  Q       .375             Jun 27 Jun 26 
+CorTS JC Penney 7 5/8%        KTP             8.5  S      .9531             Mar 01 Feb 28 
+Countrywde Cp Tr IV 6.75%     CFCpA           6.7  Q      .4219             Jul 01 Jun 28 
+Forward Air                   FWRD            1.1  Q         .1             Mar 22 Mar 08 
+Full Circle Capital           FULL           12.0  M       .077             May 15 Apr 30 
+Full Circle Capital           FULL           12.0  M       .077             Jun 14 May 31 
+Full Circle Capital           FULL           12.0  M       .077             Jul 15 Jun 28 
+Genesee & Wyoming Un          GWRU            4.1  Q       1.25             Jul 01 Jun 15 
+HECO Cp Tr III 6.5% QUIPS     HEpU            6.3  Q      .4063             Jul 01 Jun 28 
+Houston Wire & Cable          HWCC            3.1  Q        .09             Feb 28 Feb 21 
+ING Grp 8.5% ING Perp Hbd     IGK             8.1  Q      .5313             Jun 15 Jun 01 
+JPMorgan Chase Cap XIX        JPMpS           6.5  Q      .4141             Jul 01 Jun 28 
+JPMorgan Chase Cap XVI        JPMpP           6.2  Q      .3969             Jun 03 May 31 
+JPMrgChs Cap XXIX GtdSecs     JPMpC           6.3  Q      .4188             Jul 02 Jun 28 
+Kimco Realty                  KIM             3.9  Q        .21             Apr 15 Apr 03 
+Kimco Realty Dep 6  Pfd I     KIMpI           5.7  Q       .375             Apr 15 Apr 02 
+KIMCO Realty Pfd H            KIMpH           6.4  Q      .4313             Apr 15 Apr 02 
+Kimco Realty Pfd J            KIMpJ           5.5  Q      .3438             Apr 15 Apr 02 
+LEH 3.5% TRUCs GS 2004-6      JBK             6.5  S      .7931             Feb 15 Feb 14 
+LEH 7.75% CorTS Kndr Deb      CVB             6.9  S      .3875             Mar 01 Feb 28 
+MerLyn 7% TOPrS pfd.          MERpD           6.9  Q      .4375             Jul 01 Jun 28 
+MerLyn Tr IV 7.12% TOPrS      MERpE           7.0  Q       .445             Jul 01 Jun 28 
+Merrill Lynch 7.28% TOPrS     MERpF           7.2  Q       .455             Jul 01 Jun 28 
+MetLife Inc. Un               MLU             5.1  Q       .625             Mar 15 Mar 01 
+MS Cap Tr V 5.625% Cp Scs     MWO             5.8  Q      .3594             Jul 15 Jun 30 
+MS Cap Tr VIII 6.45% Pfd      MSK             6.4  Q      .4031             Jul 15 Jun 30 
+MS Cp Tr VII 6.6% Cp Secs     MSZ             6.5  Q      .4125             Jul 15 Jun 30 
+PennyMac Mortgage Inv Tr      PMT             8.7  Q        .57             Mar 01 Feb 21 
+Phoenix 7.45% QUIBS           PFX             7.8  Q      .4656             Jul 15 Jul 01 
+PLC Cap Tr V 6.125% TOPrS     PLpB            6.1  Q      .3828             Jul 01 Jun 28 
+PPLUS  6.7% Call TRUCs        PZB             6.7  S      .8375             Mar 01 Feb 28 
+Red Lion Hotels Cap Tr        RLHpA           8.8  Q      .5938             Jul 01 Jun 28 
+RenaissanceRe Hldg 6.6% D     RNRpD           6.5  Q      .4125             Mar 01 Feb 28 
+Renasant                      RNST            3.2  Q        .17             Apr 01 Mar 18 
+SCE Tr I 5.625% Pfd.          SCEpF           5.4  Q      .3516             Jul 15 Jul 01 
+Sel Asset CorTS JC Penney     JBN             8.8  S       .875             Mar 01 Feb 28 
+Sel Asst CorTS JC Pen Tr      JBR             8.8  S       .875             Mar 01 Feb 28 
+STRNS Cummins Eng 7.375%      HJT             6.9  S      .9219             Mar 01 Feb 26 
+STRNS J.C. Penney             HJV             8.9  S       .875             Mar 01 Feb 26 
+STRNS Limited Brands          HJR             6.8  S       .875             Mar 01 Feb 26 
+TN Valley Authr Pwr Bds D     TVC             4.4  Q      .2955             Jun 01 May 31 
+Triumph Group                 TGI             0.2  Q        .04             Mar 15 Mar 01 
+VNB Cap Tr I 7.75% TOPrS      VLYpA           7.5  Q      .4844             Jun 17 Jun 01 
+Whiting Pet Conv Perp pfd     WLLpA           2.8  Q     1.5625             Jun 17 Jun 01 
+Zions Cap Tr B 8%             ZBpB            7.6  Q         .5             Jun 03 May 31 
+ 
+    Funds, Investment Cos. 
+Abeerden Asia-Pacific         FAX             5.4  M       .035             Mar 15 Feb 28 
+Aberdeen Global               FCO             6.0  M        .07             Mar 15 Feb 28 
+Ares Dynamic Credit Alloc     ARDC            7.3  M       .117             Feb 28 Feb 19 
+CBREClarionGlblRlEstIncm      IGR             5.7  M       .045             Feb 28 Feb 21 
+Eaton Vance BuyWrite Opp      ETV            10.2  M      .1108             Feb 28 Feb 21 
+Eaton Vance Eqty Inco Fd      EOI             9.1  M      .0864             Feb 28 Feb 21 
+Eaton Vance Eqty Inco II      EOS             9.5  M      .0875             Feb 28 Feb 21 
+Eaton Vance Tax-Mng Div       ETY            10.0  M      .0843             Feb 28 Feb 21 
+Eaton Vance Tax-Mngd Opp      ETW            10.4  M      .0973             Feb 28 Feb 21 
+EatonVance TxAdv Opport       ETO             7.2  M       .135             Feb 28 Feb 21 
+EatonVnc SrFltRate            EFR             6.5  M        .09             Feb 28 Feb 21 
+Etn Vnc Short Dur Fd          EVG             6.1  M        .09             Feb 28 Feb 21 
+Etn Vnc Tax Mgd Buy-Write     ETB             3.0  Q       .108             Feb 28 Feb 21 
+EtnVnc TaxAdvDiv              EVT             7.0  M      .1075             Feb 28 Feb 21 
+EtnVncFltRte IncoTr           EFT             6.2  M       .087             Feb 28 Feb 21 
+EtnVncRskMngd                 ETJ            10.2  M       .093             Feb 28 Feb 21 
+EtnVncTxAdvGblDiv             ETG             7.9  M      .1025             Feb 28 Feb 21 
+EtnVncTxMngGlDvEqInc          EXG            10.4  M      .0813             Feb 28 Feb 21 
+Federated Enhanced Treas      FTT             6.0  M       .072             Feb 28 Feb 21 
+Fst Tr Splty Fin              FGB             7.6  Q       .165             Feb 28 Feb 22 
+Global High Income Fd         GHI             7.3  M      .0799             Feb 28 Feb 21 
+Macq First Tr Global Fund     MFD             8.7  Q        .35             Feb 28 Feb 22 
+Managed High Yield Plus       HYF             8.3  M       .015             Feb 28 Feb 21 
+Strategic Global              SGL             6.3  M      .0579             Feb 28 Feb 21 
+Tortoise Energy               TYG             5.2  Q      .5675             Mar 01 Feb 21 
+Tortoise Engy Cap             TYY             5.2  Q        .42             Mar 01 Feb 21 
+Tortoise Engy Ind Fd          NDP             7.1  Q      .4375             Mar 01 Feb 21 
+Tortoise MLP Fund             NTG             6.1  Q      .4163             Mar 01 Feb 21 
+Tortoise No Amer Engy         TYN             5.5  Q       .395             Mar 01 Feb 21 
+Tortoise P&Engy Infrstr       TPZ             5.7  M       .125             Mar 28 Mar 21 
+Tortoise P&Engy Infrstr       TPZ             5.7  M       .125             Apr 30 Apr 23 
+Tortoise P&Engy Infrstr       TPZ             5.7  M       .125             May 31 May 23 
+Tortoise Pipeline & Engy      TTP             6.0  Q      .4075             Mar 01 Feb 21 
+ 
+    Foreign 
+ARM Hldgs PLC (ADS)           ARMH            0.6  S      .1342             May 28 Apr 19 
+Cameco Corp                   CCJ             1.9  Q      .1004             Apr 15 Mar 28 
+Deutsche Bk Cont Cap Tr V     DKT             7.0  Q      .5031             Jul 01 Jun 28 
+HSBC Hldgs plc Pfd Ser 2      HCSpB           7.2  Q         .5             Jun 17 May 31 
+HSBC Holdings 8.125% Secs     HCS             7.9  Q      .5078             Jul 15 Jun 28 
+ING Gp 6.125% Prp. Dbt Sc     ISG             6.2  Q      .3828             Jul 15 Jul 01 
+ING Groep 6.20% Debt Sec      ISP             6.2  Q      .3875             Jul 15 Jul 01 
+ING Grp 6.375% Perp Hyb       ISF             6.4  Q      .3984             Jun 17 Jun 01 
+ING Grp 7.2% Perp Deb Scs     INZ             7.1  Q        .45             Jun 17 Jun 01 
+ING Grp 7.375% Perp Hyb       IDG             7.3  Q      .4609             Jul 15 Jul 01 
+RenaissanceRe Hldgs 6.08%     RNRpC           6.0  Q        .38             Mar 01 Feb 28 
+Xinyuan Real Estate           XIN                  S        .05             Feb 28 Feb 19 
+ 
+Source: Six Telekurs 
+ 
+
+(END) Dow Jones Newswires
+
+February 12, 2013 17:18 ET (22:18 GMT)

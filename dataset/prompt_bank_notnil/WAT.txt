@@ -1,0 +1,92 @@
+Waters Gives More Laboratories Access to Mass Spectrometry with Rapid, Easy, and Compact RADIAN ASAP System 
+
+
+MILFORD, Mass.--(BUSINESS WIRE)--November 02, 2020-- 
+
+Waters Corporation (NYSE:WAT) today introduced the new RADIAN(TM) ASAP(TM) System, a novel direct mass detector engineered for non-mass spectrometry (MS) experts to conduct fast and accurate analyses of solids and liquids with minimal sample prep. The RADIAN ASAP System's high-quality, simplified and rapid operation, compact design, and powerful software capabilities for real-time data visualization offers advantages and numerous test case scenarios for laboratories across a multitude of industries, including pharmaceuticals, forensics, food & beverage, chemicals & materials, and academia.
+
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20201102005219/en/ 
+
+The Waters RADIAN ASAP System is a novel direct-from-sample mass detector engineered for non-mass spectrometry (MS) experts to conduct fast and accurate analyses of solids and liquids with minimal sample prep. (Photo: Business Wire)
+
+"As competition among laboratories grows, lab professionals are being challenged to provide quality results and shorten sample turnaround times," said Gary Harland, Senior Director, Product Management at Waters Corporation . "Direct MS analysis offers the versatility, ease-of-use, speed and reliability that today's labs need to stand out among the pack. RADIAN ASAP overcomes many of the barriers to entry associated with traditional mass spec systems, empowering seamless deployment in existing lab environments and enabling those with minimal LC-MS training to obtain accurate results quickly."
+
+Breaking Down the Barriers to Quick, Efficient MS Analysis
+
+Engineered using proven and robust single quadrupole MS technology, and combined with a dedicated Atmospheric Solids Analysis Probe (ASAP) source, the Waters(TM) RADIAN ASAP System achieves results in seconds after a sample is loaded into the system. Gaseous analyte molecules are ionized by N(2) plasma, guided into the instrument and separated by their mass-to-charge ratio. Users obtain real-time sample classification and quality assessment in less than a minute, without the need for a chromatographic separation, conserving the time and resources traditionally lost to sample preparation.
+
+Ryan Francis, Instrument Specialist - Drugs, at Eurofins Forensic Services (Teddington, UK) worked alongside Waters' scientists and scientists at the National Measurement Laboratory at LGC (Teddington, UK) to evaluate the Radian ASAP System. "We worked with the beta model of the Radian ASAP and quickly found that it was a robust tool for the categoric identification and screening of substances," Ryan says. "It really shows how far companies like Waters and the scientific community as a whole are pushing the envelope to deliver techniques that are both fit-for-purpose and reliable."
+
+The RADIAN ASAP System is compatible with a variety of Waters software solutions, including OpenLynx, MassLynx(TM), IonLynx(TM) and LiveID(TM). Notably, Waters has released the latest iteration of its LiveID Software, LiveID 2.0, in conjunction with RADIAN ASAP. Offering an intuitive, modern interface and easy-to-interpret results, LiveID Software continues to offer model building capabilities for classifying samples and determining their authenticity. LiveID Software now also offers real-time spectral library-matching for identifying sample compounds by matching their spectra with reference library spectra stored in the software.
+
+Broad Application Use Cases
+
+The RADIAN ASAP System's automated set-up, streamlined workflow, and easy operation with minimal training offers laboratories a flexible tool to meet rising demands without sacrificing on analytical performance. Notable applications include: 
+
+
+   -- Pharmaceuticals, to provide easy access to mass spectral data for 
+      instantaneous assessment of reaction progress and the identification of 
+      purification fractions; 
+ 
+   -- Forensics, to empower the rapid, confident identification of illicit 
+      drugs against a library of known compounds; 
+ 
+   -- Food and Beverage, to improve food integrity by verifying product 
+      authenticity and safety, adulteration, or degradation by suppliers and 
+      regulators; 
+ 
+   -- Chemicals and Materials, to streamline quality control and product 
+      development workflows such as material release testing or formulation 
+      performance testing; and 
+ 
+   -- Academia, to supply academic laboratories with a robust and reliable 
+      solution for teaching and method development. 
+
+Engineered by Waters in Singapore, the RADIAN ASAP System is now available worldwide from Waters.
+
+To learn more about the value of direct MS analysis for forensics, watch this SelectScience webinar, Real-time forensic drug analysis using direct ionization mass spectrometry, now on-demand.
+
+Additional Resources 
+
+
+   -- Learn more about the RADIAN ASAP System on Waters' web site 
+ 
+   -- Learn more about the RADIAN ASAP System for the rapid identification of 
+      bulk drug seizures in The Journal of the American Society for Mass 
+      Spectrometry 
+
+About Waters Corporation (www.waters.com)
+
+Waters Corporation (NYSE:WAT), the world's leading specialty measurement company, has pioneered chromatography, mass spectrometry, and thermal analysis innovations serving the life, materials, and food sciences for more than 60 years. With more than 7,000 employees worldwide, Waters operates directly in 35 countries, including 15 manufacturing facilities, and with products available in more than 100 countries.
+
+# # #
+
+Waters, RADIAN, MassLynx, IonLynx, ASAP and LiveID are trademarks of Waters Corporation .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20201102005219/en/  
+
+
+ 
+    CONTACT:    Brian J. Murphy  
+
+PR Manager, Corporate Communications
+
+Waters Corporation
+
+brian_j_murphy@waters.com
+
++1 508-482-2614
+
+Staci Didner
+
+Account Supervisor
+
+PAN Communications
+
+sdidner@pancomm.com
+
++1 407-310-0631
+
+(END) Dow Jones Newswires
+
+November 02, 2020 08:06 ET (13:06 GMT)

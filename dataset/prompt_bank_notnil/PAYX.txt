@@ -1,0 +1,178 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission and 
+compiled after 8:30 a.m. EDT Wednesday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Alteryx Inc (AYX) CL A 
+ Jones Robert Scott (P)      8/3/20-8/5/20         2,738  $176.60      39,391 
+ 
+Amazon.com Inc (AMZN) 
+ Jassy Andrew R (O)              8/3/20            6,945 3,183.39      88,343 
+ 
+Amicus Therapeutics Inc (FOLD) 
+ Crowley John F (CB)             8/3/20           39,655   $14.78     925,608 
+ 
+Amphenol Corp (APH) CL A 
+ d'Amico Lance E (VP)            8/3/20           20,000  $107.05       5,100 
+ 
+Arcbest Corp (ARCB) 
+ Ingram James A (O)              8/4/20           12,673   $31.35      52,700 
+ 
+BlackLine Inc (BL) 
+ Smith Graham V (D)              8/4/20            8,000   $90.86      14,359 
+ 
+Boston Beer Co (SAM) CL A 
+ Valette Jean-Michel (D)         8/5/20            4,105  $842.76      19,758 
+ 
+Burlington Stores Inc (BURL) 
+ Vecchio Jennifer (P)            8/3/20            2,000  $188.21      43,984 
+ 
+Camping World Holdings Inc (CWH) CL A 
+ Abrams Capital Manag (SH)       8/3/20          500,000   $40.18   5,108,808 
+ 
+CarMax Inc (KMX) 
+ Lyski James (VP)                8/4/20           73,235   $99.40       8,443 
+ 
+Church & Dwight Co Inc (CHD) 
+ Craigie James (D)               8/3/20          300,000   $93.51      33,890 
+ Cugine Steven P (VP)            8/3/20           20,000   $94.17      30,993 
+ Dierker Richard A (CFO)         8/3/20           78,070   $93.85       8,365 
+ Irwin Bradley C (D)             8/3/20           17,544   $92.86      47,293 
+ Katz Steven J (VP)              8/3/20           11,400   $93.84       7,108 
+ Vergis Janet S (D)              8/4/20           14,660   $95.58      12,941 
+ Winkleblack Arthur B (D)    8/3/20-8/4/20        15,504   $93.18      19,129 
+ 
+Cognex Corp (CGNX) 
+ Banucci Eugene G (D)            8/4/20           30,500   $66.90      33,000 
+ Parrotte Dianne M (D)       8/3/20-8/4/20         8,000   $67.03      12,700 
+ 
+CoStar Group Inc (CSGP) 
+ Wheeler Scott T (CFO)           8/4/20           12,002  $826.71      25,262 
+ 
+CRISPR Therapeutics AG (CRSP) 
+ Tomsicek Michael Joh (CFO       8/3/20           12,000   $86.74         410 
+ 
+Duke Realty Corp (DRE) 
+ Anthony Nicholas C (VP)         8/3/20           31,081   $39.70      24,760 
+ Dee Ann C (VP)                  8/3/20           15,000   $39.57      56,478 
+ 
+Eversource Energy (ES) 
+ Butler Gregory B (VP)           8/3/20            5,625   $88.81      82,712 
+ 
+Fair Isaac Corp (FICO) 
+ Lansing William J (CEO)         8/3/20           24,298  $442.46     313,524 
+ 
+Fortune Brands Home & Security Inc (FBHS) 
+ Klein Christopher J (CB)        8/4/20          116,000   $77.53     303,911 
+ 
+Generac Holdings Inc (GNRC) 
+ Dixon Robert D (D)              8/3/20            2,500  $161.09      14,152 
+ 
+Lattice Semiconductor Corp (LSCC) 
+ Milstead Byron Wayne (VP)   7/31/20-8/3/20       14,549   $31.03         921 
+ 
+LCI Industries (LCII) 
+ Reed David Allen (D)            8/3/20           10,000  $130.22      11,114 
+ 
+Livongo Health Inc (LVGO) 
+ Schneider Jennifer (P)      8/3/20-8/4/20        13,400  $136.53     216,329 
+ 
+Masco Corp (MAS) 
+ O'Reagan Richard A (O)          8/4/20           46,247   $57.12      36,053 
+ 
+MDC Holdings Inc (MDC) 
+ Mandarich David D (P)           8/4/20          200,000   $44.28   4,169,082 
+ 
+Mettler-Toledo International (MTD) 
+ Magloth Christian (O)           8/3/20            1,000  $928.34           0 
+ Salice Thomas P (D)             8/3/20            2,708  $926.89      66,694 
+ Vadala Shawn (CFO)              8/3/20            1,000  $930.18       4,944 
+ 
+MGP Ingredients Inc (MGPI) 
+ Seaberg Karen (D)           8/3/20-8/4/20        20,000   $35.77   3,461,299 
+ 
+Milestone Scientific Inc (MLSS) 
+ Osser Leonard (CEO)             8/4/20          133,333    $2.10   3,945,353 
+ 
+MongoDB Inc (MDB) 
+ Hazard Charles M Jr (D)         8/3/20            2,017  $218.60     115,686 
+ 
+Ollie's Bargain Outlet Holdings Inc (OLLI) 
+ Swygert John W (CEO)            8/3/20           40,000  $103.83      25,156 
+ 
+Paychex Inc (PAYX) 
+ Gioja Michael E (VP)            8/4/20           12,743   $72.59      78,187 
+ 
+Paycom Software Inc (PAYC) 
+ Smith Bradley Scott (O)         8/3/20            1,000  $287.19      43,868 
+ 
+Procter & Gamble Co/The (PG) 
+ Jejurikar Shailesh (O)          8/3/20           31,209  $130.56      14,678 
+ Taylor David S (CB)             8/4/20           30,000  $132.87     273,699 
+ 
+Progressive Corp-Ohio (PGR) 
+ Charney M Jeffrey (O)           8/3/20            5,859   $90.70      73,352 
+ 
+Saia Inc (SAIA) 
+ Holzgrefe Frederick  (P)        8/4/20            6,190  $122.50      28,775 
+ 
+Schneider National Inc (SNDR) CL B 
+ Devgun Shaleen (O)              8/4/20           10,000   $25.47     148,936 
+ 
+Shutterstock Inc (SSTK) 
+ Oringer Jonathan (CB)       8/3/20-8/4/20        85,000   $54.66  16,001,327 
+ 
+Stanley Black & Decker Inc (SWK) 
+ Ansell Jeffrey D (VP)           8/3/20           38,750  $154.82      17,317 
+ 
+Sturm Ruger & Co Inc (RGR) 
+ Cosentino John A Jr (D)         8/4/20            4,500   $84.87       8,930 
+ Fifer Michael O (D)             8/4/20           15,026   $83.58      11,633 
+ 
+SVB Financial Group (SIVB) 
+ China John (O)                  8/3/20            1,264  $223.66      26,894 
+ 
+Teladoc Health Inc (TDOC) 
+ Levy Lewis (O)                  8/3/20            2,670  $234.07       8,766 
+ Turitz Andrew (VP)              8/3/20            2,105  $234.07       4,015 
+ Vandervoort Adam C (O)          8/3/20            2,612  $234.07         200 
+ Verstraete Stephany (O)         8/3/20            6,000  $234.07      13,276 
+ 
+Tractor Supply Company (TSCO) 
+ Mackenzie George Jr (D)         8/3/20           10,581  $147.64      11,048 
+ 
+Vapotherm Inc (VAPO) 
+ Reynolds Craig B (D)            8/3/20            7,387   $52.45           0 
+ 
+Vertex Pharmaceuticals Inc (VRTX) 
+ Altshuler David (VP)            8/3/20            2,330  $278.24      28,902 
+ Arbuckle Stuart A (VP)          8/3/20            1,553  $278.39      35,319 
+ Parini Michael (VP)             8/3/20            2,330  $278.28      26,838 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+August 05, 2020 16:44 ET (20:44 GMT)

@@ -1,0 +1,106 @@
+PR Newswire
+
+SAN DIEGO, Oct. 31, 2017
+
+SAN DIEGO, Oct. 31, 2017 /PRNewswire/ -- AT&T , Ford , Nokia , and Qualcomm Technologies Inc ., a subsidiary of Qualcomm Incorporated (NASDAQ: QCOM), are helping to accelerate the development of connected cars with the first announced Cellular-V2X (C-V2X) trials in the U.S. Testing is expected to take place in the San Diego Regional Proving Ground with the support of the San Diego Association of Governments (SANDAG), Caltrans, the City of Chula Vista, and intelligent transportation solutions (ITS) provider McCain, Inc . The goal of the trials is to demonstrate the potential of C-V2X technologies, including support for improved automotive safety, automated driving, and traffic efficiency. The trials will also be aimed at demonstrating to automakers and road operators the anticipated cost-efficient benefits associated with embedded cellular technology in vehicles and synergies between the deployment of cellular base stations and roadside infrastructure. The initial testing phase is expected to begin later this year.
+
+Defined by 3rd Generation Partnership Project (3GPP) in 2017 as an extension of global cellular standards, C-V2X is an important factor in next-generation wireless technology for safety conscious and automated driving solutions. As wireless technology becomes prevalent, vehicles are using the cellular network for various tasks, ranging from emergency calls and over-the-air (OTA) updates, to diagnostics and real-time traffic updates. Using direct communication mode, C-V2X is designed to help expand the role of wireless technology for road safety applications by facilitating the ability of vehicles to directly communicate with other vehicles, pedestrian devices, and roadside infrastructure, such as traffic signs and construction zones, using the 5.9 GHz band without the involvement of a cellular network, or cellular network subscription. Complementary to other Advanced Driver Assistance Systems (ADAS) sensors, such as cameras, radar, and LIDAR, C-V2X technology is designed to support 360-degree non-line-of-sight (NLOS) awareness, and is designed to extend a vehicle's ability to see, hear, and understand the environment down the road, at blind intersections, or in bad weather conditions.
+
+For this trial, C-V2X platforms are expected to be installed in Ford vehicles using the Qualcomm(R) 9150 C-V2X solution to facilitate direct communications, and are complemented by AT&T 's 4G LTE network communications and ITS platform that takes advantage of wireless base stations and multi-access edge computing technology from Nokia . For the new communication technologies being deployed, McCain will help facilitate the effective integration with existing and emerging traffic signal control infrastructure.
+
+Testing will support direct C-V2X communications operating in the 5.9 GHz ITS spectrum to explore the safety enhancements of vehicle-to-vehicle (V2V) use cases, including do not pass warning, intersection movement assist, and left turn assist, to name a few. The trials will also support advanced vehicle communication capabilities for improved traffic efficiencies, such as real-time mapping updates and event notifications relayed using AT&T 's cellular network and Nokia Cloud Infrastructure.
+
+With decades-long experience in automated vehicle testing, advanced features in regional transportation networks, and a global reputation as a high-tech hub for research and wireless innovation, the San Diego region was designated by the U.S. Department of Transportation as one of ten automated vehicle proving grounds in the U.S. earlier this year.
+
+"Leveraging the evolution of embedded cellular technologies for V2X communications holds great potential to advance safety benefits to all road users," said Cameron Coursey, vice president, AT&T Internet of Things Solutions. "Working with industry leaders, such as Ford , Nokia , Qualcomm Technologies , and state and local government agencies, we will together lead the way to safer, more secure, cost-effective, and efficient next-generation solutions."
+
+"Caltrans has been fully engaged in autonomous and connected vehicle research and testing in recent years," said Malcolm Dougherty, director, Caltrans. "We are proud to join with SANDAG, the City of Chula Vista, public and private sector partners to further the pursuit of innovative technologies on our roadways to improve safety and mobility."
+
+"The knowledge and partnerships we gain from being a designated proving ground will help us advance innovation, enhance mobility, and improve our transportation systems," said Chula Vista Mayor Mary Casillas Salas.
+
+"The advancement of cellular technology for C-V2X applications is very encouraging," said Don Butler , executive director, connected vehicle and services, Ford Motor Company . "This technology promises to meet, and in some cases, exceed the performance requirements of vehicle communication being proposed by relevant government agencies while leveraging existing in-vehicle connectivity frameworks. C-V2X provides a reassuring path to technology advancements necessary to support emerging developments in autonomy, automated driving, and mobility. We are keen to investigate all aspects of this opportunity and support cross industry efforts that make that possible."
+
+"LTE and 5G technologies have the potential to dramatically transform our lives, and none more so than in transportation," said Thorsten Robrecht, head of vertical network slices, Nokia . "Nokia has a keen interest in creating safe, efficient, and dynamic operating environments for autonomous vehicles, and we have gained much experience from our European projects over the last few years. As such, we are extremely excited to be involved in this project with AT&T , Ford , and Qualcomm Technologies , taking meaningful steps to evaluate what this technology will be able to deliver."
+
+"Qualcomm Technologies is working towards solutions designed for tomorrow's safer and autonomous vehicles, not only by contributing and evolving C-V2X technology, but also by designing technological breakthroughs in other key areas such as 4G and 5G, precise positioning, machine learning, and computer vision," said Nakul Duggal, vice president, product management, automotive, Qualcomm Technologies, Inc . "We are pleased to work with industry and government leaders, in our hometown, testing and refining the technologies for the more connected, automated vehicle of tomorrow and advanced cellular infrastructure which includes small cells and roadside units."
+
+"The San Diego Regional Proving Ground's partnership between SANDAG, Caltrans, and the City of Chula Vista positions us as leaders in the development and deployment of new technology, allowing our region to realize benefits in mobility, safety, and economic development. The collaboration this partnership demonstrates between government agencies and the private sector significantly reduces deployment costs while accelerating the proliferation of the infrastructure necessary for the next generation of mobility technology," said SANDAG Chair and County Supervisor Ron Roberts. "Government will benefit from these new C-V2X roadside units integrated with cellular infrastructure, and San Diego is perfectly situated to provide a platform for new business models that can lead to safer roadways and more efficient operations."
+
+About AT&T
+
+AT&T Inc . (NYSE:T) helps millions around the globe connect with leading entertainment, business, mobile and high speed internet services. We offer the nation's best data network* and the best global coverage of any U.S. wireless provider. We're one of the world's largest providers of pay TV. We have TV customers in the U.S. and 11 Latin American countries. Nearly 3.5 million companies, from small to large businesses around the globe, turn to AT&T for our highly secure smart solutions.
+
+AT&T products and services are provided or offered by subsidiaries and affiliates of AT&T Inc . under the AT&T brand and not by AT&T Inc . Additional information about AT&T products and services is available at about.att.com. Follow our news on Twitter at @ATT, on Facebook at facebook.com/att and on YouTube at youtube.com/att.
+
+About Ford Motor Company
+
+Ford Motor Company is a global company based in Dearborn, Michigan. The company designs, manufactures, markets and services a full line of Ford cars, trucks, SUVs, electrified vehicles and Lincoln luxury vehicles, provides financial services through Ford Motor Credit Company and is pursuing leadership positions in electrification, autonomous vehicles and mobility solutions. Ford employs approximately 203,000 people worldwide. For more information regarding Ford , its products and Ford Motor Credit Company , please visit www.corporate.ford.com.
+
+About McCain Inc .
+
+McCain Inc ., a Company of the SWARCO Group, develops products used by millions of people around the world each day. A manufacturing powerhouse since 1987, the company's brand portfolio includes advanced traffic control equipment and intelligent transportation systems to create safer, more mobile, and more livable communities. Team McCain is comprised of more than 500 employees at operations in the United States and Mexico.
+
+For more information, visit the company's website at www.mccain-inc.com.
+
+About Nokia
+
+We create the technology to connect the world. Powered by the research and innovation of Nokia Bell Labs, we serve communications service providers, governments, large enterprises and consumers, with the industry's most complete, end-to-end portfolio of products, services and licensing.
+
+31 Oct 2017 09:00 ET 
+Press Release: AT&T , Ford , Nokia  and Qualcomm -2-
+
+From the enabling infrastructure for 5G and the Internet of Things, to emerging applications in virtual reality and digital health, we are shaping the future of technology to transform the human experience. www.nokia.com
+
+About Qualcomm
+
+Qualcomm 's technologies powered the smartphone revolution and connected billions of people. We pioneered 3G and 4G -- and now we are leading the way to 5G and a new era of intelligent, connected devices. Our products are revolutionizing industries, including automotive, computing, IoT, healthcare and data center, and are allowing millions of devices to connect with each other in ways never before imagined. Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. Qualcomm Technologies, Inc ., a subsidiary of Qualcomm Incorporated , operates, along with its subsidiaries, all of our engineering, research and development functions, and all of our products and services businesses, including, our QCT semiconductor business. For more information, visit Qualcomm 's website, OnQ blog, Twitter and Facebook pages.
+
+About the San Diego Regional Proving Ground partners
+
+In January 2017, the U.S. Department of Transportation (USDOT) designated the San Diego region as one of ten proving grounds nationwide for testing highly automated and self-driving vehicles. The proving ground locations were selected based on broad criteria, including an ability to demonstrate safety planning, willingness to share and disseminate information, and an ability to show that all applicable laws, regulations, and policies will be met. The San Diego Regional Proving Ground project team (composed of SANDAG, in partnership with the California Department of Transportation District 11 and the City of Chula Vista) proposed three distinct environments: the Interstate 15 Express Lanes; the southern segment of the South Bay Expressway; and local streets and roads within the City of Chula Vista. To learn more about the San Diego Regional Proving Ground, visit sandag.org/provingground.
+
+About SANDAG
+
+The San Diego Association of Governments (SANDAG) is the San Diego region's primary public planning, transportation, and research agency, providing the public forum for regional policy decisions about growth, transportation planning and construction, environmental management, housing, open space, energy, public safety, and binational topics. SANDAG is governed by a Board of Directors composed of mayors, council members, and supervisors from each of the region's 18 cities and the county government. To learn more, visit the SANDAG website, Facebook , Twitter , and YouTube pages.
+
+About Caltrans District 11
+
+Caltrans District 11 serves one of the most geographically and culturally diverse areas in the country and includes San Diego and Imperial counties. It spans the entire California-Mexico Border from the Pacific coast to Arizona and reaches north from the international border to Orange and Riverside counties. the district has roughly 1,000 centerline miles of urban and rural freeways and more than $781 million in current construction. Visitors to the area are often amazed to find that within a few short hours it is possible to experience a sweeping range of climates and terrain -- from the temperate coastal region to chilly mountain peaks and blazing desert sands. Heading east from the San Diego coastline, the landscape of canyons and mesas climbs into mountains reaching more than 6,000 feet and then drops down to 230 feet below sea level in the low desert of Imperial County. District 11 has gained considerable attention as a hub of transportation technology for the state and the nation. District projects, programs and public safety campaigns have been recognized locally, across the state and on a national level for ingenuity and innovation. District 11 prides itself in its commitment to providing a safe, efficient, sustainable and accessible transportation system, preserving natural resources and providing excellent service to the communities it serves.
+
+About Chula Vista
+
+The City of Chula Vista is located at the center of one of the richest cultural, economic and environmentally diverse zones in the United States. It is the second-largest City in San Diego County with a population of 267,000. Chula Vista boasts more than 50 square miles of coastal landscape, rolling hills, mountains, parks, a marina, and miles of trails. Chula Vista is a leader in conservation and renewable energy, has outstanding public schools, and has been named one of the top safest cities in the country. Established neighborhoods, contemporary communities, startups, corporations, entertainment venues, a U.S. Olympic and Paralympic Training Site, and historic downtown all contribute to Chula Vista's attraction for families and businesses. A promising future includes developing the 500-acre Chula Vista Bayfront, a new university on 375 acres, 18,000 new residential units, and 15 million square feet of commercial space.
+
+Qualcomm is a trademark of Qualcomm Incorporated , registered in the United States and other countries. Other product and brand names may be trademarks or registered trademarks of their respective owners.
+
+Qualcomm 9150 C-V2X chipset and Qualcomm C-V2X Reference Design are products of Qualcomm Technologies, Inc .
+
+(c) 2017 AT&T Intellectual Property. All rights reserved. AT&T , the Globe logo and other marks are trademarks and service marks of AT&T Intellectual Property and/or AT&T affiliated companies. All other marks contained herein are the property of their respective owners.
+
+*Claim based on the Nielsen Certified Data Network Score. Score includes data reported by wireless consumers in the Nielsen Mobile Insights survey, network measurements from Nielsen Mobile Performance and Nielsen Drive Test Benchmarks for Q1 + Q2 2017 across 121 markets.
+
+Qualcomm Contacts:
+
+Pete Lancia, Corporate Communications
+
+Phone: 1-858-845-5959
+
+Email: corpcomm@qualcomm.com
+
+John Sinnot, Investor Relations
+
+Phone: 1-858-658-4813
+
+Email: ir@qualcomm.com
+
+View original content: http://www.prnewswire.com/news-releases/att-ford-nokia-and-qualcomm-launch-cellular-v2x-connected-car-technology-trials-planned-for-the-san-diego-regional-proving-ground-with-support-from-mccain-300546213.html 
+
+SOURCE Qualcomm Technologies, Inc .
+
+/Web site: https://www.qualcomm.com/ 
+
+31 Oct 2017 09:01 ET *AT&T , Ford , Nokia  and Qualcomm  to Launch Cellular-V2X Connected Car Technology Trials
+
+(MORE TO FOLLOW) Dow Jones Newswires (212-416-2800)
+
+October 31, 2017 09:01 ET (13:01 GMT)

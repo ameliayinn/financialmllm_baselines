@@ -1,0 +1,335 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Thursday and early Friday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Advanced Drainage Systems Inc (WMS) 
+ Klein Robert M (VP)            8/11/20           75,000   $55.23     143,165 
+ 
+Air Transport Services Group Inc (ATSG) 
+ Hete Joseph C (CB)             8/12/20           25,715   $27.91     607,557 
+ 
+Airgain Inc (AIRG) 
+ Thill Kevin (VP)               8/12/20           75,000   $13.63      59,499 
+ 
+Ameriprise Financial Inc (AMP) 
+ Woerner John Robert (O)        8/11/20            9,873  $163.83      27,653 
+ 
+Axalta Coating Systems Ltd (AXTA) 
+ Markevich Steven R (VP)        8/11/20           40,857   $24.00      90,883 
+ 
+BioLife Solutions Inc (BLFS) 
+ Mathew Aby J (VP)          8/11/20-8/12/20       15,000   $19.91     187,915 
+ Rice Michael (CEO)         8/11/20-8/13/20       37,500   $19.28     209,223 
+ 
+Broadcom Inc (AVGO) 
+ Tan Hock E (CEO)               8/11/20           57,172  $328.33     247,102 
+ 
+Broadridge Financial Solutions Inc (BR) 
+ Carey Thomas P (VP)            8/13/20            8,974  $138.57       5,961 
+ Deschutter Douglas R (VP)      8/13/20           22,517  $139.14      30,604 
+ 
+Cable One Inc (CABO) 
+ Lardy Eric Michael (VP)    8/11/20-8/13/20        2,351 1,906.39       1,123 
+ Witty Peter N (VP)             8/11/20              323 1,924.69       1,989 
+ 
+Cardlytics Inc (CDLX) 
+ Evans David Thomas (O)     8/11/20-8/12/20       28,467   $76.40       1,622 
+ 
+CBIZ Inc (CBZ) 
+ Grove Ware H (CFO)             8/11/20           10,000   $25.47     249,076 
+ 
+Century Aluminum Co (CENX) 
+ Bless Michael A (CEO)      8/11/20-8/12/20       79,282   $10.26     436,872 
+ 
+Chevron Corp (CVX) 
+ Inchausti David A (VP)         8/11/20            5,750   $92.00       4,690 
+ 
+Chewy Inc (CHWY) CL A 
+ Marte Mario Jesus (CFO)        8/12/20           32,037   $52.30   1,109,967 
+ 
+Cigna Corp (CI) 
+ Jones Nicole S (VP)            8/11/20            9,424  $185.00      30,852 
+ 
+CloudFlare Inc (NET) CL A 
+ Baskett Forest (SH)        8/12/20-8/13/20      122,432   $38.94   3,681,079 
+ Kerins Patrick J (SH)      8/11/20-8/12/20       64,604   $38.27   3,009,487 
+ Sandell Scott D (D)        8/11/20-8/13/20      615,846   $38.36   3,670,254 
+ Suder Katrin (D)           8/11/20-8/12/20       13,000   $38.55       6,622 
+ 
+Colgate-Palmolive Co (CL) 
+ Massey Sally (O)                8/5/20            6,336   $76.28      11,672 
+ 
+Construction Partners Inc (ROAD) CL A 
+ Owens Charles E (CEO)      8/11/20-8/12/20      107,507   $20.42     338,013 
+ 
+CoStar Group Inc (CSGP) 
+ Linnington Matthew (VP)        8/12/20            2,419  $826.32      19,766 
+ 
+CSX Corp (CSX) 
+ Goldman Nathan D (VP)          8/11/20           25,000   $75.54      75,174 
+ Sorfleet Diana B (VP)          8/11/20           36,836   $75.30      25,728 
+ 
+Daily Journal Corp/SC (DJCO) 
+ Salzman Gerald L (CEO)     8/12/20-8/13/20        2,791  $286.62      21,636 
+ 
+DocuSign Inc (DOCU) 
+ Alhadeff Loren (O)             8/12/20            5,000  $193.02     162,293 
+ Olrich Scott V (COO)           8/12/20            5,800  $193.08     394,317 
+ 
+Dolby Laboratories Inc (DLB) CL A 
+ Forshay Steven E (VP)          8/11/20           28,327   $70.50      61,318 
+ 
+Electronic Arts Inc (EA) CL A 
+ Jorgensen Blake J (COO)        8/12/20            5,975  $139.44      71,110 
+ 
+Emerald Bioscience Inc (EMBI) 
+*Emerald Health Scien (SH)       8/7/20        2,566,666    $0.10 123,923,501 
+ 
+Evoqua Water Technologies Corp (AQUA) 
+ Keating Ronald C (CEO)         8/11/20           14,112   $22.00     465,475 
+ Stas Benedict J (CFO)          8/11/20           33,747   $22.00     180,271 
+ 
+Fair Isaac Corp (FICO) 
+ Scadina Mark R (VP)            8/11/20           18,984  $432.29     102,602 
+ 
+Fastly Inc (FSLY) CL A 
+ Wright Kelly (D)               8/11/20            4,000   $75.40       3,844 
+ 
+FedEx Corporation (FDX) 
+ Allen Mark R (VP)              8/13/20            6,200  $203.45      35,708 
+ Steiner David P (D)            8/12/20            1,951  $205.00      29,659 
+ 
+Fortinet Inc (FTNT) 
+ Jensen Keith F (CFO)           8/12/20            3,600  $126.79         787 
+ 
+Fresh Del Monte Produce Inc (FDP) 
+ Abu-Ghazaleh Mohamma (CB)  8/11/20-8/12/20       33,520   $24.63   7,066,191 
+ 
+Gallagher (Arthur J) & Co (AJG) 
+ Pietrucha Susan E (VP)     8/11/20-8/12/20       10,417  $108.50       1,654 
+ 
+Gap Inc/The (GPS) 
+ Gruber Julie (O)               8/11/20           29,109   $14.98      11,970 
+ 
+Gartner Inc (IT) CL A 
+ Dykstra Karen E (D)            8/12/20            2,775  $131.08      16,423 
+ Smith James C (CB)         8/11/20-8/12/20       66,375  $131.94     718,131 
+ 
+Goosehead Insurance Inc (GSHD) CL A 
+ Jones Mark Evan (CB)           8/11/20           11,825   $96.44     537,701 
+ Jones Robyn Mary Eli (D)       8/12/20           20,397   $99.72     677,347 
+ Jones Robyn Mary Eli (D)       8/11/20           17,146   $95.20     697,744 
+ 
+Halozyme Therapeutics Inc (HALO) 
+ Daly James M (D)               8/13/20           34,337   $29.12      31,365 
+ 
+HCA Healthcare Inc (HCA) 
+ Englebright Jane D (VP)        8/11/20            5,245  $132.71       8,744 
+ Moore A Bruce Jr (O)           8/11/20           15,000  $133.73     324,772 
+ 
+Helen of Troy Ltd (HELE) 
+ Mininberg Julien (CEO)     8/11/20-8/12/20        3,030  $210.17     113,390 
+ 
+Inphi Corp (IPHI) 
+ Tamer Ford (Fouad) G (CEO      8/12/20           30,000  $114.20     235,267 
+ 
+Insulet Corp (PODD) 
+ Christensen Bret (VP)          8/12/20            5,000  $201.54      13,700 
+ 
+iRhythm Technologies Inc (IRTC) 
+ King Kevin M (CEO)             8/12/20           59,622  $180.10     229,770 
+ 
+Juniper Networks Inc (JNPR) 
+ Rahim Rami (CEO)           8/11/20-8/13/20       13,600   $25.60     735,039 
+ 
+K12 Inc (LRN) 
+ Rhyu James Jeaho (O)           8/12/20           13,738   $47.80     246,201 
+ 
+Lazard Ltd (LAZ) CL A 
+ Hoffman Scott D (O)            8/11/20           80,000   $32.63      90,402 
+ 
+Lennox International Inc (LII) 
+ Major John Edward (D)          8/13/20            1,000  $279.21      14,568 
+ 
+Lincoln Electric Holdings Inc (LECO) 
+ Allman Geoffrey P (VP)         8/11/20            4,435   $98.36       8,453 
+ Kuhrt Michele R (VP)           8/11/20            2,850   $97.71      16,948 
+ 
+Lithia Motors Inc (LAD) CL A 
+ Deboer Bryan B (CEO)           8/13/20           16,017  $260.62     205,089 
+ 
+LiveRamp Holdings Inc (RAMP) 
+ Arra James F (P)               8/13/20           18,785   $53.51     203,592 
+ Jenson Warren C (P)        8/12/20-8/13/20      122,940   $53.77     242,068 
+ 
+LPL Financial Holdings Inc (LPLA) 
+ Arnold Dan H (CEO)         8/11/20-8/13/20       15,152   $85.28     212,159 
+ 
+Mesa Laboratories Inc (MLAB) 
+ Kelly David M (D)              8/10/20            1,371  $250.00       2,810 
+ 
+Meta Financial Group Inc (CASH) 
+ Tull William David (D)     8/11/20-8/12/20      186,330   $20.67     378,000 
+ 
+Moelis & Co (MC) 
+ Crain Elizabeth (COO)          8/11/20           20,000   $32.43      66,557 
+ 
+Monster Beverage Corp (MNST) 
+ Tirre Emelie (O)               8/11/20           47,601   $80.34       6,349 
+ 
+ 
+
+14 Aug 2020 08:45 ET 
+Substantial Insider Sales: Morning Report -2-
+
+
+____________________________________________________________________________ 
+ 
+Substantial Insider Sales: Morning Report (Continued) 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+Morningstar Inc (MORN) 
+ Mansueto Joseph D (CB)     8/11/20-8/12/20       18,450  $159.20  20,212,523 
+ 
+NanoString Technologies Inc (NSTG) 
+ Norden Gregory (D)             8/13/20           10,000   $38.83       1,890 
+ 
+Netflix Inc (NFLX) 
+ Sarandos Theodore A  (CEO  8/11/20-8/12/20       20,000  $477.38           0 
+ 
+NETGEAR Inc (NTGR) 
+ Lo Patrick Cs (CB)             8/11/20           18,666   $32.68     525,756 
+ 
+Nikola Corp (NKLA) 
+ Ubben Jeffrey W (D)            8/11/20        1,400,000   $42.69  18,962,024 
+ 
+O'Reilly Automotive Inc (ORLY) 
+ Ellis Larry Lee (VP)           8/11/20           11,500  $456.56       2,005 
+ 
+Pacira Biosciences Inc (PCRX) 
+ Riker Lauren Bullaro (VP)      8/11/20            8,180   $60.50      13,181 
+ Wicki Andreas (D)          8/11/20-8/13/20      255,176   $61.12     695,186 
+ 
+Penn National Gaming Inc (PENN) 
+ Labombard Christine (VP)       8/11/20            6,540   $49.03      32,452 
+ Reibstein Saul (D)         8/11/20-8/13/20       36,000   $49.63      40,331 
+ 
+Penumbra Inc (PEN) 
+ Elsesser Adam (CB)             8/11/20            8,000  $232.15     989,582 
+ 
+Pinterest Inc (PINS) CL A 
+ Silbermann Benjamin (CB)   8/11/20-8/13/20      247,313   $35.16           0 
+ 
+Plexus Corp (PLXS) 
+ Frisch Steven J (COO)          8/11/20            4,398   $80.11      43,920 
+ 
+Polaris Inc (PII) 
+ Menneto Steven (O)             8/11/20           27,825  $107.00      13,906 
+ Williams James P (VP)          8/11/20           14,000  $107.00      14,573 
+ Wine Scott W (CB)              8/11/20           90,000  $108.23     374,355 
+ 
+Progyny Inc (PGNY) 
+ Bealer Jennifer (VP)           8/11/20           25,303   $29.98      51,856 
+ Seidenberg Beth C (CB)         8/11/20           19,231   $30.00  17,679,588 
+ Tpg Group Holdings ( (SH)  8/11/20-8/12/20      252,534   $29.77  18,072,584 
+ 
+QTS Realty Trust Inc (QTS) CL A 
+ Berson Jeffrey H (CFO)         8/13/20           16,958   $68.51      64,124 
+ 
+RBC Bearings Inc (ROLL) 
+ Bergeron Daniel A (COO)        8/11/20           20,000  $144.43      85,492 
+ Edwards Richard J (VP)         8/12/20           10,000  $141.46       8,532 
+ Hartnett Michael J (CB)        8/12/20            6,262  $145.07     397,485 
+ 
+Republic Services Inc (RSG) 
+ Slager Donald W (CEO)      8/11/20-8/12/20      108,868   $91.49     342,279 
+ 
+RingCentral Inc (RNG) CL A 
+ Dhruv Mitesh (CFO)         8/11/20-8/12/20       32,066  $281.20     215,150 
+ Williams R Neil (D)        8/11/20-8/12/20        6,730  $281.20      13,078 
+ 
+Safehold Inc (SAFE) 
+ Adler Dean S (D)           8/11/20-8/13/20      101,470   $53.58     516,426 
+ 
+salesforce.com inc (CRM) 
+ Benioff Marc R (CB)            8/13/20           15,000  $196.19  29,893,800 
+ 
+Shake Shack Inc (SHAK) CL A 
+ Meyer Daniel Harris (CB)       8/11/20           23,334   $55.03   2,558,068 
+ 
+SolarWinds Corp (SWI) 
+ Thompson Kevin B (CEO)         8/11/20          358,634   $19.51   3,172,165 
+ 
+SVMK Inc (SVMK) 
+ Hale Thomas E (P)              8/11/20           25,000   $22.00     419,041 
+ 
+SYNNEX Corp (SNX) 
+ Murai Kevin M (CB)             8/11/20            4,600  $130.46     148,907 
+ 
+T-Mobile US Inc (TMUS) 
+ Miller David A (VP)        8/11/20-8/12/20       40,000  $115.25     161,142 
+ 
+Targa Resources Corp (TRGP) 
+ Joyce Rene R (D)               8/11/20           40,364   $20.46     866,507 
+ 
+Trupanion Inc (TRUP) 
+ Ferracone Robin A (D)          8/12/20           15,000   $62.53      49,056 
+ Rawlings Darryl (CEO)          8/11/20            4,000   $63.97     930,222 
+ 
+TTEC Holdings Inc (TTEC) 
+ Deghetto Martin F (VP)     8/12/20-8/13/20       20,000   $59.07      24,369 
+ 
+Twitter Inc (TWTR) 
+ Segal Ned D (CFO)              8/11/20            8,000   $37.43     701,377 
+ 
+Universal Display Corp (OLED) 
+ Premutico Mauro (VP)           8/12/20           11,065  $187.31      49,335 
+ 
+VeriSign Inc (VRSN) 
+ Bidzos D James (CB)            8/12/20            6,000  $202.35     898,215 
+ 
+Wayfair Inc (W) CL A 
+ Conine Steven (CB)             8/11/20           28,302  $323.18      79,961 
+ Shah Niraj (CB)                8/11/20           28,137  $323.18      80,039 
+ 
+Zillow Group Inc (Z) CL C 
+ Frink Lloyd D (CB)             8/12/20            7,500   $77.09   3,816,460 
+ 
+Zions Bancorporation (ZION) 
+ Shirey Terry Alan (VP)         8/11/20           15,572   $35.77      18,324 
+ 
+Zoom Video Communications Inc (ZM) CL A 
+ Bawa Aparna (COO)              8/11/20            7,500  $244.12     222,822 
+ Yuan Eric S (CB)           8/11/20-8/12/20      140,286  $236.48           0 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+August 14, 2020 08:45 ET (12:45 GMT)

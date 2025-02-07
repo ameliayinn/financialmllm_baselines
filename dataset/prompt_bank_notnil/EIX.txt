@@ -1,0 +1,46 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: Edison International 
+SYMBOL: EIX 
+ 
+FILER: Taylor Peter J 
+TITLE: Director 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+8/3/20             Sale                        230      $55.33         $12,726 
+(10b5-1 Plan Indicated)* 
+ 
+OWNERSHIP: 15,413 (Direct) 
+ 
+  * - A 10b5-1 plan enables an insider to establish a program to make trans- 
+      actions according to an advance plan.  Such a program allows an insider 
+      to continue with planned transactions even if he or she comes into 
+      possession of material non-public information. 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Taylor Peter J           Dir             08/03/20    Sell          230 b         55.33      15,413 
+Taylor Peter J           Dir             05/04/20    Sell          230 b         56.16      12,817 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+August 04, 2020 11:55 ET (15:55 GMT)

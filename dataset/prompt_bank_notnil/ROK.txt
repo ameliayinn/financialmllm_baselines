@@ -1,0 +1,88 @@
+
+MILWAUKEE--(BUSINESS WIRE)--November 23, 2020-- 
+
+Rockwell Automation (NYSE: ROK) announced today the release of new industrial PCs and software to markedly improve the reliability and security of visualization applications. Visualization systems are often among the most expensive plant floor systems to maintain and are a common target for unauthorized users looking to access control system assets and intellectual property.
+
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20201123006289/en/ 
+
+VersaView 6300 industrial PCs (Photo: Business Wire).
+
+The new industrial Allen-Bradley VersaView 6300 PCs and thin clients combine with FactoryTalk View human-machine interface (HMI) software and ThinManager thin-client management software to create a complete visualization system. Thin clients are computers connected remotely to a server storing applications, rather than using a local hard drive. For mission critical applications, users can deploy ThinManager redundancy or a VersaView 6300 PC running local and remote applications to help ensure reliability if server communications are lost.
+
+In addition, unlike most industrial PCs, each model in the VersaView 6300 family is individually designed to minimize or remove frequent points of failure like fans and connectors, helping reduce costs and extend the life of the PC.
+
+"These new industrial PCs and the ability to create a more reliable and cost-effective visualization system are the result of our acquisition of ASEM S.p.A., an Italy-based provider of automation technologies," said Dan DeYoung, hardware business director, Rockwell Automation. "We're also working to bring the acquisition to fruition in other valuable ways, such as by offering greater customization and breadth to our industrial computers and expanding remote connectivity options."
+
+Customers can enhance cybersecurity when they use the new industrial PCs with ThinManager software. Multiple PCs with locally stored applications spread across a plant floor can increase the attack surface and security risks. ThinManager software allows applications to run and be maintained from a central and secure location.
+
+Additionally, when users acquire both the visualization hardware and software from one source, support is simplified. This can reduce the headaches, costs, and mean time to repair that typically come from working with multiple vendors for support issues. Users can also save money by taking advantage of the flexible content delivery methods and simplified licensing that are available from a Rockwell Automation -based system.
+
+The new Allen-Bradley VersaView 6300B box PCs and thin clients deliver dependable performance and are available in multiple options to match user application needs. Other benefits include: 
+
+
+   -- Atom-class book mount units are lightweight and ideal for HMI, Industrial 
+      Internet of Things (IIoT) gateway and data-logging applications. 
+ 
+   -- i Class book mount units have a compact yet powerful design to provide 
+      space savings in control cabinets. 
+ 
+   -- i Class wall mount units provide high performance at a lower price. 
+ 
+   -- Both book and wall mount units are available in fanless construction 
+      making them ideal for applications requiring low maintenance. 
+ 
+   -- Fan cooled units will be offered for applications where additional 
+      cooling may be required. 
+
+The new Allen-Bradley VersaView 6300P panel PCs are scalable to meet a range of performance requirements. Other benefits include: 
+
+
+   -- They're available in display sizes from 12.1 to 24 inches and offer 
+      processing power based on the seventh-generation Core i3, i5 and i7 of 
+      the Intel Kaby Lake H platform. 
+ 
+   -- These units are available with analog resistive touchscreens as well as 
+      projected capacitive touchscreens for applications utilizing multi-touch 
+      software. 
+ 
+   -- Fanless design construction reduces maintenance needs. 
+ 
+   -- True flat touchscreens have reduced bacteria-harboring nooks and crannies 
+      to help provide a sanitary work surface in food and beverage 
+      applications. 
+
+VersaView 6300 industrial PCs include Windows 10 IoT Enterprise 2019 LTSC, the latest Microsoft Windows 10 IoT enterprise version. Ethernet ports are also gigabit ports to handle high volume network traffic.
+
+About Rockwell Automation
+
+Rockwell Automation, Inc. (NYSE: ROK) , is a global leader in industrial automation and digital transformation. We connect the imaginations of people with the potential of technology to expand what is humanly possible, making the world more productive and more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 23,000 problem solvers dedicated to our customers in more than 100 countries. To learn more about how we are bringing The Connected Enterprise to life across industrial enterprises, visit www.rockwellautomation.com.
+
+Allen-Bradley, FactoryTalk, FactoryTalk View, ThinManager and VersaView are trademarks of Rockwell Automation Inc .
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20201123006289/en/  
+
+
+ 
+    CONTACT:    Media Contacts 
+
+Steve Ludwig
+
+Rockwell Automation
+
+440.646.4013
+
+swludwig@ra.rockwell.com
+
+Leanne Lindseth
+
+Padilla
+
+612.455.1776
+
+leanne.lindseth@padillaco.com
+
+23 Nov 2020 17:44 ET *Rockwell Automation  Expands Visualization Offering, Provides Customers Greater Reliability, Security
+
+(MORE TO FOLLOW) Dow Jones Newswires
+
+November 23, 2020 17:44 ET (22:44 GMT)

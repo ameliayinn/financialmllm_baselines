@@ -1,0 +1,44 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: United Rentals Inc 
+SYMBOL: URI 
+ 
+FILER: Kneeland Michael 
+TITLE: Chairman of the Board 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+8/7/20             Sale                     22,000     $170.62      $3,753,664 
+ 
+OWNERSHIP: 111,424 (Direct) 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Kneeland Michael         Chmn            08/07/20    Sell       22,000          170.62     111,424 
+Kneeland Michael         Chmn            06/09/20    Sell       41,936          159.30     133,424 
+Limoges Andrew B         VP              06/05/20    Sell          553          162.80       1,953 
+Graziano Jessica         CFO             05/18/20    Sell        1,349 b        130.00      16,505 
+Roof Donald C            Dir             03/13/20    Buy         5,000           87.26      28,684 
+Singh Shiv               Dir             03/13/20    Buy           600           88.53       4,523 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+August 10, 2020 16:48 ET (20:48 GMT)

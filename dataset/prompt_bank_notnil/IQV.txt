@@ -1,0 +1,50 @@
+
+BARCELONA, Spain--(BUSINESS WIRE)--March 15, 2018-- 
+
+IQVIA (NYSE: IQV), a company dedicated to using analytics and science to help healthcare stakeholders find better solutions for patients, today announced at the eyeforpharma conference that it has formed a strategic alliance with MuleSoft , the provider of the leading platform for building application networks. MuleSoft 's Anypoint Platform(TM) powers Lexi(TM), IQVIA's Integration Platform as a Service (iPaaS) capability which allows life sciences organizations to connect companywide data and applications in a standard and streamlined manner.
+
+MuleSoft 's Anypoint Platform is the leading unified connectivity platform that gives companies the ability to build and use solutions from different cloud-based platforms such as Salesforce , Amazon Web Services , Reltio, Box and others. Internal IT teams use MuleSoft to design and manage application programming interfaces (APIs) to modernize outdated applications, unify multiple clouds, create new products and connect existing systems and information. MuleSoft is the latest addition to the IQVIA(TM) Platform of Platforms strategy, serving as the connective tissue to build all the company's next-generation technologies, born-integrated.
+
+"By creating an application network through API-led connectivity, IQVIA is enabling life sciences companies to accelerate product development, unlock new revenue channels and improve the clinician and patient experience," said Brent Hayward , senior vice president of global channels and alliances, MuleSoft . "We look forward to partnering with IQVIA as they develop new offerings and grow their application network."
+
+Lexi(TM), IQVIA's Integration Platform as a Service (iPaaS) technology, is fueled by MuleSoft to connect all applications and data using a common language for life science clients. Lexi is one of the three new technology solutions that drive IQVIA's next-generation offerings. It is complemented by Ada(TM), an artificial intelligence engine that gives clients recommendations for next-best actions and Apollo(TM), an intuitive user interface.
+
+"We selected MuleSoft to power our Lexi solution because it is exceptional at enabling industry iPaaS technologies," said Tal Rosenberg, senior vice president, Global Technology Solutions, IQVIA. "Our collaboration with MuleSoft advances our strategy of building outstanding enterprise-grade technology on a foundation of intelligent, standards-based technology platforms -- such as Salesforce.com , Amazon Web Services , and Box. This allows us to focus on our areas of differentiation such as our cutting-edge information management, analytics, and technology, which deliver the greatest value and benefit to our life science clients."
+
+The Lexi iPaaS technology powered by MuleSoft is integral to Orchestrated Customer Engagement, the IQVIA offering released in December 2017 that connects marketing, sales and other business functions to enable a new commercial model of orchestration in life sciences. The next IQVIA offering to incorporate Lexi is an upcoming content orchestration solution.
+
+IQVIA introduced its Platform of Platforms strategy in April 2017 when it announced an alliance with Salesforce . Through this strategy, IQVIA builds its life science specific solutions on top of technology platforms, many of which are already part of customers' ecosystems. This approach enables the company to focus on areas of differentiation and delivering greater value to life sciences and healthcare customers in the form of transformative technology solutions.
+
+For more information about the IQVIA/MuleSoft collaboration, please visit Exhibit 37-42 at the eyeforpharma Barcelona conference, or for more information about Orchestrated Customer Engagement, please visit the IQVIA website.
+
+About IQVIA
+
+IQVIA (NYSE: IQV) is a leading global provider of information, innovative technology solutions and contract research services focused on helping healthcare clients find better solutions for patients. Formed through the merger of IMS Health and Quintiles, IQVIA applies human data science -- leveraging the analytic rigor and clarity of data science to the ever-expanding scope of human science -- to enable companies to reimagine and develop new approaches to clinical development and commercialization, speed innovation, and accelerate improvements in healthcare outcomes. Powered by the IQVIA CORE(TM), IQVIA delivers unique and actionable insights at the intersection of large-scale analytics, transformative technology and extensive domain expertise, as well as execution capabilities. With more than 55,000 employees, IQVIA conducts operations in more than 100 countries.
+
+IQVIA is a global leader in protecting individual patient privacy. The company uses a wide variety of privacy-enhancing technologies and safeguards to protect individual privacy while generating and analyzing the information that helps their customers drive human health outcomes forward. IQVIA's insights and execution capabilities help biotech, medical device and pharmaceutical companies, medical researchers, government agencies, payers and other healthcare stakeholders tap into a deeper understanding of diseases, human behaviors and scientific advances, in an effort to advance their path toward cures. To learn more, visit www.IQVIA.com.
+
+Click here to subscribe to Mobile Alerts for IQVIA.
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20180315005337/en/  
+
+
+ 
+    CONTACT:    IQVIA 
+
+Media Relations:
+
+Tor Constantino, 484-567-6732
+
+tor.constantino@IQVIA.com
+
+or
+
+Investor Relations:
+
+Andrew Markwick, 973-257-7144
+
+andrew.markwick@IQVIA.com
+
+(END) Dow Jones Newswires
+
+March 15, 2018 03:00 ET (07:00 GMT)

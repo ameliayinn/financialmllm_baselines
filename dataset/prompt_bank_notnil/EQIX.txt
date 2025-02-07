@@ -1,0 +1,647 @@
+
+Source: OneChicago Exchange 
+For previous business day. 
+ 
+Symbol      Contract 
+               Month       Settle      Change 
+Agilent Technologies 
+A1D          Jun '19        73.24       -0.21 
+Apple Computer 
+AAPL1D       Jun '19       198.89       -0.24 
+AAPL1D       Sep '19       199.80       -0.25 
+ABBVIE INC 
+ABBV1D       Dec '19        79.54       -0.35 
+Ambev SA Div 
+ABEV1D       Jun '19         4.83        0.01 
+ABEV1D       Sep '19         4.85        0.01 
+Accenture PLC 
+ACN1D        Sep '19       187.25        0.51 
+Adobe Systems 
+ADBE1D       Jun '19       300.34        0.48 
+ADBE1D       Sep '19       301.70        0.48 
+Archers-Daniels-Midland 
+ADM1D        Jun '19        40.79       -0.36 
+ADM1D        Sep '19        40.98       -0.36 
+Automatic Data Processing 
+ADP1D        Dec '19       170.06       -0.48 
+American Eagle Outfitters 
+AEO1D        Dec '19        17.95       -0.41 
+AES Corporation 
+AES1D        Jun '19        16.66       -0.13 
+AES1D        Dec '19        16.86       -0.14 
+American Capital Agency Corp 
+AGNC1D       Sep '19        16.93        0.00 
+AGNC1D       Dec '19        17.06        0.00 
+American International 
+AIG1D        Sep '19        53.65       -0.34 
+Apollo Investment Corp 
+AINV1D       Jun '19        15.84       -0.11 
+AINV1D       Sep '19        15.90       -0.11 
+Albemarle Corp 
+ALB1D        Sep '19        68.41       -0.35 
+Alaska Air Group Inc 
+ALK1D        Sep '19        62.79        0.32 
+Alexion Pharmaceuticals Inc 
+ALXN1D       Jun '19       127.18       -5.44 
+Ambarella Inc 
+AMBA1D       Dec '19        44.47       -0.61 
+Advanced Micro Devices 
+AMD1D        Jun '19        29.31        0.16 
+AMD1D        Sep '19        29.44        0.16 
+AMG1D        Sep '19        88.50        0.04 
+Ameriprise Financial Inc 
+AMP1D        Jun '19       147.87        0.94 
+American Tower Corporation 
+AMT1D        Sep '19       215.86       -0.69 
+Amazon 
+AMZN1D       Jun '19      1916.93        2.23 
+AMZN1D       Sep '19      1925.63        2.15 
+Angie's List Inc 
+ANGI1D       Dec '19        14.53       -0.22 
+Andarko Petroleum 
+APC1D        Jun '19        70.22       -0.22 
+Air Products and Chemicals Inc 
+APD1D        Jun '19       223.99        1.45 
+Amphenol Corporation 
+APH1D        Sep '19        96.21        0.09 
+Apollo Global Management LLC Div 
+APO1D        Jun '19        33.34       -0.70 
+Ares Capital Corp 
+ARCC1D       Sep '19        18.00       -0.04 
+Avon Products Inc 
+AVP1D        Dec '19         4.00       -0.01 
+American Water Works Co Inc 
+AWK1D        Sep '19       119.13        0.31 
+AstraZeneca PLC 
+AZN1D        Jun '19        41.56        0.13 
+AZN1D        Sep '19        41.74        0.12 
+Boeing Company 
+BA1D         Jun '19       374.58        2.08 
+Bank of America 
+BAC1D        Jun '19        28.02       -0.15 
+BAC1D        Sep '19        28.15       -0.15 
+Bed Bath Beyond 
+BBBY1D       Sep '19        11.24       -0.31 
+Brunswick Corporation 
+BC1D         Dec '19        46.24       -1.48 
+Barclays PLC 
+BCS1D        Sep '19         7.57       -0.02 
+Becton Dickinson Company 
+BDX1D        Dec '19       253.45        2.65 
+Biogen 2C 
+BIIB1D       Jun '19       236.15       -3.28 
+Ball Corporation 
+BLL1D        Jun '19        67.28        0.09 
+Bristol-Myers Squibb 
+BMY1D        Jun '19        45.75       -3.68 
+BP p.l.c. 
+BP1D         Jun '19        42.25       -0.28 
+BP1D         Sep '19        42.44       -0.28 
+BRF Brasil Foods 
+BRFS1D       Jun '19         7.52        0.10 
+Berkshire Hathaway 
+BRKB1D       Sep '19       208.10        0.58 
+Boston Scientific Corporation 
+BSX1D        Sep '19        42.27        0.31 
+Citigroup 
+C1D          Jun '19        67.52       -0.57 
+C1D          Sep '19        67.82       -0.58 
+ConAgra Foods 
+CAG1D        Sep '19        28.27       -0.63 
+Cardinal Health Inc 
+CAH1D        Jun '19        45.08        0.30 
+Caterpillar 
+CAT1D        Jun '19       134.58        0.45 
+CAT1D        Sep '19       135.19        0.45 
+Crown Castle International 
+CCI1D        Jun '19       135.36       -0.66 
+Carnival Corporation 
+CCL1D        Jun '19        46.07       -0.64 
+CDK Global Inc 
+CDK1D        Dec '19        49.31       -0.57 
+Celgene 
+CELG1D       Jun '19        93.62       -5.46 
+Century Aluminum Company 
+CENX1D       Jun '19         6.68       -0.26 
+CENX1D       Sep '19         6.71       -0.26 
+Cerner Corporation 
+CERN1D       Jun '19        72.77        0.55 
+CERN1D       Dec '19        73.66        0.55 
+CF Industries Holding Inc 
+CF1D         Jun '19        47.12        0.27 
+CF1D         Sep '19        47.34        0.27 
+Chesapeake Energy 
+CHK1D        Jun '19         1.91       -0.04 
+CHK1D        Sep '19         1.92       -0.04 
+Checkpoint Software 
+CHKP1D       Sep '19       114.58       -0.32 
+C.H. Robinson Worldwide inc 
+CHRW1D       Jun '19        83.00       -0.18 
+Chimera Investment Group 
+CIM1D        Sep '19        19.37        0.11 
+Cliffs Natural Resources 
+CLF1D        Sep '19         9.86       -0.24 
+Chicago Mercantile Holdings 
+CME1D        Jun '19       198.73        0.93 
+Chipotle Mexican Grill Inc 
+CMG1D        Dec '19       734.18       -2.95 
+Capstead Mortgage Corp 
+CMO1D        Sep '19         8.33        0.02 
+CenterPoint Energy 
+CNP1D        Sep '19        30.03       -0.08 
+Capital One Financial 
+COF1D        Jun '19        88.86       -2.82 
+CommScope Holding Co Inc 
+COMM1D       Sep '19        15.96       -0.14 
+Conoco Phillips 
+COP1D        Sep '19        60.89        0.19 
+Costco Wholesale 
+COST1D       Jun '19       267.19        0.59 
+COST1D       Sep '19       268.41        0.58 
+Coty Inc 
+COTY1D       Sep '19        13.08       -0.08 
+CPRT1D       Sep '19        74.22       -0.19 
+Cree 
+CREE1D       Jun '19        57.35        0.10 
+Credit Suisse Group 
+CS1D         Sep '19        11.73       -0.04 
+Cisco Systems 
+CSCO1D       Sep '19        57.53        0.14 
+CSCO1D       Dec '19        57.97        0.13 
+CSX Corporation 
+CSX1D        Jun '19        77.64       -1.17 
+CSX1D        Sep '19        78.00       -1.17 
+Century Tel Inc 
+CTL1D        Sep '19        11.19       -0.22 
+CVS/Caremark Corp 
+CVS1D        Sep '19        53.47       -0.52 
+ChevronTexaco Corp 
+CVX1D        Jun '19       125.10       -0.04 
+CVX1D        Sep '19       125.65       -0.03 
+Discover Financial Services 
+DFS1D        Jun '19        77.71       -0.81 
+Walt Disney 
+DIS1D        Jun '19       139.44       -1.04 
+Dicks Sporting Goods Inc 
+DKS1D        Jun '19        33.98       -0.25 
+Dollar Tree Inc 
+DLTR1D       Sep '19       113.39        0.52 
+Duke Energy-1C 
+DUK1D        Sep '19        90.46        0.36 
+DaVita Inc 
+DVA1D        Sep '19        53.74        0.42 
+Devon Energy Corporation 
+DVN1D        Sep '19        28.09       -0.33 
+Dynex Capital Inc 
+DX1D         Sep '19        17.06        0.00 
+eBAY 
+EBAY1D       Sep '19        39.95       -0.35 
+Estee Lauder 
+EL1D         Jun '19       184.20        2.57 
+EL1D         Dec '19       186.46        2.59 
+Eastman Chemical Co 
+EMN1D        Jun '19        76.00       -0.35 
+EMN1D        Sep '19        76.34       -0.36 
+Emerson Electric 
+EMR1D        Jun '19        65.51       -0.24 
+EMR1D        Sep '19        65.81       -0.24 
+Enbridge Inc 
+ENB1D        Sep '19        35.32       -0.06 
+ENDP1D       Sep '19         3.61       -0.25 
+EOG Resources 
+EOG1D        Jun '19        90.69       -1.83 
+Wisdom Tree India Earnings 
+EPI1D        Sep '19        25.78       -0.15 
+Equinix Inc 
+EQIX1D       Sep '19       513.17        1.84 
+ENSCO International Co 
+ESV1D        Sep '19         7.78       -0.06 
+Eaton Corp 
+ETN1D        Jun '19        82.40       -0.97 
+ETN1D        Dec '19        83.41       -0.99 
+Entergy Corporation 
+ETR1D        Jun '19       103.85       -0.60 
+Exelon Corporation 
+EXC1D        Jun '19        50.24       -0.25 
+Expedia Inc 
+EXPE1D       Dec '19       132.04       -0.28 
+Ford Motor 
+F1D          Jun '19         9.97       -0.04 
+F1D          Sep '19        10.01       -0.04 
+Diamondback Energy Inc 
+FANG1D       Sep '19       108.30       -2.18 
+Fastenal Company 
+FAST1D       Jun '19        32.66        0.00 
+FAST1D       Sep '19        32.81        0.00 
+Facebook Inc 
+FB1D         Jun '19       192.90        1.42 
+FB1D         Sep '19       193.78        1.42 
+First Energy Corporation 
+FE1D         Sep '19        43.88       -0.07 
+Fitbit Inc 
+FIT1D        Sep '19         4.45       -0.06 
+Fluor Corporation 
+FLR1D        Sep '19        31.28       -0.96 
+Flowserve Corporation 
+FLS1D        Sep '19        50.78        0.00 
+General Electric 
+GE1D         Sep '19        10.34       -0.21 
+GE1D         Dec '19        10.42       -0.21 
+Gilead Sciences 
+GILD1D       Sep '19        69.26       -0.56 
+General Mills 
+GIS1D        Sep '19        54.00       -0.11 
+Corning Incorporated 
+GLW1D        Jun '19        33.09       -0.22 
+General Motors 
+GM1D         Sep '19        37.19        0.03 
+Randgold Resources Limited ADR 
+GOLD1D       Jun '19        16.27        0.64 
+GOLD1D       Sep '19        16.34        0.64 
+Alphabet Inc Div 
+GOLG1D       Sep '19      1123.55       -8.99 
+Alphabet Inc Class C 
+GOOG1D       Jun '19      1117.29       -6.59 
+GoPro Inc 
+GPRO1D       Sep '19         5.74       -0.14 
+Gap Inc 
+GPS1D        Jun '19        17.71       -0.54 
+GrubHub Inc 
+GRUB1D       Sep '19        72.20        1.02 
+Goldman Sachs Group 
+GS1D         Sep '19       198.69        1.50 
+Hasbro 
+HAS1D        Sep '19       107.04       -0.91 
+Hanesbrands Inc 
+HBI1D        Sep '19        16.80       -0.93 
+Home Depot 
+HD1D         Dec '19       208.35       -4.00 
+Holly Frontier 
+HFC1D        Sep '19        44.11       -0.29 
+Howard Hughes Corp 
+HHC1D        Dec '19        98.78       -5.13 
+HII1D        Sep '19       223.98       -0.31 
+Hecla Mining Company 
+HL1D         Jun '19         1.77       -0.07 
+HL1D         Sep '19         1.78       -0.07 
+Hilton Worldwide Holdings Inc D 
+HLT1D        Dec '19        96.84       -0.66 
+Hewlett Packard 
+HPQ1D        Jun '19        20.69       -0.05 
+H&R Block 
+HRB1D        Jun '19        27.65       -0.30 
+Host Hotels & Resorts 
+HST1D        Sep '19        17.98       -0.31 
+
+25 Jun 2019 09:15 ET 
+OneChicago Futures Close -2-
+
+
+Hercules Tech.Growth Capital Inc 
+HTGC1D       Sep '19        12.79       -0.05 
+Huntsman Corporation 
+HUN1D        Sep '19        19.47       -0.29 
+International Business Machines 
+IBM1D        Jun '19       139.57        0.12 
+IBM1D        Sep '19       140.20        0.11 
+Intercontinental Exchange 
+ICE1D        Sep '19        87.13       -0.19 
+ING Group N.V. 
+ING1D        Sep '19        11.14       -0.05 
+Intel Corporation 
+INTC1D       Sep '19        47.92        0.16 
+Intuit Inc 
+INTU1D       Jun '19       262.76        0.78 
+International Paper 
+IP1D         Jun '19        42.40       -1.29 
+IPG Photonics Corp 
+IPGP1D       Sep '19       147.06       -0.35 
+IPGP1D       Dec '19       148.19       -0.36 
+Iron Mountain Inc 
+IRM1D        Jun '19        31.56       -0.56 
+IRM1D        Sep '19        31.70       -0.56 
+IT1D         Sep '19       162.82        0.32 
+Illinois Tool Works 
+ITW1D        Jun '19       152.29        0.09 
+JetBlue Airways 
+JBLU1D       Sep '19        18.56       -0.15 
+Johnson Controls 
+JCI1D        Jun '19        40.47        0.31 
+J.C. Penney 
+JCP1D        Sep '19         1.04       -0.10 
+Jacobs Engineering Group Inc. 
+JEC1D        Sep '19        82.48       -0.35 
+Johnson & Johnson 
+JNJ1D        Jun '19       143.29        0.95 
+Juniper Networks 
+JNPR1D       Sep '19        26.78       -0.20 
+J.P. Morgan Chase 
+JPM1D        Sep '19       109.33       -0.81 
+Kimco Realty Corporation 
+KIM1D        Sep '19        18.76       -0.26 
+Kinder Morgan Inc 
+KMI1D        Sep '19        21.29       -0.23 
+Coca-Cola 
+KO1D         Sep '19        52.24        0.36 
+The Kroger Company 
+KR1D         Sep '19        22.22       -0.16 
+Kohl's 
+KSS1D        Sep '19        46.26       -1.55 
+L Brands Inc Div 
+LB1D         Jun '19        24.51       -0.12 
+LB1D         Dec '19        24.80       -0.14 
+Lennar 
+LEN1D        Sep '19        51.73        0.05 
+Lockheed Martin 
+LMT1D        Jun '19       360.55        0.55 
+Lowe's 
+LOW1D        Dec '19       100.39       -1.88 
+Las Vegas Sands Corp 
+LVS1D        Jun '19        58.84       -0.50 
+Lyondell Basell Industries 
+LYB1D        Jun '19        87.10        0.49 
+Mastercard Inc 
+MA1D         Sep '19       266.93        0.78 
+Macerich Company 
+MAC1D        Sep '19        33.14       -0.85 
+Marriott International 
+MAR1D        Jun '19       136.97       -0.34 
+Masco Corporation 
+MAS1D        Jun '19        38.91        0.74 
+Mattel Incorporated 
+MAT1D        Jun '19        10.74       -0.27 
+MAT1D        Sep '19        10.76       -0.28 
+McDonalds Corporation 
+MCD1D        Jun '19       204.24       -0.38 
+MCD1D        Sep '19       205.17       -0.39 
+Mondelez International 
+MDLZ1D       Jun '19        55.42        0.07 
+Medtronics Inc 
+MDT1D        Sep '19        99.77       -0.24 
+MetLife 
+MET1D        Sep '19        49.39        0.17 
+Magna International Inc 
+MGA1D        Dec '19        49.45       -0.01 
+MGM MIRAGE 
+MGM1D        Sep '19        28.09        0.21 
+MHK1D        Sep '19       146.82       -0.14 
+MLM1D        Sep '19       226.32       -0.04 
+3M Co 
+MMM1D        Jun '19       173.65       -0.01 
+MMM1D        Sep '19       174.44       -0.01 
+Altria Group Inc 
+MO1D         Jun '19        48.57        0.48 
+MO1D         Sep '19        48.79        0.48 
+Mosiac Company 
+MOS1D        Jun '19        23.47        0.01 
+MOS1D        Sep '19        23.57        0.00 
+Marathon Petroleum 
+MPC1D        Jun '19        51.68       -1.07 
+MPC1D        Sep '19        51.92       -1.08 
+Merck Co Inc 
+MRK1D        Jun '19        85.65        0.93 
+MRK1D        Sep '19        86.03        0.92 
+Marathon Oil Corp 
+MRO1D        Jun '19        13.95       -0.13 
+MRO1D        Sep '19        14.02       -0.12 
+Morgan Stanley 
+MS1D         Jun '19        43.14       -0.52 
+MS1D         Sep '19        43.33       -0.53 
+MS1D         Dec '19        43.67       -0.53 
+Microsoft Corporation 
+MSFT1D       Jun '19       138.00        0.79 
+MSFT1D       Sep '19       138.62        0.78 
+MSFT1D       Dec '19       139.69        0.78 
+Micron Technology 
+MU1D         Jun '19        33.24       -0.07 
+MU1D         Sep '19        33.39       -0.07 
+Mylan Laboratories 
+MYL1D        Sep '19        18.07       -0.37 
+MYL1D        Dec '19        18.21       -0.37 
+Noble Energy Inc 
+NBL1D        Jun '19        21.29       -0.31 
+NexEra Energy Inc 
+NEE1D        Jun '19       208.53        0.61 
+NEE1D        Dec '19       211.08        0.60 
+Newmont Mining 
+NEM1D        Jun '19        38.50        0.94 
+Netflix Inc 
+NFLX1D       Jun '19       371.63        1.76 
+NFLX1D       Sep '19       373.31        1.75 
+NiSource Incorporated 
+NI1D         Dec '19        29.74       -0.02 
+Nike Inc Class B 
+NKE1D        Jun '19        84.63       -1.27 
+NKE1D        Sep '19        85.02       -1.28 
+NKTR1D       Sep '19        34.10       -0.97 
+Annaly Capital Management Inc 
+NLY1D        Sep '19         9.28        0.07 
+NRG Energy Inc 
+NRG1D        Sep '19        35.39        0.00 
+NRG1D        Dec '19        35.65        0.00 
+Network Appliance 
+NTAP1D       Dec '19        62.09       -0.24 
+Nucor 
+NUE1D        Jun '19        53.83       -0.21 
+Nuvasive Inc 
+NUVA1D       Dec '19        58.56        0.66 
+Nvidia Corporation 
+NVDA1D       Sep '19       153.58        0.95 
+Newel Rubbermaid 
+NWL1D        Jun '19        14.75       -0.64 
+NWL1D        Sep '19        14.82       -0.64 
+NXP Semiconductors N.V. Div 
+NXPI1D       Sep '19        98.23       -0.44 
+ONEOK Inc Div 
+OKE1D        Jun '19        67.40       -1.66 
+Omnicon Group Div 
+OMC1D        Jun '19        81.57        0.04 
+ON Semiconductor Corp 
+ON1D         Dec '19        19.71        0.01 
+Opko Health Inc Div 
+OPK1D        Sep '19         2.04        0.02 
+Oracle Corporation 
+ORCL1D       Jun '19        56.83        0.61 
+ORCL1D       Sep '19        57.09        0.61 
+Overstock.com 
+OSTK1D       Sep '19        10.75       -0.49 
+Occidental Petroleum Corp 
+OXY1D        Sep '19        50.19       -0.74 
+Pan American Silver Corp 
+PAAS1D       Jun '19        13.36        0.49 
+PAAS1D       Sep '19        13.42        0.49 
+Public Service Enterprise Group 
+PEG1D        Jun '19        61.22        0.06 
+PepsiCo 
+PEP1D        Jun '19       134.35        0.15 
+Pfizer 
+PFE1D        Jun '19        43.83        0.08 
+PFE1D        Sep '19        44.03        0.08 
+Procter & Gamble Co 
+PG1D         Jun '19       112.51        1.11 
+PG1D         Sep '19       113.02        1.11 
+Progressive Corporation 
+PGR1D        Jun '19        80.49        0.23 
+Pulte Homes 
+PHM1D        Jun '19        32.20        0.24 
+Philip Morris International Inc 
+PM1D         Jun '19        77.95       -1.41 
+PM1D         Sep '19        78.31       -1.41 
+PPG Industries 
+PPG1D        Jun '19       117.09        0.81 
+PPL Corporation 
+PPL1D        Jun '19        31.63       -0.18 
+PRGO1D       Sep '19        44.43       -0.35 
+Prudential Financial 
+PRU1D        Jun '19        99.46       -0.32 
+Prospect Capital Corp 
+PSEC1D       Sep '19         6.56       -0.04 
+PSEC1D       Dec '19         6.56       -0.05 
+Phillips 66 Div 
+PSX1D        Sep '19        90.31       -0.85 
+Pioneer Natural Resources 
+PXD1D        Jun '19       151.52       -3.97 
+PayPal Holdings Inc 
+PYPL1D       Jun '19       116.68        0.26 
+PYPL1D       Sep '19       117.21        0.26 
+Qualcomm 
+QCOM1D       Sep '19        73.61        0.43 
+Everest Re Group LTD 
+RE1D         Sep '19       253.05        1.31 
+Transocean 
+RIG1D        Sep '19         6.21       -0.12 
+Ramco-Gershenson Properties 
+RPT1D        Sep '19        12.37       -0.26 
+Range Reserve Corporation 
+RRC1D        Sep '19         7.13        0.06 
+Raytheon 
+RTN1D        Sep '19       185.15        0.85 
+Rayonier Inc 
+RYN1D        Sep '19        30.45       -0.44 
+Starbucks 
+SBUX1D       Jun '19        83.78       -0.19 
+SBUX1D       Sep '19        84.16       -0.19 
+SBUX1D       Dec '19        84.81       -0.20 
+Charles Schwab 
+SCHW1D       Jun '19        39.21       -1.49 
+Schlumberger 
+SLB1D        Jun '19        38.71       -0.24 
+SLB1D        Dec '19        39.19       -0.24 
+SLG1D        Sep '19        83.24       -1.62 
+Southern Company 
+SO1D         Jun '19        56.37        0.00 
+SO1D         Sep '19        56.61        0.00 
+Simon Property Group 
+SPG1D        Jun '19       162.29       -2.09 
+Sempra Energy 
+SRE1D        Jun '19       141.07       -0.22 
+Sun Trust Banks 
+STI1D        Jun '19        62.31       -0.13 
+Seagate Technology 
+STX1D        Jun '19        47.39        0.85 
+Southwestern Energy 
+SWN1D        Jun '19         3.24        0.08 
+SWN1D        Sep '19         3.25        0.08 
+Synchrony Financial 
+SYF1D        Sep '19        34.20       -0.33 
+Stryker Corporation 
+SYK1D        Dec '19       207.32        1.73 
+AT&T Corporation 
+T1D          Sep '19        32.78        0.12 
+Tyco Electronics 
+TEL1D        Jun '19        95.15       -0.21 
+Teva Pharmaceutical 
+TEVA1D       Jun '19         8.26       -0.21 
+TEVA1D       Sep '19         8.30       -0.20 
+Teleflex Inc 
+TFX1D        Sep '19       334.84       -2.02 
+Target 
+TGT1D        Jun '19        86.86       -0.90 
+TGT1D        Sep '19        87.25       -0.91 
+TJX Companies 
+TJX1D        Jun '19        52.86       -0.14 
+Thermo-Fisher Scientific Inc 
+TMO1D        Jun '19       296.02        1.04 
+T.Rowe Price Group 
+TROW1D       Jun '19       107.23       -1.28 
+Tesla Motors Inc 
+TSLA1D       Jun '19       223.89        1.78 
+TSLA1D       Sep '19       224.63        1.82 
+TSLA1D       Dec '19       225.97        1.90 
+Tyson Food Inc-CI.A 
+TSN1D        Sep '19        81.31        1.51 
+Tata Motors Limited 
+TTM1D        Sep '19        11.46       -0.04 
+Twitter Inc Div 
+TWTR1D       Sep '19        35.80        0.56 
+Under Armour Inc 
+UA1D         Sep '19        22.58       -0.66 
+United Continental Holdings Inc 
+UAL1D        Jun '19        86.68       -0.19 
+United Health Group 
+UNH1D        Jun '19       250.04       -2.69 
+UNH1D        Sep '19       251.17       -2.72 
+Union Pacific Corporation 
+UNP1D        Jun '19       167.51       -1.65 
+UNP1D        Sep '19       168.28       -1.62 
+United Parcel Service 
+
+25 Jun 2019 09:15 ET 
+OneChicago Futures Close -3-
+
+
+UPS1D        Jun '19        99.88       -2.47 
+UPS1D        Sep '19       100.33       -2.49 
+United Rentals Inc 
+URI1D        Dec '19       131.41       -0.28 
+United States Oil Fund 
+USO1D        Sep '19        12.03        0.03 
+United Technologies 
+UTX1D        Jun '19       130.39        1.41 
+UTX1D        Sep '19       130.98        1.41 
+UTX1D        Dec '19       131.99        1.42 
+Visa Inc 
+V1D          Sep '19       174.90        0.36 
+Visteon Corporation 
+VC1D         Dec '19        54.34       -0.56 
+Valero Energy Corporation 
+VLO1D        Sep '19        81.26       -1.17 
+Vulcan Materials 
+VMC1D        Sep '19       135.26       -0.52 
+Visa Outdoor Inc 
+VSTO1D       Dec '19         8.67        0.11 
+Verizon Communications 
+VZ1D         Jun '19        58.36        0.49 
+VZ1D         Sep '19        58.63        0.49 
+WDAY1D       Sep '19       210.34       -7.37 
+WELL1D       Sep '19        84.59        0.41 
+Wells Fargo Co 
+WFC1D        Jun '19        46.34       -0.63 
+WFC1D        Sep '19        46.55       -0.64 
+Whirlpool Corporation 
+WHR1D        Jun '19       140.32       -1.60 
+Wal-Mart Stores Inc 
+WMT1D        Jun '19       111.42        0.09 
+WMT1D        Sep '19       111.92        0.08 
+Watsco Inc 
+WSO1D        Dec '19       163.78       -2.61 
+Weyerhauser 
+WY1D         Sep '19        25.99       -0.33 
+United States Steel 
+X1D          Sep '19        14.54       -0.22 
+Xcel Energy Incorporated 
+XEL1D        Jun '19        61.37       -0.28 
+Exxon Mobil Corporation 
+XOM1D        Jun '19        77.07       -0.76 
+XRAY1D       Sep '19        57.83       -1.23 
+Xerox Corporation 
+XRX1D        Jun '19        34.88       -0.44 
+Zion Bancorp 
+ZION1D       Sep '19        44.39       -0.32 
+ 
+Write to Valena Henderson at csstat@dowjones.com ? 
+ 
+
+(END) Dow Jones Newswires
+
+June 25, 2019 09:15 ET (13:15 GMT)

@@ -1,0 +1,283 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Friday and early Monday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+1Life Healthcare Inc (ONEM) 
+ Lockhart Kimber D (O)         11/11/20          105,000   $35.04      37,349 
+ Rubin Amir Dan (CB)           11/11/20          235,000   $34.40     249,377 
+ 
+Adaptive Biotechnologies Corp (ADPT) 
+ Viking Global Perfor (SH)     11/11/20        2,500,000   $49.52  30,993,708 
+ 
+Advanced Drainage Systems Inc (WMS) 
+ Berkshire Partners H (SH) 11/11/20-11/13/20     139,620   $64.96  12,701,088 
+ 
+Advanced Micro Devices (AMD) 
+ Kumar Devinder (CFO)          11/11/20           47,537   $79.69     475,013 
+ 
+Alexander & Baldwin Inc (ALEX) 
+ Chun Nelson N S (VP)          11/11/20           31,291   $15.90     140,890 
+ 
+ANGI Homeservices Inc (ANGI) CL A 
+ Smith Craig M (P)             11/11/20          371,738   $10.42           0 
+ 
+Arrow Electronics Inc (ARW) 
+ Hill Richard S (D)            11/11/20           11,300   $86.10           0 
+ Melvin Vincent P (VP)         11/11/20            8,625   $85.88      30,253 
+ 
+Avient Corp (AVNT) 
+ Kunkle Lisa K (VP)            11/12/20           12,042   $34.51      69,151 
+ 
+Black Diamond Therapeutics Inc (BDTX) 
+ Versant Venture Capi (SH)     11/12/20           15,598   $34.15   7,786,276 
+ 
+BlackLine Inc (BL) 
+ Huffman Marc (P)              11/12/20           33,655  $106.69     155,615 
+ 
+BlackRock Inc (BLK) 
+ Meade Christopher J (O)       11/11/20              699  $669.79       7,635 
+ 
+Carvana Co (CVNA) 
+ Garcia Ernest C II (SH)       11/11/20           19,571  $199.22     655,556 
+ Garcia Ernest C II (SH)       11/11/20           10,429  $205.11     655,556 
+ 
+Chicken Soup for the Soul Entertainment Inc (CSSE) 
+*Greenhaven Road Inve (SH)     11/12/20           22,748   $15.63     699,231 
+ 
+CloudFlare Inc (NET) CL A 
+ Sandell Scott D (D)       11/12/20-11/13/20      85,680   $64.10   3,876,576 
+ 
+Columbia Sportswear Company (COLM) 
+ Bany Sarah A (SH)         11/11/20-11/12/20      50,900   $80.00   7,716,037 
+ 
+Community Health Systems Inc (CYH) 
+ Chen Tian Qiao (SH)       11/10/20-11/12/20   5,000,000    $8.29  22,484,473 
+ 
+CONMED Corp (CNMD) 
+ Kennedy John Jed (VP)         11/11/20           17,240   $94.82       7,198 
+ 
+Crown Castle International Corp (CCI) 
+ Young James D (VP)            11/12/20            6,000  $164.32     187,572 
+ 
+Datadog Inc (DDOG) CL A 
+ Kopits Laszlo (VP)            11/10/20           11,100   $91.65     162,845 
+ 
+Dell Technologies Inc (DELL) CL C 
+ Clarke Jeffrey W (COO)    11/11/20-11/12/20      70,556   $65.11     384,445 
+ Sweet Thomas W (CFO)      11/11/20-11/12/20       5,700   $65.14      75,169 
+ 
+Denali Therapeutics Inc (DNLI) 
+ Schenkein David P (D)         11/12/20           30,000   $70.05     274,998 
+ 
+DocuSign Inc (DOCU) 
+ Alhadeff Loren (O)            11/12/20            5,000  $211.98      75,973 
+ 
+Edwards Lifesciences Corp (EW) 
+ Bobo Donald E Jr (VP)         11/13/20           13,074   $80.56     210,749 
+ 
+Eidos Therapeutics Inc (EIDX) 
+ Turtle Cameron (O)            11/11/20           13,410   $74.51      50,621 
+ 
+Electronic Arts Inc (EA) CL A 
+ Hoag Jay C (D)                11/11/20           14,602  $118.76     295,099 
+ 
+Energy Recovery Inc (ERII) 
+ Buehler Alexander J (D)       11/11/20           50,000   $10.28      10,000 
+ 
+Ensign Group Inc (ENSG) 
+ Burton Spencer (P)            11/11/20            5,899   $68.00      24,590 
+ Port Barry (CEO)              11/11/20           33,133   $68.00     165,346 
+ 
+Exelixis Inc (EXEL) 
+ Wyszomierski Jack L (D)       11/10/20           34,000   $20.61     197,809 
+ 
+Five Prime Therapeutics Inc (FPRX) 
+ Bvf Partners LP (SH)          11/11/20        7,393,340   $20.19   1,237,471 
+ 
+Freeport-McMoRan Inc (FCX) 
+ Whitmire C Donald Jr (VP)     11/11/20           27,100   $19.41      69,013 
+ 
+General Motors Co (GM) 
+ Barra Mary T (CB)             11/11/20          500,000   $40.69   1,308,329 
+ 
+GenMark Diagnostics Inc (GNMK) 
+ Stier Eric (VP)               11/11/20           59,293   $12.77     234,104 
+ 
+Green Dot Corp (GDOT) CL A 
+ Bridgforth-Hodges Gl (D)      11/12/20            5,012   $55.14      15,054 
+ 
+Healthcare Trust of America Inc (HTA) CL A 
+ Houghton Amanda (VP)          11/13/20           32,507   $27.80      91,244 
+ 
+Horizon Therapeutics plc (HZNP) 
+ Mchugh Miles W (VP)           11/12/20           12,124   $75.48      21,597 
+ 
+Hostess Brands Inc (TWNK) CL A 
+ Hostess Cdm Co-Inves (SH)     11/11/20           50,000   $13.74           0 
+ 
+Ideaya Biosciences Inc (IDYA) 
+ 5am Ventures IV LP (SH)       11/11/20          800,000   $13.66   2,663,066 
+ 
+Intra-Cellular Therapies Inc (ITCI) 
+ Hineline Lawrence J (CFO)     11/11/20           28,034   $25.41           0 
+ 
+Jabil Inc (JBL) 
+ Katz Robert L (VP)            11/11/20           23,323   $36.92     164,970 
+ 
+Jazz Pharmaceuticals Plc (JAZZ) 
+ Enright Patrick G (D)         11/12/20            9,929  $146.72      20,368 
+ 
+John Bean Technologies Corp (JBT) 
+ Ringler James M (D)           11/11/20            3,416   $99.92      48,023 
+ 
+Littelfuse Inc (LFUS) 
+ Heinzmann David W (CEO)   11/11/20-11/13/20       5,000  $220.78      53,278 
+ 
+LPL Financial Holdings Inc (LPLA) 
+ Oroschakoff Michelle (O)      11/12/20            4,000   $86.79      19,857 
+ 
+Mesa Laboratories Inc (MLAB) 
+ Guillemin Evan (D)            11/12/20              950  $273.77      35,878 
+ 
+Microchip Technology Inc (MCHP) 
+ Drehobl Stephen V (VP)        11/11/20            2,904  $126.18      16,630 
+ 
+Newmont Corp (NEM) 
+ Engel E Randall (VP)          11/11/20            5,000   $64.31     274,341 
+ Gottesfeld Stephen P (VP)     11/11/20            4,000   $64.31     122,944 
+ 
+Northern Trust Corp (NTRS) 
+ St Clair Joyce M (VP)         11/11/20           29,154   $90.05      83,188 
+ 
+ON Semiconductor Corp (ON) 
+ Gutmann Bernard (CFO)         11/10/20           99,144   $27.06     555,242 
+ Rolls Paul E (VP)             11/11/20           27,818   $27.93     210,880 
+ 
+OptimizeRx Corp (OPRX) 
+ Baker Douglas P (CFO)         11/11/20           15,000   $24.05      90,705 
+ 
+Orion Energy Systems Inc (OESX) 
+ Potts Michael J (D)       11/12/20-11/13/20      68,066    $8.04     614,356 
+ 
+Orisun Acquisition Corp (ORSN) 
+ Glazer Capital LLC (SH)       11/10/20          153,482   $10.20     700,000 
+ 
+Pacific Biosciences of California Inc (PACB) 
+ Hunkapiller Michael  (D)  11/10/20-11/12/20   1,950,000   $14.79   1,382,413 
+ 
+Pagerduty Inc (PD) 
+ Tejada Jennifer (CB)           11/9/20           52,000   $29.73     566,668 
+ 
+Party City Holdco Inc (PRTY) 
+ Harrison James M (OD)         11/11/20          225,000    $3.08     534,532 
+ 
+Penumbra Inc (PEN) 
+ Bose Arani (OD)               11/10/20            7,998  $255.43     550,662 
+ Elsesser Adam (CB)            11/11/20            8,000  $265.16     965,582 
+ 
+Playa Hotels & Resorts NV (PLYA) 
+ Peterson Karl (D)         11/11/20-11/13/20     350,000    $4.44   3,604,033 
+ 
+Plexus Corp (PLXS) 
+ Lim Yong Jin (O)              11/11/20           24,000   $74.69      56,654 
+ 
+ 
+
+16 Nov 2020 08:45 ET 
+Substantial Insider Sales: Morning Report -2-
+
+
+____________________________________________________________________________ 
+ 
+Substantial Insider Sales: Morning Report (Continued) 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+ResMed Inc (RMD) 
+ Leong Justin (O)               11/5/20            7,740  $211.36      25,386 
+ 
+Revolve Group Inc (RVLV) 
+ Mente Michael (CEO)       11/11/20-11/13/20     300,000   $21.10      73,000 
+ 
+RingCentral Inc (RNG) CL A 
+ Williams R Neil (D)       11/11/20-11/12/20       4,776  $289.20      13,078 
+ 
+Rockwell Automation Inc (ROK) 
+ Goris Patrick P (CFO)     11/12/20-11/13/20      26,332  $238.18      11,296 
+ Moret Blake D (CB)        11/12/20-11/13/20      20,700  $238.98      46,579 
+ 
+Roku Inc (ROKU) 
+ Henricks Alan S (D)       11/10/20-11/13/20      18,000  $230.82       5,287 
+ 
+Silk Road Medical Inc (SILK) 
+ Rogers Erica J (CEO)          11/11/20           11,000   $63.44     195,451 
+ 
+Skyworks Solutions Inc (SWKS) 
+ Griffin Liam (CEO)            11/12/20           15,321  $143.04      82,487 
+ Terry Robert John (VP)    11/10/20-11/13/20       1,761  $143.68      14,145 
+ 
+Stanley Black & Decker Inc (SWK) 
+ Wyatt John H (VP)             11/11/20           22,894  $180.01      48,277 
+ 
+Starbucks Corp (SBUX) 
+ Teruel Javier G (D)           11/11/20           46,778   $95.70     116,923 
+ 
+Teradyne Inc (TER) 
+ Smith Gregory Stephe (O)      11/11/20           10,000   $99.95      33,124 
+ Vallee Roy (D)                11/11/20           83,706  $100.55       3,073 
+ 
+TFF Pharmaceuticals Inc (TFFP) 
+ Fairbairn Malcolm (D)     11/11/20-11/12/20      75,000   $15.94   1,317,568 
+ Mattes Glenn R (CEO)          11/10/20          108,830   $15.00      20,000 
+ Rocamboli Stephen (D)     11/10/20-11/11/20      37,000   $15.40           0 
+ Thurman Randy H (D)       11/11/20-11/13/20      39,504   $16.07           0 
+ 
+TPI Composites Inc (TPIC) 
+ Castle Thomas J (VP)      11/10/20-11/12/20      58,204   $39.86           0 
+ 
+TransDigm Group Inc (TDG) 
+ Howley W Nicholas (CB)        11/13/20            7,474  $559.76           0 
+ 
+Veracyte Inc (VCYT) 
+ Gordon Kevin K (D)            11/12/20           10,000   $47.11           0 
+ Ho Mark (O)                   11/11/20           13,875   $45.00      19,086 
+ 
+VeriSign Inc (VRSN) 
+ Bidzos D James (CB)           11/11/20            6,000  $201.64     858,485 
+ 
+WEC Energy Group Inc (WEC) 
+ Klappa Gale E (CB)            11/11/20            4,501  $105.59     213,575 
+ 
+World Fuel Svcs Corp (INT) 
+ Stebbins Paul H (D)           11/11/20           25,000   $28.04     347,699 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+November 16, 2020 08:45 ET (13:45 GMT)

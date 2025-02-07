@@ -1,0 +1,40 @@
+
+ 
+SOURCE: Form 4 
+ 
+ISSUER: NiSource Inc 
+SYMBOL: NI 
+ 
+FILER: Creekmur Daniel A 
+TITLE: Vice President 
+ 
+DATE               TRANSACTION              SHARES       PRICE           VALUE 
+11/9/20            Sale                      4,114      $24.29         $99,929 
+ 
+OWNERSHIP: 5,144 (Direct)  677 (Indirect) 
+ 
+--------------------------------------- HISTORICAL ACTIVITY -------------------------------------- 
+                                                                                  AVG    REMAINING 
+INSIDER NAME             ROLE          TRADE DATES   TRANS      SHARES FLAGS     PRICE    HOLDINGS 
+ 
+Creekmur Daniel A        VP              11/09/20    Sell        4,114           24.29       5,821 
+Shafer Charles Edward II VP              09/15/20    Sell        1,650           22.50      15,613 
+ 
+  a=amended  o=option related sell  b=some/all trades per Rule 10(b)5-1 plan 
+ 
+  Further insider trading history and detail is available at 
+  ezinsider.washingtonservice.com.  For a free trial or to learn more 
+  about our insider trading analysis and data services, please contact 
+  us at (301) 913-5100 or info@washingtonservice.com. 
+ 
+  The Form 4 is filed with the Securities and Exchange Commission by insiders 
+  to report transactions in their companies' shares.  Open market purchases 
+  and sales must be reported within two business days of the transaction. 
+ 
+  Insider Data Source: The Washington Service 
+                     (info@washingtonservice.com or 301-913-5100) 
+ 
+
+(END) Dow Jones Newswires
+
+November 10, 2020 12:57 ET (17:57 GMT)

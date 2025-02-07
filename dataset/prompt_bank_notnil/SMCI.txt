@@ -1,0 +1,160 @@
+
+____________________________________________________________________________ 
+ 
+     The following is a list of insider sales with a total value of at 
+least $250,000 reported to the Securities and Exchange Commission late 
+Thursday and early Friday. 
+ 
+ 
+Company - (Symbol) Security 
+ Insider                        Date(s)          Shares   Price     Holdings 
+____________________________________________________________________________ 
+ 
+ADVANCED ENERGY INDUSTRIES INC (AEIS) 
+ Wasserman Yuval (O)            2/5/13           41,990   $16.00      22,915 
+ 
+AECOM TECHNOLOGY CORP (ACM) 
+ Chmielinski Jane A (COO)   2/5/13-2/7/13        17,381   $27.00      28,071 
+ 
+ASPEN TECHNOLOGY INC (AZPN) 
+ Fusco Mark (CEO)               2/5/13          187,434   $30.26     370,065 
+ 
+BB&T CORP (BBT) 
+ Duck Barbara F (VP)            2/5/13           44,963   $30.91      75,725 
+ 
+BED BATH & BEYOND (BBBY) 
+ Castagna Eugene A (CFO)        2/6/13            5,000   $59.96     134,876 
+ Temares Steven H (CEO)     2/5/13-2/6/13       154,630   $59.61     552,318 
+ 
+BROADCOM CORP (BRCM) CL A 
+ Mcgregor Scott A (CEO)         2/5/13           20,000   $32.67     566,372 
+ 
+CBRE GROUP INC (CBG) CL A 
+ Wirta Raymond E (D)        2/5/13-2/7/13       300,000   $23.52   1,068,460 
+ 
+COLGATE-PALMOLIVE CO (CL) 
+ Hendry Andrew D (O)            2/5/13            3,000  $109.50     109,463 
+ Marsili Daniel B (VP)          2/5/13           28,000  $109.56      62,087 
+ Martin Ronald T (VP)           2/5/13           10,500  $109.77      14,181 
+ Wallace Noel R (O)             2/5/13            8,000  $109.86      76,031 
+ 
+CONOCOPHILLIPS (COP) 
+ Schwarz Glenda Mae (VP)        2/7/13            6,903   $57.59      11,368 
+ 
+CRANE CO (CR) 
+ Krawitt Andrew L (T)           2/6/13           11,250   $51.65      16,047 
+ 
+CYTEC INDUSTRIES INC (CYT) 
+ Avrin William N (VP)           2/7/13           10,000   $73.09      22,197 
+ 
+DELTA AIR LINES INC (DAL) 
+ Campbell Michael H (VP)        2/6/13           42,334   $14.18     164,522 
+ 
+DESTINATION MATERNITY CORP (DEST) 
+ Masciantonio Ronald  (VP)      2/5/13           16,524   $23.16           0 
+ 
+DUNKIN' BRANDS GROUP INC (DNKN) 
+*Costello John H (O)            2/1/13           35,000   $36.85      22,432 
+ 
+EVERBANK FINANCIAL CORP (EVER) 
+ Wilson Blake W (P)         2/5/13-2/6/13        30,000   $14.26     511,647 
+ 
+FAIR ISAAC CORP (FICO) 
+ Gordon Michael J (VP)          2/6/13            8,188   $45.01       5,632 
+ 
+FIRST AMERICAN FINANCIAL CORP (FAF) 
+ Kennedy Parker Steve (CB)      2/5/13           93,163   $23.76   1,081,481 
+ 
+IMPERVA INC (IMPV) 
+ Shulman Amichai (O)        2/6/13-2/7/13        17,599   $35.00     434,140 
+ 
+IPC THE HOSPITALIST CO (IPCM) 
+ Singer Adam D (CB)             2/5/13            6,500   $42.91     180,012 
+ 
+MICROSOFT CORP (MSFT) 
+ Gates William H III (CB)   2/5/13-2/6/13     7,000,000   $27.50 421,411,775 
+ 
+NETSUITE INC (SH) 
+ Thompson Kevin B (D)           2/5/13            4,801   $62.22       6,661 
+ 
+NEWPORT CORP (NEWP) 
+ Phillippy Robert J (CEO)       2/5/13           52,433   $15.00     221,185 
+ 
+O'REILLY AUTOMOTIVE INC (ORLY) 
+ Mcfall Thomas G (CFO)          2/7/13           12,500  $100.00       4,688 
+ Murphy John Raymond (D)        2/7/13            3,000  $100.00       3,654 
+ Swearengin Michael D (VP)      2/7/13           30,000  $100.00      11,077 
+ 
+PTC INC (PMTC) 
+ Dibona Anthony (VP)            2/6/13           20,000   $23.41      50,216 
+ 
+RANGE RESOURCES CORP (RRC) 
+ Pinkerton John H (CB)          2/6/13           30,000   $70.88   2,073,525 
+ 
+ROBERT HALF INTL INC (RHI) 
+ Messmer Harold M Jr (CB)       2/6/13          200,000   $35.76   1,487,585 
+ 
+SERVICENOW INC (NOW) 
+ Schneider David (VP)           2/5/13           55,000   $29.74       1,500 
+ Slootman Frank (CEO)           2/5/13           25,000   $29.47     137,500 
+ 
+SPLUNK INC (SPLK) 
+ Sullivan Godfrey R (CB)        2/6/13           10,000   $33.87   2,648,140 
+ 
+STANLEY BLACK & DECKER INC (SWK) 
+ Taylor William Scott (O)       2/6/13           19,210   $77.21      26,489 
+ 
+SUPER MICRO COMPUTER INC (SMCI) 
+ Liang Charles (CB)         2/5/13-2/6/13        40,000   $12.54   7,734,182 
+ 
+SVB FINANCIAL GROUP (SIVB) 
+ Becker Gregory W (CEO)         2/5/13            4,008   $67.54      45,737 
+ 
+TESORO CORP (TSO) 
+ Glenewinkel Arlen O (VP)       2/5/13           38,000   $50.00      31,277 
+ 
+UNDER ARMOUR INC (UA) CL A 
+ Plank Kevin A (CB)             2/7/13           94,500   $49.62         200 
+ Plank Kevin A (CB)         2/5/13-2/6/13       198,000   $50.52         200 
+ 
+UNION FIRST MARKET BANKSHARES CORP (UBSH) 
+ Markel Corp (SH)           2/5/13-2/7/13        42,084   $17.72   2,582,397 
+ 
+UNITED TECHNOLOGIES CORP (UTX) 
+ Baranda Riva Pedro S (O)       2/7/13            5,400   $89.20       1,257 
+ 
+UNITED THERAPEUTICS CORP (UTHR) 
+ Mahon Paul A (VP)              2/7/13            6,000   $53.83      33,600 
+ 
+VONAGE HOLDINGS CORP (VG) 
+ Lefar Marc (CEO)           2/5/13-2/6/13       491,066    $2.51      28,708 
+ 
+WALKER & DUNLOP INC (WD) 
+ Credit Suisse AG (SH)          2/6/13           14,000   $21.50   3,912,657 
+ 
+WILLIAMS COMPANIES INC (WMB) 
+ Ewing Robyn L (VP)             3/2/12           15,000   $30.15      99,712 
+ 
+WISCONSIN ENERGY CORP (WEC) 
+ Payne Ulice Jr (D)             2/6/13           10,000   $39.59      31,173 
+ 
+* = Amended Filing 
+____________________________________________________________________________ 
+     KEY TO INSIDERS' TITLES 
+CB   Chairman of the Board      O   Officer 
+P    President                  OS  Officer of Subsidiary 
+CEO  Chief Executive Officer    D   Director 
+CFO  Chief Financial Officer    T   Treasurer 
+COO  Chief Operating Officer    VP  Vice President 
+OD   Officer and Director       SH  Shareholder/Beneficial Owner/Other 
+DO   Divisional Officer 
+____________________________________________________________________________ 
+ 
+Data Provided By The Washington Service (301) 913-5100. 
+ 
+ 
+ 
+
+(END) Dow Jones Newswires
+
+February 08, 2013 08:44 ET (13:44 GMT)
