@@ -4,7 +4,7 @@ learning_rate=0.01
 llama_layers=32
 
 # master_port=00097
-master_port=8080
+master_port=0
 # num_process=8
 num_process=2
 batch_size=16
