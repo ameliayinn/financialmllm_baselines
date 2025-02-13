@@ -6,6 +6,13 @@ __pycache__/
 checkpoints/
 dataset/ticker/data.csv
 dataset/ticker/data_original.csv
+Miniconda3-latest-Linux-x86_64.sh
+log/
+log_no_news/
+metrics/
+metrics_no_news/
+results/
+results_no_news/
 
 # C extensions
 *.so

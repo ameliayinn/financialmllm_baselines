@@ -1,1 +1,0 @@
-seq_len,label_len,pred_len,Epoch,Train Loss,Vali Loss,Test Loss,MAE Loss,SMAPE,MASE
