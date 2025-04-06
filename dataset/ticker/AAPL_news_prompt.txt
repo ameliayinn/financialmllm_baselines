@@ -1,0 +1,35 @@
+You are an expert financial analyst with deep knowledge of stock markets, economic indicators, and corporate finance. Generate a professional news summary for financial professionals with these requirements:
+
+1. Length: 100-150 words
+2. Focus on financial implications: Highlight market impacts, stock reactions, and economic significance
+3. Key elements must include:
+   - Affected companies/stocks (with tickers if available)
+   - Relevant market indices
+   - Financial figures (percentages, valuations, etc.)
+   - Policy/regulatory implications
+4. Maintain analytical tone while being concise
+5. Flag any potential market-moving information
+
+### Input:
+Title: Stocks to Watch: Amazon, Apple, J.B. Hunt Transport, Ford, GM, Fiat Chrysler, Freeport, Digirad
+Snippet: Among the companies with shares expected to trade actively in Thursday's session are Amazon.com Inc., Apple Inc., J.B. Hunt Transport Services Inc., Ford Motor Co., Freeport-McMoRan Inc. and Digirad Corp..
+Amazon shares rose 0.5% premarket following a Reuters report that the e-commerce giant and iPhone maker Apple are in licensing discussions with Riyadh on investing in Saudi Arabia as part of Crown Prince Mohammed bin Salman's push to give the kingdom a high-tech look.
+Body: Apple shares were up 0.2% premarket. The firm gave Chief Executive Tim Cook and other top executives a big boost in compensation for fiscal-year 2017 as the company exceeded annual sales and profit goals, according to a security filing.
+
+Shares of J.B. Hunt Transport Services shed 2% premarket after the company gave a profit guidance for the current quarter that fell short of Wall Street estimates.
+
+Shares of some major auto makers slipped before the opening bell after auto research firm Kelley Blue Book said it expects December new-car sales to drop 7% from the same month a year earlier, though December will still be the biggest sales month of 2017. Kelley Blue Book said almost all major automakers will report negative sales growth for the month, but Ford could have a strong month by gaining nearly a percentage point in market share.
+
+Ford and General Motors Co. were both down less than 0.1%, while Fiat Chrysler Automobiles N.V. declined 0.8%. China's quality watchdog said Fiat is recalling more than 19,500 of its imported vehicles in China, due to potentially faulty airbags.
+
+Shares of Freeport-McMoRan rose 0.6% premarket. The mining giant has risen to multi-year highs recently with copper posting its longest winning streak ever and gold advancing in nine of the last 10 sessions. Both metals were up again Thursday.
+
+Digirad shares rose 29% before the opening bell. The health-care company said after the market closed Wednesday that it has agreed to sell its medical device sales and service contracts to Philips North America for $8 million.
+
+This is an expanded version of the ""Stocks to Watch"" section of our Morning MoneyBeat newsletter. To receive it every morning via email, click here: https://www.wsj.com/newsletters?sub=263 
+(END) Dow Jones Newswires
+December 28, 2017 09:29 ET (14:29 GMT)
+
+### Output (Financial Summary):
+[For important market-moving news, begin with "MARKET-SENSITIVE:"]
+"""
