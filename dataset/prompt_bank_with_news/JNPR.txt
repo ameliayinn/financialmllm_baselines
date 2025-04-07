@@ -1,0 +1,68 @@
+TOKYO, JAPAN--(Marketwired - December 18, 2017) - Juniper Networks (NYSE: JNPR), an industry leader in automated, scalable and secure networks, today announced that TELEHOUSE America, a KDDI group company that provides robust and carrier-neutral data center services in the US, has deployed Juniper Networks to build a multi-tenant infrastructure that bridges its data centers across multiple US locations, while providing high-performing and secure connectivity within and outside its facilities.
+
+One of TELEHOUSE America's mission is to provide strong connectivity and stable network services for its customers. To this end, the company was seeking for a system to provision connectivity promptly, accurately and reliably; and to allow monitoring and management with minimum time and resources. With Juniper Networks(R) QFX5100 line of Switches supporting the multi-tenant architecture that uses EVPN-VXLAN technology, TELEHOUSE America has drastically reduced its operational workload and simplified software configuration using SDN technology.
+
+After an extensive review process, the QFX5100 line was identified as the only product line capable of successfully implementing EVPN-VXLAN technology across TELEHOUSE America's remote data centers.
+
+In addition to supporting the required multi-tenant architecture, Juniper's Virtual Chassis fabric technology and the Junos(R) OS API enabled new levels of automation for TELEHOUSE America, while also significantly reducing total cost of ownership and increasing long-term return on investments.
+
+News Highlights: 
+
+
+   -- TELEHOUSE America picked Juniper's QFX5100 Ethernet Switch as the basis 
+      of a new multi-tenant architecture utilizing EVPN-VXLAN technology across 
+      two locations in New York City. 
+ 
+   -- The company also replaced its conventional three-layered network 
+      architecture with Juniper's Virtual Chassis fabric technology and the 
+      open standards-based Junos OS API to automate many work streams. This has 
+      resulted in being able to execute software configuration in as little as 
+      five minutes. 
+ 
+   -- Featuring versatile integration capabilities, the Junos OS also assures 
+      long-term network scalability, especially as TELEHOUSE America considers 
+      expansion across the US, Europe and the Pacific Rim. 
+
+Supporting Quotes
+
+"We looked to improve our service quality by aggressively employing the latest cutting-edge technology. There were many technologies that looked promising, but standardization takes a long time. Juniper Networks was among the first to adopt advanced open technologies and is working aggressively to achieve standardization. Juniper Networks will support both the proven network OS and advanced open technologies."
+
+- Akio Sugeno , vice president of internet engineering and operations/business development, TELEHOUSE America
+
+"The Junos API is extremely user-friendly. It enables users to create a monitoring tool to reduce operation costs. We chose it as we can flexibly configure the network in accordance with detailed technical requirements. We intend to acquire new knowledge by data-basing management information, and to utilize the information dynamically across functions, such as sales and marketing."
+
+- Gregory Grant, senior manager of operations, TELEHOUSE America
+
+"We pride ourselves on building more than just a network. By offering cutting-edge networking solutions, such as the QFX5100, that are automated, highly-scalable and easy to deploy, we are not only helping our customers increase operational efficiencies, but we are also helping them reduce total cost of ownership while increasing their return on investment. We look forward to an evolving partnership with TELEHOUSE America and will continue to work closely with them to deliver on innovative networking solutions that can future-proof their business and, ultimately, achieve their customers' goals."
+
+- Tomohiro Furuya, country manager, Juniper Networks Japan
+
+Additional Resources: 
+
+
+   -- Follow Juniper Networks  online: Facebook  | Twitter  | LinkedIn  
+ 
+   -- Juniper Blogs and Community: J-Net 
+ 
+   -- Juniper 1on1 app: Keep up with all things Juniper from your smartphone. 
+      Download the app from iTunes and Google Play store today. 
+
+About Juniper Networks
+
+Juniper Networks challenges the status quo with products, solutions and services that transform the economics of networking. Our team co-innovates with customers and partners to deliver automated, scalable and secure networks with agility, performance and value. Additional information can be found at Juniper Networks (www.juniper.net) or connect with Juniper on Twitter and Facebook .
+
+Juniper Networks , the Juniper Networks logo, Juniper and Junos are registered trademarks of Juniper Networks, Inc . and/or its affiliates in the United States and other countries. Other names may be trademarks of their respective owners.
+
+Media Relations:
+
+Kenneth Chew
+
+Juniper Networks
+
++65 6511 3529
+
+kchew@juniper.net
+
+(END) Dow Jones Newswires
+
+December 18, 2017 21:00 ET (02:00 GMT)

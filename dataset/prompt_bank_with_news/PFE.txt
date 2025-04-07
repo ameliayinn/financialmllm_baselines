@@ -1,0 +1,118 @@
+Pfizer Inc . (NYSE: PFE) today announced that detailed results from two pivotal Phase 3 studies of TRUMENBA(R) (Meningococcal Group B Vaccine) were published in the New England Journal of Medicine (NEJM). Data from both studies demonstrated that TRUMENBA, as a three-dose series, elicits a protective immune response against diverse meningococcal group B (MenB) strains representative of prevalent strains causing invasive disease in the United States and Europe. These studies met all five co-primary immunogenicity endpoints against a panel of diverse test strains.
+
+"Pfizer is proud of the completion and publication of these studies, which underscore the ability of TRUMENBA to help protect against the diverse MenB strains that can cause this devastating disease," said Kathrin Jansen, Ph.D., senior vice president and head of Vaccine Research and Development for Pfizer Inc .
+
+Early symptoms of meningococcal disease can be misinterpreted as the flu, often making it difficult to diagnose and delaying treatment; however, it is a serious disease that can lead to death within 24 hours.(1) The most common clinical presentations of meningococcal disease are meningitis and septicemia.(2) Up to one quarter of adolescents may be asymptomatic carriers of Neisseria meningitidis.(3)
+
+"MenB disease is uncommon, yet serious, is unpredictable and can strike at any age, including healthy teenagers and young adults in the prime of their lives, with potentially long-lasting and devastating consequences, including mortality," said Federico Martinon-Torres, MD, Ph.D., head of Pediatrics and director of Translational Pediatrics and Infectious Diseases at Hospital Clínico Universitario de Santiago de Compostela, Spain. "As a physician, I am pleased to see these data which highlight that this vaccine can help protect teenagers and young adults against MenB."
+
+Despite prompt and appropriate antibiotic treatment, 10 to 15% of people with meningococcal disease will die.(1) Of those adolescents who survive, three in five experience significant physical and mental disabilities, such as brain damage, hearing loss, learning disabilities, or limb amputations.(1,2,4)
+
+The Centers for Disease Control and Prevention (CDC) recommends routine use of MenB vaccines among persons aged 10 years and older who are at increased risk. The CDC recommendations also state that healthy adolescents and young adults aged 16 to 23 years may be vaccinated. Recently updated CDC recommendations advise using the three-dose TRUMENBA schedule (0, 1--2, and 6 months) in high-risk individuals, and the two-dose schedule (0 and 6 months) for healthy adolescents and young adults.
+
+These published data are now available for vaccine technical committees and other public health authorities to review as they evaluate recommendations for the use of TRUMENBA in adolescents and young adults.
+
+About the Phase 3 Studies
+
+The two Phase 3 randomized, controlled, multicenter clinical trials, which were previously presented at the 34th Annual Meeting of the European Society for Paediatric Infectious Diseases (ESPID 2016), included nearly 7,000 healthy adolescents and young adults, 10 to 18 years of age and 18 to 25 years of age, respectively, in the U.S., Europe, and Canada. In the studies, TRUMENBA, administered on a three-dose schedule (0, 2, and 6 months), demonstrated immunogenicity against four primary MenB strains representative of strains causing invasive disease.
+
+Immune responses in both studies were assessed by serum bactericidal assays using human complement (hSBA). The primary immunogenicity objectives assessed the immune responses to four primary MenB test strains representative of prevalent MenB strains one month after dose three. The secondary endpoint measured responses to 10 additional diverse, disease--causing MenB test strains.
+
+The proportion of adolescents (n=2571) achieving >=4-fold increases in hSBA titers against each primary strain after dose three was 78.8% to 90.2%; responses in young adults (n=2169) were 78.9% to 89.7%. Composite responses, the proportion of subjects that achieved a prespecified hSBA titer for all four primary strains, were 82.7% in adolescents and 84.5% in young adults after dose three. The responses to the 10 additional strains were comparable to those seen against the four primary strains. The most common solicited adverse reactions in adolescents and young adults were pain at injection site, fatigue, headache, and muscle pain.
+
+About Meningococcal Disease and Immunization
+
+The majority of invasive meningococcal disease cases worldwide can be attributed to six N meningitidis serogroups (A, B, C, W, X, and Y). Together, serogroups A, B, C, W, and Y account for 90% of all invasive meningococcal disease (IMD)(5) , with MenB accounting for the majority of disease in adolescents and young adults in the U.S. and Europe.(6)
+
+TRUMENBA was granted Accelerated Approval in the U.S. in October 2014 for active immunization to prevent invasive disease caused by N meningitidis serogroup B (MenB) in individuals 10 through 25 years of age. These Phase 3 data supported the transition to Traditional Approval in the U.S. for the three-dose schedule and were pivotal for approvals in Europe, Australia, and Canada earlier this year. TRUMENBA can be administered as a two- or three-dose schedule depending on an individual's risk of exposure and susceptibility to MenB.
+
+U.S. Indication for TRUMENBA(R) (Meningococcal Group B Vaccine)
+
+TRUMENBA(R) (Meningococcal Group B Vaccine) is a vaccine indicated for individuals 10 through 25 years of age for active immunization to prevent invasive disease caused by Neisseria meningitidis group B.
+
+The effectiveness of the two-dose schedule of TRUMENBA against diverse N meningitidis serogroup B strains has not been confirmed.
+
+U.S. Important Safety Information
+
+TRUMENBA(R) (Meningococcal Group B Vaccine) should not be given to anyone with a history of a severe allergic reaction after a previous dose of TRUMENBA.
+
+Individuals with weakened immune systems may have a reduced immune response.
+
+As with any vaccine, vaccination with TRUMENBA may not protect all vaccine recipients against N meningitidis group B infections.
+
+The most common adverse reactions in adolescents and young adults were pain at injection site, fatigue, headache, and muscle pain. Nausea was reported in adolescents in early phase studies.
+
+Data are not available on the safety and effectiveness of using TRUMENBA and other meningococcal group B vaccines interchangeably to complete the vaccination series.
+
+Tell your health care provider if you are pregnant, or plan to become pregnant.
+
+Ask your health care provider about the risks and benefits of TRUMENBA. Only a health care provider can decide if TRUMENBA is right for you or your child.
+
+You are encouraged to report negative side effects of vaccines to the U.S. Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC). Visit www.vaers.hhs.gov or call 1-800-822-7967.
+
+For the full prescribing information for TRUMENBA, please visit http://labeling.pfizer.com/ShowLabeling.aspx?id=1796 .
+
+About TRUMENBA(R) (Meningococcal Group B Vaccine)
+
+TRUMENBA(R) (Meningococcal Group B Vaccine) is a sterile suspension composed of two recombinant lipidated factor H binding protein (fHBP) variants from N meningitidis serogroup B, one from fHBP subfamily A and one from subfamily B (A05 and B01, respectively). fHBP is one of many proteins found on the surface of meningococci and contributes to the ability of the bacterium to avoid host defenses. fHBPs can be categorized into two immunologically distinct subfamilies, A and B. The susceptibility of serogroup B meningococci to complement--mediated, antibody--dependent killing following vaccination with TRUMENBA is dependent on both the antigenic similarity of the bacterial and vaccine fHBPs, as well as the amount of fHBP expressed on the surface of the invading meningococci.(7)
+
+As with any vaccine, TRUMENBA may not prevent disease in all vaccinated individuals. The frequency of meningococcal disease caused by serogroup B varies geographically, and could influence the ability to evaluate effectiveness of the vaccine in any given country. Based on the low incidence of meningococcal disease, placebo--controlled clinical trials for TRUMENBA were considered unfeasible due to the size of the study that would be required and were not performed. Licensure of TRUMENBA was based on demonstration of immune responses measured using a serum bactericidal assay with human complement (hSBA).
+
+Pfizer Inc : Working together for a healthier world(TM)
+
+At Pfizer , we apply science and our global resources to bring therapies to people that extend and significantly improve their lives. We strive to set the standard for quality, safety and value in the discovery, development and manufacture of health care products. Our global portfolio includes medicines and vaccines as well as many of the world's best--known consumer health care products. Every day, Pfizer colleagues work across developed and emerging markets to advance wellness, prevention, treatments and cures that challenge the most feared diseases of our time. Consistent with our responsibility as one of the world's premier innovative biopharmaceutical companies, we collaborate with health care providers, governments and local communities to support and expand access to reliable, affordable health care around the world. For more than 150 years, we have worked to make a difference for all who rely on us. We routinely post information that may be important to investors on our website at www.pfizer.com. In addition, to learn more, please visit us on www.pfizer.com and follow us on Twitter at @Pfizer and @Pfizer_News, LinkedIn , YouTube and like us on Facebook at Facebook.com/Pfizer.
+
+13 Dec 2017 17:06 ET 
+Press Release: Phase 3 TRUMENBA(R) (Meningococcal -2-
+
+DISCLOSURE NOTICE: The information contained in this release is as of December 13, 2017. Pfizer assumes no obligation to update forward-looking statements contained in this release as the result of new information or future events or developments.
+
+This release contains forward-looking information about TRUMENBA(R) (Meningococcal Group B Vaccine), including its potential benefits, that involves substantial risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. Risks and uncertainties include, among other things, uncertainties regarding the ability to obtain recommendations from vaccine technical committees and other public health authorities regarding TRUMENBA and uncertainties regarding the commercial impact of any such recommendations; uncertainties regarding the commercial success of TRUMENBA; the uncertainties inherent in research and development, including the ability to meet anticipated clinical trial completion dates and regulatory submission dates, as well as the possibility of unfavorable clinical trial results, including unfavorable new clinical data or additional analyses of existing clinical data; whether and when any biologics license applications may be filed in any additional jurisdictions for TRUMENBA; whether and when any applications that are pending or that may be filed may be approved by regulatory authorities, which will depend on the assessment by such regulatory authorities of the benefit-risk profile suggested by the totality of the immunogenicity and safety information submitted; decisions by regulatory authorities regarding labeling and other matters that could affect the availability or commercial potential of TRUMENBA; and competitive developments.
+
+A further description of risks and uncertainties can be found in Pfizer 's Annual Report on Form 10-K for the fiscal year ended December 31, 2016 and in its subsequent reports on Form 10-Q, including in the sections thereof captioned "Risk Factors" and "Forward-Looking Information and Factors That May Affect Future Results," as well as in its subsequent reports on Form 8-K, all of which are filed with the U.S. Securities and Exchange Commission and available at www.sec.gov and www.pfizer.com.
+
+________________________
+
+(1) Centers for Disease Control and Prevention . Meningococcal vaccines for preteens, teens. https://www.cdc.gov/features/meningococcal/ . Last updated April 24, 2017. Accessed December 2017.
+
+(2) Centers for Disease Control and Prevention . Epidemiology and prevention of vaccine-preventable diseases: meningitis. http://www.cdc.gov/vaccines/pubs/pinkbook/mening.html . Last updated July 24, 2015. Accessed December 2017.
+
+(3) Christensen H, May M, Bowen L, Hickman M, Trotter C. Meningococcal carriage by age: a systematic review and meta-analysis. Lancet Infect Dis. 2010;10(12):853-861.
+
+(4) Borg J, Christie D, Coen PG, Pooy R, Viner RM. Outcomes of meningococcal disease in adolescence: prospective, matched-cohort study. Pediatrics. 2009;123:e502-e509.
+
+(5) Kieny MP, Excier J, Girard M. Research and development of new vaccines against infectious diseases. Am J Public Health. 2004;94(11):1931-1935.
+
+(6) Soeters HM, McNamara LA, Whaley M, Wang X, Alexander-Scott N, Kanadanian, KV, et al. Serogroup B meningococcal disease outbreak and carriage evaluation at a college -- Rhode Island, 2015. MMWR Morb Mortal Wkly Rep. 2015;64(22):606-607.
+
+(7) TRUMENBA (meningococcal group B vaccine) prescribing information. Philadelphia, PA: Pfizer, Inc . 2017.
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20171213006179/en/  
+
+
+ 
+    CONTACT:    Pfizer Inc . 
+
+Media:
+
+Sally Beatty , 347-330-7867
+
+sally.beatty@pfizer.com
+
+or
+
+Investors:
+
+Ryan Crowe , 212-733-8160
+
+ryan.crowe@pfizer.com
+
+13 Dec 2017 17:06 ET *Pfizer : Phase 3 TRUMENBA (Meningococcal Group B Vaccine) Data Demonstrate Vaccine's Immunogenicity
+
+13 Dec 2017 17:06 ET *Pfizer : TRUMENBA, as 3-Dose Series, Elicits Protective Immune Response Against Diverse Meningococcal Group B Strains
+
+13 Dec 2017 17:07 ET *Pfizer : Studies Met All 5 Co-Primary Immunogenicity Endpoints Against Panel of Diverse Test Strains
+
+(MORE TO FOLLOW) Dow Jones Newswires (212-416-2800)
+
+December 13, 2017 17:07 ET (22:07 GMT)

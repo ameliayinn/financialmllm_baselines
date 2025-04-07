@@ -1,0 +1,43 @@
+This article is being republished as part of our daily reproduction of WSJ.com articles that also appeared in the U.S. print edition of The Wall Street Journal (August 25, 2017).
+
+Wells Fargo & Co. and U.S. Bancorp have signed deals with mortgage-software startup Blend Labs Inc. to move more of their loan applications online.
+
+The five-year-old San Francisco company announced its new customers Thursday along with a fresh $100 million fundraising round.
+
+The software from Blend offers the two lenders a chance to compete better against nimble financial-technology offerings such as Rocket Mortgage, the Quicken Loans Inc. product that has attempted to speed up the often-tedious mortgage application process.
+
+Minneapolis-based U.S. Bank says the latest changes eventually could trim four or five days off the process, which takes roughly six weeks on average. The actual time to apply eventually could be sliced in half, says Tom Wind, president of U.S. Bank's mortgage division.
+
+"I've never chosen a startup for a project of this size and scale before, " said Michael DeVito, Wells Fargo's head of mortgage production. The bank, which extended $100 billion in home loans in the first half of the year, started inviting some applicants to try the Blend technology late last year. It is looking to roll out the product nationally in 2018.
+
+Blend, part of a new crop of fintech firms that aim to work with banks rather than compete directly against them, said the fundraising round was led by venture-capital firm Greylock Partners. Greylock's Jerry Chen is joining Blend's board. The $100 million deal will bring the company's valuation to roughly $500 million, according to people familiar with the matter.
+
+Other Blend investors include Andreessen Horowitz, Emergence Capital, Founders Fund, and Conversion Capital LLC.
+
+Blend's software already is used for websites or smartphone applications at about 30 lenders, including Movement Mortgage LLC.
+
+In addition to powering a version of the product that is similar to Rocket Mortgage, Blend can be used by loan officers based in retail branches or call centers. The ability to serve those different groups helped persuade banks that Blend simply wasn't looking to replace their existing sales staff with computers.
+
+The company's software automates the loan-application process by filling in forms electronically through direct connections to information sources.
+
+For example, Blend taps Intuit Inc. to pull figures from tax returns filed through TurboTax, Automatic Data Processing Inc. to verify income via pay stubs, and Plaid Technologies Inc. to find the value of assets in bank and brokerage accounts.
+
+Run by CEO Nima Ghamsari, Blend expects to use the proceeds from its fundraising to expand in other forms of consumer credit and develop technology to make other manual parts of the home-loan process, such as appraisal and closing, more digital.
+
+The latest fundraising would signal to lenders that the company would be able to ride out any market dips, Mr. Ghamsari said.
+
+Wells Fargo executives have mentioned its work with Blend in recent months, without giving details. While Blend has worked closely with banks, the business model for online lenders of taking them on directly has struggled.
+
+Making loans to consumers and small business directly over the internet and getting money managers to bear the risk of defaults captivated investors as recently as 2015. But a series of stumbles helped lead to a wave of layoffs, executive changes and a 75% slump in venture-capital investment in the sector.
+
+"There's definite skepticism around whether or not these things will be legacies or whether they'll be fads," Mr. Ghamsari said of Silicon Valley's online lenders. He said their ascent helped raise awareness among traditional financial institutions, which had spent the preceding years wholly focused on regulatory compliance, not innovation.
+
+Other companies in online lending also have branched out to building software for banks. Last year, On Deck Capital Inc. started making small-business loans to customers of J.P. Morgan Chase & Co. via the bank's website.
+
+"Success in the [online] lending industry in the U.S. is likely to come from partnering with the incumbents to become services enablers for them, " Morgan Stanley analysts wrote in a recent report, "as opposed to outright competing with them as independent pure play providers."
+
+Write to Peter Rudegeair at Peter.Rudegeair@wsj.com
+
+(END) Dow Jones Newswires
+
+August 25, 2017 02:32 ET (06:32 GMT)

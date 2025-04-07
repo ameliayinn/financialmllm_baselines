@@ -1,0 +1,78 @@
+
+BEIJING--(BUSINESS WIRE)--December 14, 2017-- 
+
+Walmart (NYSE: WMT), JD.com (NASDAQ: JD), IBM (NASDAQ: JD), (NYSE: IBM) , and Tsinghua University National Engineering Laboratory for E-Commerce Technologies announced today they will work together in a Blockchain Food Safety Alliance that will kick off with a collaboration designed to enhance food tracking, traceability and safety in China, to achieve greater transparency across the food supply chain.
+
+The four companies will work together to create a standards-based method of collecting data about the origin, safety and authenticity of food, using blockchain technology to provide real-time traceability throughout the supply chain. This will encourage accountability and give suppliers, regulators and consumers greater insight and transparency into how food is handled, from the farm to consumers. This has traditionally been challenging due to complex and fragmented data sharing systems that are often paper-based and can be error-prone.
+
+Walmart , JD, IBM and Tsinghua University will work with food supply chain providers and regulators to develop the standards, solutions and partnerships to enable a broad-based food safety ecosystem in China. IBM will provide its IBM Blockchain Platform and expertise, while Tsinghua University will act as a technical advisor sharing its expertise in the key technologies and the China food safety ecosystem. IBM and Tsinghua will collaborate with Walmart and JD to develop, optimize and roll out the technology to suppliers and retailers that join the alliance.
+
+As a world leader in global food safety, Walmart works closely with suppliers, regulators, industry partners and the research community around the world. In China, it invests heavily in food safety research through the Walmart Food Safety and Collaboration Center and has promoted food safety, both through its own supplier network, as well as working with JD, which has rich omni-channel food supply chain management experience. The two have been able to leverage JD's expertise in the application of artificial intelligence (AI), blockchain, big data and other new technologies to protect consumers.
+
+Following IBM and Walmart 's announcement in August of a new consortium to enhance food safety, this collaboration brings IBM 's blockchain food safety expertise to China. IBM , Walmart and Tsinghua University have piloted the use of blockchain to trace food items, including pork in China and mangoes in the U.S., as they move through the supply chain to store shelves. Recent testing by Walmart showed that applying blockchain reduced the time it took to trace a package of mangoes from the farm to the store from days or weeks to two seconds.
+
+"As a global advocate for enhanced food safety, Walmart looks forward to deepening our work with IBM , Tsinghua University , JD and others throughout the food supply chain. Through collaboration, standardization, and adoption of new and innovative technologies, we can effectively improve traceability and transparency and help ensure the global food system remains safe for all," said Frank Yiannas, vice president, food safety and health at Walmart .
+
+"Partnering with IBM , Tsinghua University and Walmart , all global leaders in traceability, gives our customers and partner brands unparalleled accountability," said Yongli Yu, President of JD Y, JD.com 's supply chain research unit. "Throughout the world, and particularly in China, consumers increasingly want to know how their food is sourced, and JD is dedicated to using technology to promote complete transparency."
+
+"Blockchain holds incredible promise in delivering the transparency that is needed to help promote food safety across the whole supply chain. This is a fundamental reason why IBM believes so strongly in the impact this technology will have on business models," said Bridget van Kralingen , senior vice president, IBM Industry Platforms. "By expanding our food safety work with Walmart and Tsinghua University in China and adding new collaborators like JD.com , the technology brings traceability and transparency to a broader network of food supply chain participants."
+
+"Tsinghua University is committed to in-depth research into food safety --one of the most important areas for improving quality of life in China and also around the world. We have already been working with IBM and Walmart to create a new model for food traceability, using blockchain to support supply chain transparency and auditability, and we see this new cooperation as an important next step in this endeavour," said Professor Yueting Chai from the National Engineering Laboratory for E-Commerce Technologies, Tsinghua University .
+
+The collaboration is designed to help ensure brand owners' data privacy while helping them integrate their online and offline traceability for food safety and quality management channels. Companies that join the alliance will be able to share information using blockchain technology, and plans include them being able to choose the standards-based traceability solution that best suits their needs and legacy systems. This will in turn bring greater transparency to the supply chain and introduce new technologies to the retail sector designed to create a safer food environment and enhance the consumer experience.
+
+The insights gained from the work in China will shed light on how blockchain technology can help improve processes such as recalls and verifications and enhance consumer confidence due to greater transparency in China and around the world.
+
+About IBM
+
+IBM is the leader in open-source blockchain solutions built for the enterprise. As an early member of Hyperledger, an open source collaborative effort created to advance cross-industry blockchain technologies, IBM is dedicated to supporting the development of openly-governed blockchains. IBM has worked with hundreds of clients across financial services, supply chains, IoT, risk management, digital rights management and healthcare to implement blockchain applications. For more information about IBM Blockchain, visit https://www.ibm.com/blockchain/  has worked with hundreds of clients across financial services, supply chains, IoT, risk management, digital rights management and healthcare to implement blockchain applications. For more information about IBM Blockchain, visit
+
+About JD.com, Inc .
+
+JD.com is both the largest e-commerce company in China and the country's largest retailer by revenue. The company strives to offer consumers the best online shopping experience. Through its user-friendly website, native mobile apps, and WeChat and Mobile QQ entry points, JD offers consumers a superior shopping experience. The company has the largest fulfillment infrastructure of any e-commerce company in China. As of June 30, 2017, JD.com operated 7 fulfillment centers and 335 warehouses covering 2,691 counties and districts across China, staffed by its own employees. JD.com is a member of the NASDAQ100 and a Fortune Global 500 company.
+
+About Walmart
+
+Wal-Mart Stores, Inc . (NYSE: WMT) helps people around the world save money and live better - anytime and anywhere - in retail stores, online, and through their mobile devices. Each week, over 260 million customers and members visit our more than 11,600 stores under 59 banners in 28 countries and e-commerce websites in 11 countries. With fiscal year 2017 revenue of $485.9 billion, Walmart employs approximately 2.3 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy and employment opportunity. Additional information about Walmart can be found by visiting http://corporate.walmart.com  on Facebook at http://facebook.com/walmart  and on Twitter at http://twitter.com/walmart .
+
+About Tsinghua University
+
+As one of China's most renowned universities, Tsinghua is dedicated to the well-being of Chinese society and to world development. Located in Tsinghua University , National Engineering for Laboratory E-commerce Technologies (NELECT) is China's first national research institute in e-Commerce field approved by the NDRC (The National Development and Reform Commission ). The laboratory is dedicated to the research and development of next generation e-Commerce technologies including trusted transaction technologies, blockchain, electronic invoice technologies, intelligent supply chain, etc.
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20171213006244/en/ 
+
+
+ 
+    CONTACT:    Walmart 
+
+Rebecca Lui, 1-800-331-0085
+
+rlui@walmart.com
+
+news.walmart.com/reporter
+
+or
+
+IBM
+
+Hannah Slocum
+
+hslocum@us.ibm.com
+
+or
+
+JD.com
+
+Josh Gartner
+
+Press@jd.com
+
+14 Dec 2017 00:02 ET *Walmart , JD.com , IBM  and Tsinghua University  Launch a Blockchain Food Safety Alliance in China
+
+14 Dec 2017 00:03 ET *Walmart , JD, IBM , Tsinghua Univ to Create a Standards-Based Method of Collecting Data About the Origin, Safety and Authenticity of Food >WMT
+
+14 Dec 2017 00:03 ET *IBM  and Tsinghua Will Collaborate With Walmart  and JD to Develop, Optimize and Roll out the Technology to Suppliers and Retailers That Join the Alliance >WMT
+
+(END) Dow Jones Newswires (212-416-2800)
+
+December 14, 2017 00:03 ET (05:03 GMT)

@@ -1,0 +1,86 @@
+Baker Hughes, a GE company (NYSE: BHGE) ("BHGE"), announced today the consideration to be paid in the previously announced cash tender offers (the "Any and All Tender Offers") by its subsidiary, Baker Hughes, a GE company , LLC ("BHGE LLC") to purchase any and all of the following outstanding debt securities issued by BHGE LLC or its subsidiaries: 
+
+
+   -- 6.000% Senior Notes due 2018 (the "6.000% 2018 Notes"); and 
+ 
+   -- 7.500% Senior Notes due 2018 (the "7.500% 2018 Notes" and, together with 
+      the 6.000% 2018 Notes, the "Securities") 
+
+The Any and All Tender Offers will expire at 5:00 p.m., New York City time, today, December 8, 2017, unless extended (the "Any and All Tender Expiration Date").
+
+The applicable reference yield, repurchase yield and total consideration for the Securities are detailed in the table below: 
+
+
+ 
+                                                                                         Total 
+                                                                                     Consideration 
+                                        Reference                                     (per $1,000 
+                           Principal       U.S.     Bloomberg                          principal 
+Title of      CUSIP          Amount      Treasury   Reference   Fixed   Repurchase     amount of 
+ Security      Number      Outstanding   Security      Page     Spread     Yield      Securities) 
+---------     -------     ------------  ----------  ----------  ------  -----------  -------------- 
+   6.000% 
+   Senior                                  0.875% UST 
+  Notes due                                   due                   +40 
+   2018(1)       055482 AJ2  $196,873,000  05/31/2018     FIT3      bps      1.852%       $1,019.40 
+ 
+   7.500% 
+   Senior                                  1.250% UST 
+  Notes due                                   due                   +50 
+   2018(2)       057224 AY3  $525,378,000  11/15/2018     FIT4      bps      2.188%       $1,048.50 
+________________ 
+ 
+
+(1) The 6.000% 2018 Notes were issued by BJ Services Company and subsequently assumed by its successor Western Atlas Inc., a subsidiary of BHGE LLC. On July 3, 2017, BHGE LLC, Baker Hughes Co-Obligor, Inc. (the "Co-Obligor"), Baker Hughes Oilfield Operations, LLC and Baker Hughes International Branches, LLC became co-obligors of the 6.000% 2018 Notes.
+
+(2) The 7.500% 2018 Notes were issued by Baker Hughes Incorporated ("BHI"). On July 3, 2017, BHGE LLC, as successor to BHI, and the Co-Obligor became co-obligors of the 7.500% 2018 Notes.
+
+Upon consummation of the Any and All Tender Offers, BHGE LLC will pay the applicable total consideration for each $1,000 principal amount of Securities of each series validly tendered and accepted for payment, plus accrued and unpaid interest from and including the last interest payment date applicable to the relevant series of Securities up to, but not including, the settlement date for such Securities accepted for purchase ("accrued interest"). The settlement date for the Any and All Tender Offers is expected to be December 11, 2017, the first business day after the Any and All Tender Expiration Date. The applicable total consideration was calculated in the manner described in the Offer to Purchase, dated December 4, 2017 (the "Offer to Purchase"), by reference to the applicable fixed spread for such Security specified in the table above plus the applicable yield to maturity based on the bid-side price of the applicable U.S. Treasury Security specified in the table above at 11:00 a.m., New York City time, on December 8, 2017.
+
+To receive such consideration, holders of Securities must validly tender and not validly withdraw their Securities or timely comply with the guaranteed delivery procedures set forth in the Offer to Purchase prior to or at the Any and All Tender Expiration Date. Securities tendered may be withdrawn at any time prior to or at 5:00 p.m., New York City time, on December 8, 2017, unless such date and time is extended by BHGE LLC, but not thereafter, by following the procedures described in the Offer to Purchase. Holders of Securities are urged to read the Offer to Purchase carefully before making any decision with respect to the Any and All Tender Offers.
+
+The obligation of BHGE LLC to accept for purchase and to pay the applicable total consideration and the accrued interest on Securities purchased pursuant to the Any and All Tender Offers is not subject to any minimum tender condition, but is subject to satisfaction or waiver of certain other conditions described in the Offer to Purchase. These conditions include BHGE LLC having closed, on terms and conditions satisfactory to BHGE LLC, one or more offerings of senior notes resulting in net proceeds to BHGE LLC in an amount not less than the amount required, upon the terms and subject to the conditions of the applicable tender offer, to purchase (A) all the Securities validly tendered and accepted for purchase in the Any and All Tender Offers and (B) up to $175 million in aggregate purchase price of the 8.550% Debentures due 2024 and 6.875% Notes due 2029 validly tendered and accepted for purchase in the previously announced maximum tender offers by BHGE LLC, and to pay accrued interest thereon and fees and expenses associated therewith. BHGE LLC also reserves the right, subject to applicable law, to: (i) waive any and all conditions to the Any and All Tender Offers; (ii) extend or terminate any of the Any and All Tender Offers; or (iii) otherwise amend any of the Any and All Tender Offers in any respect.
+
+BHGE LLC has retained Morgan Stanley & Co. LLC and Barclays Capital Inc . to serve as dealer managers for the Any and All Tender Offers. D.F. King & Co., Inc . has been retained to serve as the information agent and the depositary for the Any and All Tender Offers.
+
+Questions regarding the Any and All Tender Offers may be directed to: Morgan Stanley & Co. LLC at (800) 624-1808 (toll free) or (212) 761-1057 or Barclays Capital Inc . at (800) 438-3242 (toll free) or (212) 528-7581. The Offer to Purchase and, in connection with the Any and All Notes, the notice of guaranteed delivery may be accessed at the following link: http://www.dfking.com/bhge  or obtained from D.F. King & Co., Inc ., free of charge, by calling toll-free at (866) 796-7179 (bankers and brokers can call collect at 212-269-5550) or by e-mail at bhge@dfking.com.
+
+This news release shall not be construed as an offer to purchase or sell or a solicitation of an offer to purchase or sell any of the Securities or any other securities. BHGE LLC, subject to applicable law, may amend, extend or terminate the Any and All Tender Offers and may postpone the acceptance for purchase of, and payment for, the Securities so tendered. The Any and All Tender Offers are not being made in any jurisdiction in which the making or acceptance thereof would not be in compliance with the securities, blue sky or other laws of such jurisdiction. None of BHGE, BHGE LLC, the dealer managers, the information agent or the depositary makes any recommendations as to whether holders of the Securities should tender their Securities pursuant to the Any and All Tender Offers.
+
+Forward-Looking Statements
+
+This news release may contain forward-looking statements (each a "forward-looking statement"). The words "anticipate," "believe," "ensure, " "expect," "if," "intend," "estimate," "project," "foresee," "forecasts, " "predict," "outlook," "aim," "will," "could," "should," "potential," "would," "may," "probable," "likely," and similar expressions, and the negative thereof, are intended to identify forward-looking statements. There are many risks and uncertainties that could cause actual results to differ materially from our forward-looking statements. These forward-looking statements are also affected by the risk factors described in BHGE's Registration Statement on Form S-4 (File No. 333-216991), filed by BHGE with the Securities and Exchange Commission ("SEC") and declared effective on May 30, 2017; BHGE's subsequent quarterly reports on Form 10-Q for the quarterly periods ended June 30, 2017 and September 30, 2017; BHGE LLC's quarterly report on Form 10-Q for the quarterly period ended September 30, 2017; and those set forth from time to time in other filings with the SEC by BHGE and BHGE LLC. The documents are available through BHGE's website or through the SEC 's Electronic Data Gathering and Analysis Retrieval ("EDGAR") system at: www.sec.gov. We undertake no obligation to publicly update or revise any forward-looking statement.
+
+About Baker Hughes, a GE company
+
+Baker Hughes, a GE company (NYSE: BHGE) is a fullstream provider of integrated oilfield products, services and digital solutions. We deploy minds and machines to enhance customer productivity, safety and environmental stewardship, while minimizing costs and risks at every step of the energy value chain. With operations in over 120 countries, we infuse over a century of experience with the spirit of a startup - inventing smarter ways to bring energy to the world.
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20171208005645/en/  
+
+
+ 
+    CONTACT:    Baker Hughes, a GE company  
+
+Investors:
+
+Philipp Mueller , +1 281-809-9088
+
+investor.relations@bhge.com
+
+or
+
+Media:
+
+Stephanie Cathcart, +1 202-549-6462
+
+stephanie.cathcart@bhge.com
+
+or
+
+Melanie Kania, +1 713-439-8303
+
+melanie.kania@bhge.com
+
+(END) Dow Jones Newswires
+
+December 08, 2017 15:15 ET (20:15 GMT)
